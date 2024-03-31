@@ -1,0 +1,7 @@
+00:00:11.154{"Messages":[{"Utc":"2023-10-20T17:15:11","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:00:49.575{"Messages":{"1":{"Utc":"2023-10-20T17:15:50","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:13:27.343{"Messages":{"2":{"Utc":"2023-10-20T17:28:27","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 20"}}}
+00:13:29.655{"Messages":{"3":{"Utc":"2023-10-20T17:28:30","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+00:15:00.435{"Messages":{"4":{"Utc":"2023-10-20T17:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.480{"Messages":{"5":{"Utc":"2023-10-20T18:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:35.183{"Messages":{"6":{"Utc":"2023-10-20T18:30:35","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 20 (MAG)"}}}

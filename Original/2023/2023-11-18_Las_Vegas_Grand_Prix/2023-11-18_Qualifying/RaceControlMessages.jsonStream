@@ -1,0 +1,31 @@
+00:00:18.125{"Messages":[{"Utc":"2023-11-18T07:45:19","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 30%"}]}
+00:14:59.281{"Messages":{"1":{"Utc":"2023-11-18T08:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:16:17.358{"Messages":{"2":{"Utc":"2023-11-18T08:01:18","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 4"}}}
+00:16:20.670{"Messages":{"3":{"Utc":"2023-11-18T08:01:22","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:24:54.021{"Messages":{"4":{"Utc":"2023-11-18T08:09:55","Category":"Other","Message":"CAR 22 (TSU) TIME 1:36.976 DELETED - TRACK LIMITS AT TURN 8 LAP 6 0:08:49"}}}
+00:26:13.441{"Messages":{"5":{"Utc":"2023-11-18T08:11:14","Category":"Other","Message":"CAR 63 (RUS) TIME 1:46.859 DELETED - TRACK LIMITS AT TURN 8 LAP 4 0:09:47"}}}
+00:29:17.172{"Messages":{"6":{"Utc":"2023-11-18T08:14:18","Category":"Other","Message":"CAR 4 (NOR) TIME 1:52.414 DELETED - TRACK LIMITS AT TURN 8 LAP 8 0:12:47"}}}
+00:29:56.140{"Messages":{"7":{"Utc":"2023-11-18T08:14:57","Category":"Other","Message":"CAR 44 (HAM) TIME 2:00.864 DELETED - TRACK LIMITS AT TURN 8 LAP 6 0:13:15"}}}
+00:31:52.904{"Messages":{"8":{"Utc":"2023-11-18T08:16:54","Category":"Other","Message":"CAR 63 (RUS) TIME 1:59.869 DELETED - TRACK LIMITS AT TURN 8 LAP 7 0:15:37"}}}
+00:32:33.840{"Messages":{"9":{"Utc":"2023-11-18T08:17:35","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:32:36.043{"Messages":{"10":{"Utc":"2023-11-18T08:17:37","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:32:47.059{"Messages":{"11":{"Utc":"2023-11-18T08:17:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:32:47.106{"Messages":{"12":{"Utc":"2023-11-18T08:17:48","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:32:51.684{"Messages":{"13":{"Utc":"2023-11-18T08:17:53","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 5"}}}
+00:32:59.371{"Messages":{"14":{"Utc":"2023-11-18T08:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:13.855{"Messages":{"15":{"Utc":"2023-11-18T08:18:15","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 44 (HAM)"}}}
+00:34:31.573{"Messages":{"16":{"Utc":"2023-11-18T08:19:33","Category":"Other","Message":"CAR 77 (BOT) LAP DELETED - TRACK LIMITS AT TURN 8 LAP 10 0:17:58"}}}
+00:35:15.775{"Messages":{"17":{"Utc":"2023-11-18T08:20:17","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 44 (HAM), 63 (RUS), 23 (ALB), 24 (ZHO), 10 (GAS), 77 (BOT) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+00:38:32.693{"Messages":{"18":{"Utc":"2023-11-18T08:23:34","Category":"Other","Message":"TURN 5 INCIDENT INVOLVING CAR 18 (STR) NOTED - FAILING TO SLOW UNDER YELLOW FLAGS"}}}
+00:38:59.099{"Messages":{"19":{"Utc":"2023-11-18T08:24:00","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 44 (HAM), 63 (RUS), 23 (ALB), 24 (ZHO), 10 (GAS), 77 (BOT) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+00:39:08.646{"Messages":{"20":{"Utc":"2023-11-18T08:24:10","Category":"Other","Message":"FIA STEWARDS: TURN 5 INCIDENT INVOLVING CAR 18 (STR) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO SLOW UNDER YELLOW FLAGS"}}}
+00:39:59.301{"Messages":{"21":{"Utc":"2023-11-18T08:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:44:14.609{"Messages":{"22":{"Utc":"2023-11-18T08:29:16","Category":"Other","Message":"CAR 27 (HUL) LAP DELETED - TRACK LIMITS AT TURN 8 LAP 13 0:27:45 (PIT)"}}}
+00:54:59.285{"Messages":{"23":{"Utc":"2023-11-18T08:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:05.504{"Messages":{"24":{"Utc":"2023-11-18T08:40:07","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 2 (SAR)"}}}
+00:58:24.735{"Messages":{"25":{"Utc":"2023-11-18T08:43:26","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+00:58:27.516{"Messages":{"26":{"Utc":"2023-11-18T08:43:29","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":19,"Message":"DOUBLE YELLOW IN TRACK SECTOR 19"}}}
+00:58:42.828{"Messages":{"27":{"Utc":"2023-11-18T08:43:44","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+01:02:59.370{"Messages":{"28":{"Utc":"2023-11-18T08:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:59.342{"Messages":{"29":{"Utc":"2023-11-18T09:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:34.263{"Messages":{"30":{"Utc":"2023-11-18T09:00:35","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 14 (ALO)"}}}

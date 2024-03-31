@@ -1,0 +1,11 @@
+00:00:10.395{"Messages":[{"Utc":"2023-11-17T04:15:10","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0 %"}]}
+00:01:11.675{"Messages":{"1":{"Utc":"2023-11-17T04:16:11","Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+00:02:51.486{"Messages":{"2":{"Utc":"2023-11-17T04:17:51","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:05:16.890{"Messages":{"3":{"Utc":"2023-11-17T04:20:17","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.489{"Messages":{"4":{"Utc":"2023-11-17T04:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:22:25.262{"Messages":{"5":{"Utc":"2023-11-17T04:37:25","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+00:22:26.418{"Messages":{"6":{"Utc":"2023-11-17T04:37:26","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:22:53.168{"Messages":{"7":{"Utc":"2023-11-17T04:37:53","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":17,"Message":"DOUBLE YELLOW IN TRACK SECTOR 17"}}}
+00:23:34.839{"Messages":{"8":{"Utc":"2023-11-17T04:38:35","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:23:34.901{"Messages":{"9":{"Utc":"2023-11-17T04:38:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:34:44.843{"Messages":{"10":{"Utc":"2023-11-17T04:49:45","Category":"Other","Message":"SESSION WILL NOT BE RESUMED"}}}

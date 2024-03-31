@@ -1,0 +1,42 @@
+00:00:26.547{"Messages":[{"Utc":"2023-03-18T16:45:27","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:01:17.890{"Messages":{"1":{"Utc":"2023-03-18T16:46:18","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:03:21.623{"Messages":{"2":{"Utc":"2023-03-18T16:48:22","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:12:03.289{"Messages":{"3":{"Utc":"2023-03-18T16:57:03","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+00:12:25.367{"Messages":{"4":{"Utc":"2023-03-18T16:57:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:15:00.177{"Messages":{"5":{"Utc":"2023-03-18T17:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:17:47.269{"Messages":{"6":{"Utc":"2023-03-18T17:02:47","Category":"CarEvent","RacingNumber":"21","Message":"CAR 21 (DEV) SPUN AND CONTINUED AT TURN 1"}}}
+00:20:02.346{"Messages":{"7":{"Utc":"2023-03-18T17:05:02","Category":"Other","Message":"CAR 2 (SAR) TIME 1:29.721 DELETED - TRACK LIMITS AT TURN 27 LAP 3 20:03:27"}}}
+00:25:00.592{"Messages":{"8":{"Utc":"2023-03-18T17:10:00","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) SPUN AND CONTINUED AT TURN 2"}}}
+00:28:38.980{"Messages":{"9":{"Utc":"2023-03-18T17:13:38","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+00:28:53.246{"Messages":{"10":{"Utc":"2023-03-18T17:13:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:28:54.293{"Messages":{"11":{"Utc":"2023-03-18T17:13:54","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:29:05.136{"Messages":{"12":{"Utc":"2023-03-18T17:14:05","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:29:05.168{"Messages":{"13":{"Utc":"2023-03-18T17:14:05","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:29:08.605{"Messages":{"14":{"Utc":"2023-03-18T17:14:08","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:30:12.136{"Messages":{"15":{"Utc":"2023-03-18T17:15:12","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) SPUN AND CONTINUED AT TURN 23"}}}
+00:30:43.713{"Messages":{"16":{"Utc":"2023-03-18T17:15:43","Category":"Other","Message":"CAR 31 (OCO) TIME 1:45.294 DELETED - DOUBLE YELLOW AT TURN 23"}}}
+00:30:48.151{"Messages":{"17":{"Utc":"2023-03-18T17:15:48","Category":"Other","Message":"CAR 10 (GAS) TIME 1:49.001 DELETED - DOUBLE YELLOW AT TURN 23"}}}
+00:30:58.057{"Messages":{"18":{"Utc":"2023-03-18T17:15:57","Category":"Other","Message":"CAR 16 (LEC) TIME 2:12.848 DELETED - DOUBLE YELLOW AT TURN 23"}}}
+00:31:29.150{"Messages":{"19":{"Utc":"2023-03-18T17:16:29","Category":"Other","Message":"CAR 27 (HUL) TIME 1:40.050 DELETED - DOUBLE YELLOW AT TURN 23"}}}
+00:31:50.588{"Messages":{"20":{"Utc":"2023-03-18T17:16:50","Category":"Other","Message":"CAR 55 (SAI) TIME 1:49.972 DELETED - DOUBLE YELLOW AT TURN 23"}}}
+00:33:00.149{"Messages":{"21":{"Utc":"2023-03-18T17:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:12.696{"Messages":{"22":{"Utc":"2023-03-18T17:18:12","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 14 (ALO)"}}}
+00:34:42.429{"Messages":{"23":{"Utc":"2023-03-18T17:19:42","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:36:18.538{"Messages":{"24":{"Utc":"2023-03-18T17:21:18","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:40:00.238{"Messages":{"25":{"Utc":"2023-03-18T17:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:46:26.390{"Messages":{"26":{"Utc":"2023-03-18T17:31:26","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:46:29.124{"Messages":{"27":{"Utc":"2023-03-18T17:31:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:47:31.499{"Messages":{"28":{"Utc":"2023-03-18T17:32:31","Category":"Other","Message":"CAR 27 (HUL) TIME 1:29.468 DELETED - TRACK LIMITS AT TURN 27 LAP 14 20:30:16"}}}
+00:55:00.165{"Messages":{"29":{"Utc":"2023-03-18T17:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:13.806{"Messages":{"30":{"Utc":"2023-03-18T17:40:13","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 24 (ZHO)"}}}
+00:59:49.849{"Messages":{"31":{"Utc":"2023-03-18T17:44:49","Category":"Other","Message":"CAR 20 (MAG) TIME 1:29.517 DELETED - TRACK LIMITS AT TURN 27 LAP 17 20:40:48"}}}
+01:03:00.175{"Messages":{"32":{"Utc":"2023-03-18T17:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.198{"Messages":{"33":{"Utc":"2023-03-18T18:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:06.776{"Messages":{"34":{"Utc":"2023-03-18T18:00:06","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 81 (PIA)"}}}
+01:17:49.009{"Messages":{"35":{"Utc":"2023-03-18T18:02:48","Category":"Other","Message":"CAR 44 (HAM) TIME 1:29.248 DELETED - TRACK LIMITS AT TURN 27 LAP 21 21:00:36"}}}
+01:19:42.804{"Messages":{"36":{"Utc":"2023-03-18T18:04:42","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+01:20:31.601{"Messages":{"37":{"Utc":"2023-03-18T18:05:31","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:20:32.741{"Messages":{"38":{"Utc":"2023-03-18T18:05:32","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:21:03.882{"Messages":{"39":{"Utc":"2023-03-18T18:06:03","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:24:09.176{"Messages":{"40":{"Utc":"2023-03-18T18:09:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:24:37.332{"Messages":{"41":{"Utc":"2023-03-18T18:09:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}

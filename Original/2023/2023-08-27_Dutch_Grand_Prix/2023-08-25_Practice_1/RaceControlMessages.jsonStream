@@ -1,0 +1,24 @@
+00:00:10.552{"Messages":[{"Utc":"2023-08-25T10:15:10","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 30%"}]}
+00:03:38.736{"Messages":{"1":{"Utc":"2023-08-25T10:18:39","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.333{"Messages":{"2":{"Utc":"2023-08-25T10:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:41:02.290{"Messages":{"3":{"Utc":"2023-08-25T10:56:02","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 12"}}}
+00:56:34.367{"Messages":{"4":{"Utc":"2023-08-25T11:11:34","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+00:56:35.367{"Messages":{"5":{"Utc":"2023-08-25T11:11:35","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:56:54.538{"Messages":{"6":{"Utc":"2023-08-25T11:11:54","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:56:54.601{"Messages":{"7":{"Utc":"2023-08-25T11:11:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:02:55.188{"Messages":{"8":{"Utc":"2023-08-25T11:17:55","Category":"Other","Message":"SESSION WILL RESUME AT 13:19"}}}
+01:03:11.203{"Messages":{"9":{"Utc":"2023-08-25T11:18:11","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:03:13.594{"Messages":{"10":{"Utc":"2023-08-25T11:18:14","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:04:00.265{"Messages":{"11":{"Utc":"2023-08-25T11:19:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.253{"Messages":{"12":{"Utc":"2023-08-25T11:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:21.831{"Messages":{"13":{"Utc":"2023-08-25T11:30:22","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 11 (PER)"}}}
+01:16:08.611{"Messages":{"14":{"Utc":"2023-08-25T11:31:09","Category":"CarEvent","RacingNumber":"1","Message":"CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 11"}}}
+01:16:26.673{"Messages":{"15":{"Utc":"2023-08-25T11:31:27","Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:16:45.610{"Messages":{"16":{"Utc":"2023-08-25T11:31:45","Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+01:16:55.126{"Messages":{"17":{"Utc":"2023-08-25T11:31:55","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:17:34.969{"Messages":{"18":{"Utc":"2023-08-25T11:32:35","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:17:47.781{"Messages":{"19":{"Utc":"2023-08-25T11:32:48","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:17:50.906{"Messages":{"20":{"Utc":"2023-08-25T11:32:51","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:23:14.806{"Messages":{"21":{"Utc":"2023-08-25T11:38:15","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+01:23:20.056{"Messages":{"22":{"Utc":"2023-08-25T11:38:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+01:35:11.653{"Messages":{"23":{"Utc":"2023-08-25T11:50:12","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 30%"}}}

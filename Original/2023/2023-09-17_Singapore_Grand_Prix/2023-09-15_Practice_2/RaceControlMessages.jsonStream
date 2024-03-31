@@ -1,0 +1,13 @@
+00:00:11.797{"Messages":[{"Utc":"2023-09-15T12:45:13","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}]}
+00:09:12.021{"Messages":{"1":{"Utc":"2023-09-15T12:54:13","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:14:59.093{"Messages":{"2":{"Utc":"2023-09-15T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:44:37.750{"Messages":{"3":{"Utc":"2023-09-15T13:29:39","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 19"}}}
+01:14:59.124{"Messages":{"4":{"Utc":"2023-09-15T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:16.233{"Messages":{"5":{"Utc":"2023-09-15T14:00:17","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 81 (PIA)"}}}
+01:23:44.864{"Messages":{"6":{"Utc":"2023-09-15T14:08:46","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+01:24:21.567{"Messages":{"7":{"Utc":"2023-09-15T14:09:23","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:24:26.582{"Messages":{"8":{"Utc":"2023-09-15T14:09:28","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+01:24:30.317{"Messages":{"9":{"Utc":"2023-09-15T14:09:32","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+01:24:31.395{"Messages":{"10":{"Utc":"2023-09-15T14:09:33","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:24:37.754{"Messages":{"11":{"Utc":"2023-09-15T14:09:39","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:24:37.832{"Messages":{"12":{"Utc":"2023-09-15T14:09:39","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}

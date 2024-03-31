@@ -1,0 +1,41 @@
+00:00:05.968{"Messages":[{"Utc":"2023-07-01T09:45:25","Category":"Other","Message":"WET TRACK"}]}
+00:00:42.093{"Messages":{"1":{"Utc":"2023-07-01T09:46:01","Category":"Other","Message":"RISK OF RAIN FOR F1 SPRINT SHOOTOUT IS 40%"}}}
+00:07:51.416{"Messages":{"2":{"Utc":"2023-07-01T09:53:11","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:14:41.052{"Messages":{"3":{"Utc":"2023-07-01T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:17:31.754{"Messages":{"4":{"Utc":"2023-07-01T10:02:51","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:17:32.206{"Messages":{"5":{"Utc":"2023-07-01T10:02:51","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+00:17:33.285{"Messages":{"6":{"Utc":"2023-07-01T10:02:52","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:17:42.456{"Messages":{"7":{"Utc":"2023-07-01T10:03:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:17:42.503{"Messages":{"8":{"Utc":"2023-07-01T10:03:02","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:17:44.394{"Messages":{"9":{"Utc":"2023-07-01T10:03:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:17:58.269{"Messages":{"10":{"Utc":"2023-07-01T10:03:17","Category":"CarEvent","RacingNumber":"24","Message":"CAR 24 (ZHO) SPUN AND CONTINUED AT TURN 10"}}}
+00:19:11.034{"Messages":{"11":{"Utc":"2023-07-01T10:04:30","Category":"Other","Message":"CAR 1 (VER) TIME 1:10.201 DELETED - TRACK LIMITS AT TURN 9 LAP 3 12:03:46"}}}
+00:19:51.142{"Messages":{"12":{"Utc":"2023-07-01T10:05:10","Category":"Other","Message":"CAR 24 (ZHO) LAP DELETED - TRACK LIMITS AT TURN 9 LAP 2 12:02:51"}}}
+00:20:13.423{"Messages":{"13":{"Utc":"2023-07-01T10:05:33","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:20:14.564{"Messages":{"14":{"Utc":"2023-07-01T10:05:34","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:20:22.955{"Messages":{"15":{"Utc":"2023-07-01T10:05:42","Category":"Other","Message":"CAR 11 (PER) TIME 1:11.499 DELETED - TRACK LIMITS AT TURN 9 LAP 3 12:03:55"}}}
+00:20:32.736{"Messages":{"16":{"Utc":"2023-07-01T10:05:52","Category":"Other","Message":"CAR 2 (SAR) TIME 1:08.609 DELETED - TRACK LIMITS AT TURN 9 LAP 5 12:05:32"}}}
+00:20:45.111{"Messages":{"17":{"Utc":"2023-07-01T10:06:04","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 9"}}}
+00:24:22.827{"Messages":{"18":{"Utc":"2023-07-01T10:09:42","Category":"Other","Message":"TURN 9 INCIDENT INVOLVING CARS 81 (PIA) AND 16 (LEC) NOTED - IMPEDING"}}}
+00:25:24.435{"Messages":{"19":{"Utc":"2023-07-01T10:10:44","Category":"Other","Message":"CAR 44 (HAM) TIME 1:06.624 DELETED - TRACK LIMITS AT TURN 9 LAP 8 12:09:55"}}}
+00:26:12.279{"Messages":{"20":{"Utc":"2023-07-01T10:11:31","Category":"Other","Message":"FIA STEWARDS: TURN 9 INCIDENT INVOLVING CARS 81 (PIA) AND 16 (LEC) WILL BE INVESTIGATED AFTER THE SESSION - IMPEDING"}}}
+00:26:41.013{"Messages":{"21":{"Utc":"2023-07-01T10:12:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:26:44.732{"Messages":{"22":{"Utc":"2023-07-01T10:12:04","Category":"Other","Message":"CAR 44 (HAM) TIME 1:50.909 DELETED - TRACK LIMITS AT TURN 10 (NEXT LAP)"}}}
+00:27:10.809{"Messages":{"23":{"Utc":"2023-07-01T10:12:30","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 63 (RUS)"}}}
+00:27:12.997{"Messages":{"24":{"Utc":"2023-07-01T10:12:32","Category":"Other","Message":"CAR 44 (HAM) TIME 1:06.624 DELETED - TRACK LIMITS AT TURN 10 LAP 8 12:09:59"}}}
+00:27:14.200{"Messages":{"25":{"Utc":"2023-07-01T10:12:33","Category":"Other","Message":"CAR 44 (HAM) TIME 1:50.909 DELETED - TRACK LIMITS AT TURN 10 (NEXT LAP)"}}}
+00:27:54.590{"Messages":{"26":{"Utc":"2023-07-01T10:13:14","Category":"Other","Message":"CAR 2 (SAR) TIME 1:07.242 DELETED - TRACK LIMITS AT TURN 9 LAP 10 12:12:17"}}}
+00:33:41.008{"Messages":{"27":{"Utc":"2023-07-01T10:19:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:41:13.925{"Messages":{"28":{"Utc":"2023-07-01T10:26:33","Category":"Other","Message":"CAR 21 (DEV) TIME 1:06.423 DELETED - TRACK LIMITS AT TURN 10 LAP 15 12:25:07"}}}
+00:42:10.690{"Messages":{"29":{"Utc":"2023-07-01T10:27:30","Category":"Other","Message":"CAR 22 (TSU) TIME 1:06.185 DELETED - TRACK LIMITS AT TURN 10 LAP 15 12:25:21"}}}
+00:42:11.846{"Messages":{"30":{"Utc":"2023-07-01T10:27:31","Category":"Other","Message":"CAR 22 (TSU) LAP DELETED - TRACK LIMITS AT TURN 10 (NEXT LAP PIT)"}}}
+00:42:21.268{"Messages":{"31":{"Utc":"2023-07-01T10:27:40","Category":"Other","Message":"CAR 1 (VER) TIME 1:06.793 DELETED - TRACK LIMITS AT TURN 10 LAP 15 12:26:23"}}}
+00:43:27.361{"Messages":{"32":{"Utc":"2023-07-01T10:28:46","Category":"Other","Message":"CAR 1 (VER) TIME 2:03.590 DELETED - TRACK LIMITS AT TURN 10 (NEXT LAP)"}}}
+00:43:41.017{"Messages":{"33":{"Utc":"2023-07-01T10:29:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:44:15.923{"Messages":{"34":{"Utc":"2023-07-01T10:29:35","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 16 (LEC)"}}}
+00:46:03.109{"Messages":{"35":{"Utc":"2023-07-01T10:31:22","Category":"Other","Message":"CAR 23 (ALB) TIME 1:06.750 DELETED - TRACK LIMITS AT TURN 10 LAP 18 12:29:47"}}}
+00:48:57.357{"Messages":{"36":{"Utc":"2023-07-01T10:34:16","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CAR 27 (HUL) NOTED - UNSAFE RELEASE"}}}
+00:50:21.809{"Messages":{"37":{"Utc":"2023-07-01T10:35:41","Category":"Other","Message":"FIA STEWARDS: PIT LANE INCIDENT INVOLVING CAR 27 (HUL) WILL BE INVESTIGATED AFTER THE SESSION - UNSAFE RELEASE"}}}
+00:50:41.106{"Messages":{"38":{"Utc":"2023-07-01T10:36:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:58:41.038{"Messages":{"39":{"Utc":"2023-07-01T10:44:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:59:00.553{"Messages":{"40":{"Utc":"2023-07-01T10:44:20","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 27 (HUL)"}}}

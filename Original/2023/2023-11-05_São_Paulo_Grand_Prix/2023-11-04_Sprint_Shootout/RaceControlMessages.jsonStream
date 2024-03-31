@@ -1,0 +1,25 @@
+00:00:03.797{"Messages":[{"Utc":"2023-11-04T13:48:20","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:11:44.191{"Messages":{"1":{"Utc":"2023-11-04T14:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:22:57.773{"Messages":{"2":{"Utc":"2023-11-04T14:11:14","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+00:23:00.163{"Messages":{"3":{"Utc":"2023-11-04T14:11:16","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:23:12.116{"Messages":{"4":{"Utc":"2023-11-04T14:11:28","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:23:12.194{"Messages":{"5":{"Utc":"2023-11-04T14:11:28","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:23:49.100{"Messages":{"6":{"Utc":"2023-11-04T14:12:05","Category":"Other","Message":"SQ1 WILL NOT BE RESUMED"}}}
+00:25:13.583{"Messages":{"7":{"Utc":"2023-11-04T14:13:30","Category":"Other","Message":"START OF SQ2 WILL BE DELAYED"}}}
+00:26:44.065{"Messages":{"8":{"Utc":"2023-11-04T14:15:00","Category":"Other","Message":"TURN 3 INCIDENT INVOLVING CARS 31 (OCO) AND 14 (ALO) NOTED - CAUSING A COLLISION"}}}
+00:30:18.312{"Messages":{"9":{"Utc":"2023-11-04T14:18:35","Category":"Other","Message":"FIA STEWARDS: SQ1 INCIDENTS INVOLVING CARS 63 (RUS), 4 (NOR), 81 (PIA), 31 (OCO) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+00:30:43.561{"Messages":{"10":{"Utc":"2023-11-04T14:19:00","Category":"Other","Message":"FIA STEWARDS: SQ1 INCIDENTS INVOLVING CARS 63 (RUS), 4 (NOR), 81 (PIA), 31 (OCO) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+00:32:45.748{"Messages":{"11":{"Utc":"2023-11-04T14:21:02","Category":"Other","Message":"FIA STEWARDS: TURN 3 INCIDENT INVOLVING CARS 31 (OCO) AND 14 (ALO) WILL BE INVESTIGATED AFTER THE SESSION - CAUSING A COLLISION"}}}
+00:46:57.185{"Messages":{"12":{"Utc":"2023-11-04T14:35:13","Category":"Other","Message":"SQ2 WILL START AT 11:40"}}}
+00:48:11.059{"Messages":{"13":{"Utc":"2023-11-04T14:36:27","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:48:12.996{"Messages":{"14":{"Utc":"2023-11-04T14:36:29","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:51:44.195{"Messages":{"15":{"Utc":"2023-11-04T14:40:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:01:44.185{"Messages":{"16":{"Utc":"2023-11-04T14:50:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:02:03.888{"Messages":{"17":{"Utc":"2023-11-04T14:50:20","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 3 (RIC)"}}}
+01:02:47.184{"Messages":{"18":{"Utc":"2023-11-04T14:51:03","Category":"Other","Message":"SQ3 WILL START AT 11:57"}}}
+01:06:23.258{"Messages":{"19":{"Utc":"2023-11-04T14:54:39","Category":"Other","Message":"FIA STEWARDS: SQ1 INCIDENT INVOLVING CAR 22 (TSU) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+01:06:34.993{"Messages":{"20":{"Utc":"2023-11-04T14:54:51","Category":"Other","Message":"FIA STEWARDS: SQ1 INCIDENT INVOLVING CAR 22 (TSU) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+01:08:44.256{"Messages":{"21":{"Utc":"2023-11-04T14:57:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:16:44.233{"Messages":{"22":{"Utc":"2023-11-04T15:05:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:16:58.311{"Messages":{"23":{"Utc":"2023-11-04T15:05:15","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 3 (RIC)"}}}
+01:42:00.581{"Messages":{"24":{"Utc":"2023-11-04T15:30:17","Category":"Other","Message":"AIR TEMPERATURE 3 HOURS BEFORE THE SPRINT = 25.9 DEGREES"}}}

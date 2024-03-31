@@ -1,0 +1,46 @@
+00:03:36.322{"Messages":[{"Utc":"2023-02-25T06:00:22","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE THE SESSION = 22.6 DEGREES"}]}
+00:03:36.337{"Messages":{"1":{"Utc":"2023-02-25T06:45:22","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}}}
+00:08:34.301{"Messages":{"2":{"Utc":"2023-02-25T06:57:50","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:10:44.642{"Messages":{"3":{"Utc":"2023-02-25T07:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:17:55.400{"Messages":{"4":{"Utc":"2023-02-25T07:07:11","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:19:49.492{"Messages":{"5":{"Utc":"2023-02-25T07:09:05","Category":"Other","Message":"SESSION WILL RESUME AT 10:10"}}}
+00:19:53.882{"Messages":{"6":{"Utc":"2023-02-25T07:09:09","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:20:44.647{"Messages":{"7":{"Utc":"2023-02-25T07:10:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:29:42.496{"Messages":{"8":{"Utc":"2023-02-25T07:18:58","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:54:30.920{"Messages":{"9":{"Utc":"2023-02-25T08:43:46","Category":"Other","Message":"START OF BLUE FLAG TEST "}}}
+01:54:37.233{"Messages":{"10":{"Utc":"2023-02-25T08:43:53","Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"11","Message":"WAVED BLUE FLAG FOR CAR 11 (PER) TIMED AT 11:43:52"}}}
+01:55:23.591{"Messages":{"11":{"Utc":"2023-02-25T08:44:39","Category":"Other","Message":"END OF BLUE FLAG TEST "}}}
+02:01:23.788{"Messages":{"12":{"Utc":"2023-02-25T08:50:39","Category":"Other","Message":"START OF BLUE FLAG TEST "}}}
+02:02:07.115{"Messages":{"13":{"Utc":"2023-02-25T08:51:23","Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"77","Message":"WAVED BLUE FLAG FOR CAR 77 (BOT) TIMED AT 11:51:22"}}}
+02:02:34.599{"Messages":{"14":{"Utc":"2023-02-25T08:51:50","Category":"Other","Message":"END OF BLUE FLAG TEST"}}}
+02:05:14.815{"Messages":{"15":{"Utc":"2023-02-25T08:54:30","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+02:11:18.090{"Messages":{"16":{"Utc":"2023-02-25T09:00:34","Category":"Other","Message":"NORMAL GRIP CONDITIONS"}}}
+03:06:08.546{"Messages":{"17":{"Utc":"2023-02-25T09:55:24","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+03:17:47.565{"Messages":{"18":{"Utc":"2023-02-25T10:07:03","Category":"Other","Message":"SESSION WILL RESUME AT 13:08"}}}
+03:18:08.345{"Messages":{"19":{"Utc":"2023-02-25T10:07:24","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+03:18:18.283{"Messages":{"20":{"Utc":"2023-02-25T10:07:34","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+03:18:44.814{"Messages":{"21":{"Utc":"2023-02-25T10:08:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+04:10:46.585{"Messages":{"22":{"Utc":"2023-02-25T11:00:02","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+04:11:46.022{"Messages":{"23":{"Utc":"2023-02-25T11:01:02","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+04:11:48.615{"Messages":{"24":{"Utc":"2023-02-25T11:01:04","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+04:14:11.957{"Messages":{"25":{"Utc":"2023-02-25T11:03:27","Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+04:14:58.378{"Messages":{"26":{"Utc":"2023-02-25T11:04:13","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+04:17:03.313{"Messages":{"27":{"Utc":"2023-02-25T11:06:19","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+04:17:17.219{"Messages":{"28":{"Utc":"2023-02-25T11:06:33","Category":"Other","Message":"FORMATION LAP AT 14:08"}}}
+04:18:50.498{"Messages":{"29":{"Utc":"2023-02-25T11:08:06","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+04:19:27.998{"Messages":{"30":{"Utc":"2023-02-25T11:08:43","Category":"Other","Message":"SAFETY CAR WILL ENTER PITS: ROLLING START PROCEDURE"}}}
+04:20:44.668{"Messages":{"31":{"Utc":"2023-02-25T11:10:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+04:24:46.414{"Messages":{"32":{"Utc":"2023-02-25T11:14:02","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+04:25:54.116{"Messages":{"33":{"Utc":"2023-02-25T11:15:10","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE THE SESSION = 28.9 DEGREES"}}}
+04:26:43.412{"Messages":{"34":{"Utc":"2023-02-25T11:15:59","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+05:10:59.145{"Messages":{"35":{"Utc":"2023-02-25T12:00:15","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}}}
+05:25:44.723{"Messages":{"36":{"Utc":"2023-02-25T12:15:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+09:26:09.603{"Messages":{"37":{"Utc":"2023-02-25T16:15:25","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+09:28:18.476{"Messages":{"38":{"Utc":"2023-02-25T16:17:34","Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+09:28:52.413{"Messages":{"39":{"Utc":"2023-02-25T16:18:08","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:30:58.192{"Messages":{"40":{"Utc":"2023-02-25T16:20:14","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+09:31:08.988{"Messages":{"41":{"Utc":"2023-02-25T16:20:24","Category":"Other","Message":"FORMATION LAP AT 19:22"}}}
+09:32:44.768{"Messages":{"42":{"Utc":"2023-02-25T16:22:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+09:33:25.626{"Messages":{"43":{"Utc":"2023-02-25T16:22:41","Category":"Other","Message":"SAFETY CAR WILL ENTER PITS: ROLLING START PROCEDURE"}}}
+09:37:56.543{"Messages":{"44":{"Utc":"2023-02-25T16:27:12","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:40:14.291{"Messages":{"45":{"Utc":"2023-02-25T16:29:30","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

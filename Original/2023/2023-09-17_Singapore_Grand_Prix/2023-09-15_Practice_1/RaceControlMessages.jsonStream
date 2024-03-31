@@ -1,0 +1,19 @@
+00:00:05.749{"Messages":[{"Utc":"2023-09-15T09:15:06","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 10%"}]}
+00:01:14.873{"Messages":{"1":{"Utc":"2023-09-15T09:16:15","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.499{"Messages":{"2":{"Utc":"2023-09-15T09:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:43.853{"Messages":{"3":{"Utc":"2023-09-15T09:34:44","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) MISSED THE APEX OF TURN 2"}}}
+00:29:38.796{"Messages":{"4":{"Utc":"2023-09-15T09:44:39","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 2"}}}
+00:47:41.714{"Messages":{"5":{"Utc":"2023-09-15T10:02:42","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:49:58.962{"Messages":{"6":{"Utc":"2023-09-15T10:04:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:02:12.137{"Messages":{"7":{"Utc":"2023-09-15T10:17:12","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:02:47.105{"Messages":{"8":{"Utc":"2023-09-15T10:17:47","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:10:12.488{"Messages":{"9":{"Utc":"2023-09-15T10:25:12","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 8"}}}
+01:10:53.440{"Messages":{"10":{"Utc":"2023-09-15T10:25:53","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:10:54.002{"Messages":{"11":{"Utc":"2023-09-15T10:25:54","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:11:53.892{"Messages":{"12":{"Utc":"2023-09-15T10:26:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:14:56.186{"Messages":{"13":{"Utc":"2023-09-15T10:29:56","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 8"}}}
+01:15:00.607{"Messages":{"14":{"Utc":"2023-09-15T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:23.279{"Messages":{"15":{"Utc":"2023-09-15T10:30:23","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 27 (HUL)"}}}
+01:21:19.538{"Messages":{"16":{"Utc":"2023-09-15T10:36:19","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:23:23.536{"Messages":{"17":{"Utc":"2023-09-15T10:38:23","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:23:24.520{"Messages":{"18":{"Utc":"2023-09-15T10:38:24","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}

@@ -1,0 +1,65 @@
+00:00:24.140{"Messages":[{"Utc":"2023-04-01T04:45:51","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 90%"}]}
+00:01:14.374{"Messages":{"1":{"Utc":"2023-04-01T04:43:52","Category":"Other","Message":"LIGHT BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:01:14.374{"Messages":{"2":{"Utc":"2023-04-01T04:45:51","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 90%"}}}
+00:14:33.709{"Messages":{"3":{"Utc":"2023-04-01T05:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:04.643{"Messages":{"4":{"Utc":"2023-04-01T05:04:31","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+00:19:05.487{"Messages":{"5":{"Utc":"2023-04-01T05:04:32","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":20,"Message":"YELLOW IN TRACK SECTOR 20"}}}
+00:19:06.534{"Messages":{"6":{"Utc":"2023-04-01T05:04:33","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:19:13.284{"Messages":{"7":{"Utc":"2023-04-01T05:04:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+00:19:13.330{"Messages":{"8":{"Utc":"2023-04-01T05:04:40","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:19:13.799{"Messages":{"9":{"Utc":"2023-04-01T05:04:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:20:20.111{"Messages":{"10":{"Utc":"2023-04-01T05:05:47","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) SPUN AND CONTINUED AT TURN 13"}}}
+00:20:40.111{"Messages":{"11":{"Utc":"2023-04-01T05:06:07","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:20:41.173{"Messages":{"12":{"Utc":"2023-04-01T05:06:08","Category":"Other","Message":"DRS DISABLED IN ZONE 4"}}}
+00:20:49.923{"Messages":{"13":{"Utc":"2023-04-01T05:06:16","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:20:49.970{"Messages":{"14":{"Utc":"2023-04-01T05:06:17","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:25:03.280{"Messages":{"15":{"Utc":"2023-04-01T05:10:30","Category":"Other","Message":"SESSION WILL RESUME AT 16:14"}}}
+00:25:45.264{"Messages":{"16":{"Utc":"2023-04-01T05:11:12","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:25:46.967{"Messages":{"17":{"Utc":"2023-04-01T05:11:13","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:28:33.715{"Messages":{"18":{"Utc":"2023-04-01T05:14:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:37:11.662{"Messages":{"19":{"Utc":"2023-04-01T05:22:38","Category":"Other","Message":"CAR 4 (NOR) TIME 1:37.388 DELETED - TRACK LIMITS AT TURN 6 LAP 10 16:21:25"}}}
+00:38:31.692{"Messages":{"20":{"Utc":"2023-04-01T05:23:58","Category":"Other","Message":"CAR 44 (HAM) TIME 1:51.797 DELETED - TRACK LIMITS AT TURN 9 LAP 8 16:21:49"}}}
+00:40:17.925{"Messages":{"21":{"Utc":"2023-04-01T05:25:44","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:40:32.441{"Messages":{"22":{"Utc":"2023-04-01T05:25:59","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 10 (GAS)"}}}
+00:41:31.659{"Messages":{"23":{"Utc":"2023-04-01T05:26:58","Category":"Other","Message":"Q2 WILL START AT 16:33"}}}
+00:43:15.001{"Messages":{"24":{"Utc":"2023-04-01T05:28:42","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":17,"Message":"DOUBLE YELLOW IN TRACK SECTOR 17"}}}
+00:43:16.048{"Messages":{"25":{"Utc":"2023-04-01T05:28:43","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:46:14.156{"Messages":{"26":{"Utc":"2023-04-01T05:31:41","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:46:14.203{"Messages":{"27":{"Utc":"2023-04-01T05:31:41","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:47:33.702{"Messages":{"28":{"Utc":"2023-04-01T05:33:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:51:00.996{"Messages":{"29":{"Utc":"2023-04-01T05:36:28","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+00:51:02.480{"Messages":{"30":{"Utc":"2023-04-01T05:36:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:51:53.121{"Messages":{"31":{"Utc":"2023-04-01T05:37:20","Category":"Other","Message":"CAR 1 (VER) TIME 1:35.777 DELETED - TRACK LIMITS AT TURN 1 LAP 12 16:35:46"}}}
+00:54:00.510{"Messages":{"32":{"Utc":"2023-04-01T05:39:27","Category":"Other","Message":"CAR 4 (NOR) TIME 1:40.322 DELETED - TRACK LIMITS AT TURN 3 LAP 17 16:36:49"}}}
+01:02:33.738{"Messages":{"33":{"Utc":"2023-04-01T05:48:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:02:47.691{"Messages":{"34":{"Utc":"2023-04-01T05:48:14","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 20 (MAG)"}}}
+01:04:11.346{"Messages":{"35":{"Utc":"2023-04-01T05:49:38","Category":"Other","Message":"Q3 WILL START AT 16:56"}}}
+01:04:47.205{"Messages":{"36":{"Utc":"2023-04-01T05:50:14","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:04:48.221{"Messages":{"37":{"Utc":"2023-04-01T05:50:15","Category":"Other","Message":"DRS DISABLED IN ZONE 4"}}}
+01:08:40.796{"Messages":{"38":{"Utc":"2023-04-01T05:54:07","Category":"Other","Message":"DRS ENABLED IN ZONE 4"}}}
+01:08:40.828{"Messages":{"39":{"Utc":"2023-04-01T05:54:07","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:10:33.842{"Messages":{"40":{"Utc":"2023-04-01T05:56:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:22:33.881{"Messages":{"41":{"Utc":"2023-04-01T06:08:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:22:41.693{"Messages":{"42":{"Utc":"2023-04-01T06:08:08","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 55 (SAI)"}}}
+01:24:59.598{"Messages":{"43":{"Utc":"2023-04-01T06:10:26","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:25:00.629{"Messages":{"44":{"Utc":"2023-04-01T06:10:27","Category":"Other","Message":"DRS DISABLED IN ZONE 4"}}}
+01:25:04.629{"Messages":{"45":{"Utc":"2023-04-01T06:10:31","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:25:05.660{"Messages":{"46":{"Utc":"2023-04-01T06:10:32","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:25:29.535{"Messages":{"47":{"Utc":"2023-04-01T06:10:56","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+01:25:36.176{"Messages":{"48":{"Utc":"2023-04-01T06:11:03","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+01:25:42.660{"Messages":{"49":{"Utc":"2023-04-01T06:11:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:25:43.285{"Messages":{"50":{"Utc":"2023-04-01T06:11:10","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+01:25:47.738{"Messages":{"51":{"Utc":"2023-04-01T06:11:14","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:25:47.925{"Messages":{"52":{"Utc":"2023-04-01T06:11:14","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+01:27:08.018{"Messages":{"53":{"Utc":"2023-04-01T06:12:35","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+01:27:09.034{"Messages":{"54":{"Utc":"2023-04-01T06:12:36","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:28:05.893{"Messages":{"55":{"Utc":"2023-04-01T06:13:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:28:05.955{"Messages":{"56":{"Utc":"2023-04-01T06:13:32","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+01:28:54.095{"Messages":{"57":{"Utc":"2023-04-01T06:14:21","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":18,"Message":"DOUBLE YELLOW IN TRACK SECTOR 18"}}}
+01:30:08.344{"Messages":{"58":{"Utc":"2023-04-01T06:15:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:30:11.657{"Messages":{"59":{"Utc":"2023-04-01T06:15:38","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:30:15.407{"Messages":{"60":{"Utc":"2023-04-01T06:15:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:30:22.891{"Messages":{"61":{"Utc":"2023-04-01T06:15:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:30:50.094{"Messages":{"62":{"Utc":"2023-04-01T06:16:17","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:30:52.734{"Messages":{"63":{"Utc":"2023-04-01T06:16:19","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:30:59.000{"Messages":{"64":{"Utc":"2023-04-01T06:16:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}

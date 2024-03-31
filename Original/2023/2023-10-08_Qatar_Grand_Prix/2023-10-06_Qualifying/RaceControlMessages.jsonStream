@@ -1,0 +1,36 @@
+00:00:10.290{"Messages":[{"Utc":"2023-10-06T16:45:10","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:15:00.400{"Messages":{"1":{"Utc":"2023-10-06T17:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:05.520{"Messages":{"2":{"Utc":"2023-10-06T17:04:05","Category":"Other","Message":"CAR 18 (STR) TIME 1:27.928 DELETED - TRACK LIMITS AT TURN 5 LAP 3 20:02:54"}}}
+00:20:25.675{"Messages":{"3":{"Utc":"2023-10-06T17:05:26","Category":"Other","Message":"CAR 4 (NOR) TIME 1:26.043 DELETED - TRACK LIMITS AT TURN 5 LAP 3 20:04:24"}}}
+00:23:29.891{"Messages":{"4":{"Utc":"2023-10-06T17:08:30","Category":"Other","Message":"CAR 10 (GAS) TIME 1:29.275 DELETED - TRACK LIMITS AT TURN 5 LAP 5 20:07:11"}}}
+00:23:35.812{"Messages":{"5":{"Utc":"2023-10-06T17:08:36","Category":"Other","Message":"CAR 16 (LEC) TIME 1:26.098 DELETED - TRACK LIMITS AT TURN 4 LAP 5 20:07:32"}}}
+00:24:06.577{"Messages":{"6":{"Utc":"2023-10-06T17:09:06","Category":"Other","Message":"CAR 10 (GAS) TIME 1:29.275 DELETED - TRACK LIMITS AT TURN 14 LAP 5 20:07:51"}}}
+00:25:16.686{"Messages":{"7":{"Utc":"2023-10-06T17:10:17","Category":"Other","Message":"CAR 81 (PIA) LAP DELETED - TRACK LIMITS AT TURN 12 LAP 5 20:08:31"}}}
+00:26:20.294{"Messages":{"8":{"Utc":"2023-10-06T17:11:20","Category":"Other","Message":"CAR 20 (MAG) TIME 1:27.504 DELETED - TRACK LIMITS AT TURN 15 LAP 6 20:10:43"}}}
+00:27:21.074{"Messages":{"9":{"Utc":"2023-10-06T17:12:21","Category":"Other","Message":"CAR 23 (ALB) TIME 1:26.974 DELETED - TRACK LIMITS AT TURN 5 LAP 3 20:04:41"}}}
+00:28:53.479{"Messages":{"10":{"Utc":"2023-10-06T17:13:53","Category":"Other","Message":"CAR 40 (LAW) TIME 4:19.664 DELETED - TRACK LIMITS AT TURN 15 LAP 7 20:13:01"}}}
+00:29:00.010{"Messages":{"11":{"Utc":"2023-10-06T17:14:00","Category":"Other","Message":"CAR 55 (SAI) TIME 1:42.934 DELETED - TRACK LIMITS AT TURN 5 LAP 8 20:12:37"}}}
+00:32:13.678{"Messages":{"12":{"Utc":"2023-10-06T17:17:14","Category":"Other","Message":"CAR 18 (STR) TIME 1:48.482 DELETED - TRACK LIMITS AT TURN 2 LAP 8 20:14:00"}}}
+00:33:00.787{"Messages":{"13":{"Utc":"2023-10-06T17:18:01","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:21.286{"Messages":{"14":{"Utc":"2023-10-06T17:18:21","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 20 (MAG)"}}}
+00:37:31.688{"Messages":{"15":{"Utc":"2023-10-06T17:22:32","Category":"Other","Message":"INCIDENT INVOLVING CARS 44 (HAM), 22 (TSU), 40 (LAW), 81 (PIA) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS – MAXIMUM LAP TIME "}}}
+00:40:00.467{"Messages":{"16":{"Utc":"2023-10-06T17:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:41:24.059{"Messages":{"17":{"Utc":"2023-10-06T17:26:24","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 44 (HAM), 22 (TSU), 40 (LAW), 81 (PIA) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS – MAXIMUM LAP TIME "}}}
+00:44:42.650{"Messages":{"18":{"Utc":"2023-10-06T17:29:42","Category":"Other","Message":"CAR 31 (OCO) TIME 1:26.854 DELETED - TRACK LIMITS AT TURN 5 LAP 13 20:28:34"}}}
+00:51:02.205{"Messages":{"19":{"Utc":"2023-10-06T17:36:02","Category":"Other","Message":"CAR 55 (SAI) TIME 1:45.890 DELETED - TRACK LIMITS AT TURN 5 LAP 16 20:34:42"}}}
+00:51:23.705{"Messages":{"20":{"Utc":"2023-10-06T17:36:24","Category":"Other","Message":"CAR 16 (LEC) TIME 1:43.094 DELETED - TRACK LIMITS AT TURN 4 LAP 16 20:35:02"}}}
+00:53:37.234{"Messages":{"21":{"Utc":"2023-10-06T17:38:37","Category":"Other","Message":"CAR 55 (SAI) TIME 2:01.519 DELETED - TRACK LIMITS AT TURN 12 LAP 17 20:37:26"}}}
+00:54:21.546{"Messages":{"22":{"Utc":"2023-10-06T17:39:21","Category":"Other","Message":"INCIDENT INVOLVING CARS 1 (VER) AND 55 (SAI) NOTED - DRIVING ERRATICALLY"}}}
+00:54:38.483{"Messages":{"23":{"Utc":"2023-10-06T17:39:38","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 1 (VER) AND 55 (SAI) WILL BE INVESTIGATED AFTER THE SESSION - DRIVING ERRATICALLY"}}}
+00:54:47.467{"Messages":{"24":{"Utc":"2023-10-06T17:39:47","Category":"Other","Message":"CAR 27 (HUL) TIME 1:25.547 DELETED - TRACK LIMITS AT TURN 5 LAP 12 20:38:37"}}}
+00:55:00.420{"Messages":{"25":{"Utc":"2023-10-06T17:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:24.138{"Messages":{"26":{"Utc":"2023-10-06T17:40:24","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 22 (TSU)"}}}
+00:55:27.248{"Messages":{"27":{"Utc":"2023-10-06T17:40:27","Category":"Other","Message":"CAR 11 (PER) TIME 1:25.275 DELETED - TRACK LIMITS AT TURN 5 LAP 16 20:38:49"}}}
+00:56:32.168{"Messages":{"28":{"Utc":"2023-10-06T17:41:32","Category":"Other","Message":"CAR 23 (ALB) LAP DELETED - TRACK LIMITS AT TURN 15 LAP 16 20:40:49"}}}
+01:03:00.443{"Messages":{"29":{"Utc":"2023-10-06T17:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:07:03.017{"Messages":{"30":{"Utc":"2023-10-06T17:52:03","Category":"Other","Message":"CAR 4 (NOR) TIME 1:24.088 DELETED - TRACK LIMITS AT TURN 5 LAP 18 20:51:04"}}}
+01:07:11.204{"Messages":{"31":{"Utc":"2023-10-06T17:52:11","Category":"Other","Message":"CAR 16 (LEC) TIME 1:52.292 DELETED - TRACK LIMITS AT TURN 5 LAP 22 20:50:42"}}}
+01:15:00.399{"Messages":{"32":{"Utc":"2023-10-06T18:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:23.992{"Messages":{"33":{"Utc":"2023-10-06T18:00:24","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 14 (ALO)"}}}
+01:19:33.972{"Messages":{"34":{"Utc":"2023-10-06T18:04:34","Category":"Other","Message":"CAR 4 (NOR) TIME 1:24.074 DELETED - TRACK LIMITS AT TURN 10 LAP 21 20:59:41"}}}
+01:23:43.171{"Messages":{"35":{"Utc":"2023-10-06T18:08:43","Category":"Other","Message":"CAR 81 (PIA) TIME 1:24.228 DELETED - TRACK LIMITS AT TURN 14 LAP 23 21:00:36"}}}

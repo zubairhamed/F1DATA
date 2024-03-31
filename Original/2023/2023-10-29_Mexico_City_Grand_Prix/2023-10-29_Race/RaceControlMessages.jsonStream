@@ -1,0 +1,96 @@
+00:06:54.050{"Messages":[{"Utc":"2023-10-29T19:07:54","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}]}
+00:07:23.408{"Messages":{"1":{"Utc":"2023-10-29T19:08:23","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:07:23.455{"Messages":{"2":{"Utc":"2023-10-29T19:08:23","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:07:32.924{"Messages":{"3":{"Utc":"2023-10-29T19:08:33","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:07:32.971{"Messages":{"4":{"Utc":"2023-10-29T19:08:33","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:07:53.549{"Messages":{"5":{"Utc":"2023-10-29T19:08:54","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:09:00.969{"Messages":{"6":{"Utc":"2023-10-29T19:10:01","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:16:03.352{"Messages":{"7":{"Utc":"2023-10-29T19:17:03","Lap":1,"Category":"Other","Message":"INCIDENT INVOLVING CAR 14 (ALO) NOTED - SPEEDING IN THE PIT LANE"}}}
+00:19:00.959{"Messages":{"8":{"Utc":"2023-10-29T19:20:01","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:21:05.472{"Messages":{"9":{"Utc":"2023-10-29T19:22:05","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":10,"Message":"DOUBLE YELLOW IN TRACK SECTOR 10"}}}
+00:21:37.190{"Messages":{"10":{"Utc":"2023-10-29T19:22:37","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+00:21:38.268{"Messages":{"11":{"Utc":"2023-10-29T19:22:38","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:21:47.925{"Messages":{"12":{"Utc":"2023-10-29T19:22:48","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:22:03.518{"Messages":{"13":{"Utc":"2023-10-29T19:23:03","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+00:22:04.721{"Messages":{"14":{"Utc":"2023-10-29T19:23:05","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:22:30.330{"Messages":{"15":{"Utc":"2023-10-29T19:23:30","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:23:32.298{"Messages":{"16":{"Utc":"2023-10-29T19:24:32","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+00:25:05.843{"Messages":{"17":{"Utc":"2023-10-29T19:26:06","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:27:06.200{"Messages":{"18":{"Utc":"2023-10-29T19:28:06","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:27:19.950{"Messages":{"19":{"Utc":"2023-10-29T19:28:20","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:29:03.307{"Messages":{"20":{"Utc":"2023-10-29T19:30:03","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:29:36.135{"Messages":{"21":{"Utc":"2023-10-29T19:30:36","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:29:59.338{"Messages":{"22":{"Utc":"2023-10-29T19:30:59","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:29:59.385{"Messages":{"23":{"Utc":"2023-10-29T19:30:59","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:33:40.396{"Messages":{"24":{"Utc":"2023-10-29T19:34:40","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:33:40.443{"Messages":{"25":{"Utc":"2023-10-29T19:34:40","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:35:24.160{"Messages":{"26":{"Utc":"2023-10-29T19:36:24","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:44:10.495{"Messages":{"27":{"Utc":"2023-10-29T19:45:10","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 0%"}}}
+00:56:03.373{"Messages":{"28":{"Utc":"2023-10-29T19:57:03","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:02:18.538{"Messages":{"29":{"Utc":"2023-10-29T20:03:18","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:02:36.413{"Messages":{"30":{"Utc":"2023-10-29T20:03:36","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:02:39.709{"Messages":{"31":{"Utc":"2023-10-29T20:03:40","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:02:47.178{"Messages":{"32":{"Utc":"2023-10-29T20:03:47","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:02:55.584{"Messages":{"33":{"Utc":"2023-10-29T20:03:55","Lap":1,"Category":"Other","Message":"LAP 1 TURN 1 NOTED"}}}
+01:05:23.628{"Messages":{"34":{"Utc":"2023-10-29T20:06:23","Lap":3,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:06:35.721{"Messages":{"35":{"Utc":"2023-10-29T20:07:36","Lap":4,"Category":"Other","Message":"FIA STEWARDS: LAP 1 TURN 1 REVIEWED NO FURTHER INVESTIGATION"}}}
+01:07:01.611{"Messages":{"36":{"Utc":"2023-10-29T20:08:01","Lap":4,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 3"}}}
+01:08:05.032{"Messages":{"37":{"Utc":"2023-10-29T20:09:05","Lap":5,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:08:05.079{"Messages":{"38":{"Utc":"2023-10-29T20:09:05","Lap":5,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:09:18.734{"Messages":{"39":{"Utc":"2023-10-29T20:10:19","Lap":5,"Category":"Other","Message":"INCIDENT INVOLVING CAR 16 (LEC) NOTED - DRIVING IN AN UNSAFE CONDITION"}}}
+01:09:21.546{"Messages":{"40":{"Utc":"2023-10-29T20:10:21","Lap":5,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:09:33.968{"Messages":{"41":{"Utc":"2023-10-29T20:10:34","Lap":5,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:09:37.468{"Messages":{"42":{"Utc":"2023-10-29T20:10:37","Lap":5,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:13:02.964{"Messages":{"43":{"Utc":"2023-10-29T20:14:03","Lap":8,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:13:03.948{"Messages":{"44":{"Utc":"2023-10-29T20:14:04","Lap":8,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:14:21.853{"Messages":{"45":{"Utc":"2023-10-29T20:15:22","Lap":9,"Category":"Other","Message":"CAR 22 (TSU) TIME 1:25.565 DELETED - TRACK LIMITS AT TURN 1 LAP 8 14:14:01"}}}
+01:25:39.404{"Messages":{"46":{"Utc":"2023-10-29T20:26:39","Lap":17,"Category":"Other","Message":"CAR 63 (RUS) TIME 1:25.192 DELETED - TRACK LIMITS AT TURN 12 LAP 16 14:25:58"}}}
+01:27:27.480{"Messages":{"47":{"Utc":"2023-10-29T20:28:27","Lap":18,"Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CAR 16 (LEC) WILL BE INVESTIGATED AFTER THE RACE - DRIVING IN AN UNSAFE CONDITION"}}}
+01:37:16.689{"Messages":{"48":{"Utc":"2023-10-29T20:38:17","Lap":25,"Category":"Other","Message":"CAR 20 (MAG) TIME 1:43.471 DELETED - TRACK LIMITS AT TURN 2 LAP 24 14:37:09"}}}
+01:42:49.120{"Messages":{"49":{"Utc":"2023-10-29T20:43:49","Lap":29,"Category":"Other","Message":"CAR 55 (SAI) TIME 1:24.158 DELETED - TRACK LIMITS AT TURN 2 LAP 28 14:41:52"}}}
+01:45:35.492{"Messages":{"50":{"Utc":"2023-10-29T20:46:35","Lap":31,"Category":"Other","Message":"CAR 20 (MAG) TIME 1:24.579 DELETED - TRACK LIMITS AT TURN 17 LAP 29 14:45:13"}}}
+01:48:03.958{"Messages":{"51":{"Utc":"2023-10-29T20:49:04","Lap":33,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":10,"Message":"DOUBLE YELLOW IN TRACK SECTOR 10"}}}
+01:48:17.005{"Messages":{"52":{"Utc":"2023-10-29T20:49:17","Lap":33,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:48:23.849{"Messages":{"53":{"Utc":"2023-10-29T20:49:24","Lap":33,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:50:53.002{"Messages":{"54":{"Utc":"2023-10-29T20:51:53","Lap":34,"Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:50:53.080{"Messages":{"55":{"Utc":"2023-10-29T20:51:53","Lap":34,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:50:53.080{"Messages":{"56":{"Utc":"2023-10-29T20:51:53","Lap":34,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+02:00:00.352{"Messages":{"57":{"Utc":"2023-10-29T21:01:00","Lap":35,"Category":"Other","Message":"ORDER FOR RESTART: 1, 16, 44, 55, 3, 81, 63, 22, 27, 4, 10, 23, 24, 31, 2, 77, 18, 14"}}}
+02:00:47.586{"Messages":{"58":{"Utc":"2023-10-29T21:01:47","Lap":35,"Category":"Other","Message":"RACE WILL RESUME AT 15:13"}}}
+02:06:42.908{"Messages":{"59":{"Utc":"2023-10-29T21:07:43","Lap":35,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+02:10:01.123{"Messages":{"60":{"Utc":"2023-10-29T21:11:01","Lap":35,"Category":"Other","Message":"RACE WILL RESUME AT 15:13 - STANDING START PROCEDURE"}}}
+02:10:47.247{"Messages":{"61":{"Utc":"2023-10-29T21:11:47","Lap":35,"Category":"Other","Message":"ALL CARS MAY OVERTAKE THE SAFETY CAR"}}}
+02:11:46.558{"Messages":{"62":{"Utc":"2023-10-29T21:12:46","Lap":35,"Category":"Other","Message":"ALL CARS MAY OVERTAKE THE SAFETY CAR"}}}
+02:12:38.042{"Messages":{"63":{"Utc":"2023-10-29T21:13:38","Lap":35,"Category":"Other","Message":"STANDING START PROCEDURE"}}}
+02:18:29.551{"Messages":{"64":{"Utc":"2023-10-29T21:19:29","Lap":38,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+02:33:43.285{"Messages":{"65":{"Utc":"2023-10-29T21:34:43","Lap":49,"Category":"Other","Message":"TURN 2 INCIDENT INVOLVING CARS 22 (TSU) AND 81 (PIA) NOTED - CAUSING A COLLISION"}}}
+02:33:53.676{"Messages":{"66":{"Utc":"2023-10-29T21:34:54","Lap":49,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+02:33:54.941{"Messages":{"67":{"Utc":"2023-10-29T21:34:55","Lap":49,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+02:33:55.832{"Messages":{"68":{"Utc":"2023-10-29T21:34:56","Lap":49,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+02:34:08.426{"Messages":{"69":{"Utc":"2023-10-29T21:35:08","Lap":49,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+02:34:08.472{"Messages":{"70":{"Utc":"2023-10-29T21:35:08","Lap":49,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+02:34:22.722{"Messages":{"71":{"Utc":"2023-10-29T21:35:23","Lap":49,"Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1"}}}
+02:34:58.362{"Messages":{"72":{"Utc":"2023-10-29T21:35:58","Lap":50,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 22 (TSU) AND 81 (PIA) NOTED - CAUSING A COLLISION"}}}
+02:35:41.846{"Messages":{"73":{"Utc":"2023-10-29T21:36:42","Lap":50,"Category":"Other","Message":"CAR 22 (TSU) TIME 1:40.130 DELETED - TRACK LIMITS AT TURN 1 LAP 49 15:34:58"}}}
+02:38:59.108{"Messages":{"74":{"Utc":"2023-10-29T21:39:59","Lap":53,"Category":"Other","Message":"FIA STEWARDS: TURN 2 INCIDENT INVOLVING CARS 22 (TSU) AND 81 (PIA) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+02:39:05.202{"Messages":{"75":{"Utc":"2023-10-29T21:40:05","Lap":53,"Category":"Other","Message":"FIA STEWARDS: TURN 1 INCIDENT INVOLVING CARS 22 (TSU) AND 81 (PIA) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+02:41:27.902{"Messages":{"76":{"Utc":"2023-10-29T21:42:28","Lap":54,"Category":"Other","Message":"CAR 22 (TSU) TIME 1:24.328 DELETED - TRACK LIMITS AT TURN 12 LAP 53 15:41:51"}}}
+02:43:01.822{"Messages":{"77":{"Utc":"2023-10-29T21:44:02","Lap":56,"Category":"Other","Message":"CAR 2 (SAR) TIME 1:23.916 DELETED - TRACK LIMITS AT TURN 2 LAP 54 15:42:07"}}}
+02:57:39.823{"Messages":{"78":{"Utc":"2023-10-29T21:58:40","Lap":66,"Category":"Other","Message":"CAR 2 (SAR) TIME 1:23.751 DELETED - TRACK LIMITS AT TURN 2 LAP 65 15:57:30"}}}
+02:58:56.071{"Messages":{"79":{"Utc":"2023-10-29T21:59:56","Lap":67,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+02:59:02.352{"Messages":{"80":{"Utc":"2023-10-29T22:00:02","Lap":67,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+02:59:04.337{"Messages":{"81":{"Utc":"2023-10-29T22:00:04","Lap":67,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+02:59:04.759{"Messages":{"82":{"Utc":"2023-10-29T22:00:05","Lap":67,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+02:59:07.196{"Messages":{"83":{"Utc":"2023-10-29T22:00:07","Lap":67,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+02:59:07.352{"Messages":{"84":{"Utc":"2023-10-29T22:00:07","Lap":67,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+02:59:29.664{"Messages":{"85":{"Utc":"2023-10-29T22:00:29","Lap":68,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 14"}}}
+02:59:56.148{"Messages":{"86":{"Utc":"2023-10-29T22:00:56","Lap":68,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+02:59:56.258{"Messages":{"87":{"Utc":"2023-10-29T22:00:56","Lap":68,"Category":"Other","Message":"TURN 14 INCIDENT INVOLVING CARS 18 (STR) AND 77 (BOT) NOTED - CAUSING A COLLISION"}}}
+03:00:15.695{"Messages":{"88":{"Utc":"2023-10-29T22:01:16","Lap":68,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 14"}}}
+03:00:16.836{"Messages":{"89":{"Utc":"2023-10-29T22:01:17","Lap":68,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 13"}}}
+03:00:25.679{"Messages":{"90":{"Utc":"2023-10-29T22:01:26","Lap":68,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+03:00:27.054{"Messages":{"91":{"Utc":"2023-10-29T22:01:27","Lap":68,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+03:00:27.867{"Messages":{"92":{"Utc":"2023-10-29T22:01:28","Lap":68,"Category":"Other","Message":"FIA STEWARDS: TURN 14 INCIDENT INVOLVING CARS 18 (STR) AND 77 (BOT) WILL BE INVESTIGATED AFTER THE RACE - CAUSING A COLLISION"}}}
+03:04:49.393{"Messages":{"93":{"Utc":"2023-10-29T22:05:49","Lap":71,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+03:04:59.299{"Messages":{"94":{"Utc":"2023-10-29T22:05:59","Lap":71,"Category":"Other","Message":"FIA STEWARDS: TURN 1 INCIDENT INVOLVING CARS 22 (TSU) AND 81 (PIA) NO FURTHER ACTION - CAUSING A COLLISION"}}}
+03:05:06.159{"Messages":{"95":{"Utc":"2023-10-29T22:06:06","Lap":71,"Category":"Other","Message":"FIA STEWARDS: TURN 2 INCIDENT INVOLVING CARS 22 (TSU) AND 81 (PIA) NO FURTHER ACTION - CAUSING A COLLISION"}}}

@@ -1,0 +1,11 @@
+00:00:07.516{"Messages":[{"Utc":"2023-09-22T02:15:10","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 10%"}]}
+00:04:44.028{"Messages":{"1":{"Utc":"2023-09-22T02:19:47","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:14:57.943{"Messages":{"2":{"Utc":"2023-09-22T02:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:20:10.096{"Messages":{"3":{"Utc":"2023-09-22T02:35:13","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) MISSED THE APEX OF TURN 16"}}}
+00:31:30.823{"Messages":{"4":{"Utc":"2023-09-22T02:46:33","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 17"}}}
+00:36:12.882{"Messages":{"5":{"Utc":"2023-09-22T02:51:15","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 9"}}}
+00:52:26.418{"Messages":{"6":{"Utc":"2023-09-22T03:07:29","Category":"CarEvent","RacingNumber":"24","Message":"CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 13"}}}
+01:12:57.451{"Messages":{"7":{"Utc":"2023-09-22T03:28:00","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 17"}}}
+01:14:57.950{"Messages":{"8":{"Utc":"2023-09-22T03:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:08.856{"Messages":{"9":{"Utc":"2023-09-22T03:30:11","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 55 (SAI)"}}}
+01:20:04.446{"Messages":{"10":{"Utc":"2023-09-22T03:35:07","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 11"}}}

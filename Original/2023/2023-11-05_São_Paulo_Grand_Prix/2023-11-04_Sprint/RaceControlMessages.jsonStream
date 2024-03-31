@@ -1,0 +1,10 @@
+00:05:17.476{"Messages":[{"Utc":"2023-11-04T17:41:21","Lap":1,"Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:23:56.417{"Messages":{"1":{"Utc":"2023-11-04T18:00:00","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:28:56.461{"Messages":{"2":{"Utc":"2023-11-04T18:05:00","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:39:06.391{"Messages":{"3":{"Utc":"2023-11-04T18:15:10","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 SPRINT IS 0 %"}}}
+00:51:00.805{"Messages":{"4":{"Utc":"2023-11-04T18:27:05","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:57:17.254{"Messages":{"5":{"Utc":"2023-11-04T18:33:21","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:58:33.300{"Messages":{"6":{"Utc":"2023-11-04T18:34:37","Lap":1,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:03:13.375{"Messages":{"7":{"Utc":"2023-11-04T18:39:17","Lap":5,"Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:03:56.078{"Messages":{"8":{"Utc":"2023-11-04T18:40:00","Lap":6,"Category":"Other","Message":"CAR 2 (SAR) TIME 1:18.311 DELETED - TRACK LIMITS AT TURN 1 LAP 5 15:38:43"}}}
+01:27:22.687{"Messages":{"9":{"Utc":"2023-11-04T19:03:26","Lap":24,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

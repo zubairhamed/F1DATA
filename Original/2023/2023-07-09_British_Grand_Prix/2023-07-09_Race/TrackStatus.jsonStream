@@ -1,0 +1,5 @@
+00:11:02.039{"Status":"1","Message":"AllClear"}
+01:51:46.307{"Status":"2","Message":"Yellow"}
+01:51:52.838{"Status":"6","Message":"VSCDeployed"}
+01:53:16.633{"Status":"4","Message":"SCDeployed"}
+02:05:50.823{"Status":"1","Message":"AllClear"}

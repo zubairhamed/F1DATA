@@ -1,0 +1,11 @@
+00:00:06.000{"Status":"Inactive"}
+00:11:43.909{"Status":"Started"}
+00:23:11.616{"Status":"Aborted"}
+00:36:47.649{"Status":"Inactive"}
+00:51:43.899{"Status":"Started"}
+01:01:43.732{"Status":"Finished"}
+01:06:54.070{"Status":"Inactive"}
+01:08:43.896{"Status":"Started"}
+01:16:43.842{"Status":"Finished"}
+01:26:14.707{"Status":"Finalised"}
+01:42:00.581{"Status":"Ends"}

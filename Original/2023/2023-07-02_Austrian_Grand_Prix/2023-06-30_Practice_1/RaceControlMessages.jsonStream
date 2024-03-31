@@ -1,0 +1,17 @@
+00:14:25.176{"Messages":[{"Utc":"2023-06-30T11:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:22:54.182{"Messages":{"1":{"Utc":"2023-06-30T11:38:29","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:23:01.088{"Messages":{"2":{"Utc":"2023-06-30T11:38:36","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:23:16.729{"Messages":{"3":{"Utc":"2023-06-30T11:38:52","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:54:47.211{"Messages":{"4":{"Utc":"2023-06-30T12:10:22","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:09:14.789{"Messages":{"5":{"Utc":"2023-06-30T12:24:50","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:14:25.174{"Messages":{"6":{"Utc":"2023-06-30T12:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:14:41.502{"Messages":{"7":{"Utc":"2023-06-30T12:30:17","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 55 (SAI)"}}}
+01:15:36.470{"Messages":{"8":{"Utc":"2023-06-30T12:31:12","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+01:15:38.954{"Messages":{"9":{"Utc":"2023-06-30T12:31:14","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+01:15:50.844{"Messages":{"10":{"Utc":"2023-06-30T12:31:26","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:19:36.559{"Messages":{"11":{"Utc":"2023-06-30T12:35:12","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:19:38.418{"Messages":{"12":{"Utc":"2023-06-30T12:35:14","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:19:40.403{"Messages":{"13":{"Utc":"2023-06-30T12:35:16","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:19:52.559{"Messages":{"14":{"Utc":"2023-06-30T12:35:28","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:20:04.012{"Messages":{"15":{"Utc":"2023-06-30T12:35:39","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:30:12.954{"Messages":{"16":{"Utc":"2023-06-30T12:45:48","Category":"Other","Message":"RISK OF RAIN FOR F3 QUALIFYING SESSION IS 20%"}}}

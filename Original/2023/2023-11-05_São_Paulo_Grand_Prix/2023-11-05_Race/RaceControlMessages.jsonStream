@@ -1,0 +1,51 @@
+00:03:57.411{"Messages":[{"Utc":"2023-11-05T16:04:57","Lap":1,"Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:09:02.157{"Messages":{"1":{"Utc":"2023-11-05T16:10:02","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:00.979{"Messages":{"2":{"Utc":"2023-11-05T16:20:01","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:44:08.930{"Messages":{"3":{"Utc":"2023-11-05T16:45:09","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 0 %"}}}
+00:56:04.781{"Messages":{"4":{"Utc":"2023-11-05T16:57:05","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:00:00.684{"Messages":{"5":{"Utc":"2023-11-05T17:01:00","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+01:00:13.903{"Messages":{"6":{"Utc":"2023-11-05T17:01:14","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:00:14.278{"Messages":{"7":{"Utc":"2023-11-05T17:01:14","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:00:46.277{"Messages":{"8":{"Utc":"2023-11-05T17:01:46","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:01:00.355{"Messages":{"9":{"Utc":"2023-11-05T17:02:00","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:01:15.183{"Messages":{"10":{"Utc":"2023-11-05T17:02:15","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:02:23.198{"Messages":{"11":{"Utc":"2023-11-05T17:03:23","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:02:32.276{"Messages":{"12":{"Utc":"2023-11-05T17:03:32","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:02:50.057{"Messages":{"13":{"Utc":"2023-11-05T17:03:50","Lap":1,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:03:04.417{"Messages":{"14":{"Utc":"2023-11-05T17:04:04","Lap":1,"Category":"SafetyCar","Status":"THROUGH THE PIT LANE","Mode":"SAFETY CAR","Message":"SAFETY CAR THROUGH THE PIT LANE"}}}
+01:05:35.459{"Messages":{"15":{"Utc":"2023-11-05T17:06:35","Lap":2,"Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:05:35.568{"Messages":{"16":{"Utc":"2023-11-05T17:06:35","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:14:39.609{"Messages":{"17":{"Utc":"2023-11-05T17:15:39","Lap":3,"Category":"Other","Message":"ORDER FOR RESTART: 1, 4, 44, 14, 18, 63, 11, 55, 31, 22, 10, 77, 24, 2, 27, 81, 3"}}}
+01:18:22.106{"Messages":{"18":{"Utc":"2023-11-05T17:19:22","Lap":3,"Category":"Other","Message":"PIT LANE ENTRY OPEN"}}}
+01:19:25.387{"Messages":{"19":{"Utc":"2023-11-05T17:20:25","Lap":3,"Category":"Other","Message":"RACE WILL RESUME AT 14:31"}}}
+01:23:57.165{"Messages":{"20":{"Utc":"2023-11-05T17:24:57","Lap":3,"Category":"Other","Message":"LAP 1 TURN 1 INCIDENT INVOLVING CARS 23 (ALB) AND 20 (MAG) NOTED - CAUSING A COLLISION"}}}
+01:26:51.522{"Messages":{"21":{"Utc":"2023-11-05T17:27:51","Lap":3,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:28:00.787{"Messages":{"22":{"Utc":"2023-11-05T17:29:01","Lap":3,"Category":"Other","Message":"RACE WILL RESUME AT 14:31 - STANDING START PROCEDURE"}}}
+01:29:46.067{"Messages":{"23":{"Utc":"2023-11-05T17:30:46","Lap":3,"Category":"Other","Message":"ALL CARS MAY OVERTAKE THE SAFETY CAR"}}}
+01:34:37.298{"Messages":{"24":{"Utc":"2023-11-05T17:35:37","Lap":5,"Category":"Other","Message":"FIA STEWARDS: LAP 1 TURN 1 INCIDENT INVOLVING CARS 23 (ALB) AND 20 (MAG) REVIEWED NO FURTHER INVESTIGATION - CAUSING A COLLISION"}}}
+01:35:37.563{"Messages":{"25":{"Utc":"2023-11-05T17:36:37","Lap":5,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:47:25.274{"Messages":{"26":{"Utc":"2023-11-05T17:48:25","Lap":15,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 14:48:24"}}}
+01:48:46.991{"Messages":{"27":{"Utc":"2023-11-05T17:49:47","Lap":16,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 14:49:46"}}}
+01:51:14.427{"Messages":{"28":{"Utc":"2023-11-05T17:52:14","Lap":18,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 14:52:14"}}}
+02:01:08.858{"Messages":{"29":{"Utc":"2023-11-05T18:02:09","Lap":26,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 15:02:08"}}}
+02:02:20.732{"Messages":{"30":{"Utc":"2023-11-05T18:03:20","Lap":27,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 15:03:20"}}}
+02:04:47.730{"Messages":{"31":{"Utc":"2023-11-05T18:05:47","Lap":28,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 15:05:47"}}}
+02:13:25.381{"Messages":{"32":{"Utc":"2023-11-05T18:14:25","Lap":35,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 15:14:25"}}}
+02:14:05.552{"Messages":{"33":{"Utc":"2023-11-05T18:15:05","Lap":36,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 15:15:05"}}}
+02:15:57.863{"Messages":{"34":{"Utc":"2023-11-05T18:16:58","Lap":37,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 15:16:57"}}}
+02:17:12.675{"Messages":{"35":{"Utc":"2023-11-05T18:18:12","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 15:18:12"}}}
+02:36:35.349{"Messages":{"36":{"Utc":"2023-11-05T18:37:35","Lap":54,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 15:37:35"}}}
+02:36:56.130{"Messages":{"37":{"Utc":"2023-11-05T18:37:56","Lap":54,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 15:37:55"}}}
+02:37:26.848{"Messages":{"38":{"Utc":"2023-11-05T18:38:27","Lap":54,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 15:38:26"}}}
+02:40:40.096{"Messages":{"39":{"Utc":"2023-11-05T18:41:40","Lap":57,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 15:41:39"}}}
+02:41:06.924{"Messages":{"40":{"Utc":"2023-11-05T18:42:07","Lap":57,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 15:42:06"}}}
+02:41:55.470{"Messages":{"41":{"Utc":"2023-11-05T18:42:55","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 15:42:55"}}}
+02:42:32.907{"Messages":{"42":{"Utc":"2023-11-05T18:43:33","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 15:43:32"}}}
+02:42:42.423{"Messages":{"43":{"Utc":"2023-11-05T18:43:42","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 15:43:42"}}}
+02:44:13.609{"Messages":{"44":{"Utc":"2023-11-05T18:45:13","Lap":59,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 15:45:13"}}}
+02:49:19.325{"Messages":{"45":{"Utc":"2023-11-05T18:50:19","Lap":63,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 15:50:19"}}}
+02:50:36.980{"Messages":{"46":{"Utc":"2023-11-05T18:51:37","Lap":65,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"81","Message":"WAVED BLUE FLAG FOR CAR 81 (PIA) TIMED AT 15:51:36"}}}
+02:50:53.495{"Messages":{"47":{"Utc":"2023-11-05T18:51:53","Lap":65,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 15:51:53"}}}
+02:52:41.869{"Messages":{"48":{"Utc":"2023-11-05T18:53:42","Lap":66,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"31","Message":"WAVED BLUE FLAG FOR CAR 31 (OCO) TIMED AT 15:53:41"}}}
+02:57:48.897{"Messages":{"49":{"Utc":"2023-11-05T18:58:49","Lap":70,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"31","Message":"WAVED BLUE FLAG FOR CAR 31 (OCO) TIMED AT 15:58:48"}}}
+02:59:11.833{"Messages":{"50":{"Utc":"2023-11-05T19:00:12","Lap":71,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

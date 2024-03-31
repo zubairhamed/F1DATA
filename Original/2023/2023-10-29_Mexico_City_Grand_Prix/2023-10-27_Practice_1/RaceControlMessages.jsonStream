@@ -1,0 +1,10 @@
+00:00:14.406{"Messages":[{"Utc":"2023-10-27T18:15:14","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:15:00.615{"Messages":{"1":{"Utc":"2023-10-27T18:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:26:00.904{"Messages":{"2":{"Utc":"2023-10-27T18:41:01","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:26:03.092{"Messages":{"3":{"Utc":"2023-10-27T18:41:03","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:26:06.498{"Messages":{"4":{"Utc":"2023-10-27T18:41:06","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:26:06.498{"Messages":{"5":{"Utc":"2023-10-27T18:41:06","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:26:23.795{"Messages":{"6":{"Utc":"2023-10-27T18:41:24","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:31:09.791{"Messages":{"7":{"Utc":"2023-10-27T18:46:10","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 12"}}}
+01:15:00.543{"Messages":{"8":{"Utc":"2023-10-27T19:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:15.558{"Messages":{"9":{"Utc":"2023-10-27T19:30:15","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 18 (STR)"}}}

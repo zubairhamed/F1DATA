@@ -1,0 +1,34 @@
+00:00:04.516{"Messages":[{"Utc":"2023-06-17T16:15:18","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 100 %"}]}
+00:02:27.951{"Messages":{"1":{"Utc":"2023-06-17T16:17:41","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:02:35.670{"Messages":{"2":{"Utc":"2023-06-17T16:17:49","Category":"Other","Message":"WET TRACK"}}}
+00:02:38.404{"Messages":{"3":{"Utc":"2023-06-17T16:17:52","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:02:40.685{"Messages":{"4":{"Utc":"2023-06-17T16:17:54","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:14:47.031{"Messages":{"5":{"Utc":"2023-06-17T16:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:21:52.118{"Messages":{"6":{"Utc":"2023-06-17T16:37:05","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 13"}}}
+00:22:22.242{"Messages":{"7":{"Utc":"2023-06-17T16:37:35","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+00:22:30.336{"Messages":{"8":{"Utc":"2023-06-17T16:37:43","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:22:31.742{"Messages":{"9":{"Utc":"2023-06-17T16:37:44","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:22:34.945{"Messages":{"10":{"Utc":"2023-06-17T16:37:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:23:04.944{"Messages":{"11":{"Utc":"2023-06-17T16:38:18","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) SPUN AND CONTINUED AT TURN 3"}}}
+00:26:40.706{"Messages":{"12":{"Utc":"2023-06-17T16:41:53","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 13"}}}
+00:27:17.487{"Messages":{"13":{"Utc":"2023-06-17T16:42:30","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 13"}}}
+00:29:39.375{"Messages":{"14":{"Utc":"2023-06-17T16:44:52","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 13"}}}
+00:30:58.483{"Messages":{"15":{"Utc":"2023-06-17T16:46:11","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) SPUN AND CONTINUED AT TURN 2"}}}
+00:33:18.434{"Messages":{"16":{"Utc":"2023-06-17T16:48:31","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 9"}}}
+00:34:06.589{"Messages":{"17":{"Utc":"2023-06-17T16:49:19","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 10"}}}
+00:38:58.584{"Messages":{"18":{"Utc":"2023-06-17T16:54:11","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 13"}}}
+00:39:52.989{"Messages":{"19":{"Utc":"2023-06-17T16:55:06","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:40:34.723{"Messages":{"20":{"Utc":"2023-06-17T16:55:47","Category":"Other","Message":"TURN 13 INCIDENT INVOLVING CAR 55 (SAI) NOTED - IMPEDING"}}}
+00:41:04.253{"Messages":{"21":{"Utc":"2023-06-17T16:56:17","Category":"Other","Message":"FIA STEWARDS: TURN 13 INCIDENT INVOLVING CAR 55 (SAI) WILL BE INVESTIGATED AFTER THE SESSION - IMPEDING"}}}
+00:42:33.127{"Messages":{"22":{"Utc":"2023-06-17T16:57:46","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:43:34.047{"Messages":{"23":{"Utc":"2023-06-17T16:58:47","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+00:43:57.641{"Messages":{"24":{"Utc":"2023-06-17T16:59:10","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:43:57.688{"Messages":{"25":{"Utc":"2023-06-17T16:59:10","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:50:31.868{"Messages":{"26":{"Utc":"2023-06-17T17:05:44","Category":"Other","Message":"SESSION WILL RESUME AT 13:07"}}}
+00:50:39.149{"Messages":{"27":{"Utc":"2023-06-17T17:05:52","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:51:47.101{"Messages":{"28":{"Utc":"2023-06-17T17:07:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:54:48.285{"Messages":{"29":{"Utc":"2023-06-17T17:10:01","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:57:58.532{"Messages":{"30":{"Utc":"2023-06-17T17:13:11","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 2"}}}
+01:01:57.403{"Messages":{"31":{"Utc":"2023-06-17T17:17:10","Category":"CarEvent","RacingNumber":"24","Message":"CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:02:08.356{"Messages":{"32":{"Utc":"2023-06-17T17:17:21","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 9"}}}
+01:14:47.030{"Messages":{"33":{"Utc":"2023-06-17T17:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

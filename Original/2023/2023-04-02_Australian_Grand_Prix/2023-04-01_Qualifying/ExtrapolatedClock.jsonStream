@@ -1,0 +1,11 @@
+00:00:03.953{"Utc":"2023-04-01T04:45:31.002Z","Remaining":"00:18:00","Extrapolating":false}
+00:14:33.943{"Utc":"2023-04-01T05:00:00.992Z","Remaining":"00:17:59","Extrapolating":true}
+00:20:49.954{"Utc":"2023-04-01T05:06:17.003Z","Remaining":"00:11:44","Extrapolating":false}
+00:28:33.949{"Utc":"2023-04-01T05:14:00.998Z","Remaining":"00:11:43","Extrapolating":true}
+00:40:16.957{"Utc":"2023-04-01T05:25:44.006Z","Remaining":"00:00:00","Extrapolating":false}
+00:45:33.953{"Utc":"2023-04-01T05:31:01.002Z","Remaining":"00:15:00"}
+00:47:33.952{"Utc":"2023-04-01T05:33:01.001Z","Remaining":"00:14:59","Extrapolating":true}
+01:02:32.957{"Utc":"2023-04-01T05:48:00.006Z","Remaining":"00:00:00","Extrapolating":false}
+01:08:33.953{"Utc":"2023-04-01T05:54:01.002Z","Remaining":"00:12:00"}
+01:10:33.951{"Utc":"2023-04-01T05:56:01Z","Remaining":"00:11:59","Extrapolating":true}
+01:22:32.943{"Utc":"2023-04-01T06:07:59.992Z","Remaining":"00:00:00","Extrapolating":false}

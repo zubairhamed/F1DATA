@@ -1,0 +1,35 @@
+00:00:14.989{"Messages":[{"Utc":"2023-09-01T14:45:15","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}]}
+00:04:49.062{"Messages":{"1":{"Utc":"2023-09-01T14:49:49","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.161{"Messages":{"2":{"Utc":"2023-09-01T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:18:19.626{"Messages":{"3":{"Utc":"2023-09-01T15:03:20","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:23:42.698{"Messages":{"4":{"Utc":"2023-09-01T15:08:43","Category":"Other","Message":"SESSION WILL RESUME AT 17:10"}}}
+00:24:00.620{"Messages":{"5":{"Utc":"2023-09-01T15:09:01","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:24:02.401{"Messages":{"6":{"Utc":"2023-09-01T15:09:02","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:25:00.197{"Messages":{"7":{"Utc":"2023-09-01T15:10:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:31:08.347{"Messages":{"8":{"Utc":"2023-09-01T15:16:08","Category":"CarEvent","RacingNumber":"81","Message":"CAR 81 (PIA) MISSED THE APEX OF TURN 5"}}}
+00:37:44.309{"Messages":{"9":{"Utc":"2023-09-01T15:22:44","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 5"}}}
+00:50:29.451{"Messages":{"10":{"Utc":"2023-09-01T15:35:29","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+00:50:30.967{"Messages":{"11":{"Utc":"2023-09-01T15:35:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:02:46.048{"Messages":{"12":{"Utc":"2023-09-01T15:47:46","Category":"CarEvent","RacingNumber":"40","Message":"CAR 40 (LAW) MISSED THE APEX OF TURN 5"}}}
+01:03:21.016{"Messages":{"13":{"Utc":"2023-09-01T15:48:21","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) MISSED THE APEX OF TURN 1"}}}
+01:03:52.953{"Messages":{"14":{"Utc":"2023-09-01T15:48:53","Category":"CarEvent","RacingNumber":"81","Message":"CAR 81 (PIA) MISSED THE APEX OF TURN 1"}}}
+01:05:36.326{"Messages":{"15":{"Utc":"2023-09-01T15:50:36","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:05:40.920{"Messages":{"16":{"Utc":"2023-09-01T15:50:41","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:05:41.451{"Messages":{"17":{"Utc":"2023-09-01T15:50:41","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":17,"Message":"DOUBLE YELLOW IN TRACK SECTOR 17"}}}
+01:06:01.248{"Messages":{"18":{"Utc":"2023-09-01T15:51:01","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:06:01.357{"Messages":{"19":{"Utc":"2023-09-01T15:51:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:06:01.373{"Messages":{"20":{"Utc":"2023-09-01T15:51:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:06:01.373{"Messages":{"21":{"Utc":"2023-09-01T15:51:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:10:01.196{"Messages":{"22":{"Utc":"2023-09-01T15:55:01","Category":"Other","Message":"SESSION WILL RESUME AT 17:56"}}}
+01:10:12.181{"Messages":{"23":{"Utc":"2023-09-01T15:55:12","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:10:13.524{"Messages":{"24":{"Utc":"2023-09-01T15:55:13","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:11:00.211{"Messages":{"25":{"Utc":"2023-09-01T15:56:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:03.239{"Messages":{"26":{"Utc":"2023-09-01T15:59:03","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 1"}}}
+01:15:00.222{"Messages":{"27":{"Utc":"2023-09-01T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:25.425{"Messages":{"28":{"Utc":"2023-09-01T16:00:25","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 23 (ALB)"}}}
+01:16:12.956{"Messages":{"29":{"Utc":"2023-09-01T16:01:13","Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:16:32.611{"Messages":{"30":{"Utc":"2023-09-01T16:01:33","Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+01:16:44.924{"Messages":{"31":{"Utc":"2023-09-01T16:01:45","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:17:11.892{"Messages":{"32":{"Utc":"2023-09-01T16:02:12","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:17:24.064{"Messages":{"33":{"Utc":"2023-09-01T16:02:24","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:17:26.501{"Messages":{"34":{"Utc":"2023-09-01T16:02:26","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}

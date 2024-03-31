@@ -1,0 +1,55 @@
+00:00:29.455{"Messages":[{"Utc":"2023-07-28T11:15:29","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 100%"}]}
+00:02:41.249{"Messages":{"1":{"Utc":"2023-07-28T11:17:41","Category":"Other","Message":"WET TRACK"}}}
+00:02:55.905{"Messages":{"2":{"Utc":"2023-07-28T11:17:56","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:02:57.827{"Messages":{"3":{"Utc":"2023-07-28T11:17:58","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:13:55.175{"Messages":{"4":{"Utc":"2023-07-28T11:28:55","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 13"}}}
+00:14:10.050{"Messages":{"5":{"Utc":"2023-07-28T11:29:10","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 12"}}}
+00:14:15.050{"Messages":{"6":{"Utc":"2023-07-28T11:29:15","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:14:18.128{"Messages":{"7":{"Utc":"2023-07-28T11:29:18","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 14"}}}
+00:14:24.784{"Messages":{"8":{"Utc":"2023-07-28T11:29:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:14:33.002{"Messages":{"9":{"Utc":"2023-07-28T11:29:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:14:49.112{"Messages":{"10":{"Utc":"2023-07-28T11:29:49","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 11"}}}
+00:15:00.205{"Messages":{"11":{"Utc":"2023-07-28T11:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:15:30.939{"Messages":{"12":{"Utc":"2023-07-28T11:30:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:21:32.573{"Messages":{"13":{"Utc":"2023-07-28T11:36:32","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":20,"Message":"DOUBLE YELLOW IN TRACK SECTOR 20"}}}
+00:21:42.807{"Messages":{"14":{"Utc":"2023-07-28T11:36:43","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+00:21:45.807{"Messages":{"15":{"Utc":"2023-07-28T11:36:46","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+00:21:48.667{"Messages":{"16":{"Utc":"2023-07-28T11:36:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:37:21.558{"Messages":{"17":{"Utc":"2023-07-28T11:52:21","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":20,"Message":"YELLOW IN TRACK SECTOR 20"}}}
+00:37:31.339{"Messages":{"18":{"Utc":"2023-07-28T11:52:31","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+00:37:44.089{"Messages":{"19":{"Utc":"2023-07-28T11:52:44","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:37:51.558{"Messages":{"20":{"Utc":"2023-07-28T11:52:51","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+00:37:54.526{"Messages":{"21":{"Utc":"2023-07-28T11:52:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+00:37:57.339{"Messages":{"22":{"Utc":"2023-07-28T11:52:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:42:36.412{"Messages":{"23":{"Utc":"2023-07-28T11:57:36","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+00:42:40.537{"Messages":{"24":{"Utc":"2023-07-28T11:57:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:43:10.661{"Messages":{"25":{"Utc":"2023-07-28T11:58:11","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) MISSED THE APEX OF TURN 5"}}}
+00:43:42.145{"Messages":{"26":{"Utc":"2023-07-28T11:58:42","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:43:50.723{"Messages":{"27":{"Utc":"2023-07-28T11:58:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:44:13.066{"Messages":{"28":{"Utc":"2023-07-28T11:59:13","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:44:18.176{"Messages":{"29":{"Utc":"2023-07-28T11:59:18","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:44:53.550{"Messages":{"30":{"Utc":"2023-07-28T11:59:54","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:44:55.441{"Messages":{"31":{"Utc":"2023-07-28T11:59:55","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:45:07.190{"Messages":{"32":{"Utc":"2023-07-28T12:00:07","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:45:07.362{"Messages":{"33":{"Utc":"2023-07-28T12:00:07","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:53:12.135{"Messages":{"34":{"Utc":"2023-07-28T12:08:12","Category":"Other","Message":"SESSION WILL RESUME AT 14:10"}}}
+00:53:37.541{"Messages":{"35":{"Utc":"2023-07-28T12:08:38","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:53:40.650{"Messages":{"36":{"Utc":"2023-07-28T12:08:41","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:55:00.149{"Messages":{"37":{"Utc":"2023-07-28T12:10:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.159{"Messages":{"38":{"Utc":"2023-07-28T12:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:16:00.455{"Messages":{"39":{"Utc":"2023-07-28T12:31:00","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 24 (ZHO)"}}}
+01:21:36.668{"Messages":{"40":{"Utc":"2023-07-28T12:36:37","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+01:21:43.136{"Messages":{"41":{"Utc":"2023-07-28T12:36:43","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+01:21:52.449{"Messages":{"42":{"Utc":"2023-07-28T12:36:52","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":20,"Message":"YELLOW IN TRACK SECTOR 20"}}}
+01:22:03.901{"Messages":{"43":{"Utc":"2023-07-28T12:37:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+01:22:40.932{"Messages":{"44":{"Utc":"2023-07-28T12:37:41","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:22:48.557{"Messages":{"45":{"Utc":"2023-07-28T12:37:48","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:23:24.338{"Messages":{"46":{"Utc":"2023-07-28T12:38:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:23:28.025{"Messages":{"47":{"Utc":"2023-07-28T12:38:28","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:24:33.539{"Messages":{"48":{"Utc":"2023-07-28T12:39:33","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:25:15.007{"Messages":{"49":{"Utc":"2023-07-28T12:40:15","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":20,"Message":"DOUBLE YELLOW IN TRACK SECTOR 20"}}}
+01:25:23.007{"Messages":{"50":{"Utc":"2023-07-28T12:40:23","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+01:25:37.210{"Messages":{"51":{"Utc":"2023-07-28T12:40:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:25:37.226{"Messages":{"52":{"Utc":"2023-07-28T12:40:37","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:28:14.879{"Messages":{"53":{"Utc":"2023-07-28T12:43:15","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:30:10.424{"Messages":{"54":{"Utc":"2023-07-28T12:45:10","Category":"Other","Message":"RISK OF RAIN FOR F3 QUALIFYING SESSION IS 60%"}}}

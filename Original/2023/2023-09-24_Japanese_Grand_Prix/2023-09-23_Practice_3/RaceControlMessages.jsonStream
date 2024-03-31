@@ -1,0 +1,8 @@
+00:00:10.141{"Messages":[{"Utc":"2023-09-23T02:15:10","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}]}
+00:05:11.622{"Messages":{"1":{"Utc":"2023-09-23T02:20:12","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.756{"Messages":{"2":{"Utc":"2023-09-23T02:30:01","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.669{"Messages":{"3":{"Utc":"2023-09-23T03:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:33.496{"Messages":{"4":{"Utc":"2023-09-23T03:30:33","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 31 (OCO)"}}}
+01:31:44.048{"Messages":{"5":{"Utc":"2023-09-23T03:46:44","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:31:53.704{"Messages":{"6":{"Utc":"2023-09-23T03:46:54","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:39:51.668{"Messages":{"7":{"Utc":"2023-09-23T03:54:51.716","Category":"Other","Message":"CARS 25 (MIZ) & 8 (JUK) - NO WORKING TRANSPONDER"}}}

@@ -1,0 +1,48 @@
+00:11:18.367{"Messages":[{"Utc":"2023-04-29T13:00:00","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:16:18.364{"Messages":{"1":{"Utc":"2023-04-29T13:05:00","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:26:28.528{"Messages":{"2":{"Utc":"2023-04-29T13:15:11","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 SPRINT IS 0%"}}}
+00:29:36.698{"Messages":{"3":{"Utc":"2023-04-29T13:18:19","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+00:29:37.729{"Messages":{"4":{"Utc":"2023-04-29T13:18:20","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:29:57.401{"Messages":{"5":{"Utc":"2023-04-29T13:18:40","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:29:57.432{"Messages":{"6":{"Utc":"2023-04-29T13:18:40","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:31:09.275{"Messages":{"7":{"Utc":"2023-04-29T13:19:51","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+00:31:10.369{"Messages":{"8":{"Utc":"2023-04-29T13:19:52","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:32:21.946{"Messages":{"9":{"Utc":"2023-04-29T13:21:04","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:32:21.962{"Messages":{"10":{"Utc":"2023-04-29T13:21:04","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:33:42.195{"Messages":{"11":{"Utc":"2023-04-29T13:22:24","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+00:33:43.289{"Messages":{"12":{"Utc":"2023-04-29T13:22:25","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:34:14.460{"Messages":{"13":{"Utc":"2023-04-29T13:22:57","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:34:14.492{"Messages":{"14":{"Utc":"2023-04-29T13:22:57","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:38:22.676{"Messages":{"15":{"Utc":"2023-04-29T13:27:05","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:45:16.515{"Messages":{"16":{"Utc":"2023-04-29T13:33:59","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:46:43.983{"Messages":{"17":{"Utc":"2023-04-29T13:35:26","Lap":1,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+00:46:57.030{"Messages":{"18":{"Utc":"2023-04-29T13:35:39","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+00:47:00.545{"Messages":{"19":{"Utc":"2023-04-29T13:35:43","Lap":1,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:47:00.842{"Messages":{"20":{"Utc":"2023-04-29T13:35:43","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:47:02.655{"Messages":{"21":{"Utc":"2023-04-29T13:35:45","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+00:47:03.233{"Messages":{"22":{"Utc":"2023-04-29T13:35:45","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:47:04.545{"Messages":{"23":{"Utc":"2023-04-29T13:35:47","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+00:47:05.858{"Messages":{"24":{"Utc":"2023-04-29T13:35:48","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:47:08.139{"Messages":{"25":{"Utc":"2023-04-29T13:35:50","Lap":2,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+00:47:09.030{"Messages":{"26":{"Utc":"2023-04-29T13:35:51","Lap":2,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:47:11.045{"Messages":{"27":{"Utc":"2023-04-29T13:35:53","Lap":2,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:47:17.358{"Messages":{"28":{"Utc":"2023-04-29T13:35:59","Lap":2,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+00:47:20.904{"Messages":{"29":{"Utc":"2023-04-29T13:36:03","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:47:21.623{"Messages":{"30":{"Utc":"2023-04-29T13:36:04","Lap":2,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 13"}}}
+00:47:32.139{"Messages":{"31":{"Utc":"2023-04-29T13:36:14","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:47:35.154{"Messages":{"32":{"Utc":"2023-04-29T13:36:17","Lap":2,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+00:48:10.888{"Messages":{"33":{"Utc":"2023-04-29T13:36:53","Lap":2,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:48:10.966{"Messages":{"34":{"Utc":"2023-04-29T13:36:53","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:48:10.982{"Messages":{"35":{"Utc":"2023-04-29T13:36:53","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:51:14.980{"Messages":{"36":{"Utc":"2023-04-29T13:39:57","Lap":3,"Category":"Other","Message":"INCIDENT INVOLVING CAR 22 (TSU) NOTED - RELEASED IN UNSAFE CONDITION"}}}
+00:51:23.589{"Messages":{"37":{"Utc":"2023-04-29T13:40:06","Lap":3,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+00:52:58.072{"Messages":{"38":{"Utc":"2023-04-29T13:41:40","Lap":4,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+00:53:07.260{"Messages":{"39":{"Utc":"2023-04-29T13:41:49","Lap":4,"Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CAR 22 (TSU) WILL BE INVESTIGATED AFTER THE RACE - RELEASED IN UNSAFE CONDITION"}}}
+00:54:07.462{"Messages":{"40":{"Utc":"2023-04-29T13:42:50","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:54:16.118{"Messages":{"41":{"Utc":"2023-04-29T13:42:58","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:54:26.790{"Messages":{"42":{"Utc":"2023-04-29T13:43:09","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:54:30.696{"Messages":{"43":{"Utc":"2023-04-29T13:43:13","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:55:08.086{"Messages":{"44":{"Utc":"2023-04-29T13:43:50","Lap":5,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+00:57:01.351{"Messages":{"45":{"Utc":"2023-04-29T13:45:43","Lap":5,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:59:23.005{"Messages":{"46":{"Utc":"2023-04-29T13:48:05","Lap":6,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:18:32.445{"Messages":{"47":{"Utc":"2023-04-29T14:07:15","Lap":17,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

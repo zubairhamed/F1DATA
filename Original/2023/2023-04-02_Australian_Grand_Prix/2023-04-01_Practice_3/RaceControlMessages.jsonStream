@@ -1,0 +1,45 @@
+00:00:18.416{"Messages":[{"Utc":"2023-04-01T01:15:18","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 30%"}]}
+00:03:23.522{"Messages":{"1":{"Utc":"2023-04-01T01:18:23","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:03:24.382{"Messages":{"2":{"Utc":"2023-04-01T01:18:24","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:03:26.272{"Messages":{"3":{"Utc":"2023-04-01T01:18:26","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:06:26.316{"Messages":{"4":{"Utc":"2023-04-01T01:21:26","Category":"Other","Message":"LIGHT BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.760{"Messages":{"5":{"Utc":"2023-04-01T01:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:44:16.619{"Messages":{"6":{"Utc":"2023-04-01T01:59:16","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+00:44:34.025{"Messages":{"7":{"Utc":"2023-04-01T01:59:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:44:47.962{"Messages":{"8":{"Utc":"2023-04-01T01:59:48","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 13"}}}
+00:47:43.553{"Messages":{"9":{"Utc":"2023-04-01T02:02:43","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:50:11.675{"Messages":{"10":{"Utc":"2023-04-01T02:05:11","Category":"Other","Message":"SESSION WILL RESUME AT 13:06"}}}
+00:50:13.550{"Messages":{"11":{"Utc":"2023-04-01T02:05:13","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:50:14.769{"Messages":{"12":{"Utc":"2023-04-01T02:05:14","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:51:00.799{"Messages":{"13":{"Utc":"2023-04-01T02:06:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:53:11.422{"Messages":{"14":{"Utc":"2023-04-01T02:08:11","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:03:03.739{"Messages":{"15":{"Utc":"2023-04-01T02:16:07","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:03:03.771{"Messages":{"16":{"Utc":"2023-04-01T02:16:08","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:03:03.802{"Messages":{"17":{"Utc":"2023-04-01T02:16:20","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+01:03:03.833{"Messages":{"18":{"Utc":"2023-04-01T02:16:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:03:03.849{"Messages":{"19":{"Utc":"2023-04-01T02:16:22","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:03:03.880{"Messages":{"20":{"Utc":"2023-04-01T02:16:23","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:03:03.911{"Messages":{"21":{"Utc":"2023-04-01T02:16:29","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:03:03.942{"Messages":{"22":{"Utc":"2023-04-01T02:16:33","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+01:03:03.974{"Messages":{"23":{"Utc":"2023-04-01T02:16:57","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+01:03:04.005{"Messages":{"24":{"Utc":"2023-04-01T02:16:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+01:03:04.036{"Messages":{"25":{"Utc":"2023-04-01T02:16:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:03:04.067{"Messages":{"26":{"Utc":"2023-04-01T02:16:58","Category":"CarEvent","RacingNumber":"24","Message":"CAR 24 (ZHO) SPUN AND CONTINUED AT TURN 2"}}}
+01:04:08.676{"Messages":{"27":{"Utc":"2023-04-01T02:19:08","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:04:14.972{"Messages":{"28":{"Utc":"2023-04-01T02:19:15","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:10:56.637{"Messages":{"29":{"Utc":"2023-04-01T02:25:56","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:10:57.840{"Messages":{"30":{"Utc":"2023-04-01T02:25:57","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:10:58.106{"Messages":{"31":{"Utc":"2023-04-01T02:25:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:10:58.231{"Messages":{"32":{"Utc":"2023-04-01T02:25:58","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+01:13:09.900{"Messages":{"33":{"Utc":"2023-04-01T02:28:09","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 2"}}}
+01:13:23.525{"Messages":{"34":{"Utc":"2023-04-01T02:28:23","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:14:26.352{"Messages":{"35":{"Utc":"2023-04-01T02:29:26","Category":"Other","Message":"WET TRACK"}}}
+01:15:00.758{"Messages":{"36":{"Utc":"2023-04-01T02:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:25.788{"Messages":{"37":{"Utc":"2023-04-01T02:30:25","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 16 (LEC)"}}}
+01:17:13.802{"Messages":{"38":{"Utc":"2023-04-01T02:32:13","Category":"Other","Message":"INCIDENT INVOLVING CAR 81 (PIA) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS – PRACTICE START INFRINGEMENT"}}}
+01:17:37.895{"Messages":{"39":{"Utc":"2023-04-01T02:32:37","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CAR 81 (PIA) UNDER INVESTIGATION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS – PRACTICE START INFRINGEMENT"}}}
+01:17:49.833{"Messages":{"40":{"Utc":"2023-04-01T02:32:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:26:30.089{"Messages":{"41":{"Utc":"2023-04-01T02:41:30","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 7"}}}
+01:26:34.745{"Messages":{"42":{"Utc":"2023-04-01T02:41:34","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:26:40.354{"Messages":{"43":{"Utc":"2023-04-01T02:41:40","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 5"}}}
+01:26:48.964{"Messages":{"44":{"Utc":"2023-04-01T02:41:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}

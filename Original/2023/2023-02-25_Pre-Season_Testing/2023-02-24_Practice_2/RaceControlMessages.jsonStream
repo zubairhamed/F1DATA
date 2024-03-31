@@ -1,0 +1,56 @@
+00:04:29.984{"Messages":[{"Utc":"2023-02-24T06:45:11","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}]}
+00:05:59.748{"Messages":{"1":{"Utc":"2023-02-24T06:57:05","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:08:55.276{"Messages":{"2":{"Utc":"2023-02-24T07:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+04:08:58.158{"Messages":{"3":{"Utc":"2023-02-24T11:00:03","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+04:09:01.408{"Messages":{"4":{"Utc":"2023-02-24T11:00:06","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+04:09:23.282{"Messages":{"5":{"Utc":"2023-02-24T11:00:28","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+04:12:05.217{"Messages":{"6":{"Utc":"2023-02-24T11:03:10","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+04:14:10.668{"Messages":{"7":{"Utc":"2023-02-24T11:05:16","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+04:16:08.369{"Messages":{"8":{"Utc":"2023-02-24T11:07:13","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+04:16:29.274{"Messages":{"9":{"Utc":"2023-02-24T11:07:34","Category":"Other","Message":"STANDING START PROCEDURE"}}}
+04:18:51.366{"Messages":{"10":{"Utc":"2023-02-24T11:09:56","Category":"Other","Message":"START ABORTED - EXTRA FORMATION LAP"}}}
+04:19:40.958{"Messages":{"11":{"Utc":"2023-02-24T11:10:46","Category":"Other","Message":"STANDING START PROCEDURE"}}}
+04:22:27.424{"Messages":{"12":{"Utc":"2023-02-24T11:13:32","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+04:24:04.126{"Messages":{"13":{"Utc":"2023-02-24T11:15:09","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE THE SESSION = 31.1 DEGREES"}}}
+04:26:14.061{"Messages":{"14":{"Utc":"2023-02-24T11:17:19","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+05:09:30.400{"Messages":{"15":{"Utc":"2023-02-24T12:00:35","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}}}
+05:23:02.682{"Messages":{"16":{"Utc":"2023-02-24T12:14:08","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+05:23:02.682{"Messages":{"17":{"Utc":"2023-02-24T12:14:08","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+05:23:55.213{"Messages":{"18":{"Utc":"2023-02-24T12:15:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+05:23:55.213{"Messages":{"19":{"Utc":"2023-02-24T12:15:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+08:02:20.525{"Messages":{"20":{"Utc":"2023-02-24T14:53:25","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+08:02:20.525{"Messages":{"21":{"Utc":"2023-02-24T14:53:25","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+08:21:42.489{"Messages":{"22":{"Utc":"2023-02-24T15:12:47","Category":"Other","Message":"SESSION WILL RESUME AT 18:14"}}}
+08:21:42.489{"Messages":{"23":{"Utc":"2023-02-24T15:12:47","Category":"Other","Message":"SESSION WILL RESUME AT 18:14"}}}
+08:21:50.270{"Messages":{"24":{"Utc":"2023-02-24T15:12:55","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+08:21:50.270{"Messages":{"25":{"Utc":"2023-02-24T15:12:55","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+08:22:55.269{"Messages":{"26":{"Utc":"2023-02-24T15:14:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+08:22:55.269{"Messages":{"27":{"Utc":"2023-02-24T15:14:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+08:25:06.501{"Messages":{"28":{"Utc":"2023-02-24T15:16:11","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+08:25:06.516{"Messages":{"29":{"Utc":"2023-02-24T15:16:11","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+09:24:06.687{"Messages":{"30":{"Utc":"2023-02-24T16:15:12","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+09:24:06.687{"Messages":{"31":{"Utc":"2023-02-24T16:15:12","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+09:24:07.968{"Messages":{"32":{"Utc":"2023-02-24T16:15:13","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+09:24:07.968{"Messages":{"33":{"Utc":"2023-02-24T16:15:13","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+09:24:08.702{"Messages":{"34":{"Utc":"2023-02-24T16:15:14","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+09:24:08.702{"Messages":{"35":{"Utc":"2023-02-24T16:15:14","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+09:24:35.703{"Messages":{"36":{"Utc":"2023-02-24T16:15:41","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+09:24:35.718{"Messages":{"37":{"Utc":"2023-02-24T16:15:41","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+09:27:16.496{"Messages":{"38":{"Utc":"2023-02-24T16:18:21","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:27:16.496{"Messages":{"39":{"Utc":"2023-02-24T16:18:21","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:28:42.244{"Messages":{"40":{"Utc":"2023-02-24T16:19:47","Category":"Other","Message":"FORMATION LAP AT 19:21"}}}
+09:28:42.244{"Messages":{"41":{"Utc":"2023-02-24T16:19:47","Category":"Other","Message":"FORMATION LAP AT 19:21"}}}
+09:28:47.620{"Messages":{"42":{"Utc":"2023-02-24T16:19:53","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+09:28:47.620{"Messages":{"43":{"Utc":"2023-02-24T16:19:53","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+09:30:00.587{"Messages":{"44":{"Utc":"2023-02-24T16:21:06","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+09:30:00.587{"Messages":{"45":{"Utc":"2023-02-24T16:21:06","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+09:30:44.742{"Messages":{"46":{"Utc":"2023-02-24T16:21:50","Category":"Other","Message":"STANDING START PROCEDURE"}}}
+09:30:44.742{"Messages":{"47":{"Utc":"2023-02-24T16:21:50","Category":"Other","Message":"STANDING START PROCEDURE"}}}
+09:33:17.896{"Messages":{"48":{"Utc":"2023-02-24T16:24:23","Category":"Other","Message":"START ABORTED - EXTRA FORMATION LAP"}}}
+09:33:17.896{"Messages":{"49":{"Utc":"2023-02-24T16:24:23","Category":"Other","Message":"START ABORTED - EXTRA FORMATION LAP"}}}
+09:33:55.098{"Messages":{"50":{"Utc":"2023-02-24T16:25:00","Category":"Other","Message":"STANDING START PROCEDURE"}}}
+09:33:55.098{"Messages":{"51":{"Utc":"2023-02-24T16:25:00","Category":"Other","Message":"STANDING START PROCEDURE"}}}
+09:36:45.720{"Messages":{"52":{"Utc":"2023-02-24T16:27:51","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:36:45.720{"Messages":{"53":{"Utc":"2023-02-24T16:27:51","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:38:53.671{"Messages":{"54":{"Utc":"2023-02-24T16:29:59","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+09:38:53.671{"Messages":{"55":{"Utc":"2023-02-24T16:29:59","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

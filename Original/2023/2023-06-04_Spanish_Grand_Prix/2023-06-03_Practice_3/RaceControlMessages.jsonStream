@@ -1,0 +1,15 @@
+00:01:09.827{"Messages":[{"Utc":"2023-06-03T10:16:22","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:14:48.344{"Messages":{"1":{"Utc":"2023-06-03T10:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:17:43.763{"Messages":{"2":{"Utc":"2023-06-03T10:32:55","Category":"Other","Message":"WET TRACK"}}}
+00:23:19.866{"Messages":{"3":{"Utc":"2023-06-03T10:38:32","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:27:28.112{"Messages":{"4":{"Utc":"2023-06-03T10:42:40","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:30:50.592{"Messages":{"5":{"Utc":"2023-06-03T10:46:02","Category":"Other","Message":"SESSION WILL RESUME AT 12:47"}}}
+00:30:58.014{"Messages":{"6":{"Utc":"2023-06-03T10:46:10","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:30:59.561{"Messages":{"7":{"Utc":"2023-06-03T10:46:11","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:31:48.326{"Messages":{"8":{"Utc":"2023-06-03T10:47:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:05:54.805{"Messages":{"9":{"Utc":"2023-06-03T11:21:06","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 5"}}}
+01:11:00.612{"Messages":{"10":{"Utc":"2023-06-03T11:26:12","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:14:17.874{"Messages":{"11":{"Utc":"2023-06-03T11:29:30","Category":"Other","Message":"TURN 12 INCIDENT INVOLVING CARS 21 (DEV) AND 55 (SAI) NOTED - IMPEDING"}}}
+01:14:48.389{"Messages":{"12":{"Utc":"2023-06-03T11:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:12.951{"Messages":{"13":{"Utc":"2023-06-03T11:30:25","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 18 (STR)"}}}
+01:19:59.946{"Messages":{"14":{"Utc":"2023-06-03T11:35:12","Category":"Other","Message":"FIA STEWARDS: TURN 12 INCIDENT INVOLVING CARS 21 (DEV) AND 55 (SAI) REVIEWED NO FURTHER INVESTIGATION - IMPEDING"}}}

@@ -1,0 +1,18 @@
+00:00:18.109{"Messages":[{"Utc":"2023-09-22T05:45:20","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 10%"}]}
+00:14:58.375{"Messages":{"1":{"Utc":"2023-09-22T06:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:12:15.814{"Messages":{"2":{"Utc":"2023-09-22T06:57:18","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":10,"Message":"DOUBLE YELLOW IN TRACK SECTOR 10"}}}
+01:12:18.189{"Messages":{"3":{"Utc":"2023-09-22T06:57:20","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+01:12:22.564{"Messages":{"4":{"Utc":"2023-09-22T06:57:25","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:12:31.032{"Messages":{"5":{"Utc":"2023-09-22T06:57:33","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:12:31.048{"Messages":{"6":{"Utc":"2023-09-22T06:57:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:12:31.064{"Messages":{"7":{"Utc":"2023-09-22T06:57:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:12:45.470{"Messages":{"8":{"Utc":"2023-09-22T06:57:48","Category":"Other","Message":"SESSION WILL NOT BE RESUMED"}}}
+01:13:16.688{"Messages":{"9":{"Utc":"2023-09-22T06:58:19","Category":"Other","Message":"NO PRACTICE STARTS"}}}
+01:16:46.137{"Messages":{"10":{"Utc":"2023-09-22T07:01:48","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:34:56.962{"Messages":{"11":{"Utc":"2023-09-22T07:19:59","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:35:04.571{"Messages":{"12":{"Utc":"2023-09-22T07:20:07","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:35:07.368{"Messages":{"13":{"Utc":"2023-09-22T07:20:10","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:35:12.633{"Messages":{"14":{"Utc":"2023-09-22T07:20:15","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:35:18.118{"Messages":{"15":{"Utc":"2023-09-22T07:20:20","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:35:29.399{"Messages":{"16":{"Utc":"2023-09-22T07:20:32","Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:35:34.102{"Messages":{"17":{"Utc":"2023-09-22T07:20:36","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

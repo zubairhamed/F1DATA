@@ -1,0 +1,14 @@
+00:00:08.109{"Messages":[{"Utc":"2023-05-06T16:15:08","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}]}
+00:07:04.526{"Messages":{"1":{"Utc":"2023-05-06T16:22:04","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.458{"Messages":{"2":{"Utc":"2023-05-06T16:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:37:10.287{"Messages":{"3":{"Utc":"2023-05-06T16:52:10","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:37:11.256{"Messages":{"4":{"Utc":"2023-05-06T16:52:11","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:37:11.897{"Messages":{"5":{"Utc":"2023-05-06T16:52:11","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:37:11.912{"Messages":{"6":{"Utc":"2023-05-06T16:52:11","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:37:36.443{"Messages":{"7":{"Utc":"2023-05-06T16:52:36","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 17"}}}
+00:41:39.112{"Messages":{"8":{"Utc":"2023-05-06T16:56:39","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 17"}}}
+00:41:48.722{"Messages":{"9":{"Utc":"2023-05-06T16:56:48","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 7"}}}
+00:57:50.820{"Messages":{"10":{"Utc":"2023-05-06T17:12:50","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 4"}}}
+01:15:00.449{"Messages":{"11":{"Utc":"2023-05-06T17:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:28.855{"Messages":{"12":{"Utc":"2023-05-06T17:30:28","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 21 (DEV)"}}}
+01:17:53.057{"Messages":{"13":{"Utc":"2023-05-06T17:32:52","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) MISSED THE APEX OF TURN 15"}}}

@@ -1,0 +1,5 @@
+00:00:12.984{"Messages":[{"Utc":"2023-06-02T14:45:14","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 10%"}]}
+00:14:59.193{"Messages":{"1":{"Utc":"2023-06-02T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:28:38.324{"Messages":{"2":{"Utc":"2023-06-02T15:13:39","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 10"}}}
+01:14:59.292{"Messages":{"3":{"Utc":"2023-06-02T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:14.011{"Messages":{"4":{"Utc":"2023-06-02T16:00:15","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 63 (RUS)"}}}

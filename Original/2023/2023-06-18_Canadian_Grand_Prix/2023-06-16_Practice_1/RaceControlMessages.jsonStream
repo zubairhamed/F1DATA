@@ -1,0 +1,11 @@
+00:00:11.007{"Messages":[{"Utc":"2023-06-16T17:15:12","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 30%"}]}
+00:05:12.613{"Messages":{"1":{"Utc":"2023-06-16T17:20:14","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:14:58.810{"Messages":{"2":{"Utc":"2023-06-16T17:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:17:47.152{"Messages":{"3":{"Utc":"2023-06-16T17:32:48","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:17:48.214{"Messages":{"4":{"Utc":"2023-06-16T17:32:49","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:18:16.354{"Messages":{"5":{"Utc":"2023-06-16T17:33:17","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+00:18:18.573{"Messages":{"6":{"Utc":"2023-06-16T17:33:19","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:19:14.682{"Messages":{"7":{"Utc":"2023-06-16T17:34:16","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:19:14.822{"Messages":{"8":{"Utc":"2023-06-16T17:34:16","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:19:14.838{"Messages":{"9":{"Utc":"2023-06-16T17:34:16","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:04:59.947{"Messages":{"10":{"Utc":"2023-06-16T18:20:01","Category":"Other","Message":"SESSION WILL NOT BE RESUMED"}}}

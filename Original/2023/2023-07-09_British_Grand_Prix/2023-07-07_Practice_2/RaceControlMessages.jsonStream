@@ -1,0 +1,14 @@
+00:02:50.396{"Messages":[{"Utc":"2023-07-07T14:55:25","Category":"Other","Message":"START OF FREE PRACTICE 2 WILL BE DELAYED"}]}
+00:09:58.219{"Messages":{"1":{"Utc":"2023-07-07T15:02:33","Category":"Other","Message":"FREE PRACTICE 2 WILL START AT 16:05"}}}
+00:12:25.264{"Messages":{"2":{"Utc":"2023-07-07T15:05:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:26.994{"Messages":{"3":{"Utc":"2023-07-07T15:12:02","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 16"}}}
+01:12:25.239{"Messages":{"4":{"Utc":"2023-07-07T16:05:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:12:44.879{"Messages":{"5":{"Utc":"2023-07-07T16:05:20","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+01:12:48.239{"Messages":{"6":{"Utc":"2023-07-07T16:05:23","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 2 (SAR)"}}}
+01:13:01.067{"Messages":{"7":{"Utc":"2023-07-07T16:05:36","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:13:23.051{"Messages":{"8":{"Utc":"2023-07-07T16:05:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:13:27.551{"Messages":{"9":{"Utc":"2023-07-07T16:06:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:16:08.455{"Messages":{"10":{"Utc":"2023-07-07T16:08:43","Category":"Other","Message":"DRIVERS BRIEFING TIME 1.5 HOURS AFTER CHEQUERED FLAG -18:35"}}}
+01:17:28.954{"Messages":{"11":{"Utc":"2023-07-07T16:10:04","Category":"Other","Message":"COVERS ON TIME 2 HOURS AFTER CHEQUERED FLAG - 20:05"}}}
+01:20:02.171{"Messages":{"12":{"Utc":"2023-07-07T16:12:37","Category":"Other","Message":"CORRECTION: COVERS ON TIME 2 HOURS AFTER CHEQUERED FLAG - 19:05"}}}
+01:20:39.140{"Messages":{"13":{"Utc":"2023-07-07T16:13:14","Category":"Other","Message":"PARC FERME TIME 3 HOURS AFTER CHEQUERED FLAG - 20:05"}}}

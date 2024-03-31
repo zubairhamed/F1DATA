@@ -1,0 +1,15 @@
+00:00:00.000{"Series":[],"StatusSeries":[{"Utc":"2023-07-22T13:45:46.748Z","TrackStatus":"Yellow"}]}
+00:00:04.464{"Series":{"0":{"Utc":"2023-07-22T13:45:51.498Z","QualifyingPart":1}}}
+00:02:15.791{"StatusSeries":{"1":{"Utc":"2023-07-22T13:48:02.825Z","TrackStatus":"AllClear"}}}
+00:14:13.064{"StatusSeries":{"2":{"Utc":"2023-07-22T14:00:00.098Z","SessionStatus":"Started"}}}
+00:32:13.083{"StatusSeries":{"3":{"Utc":"2023-07-22T14:18:00.117Z","SessionStatus":"Finished"}}}
+00:37:12.892{"Series":{"1":{"Utc":"2023-07-22T14:22:59.926Z","QualifyingPart":2}}}
+00:37:18.220{"StatusSeries":{"4":{"Utc":"2023-07-22T14:23:05.254Z","SessionStatus":"Inactive"}}}
+00:39:13.032{"StatusSeries":{"5":{"Utc":"2023-07-22T14:25:00.066Z","SessionStatus":"Started"}}}
+00:54:13.053{"StatusSeries":{"6":{"Utc":"2023-07-22T14:40:00.087Z","SessionStatus":"Finished"}}}
+01:00:12.502{"Series":{"2":{"Utc":"2023-07-22T14:45:59.536Z","QualifyingPart":3}}}
+01:00:33.142{"StatusSeries":{"7":{"Utc":"2023-07-22T14:46:20.176Z","SessionStatus":"Inactive"}}}
+01:02:13.032{"StatusSeries":{"8":{"Utc":"2023-07-22T14:48:00.066Z","SessionStatus":"Started"}}}
+01:14:13.086{"StatusSeries":{"9":{"Utc":"2023-07-22T15:00:00.12Z","SessionStatus":"Finished"}}}
+01:18:31.693{"StatusSeries":{"10":{"Utc":"2023-07-22T15:04:18.727Z","SessionStatus":"Finalised"}}}
+01:18:31.693{"StatusSeries":{"11":{"Utc":"2023-07-22T15:04:18.727Z","SessionStatus":"Ends"}}}

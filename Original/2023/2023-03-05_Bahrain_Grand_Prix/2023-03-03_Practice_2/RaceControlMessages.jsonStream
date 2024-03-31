@@ -1,0 +1,15 @@
+00:00:13.812{"Messages":[{"Utc":"2023-03-03T14:45:14","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}]}
+00:15:00.426{"Messages":{"1":{"Utc":"2023-03-03T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:26:12.824{"Messages":{"2":{"Utc":"2023-03-03T15:11:12","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:26:13.903{"Messages":{"3":{"Utc":"2023-03-03T15:11:13","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:26:21.902{"Messages":{"4":{"Utc":"2023-03-03T15:11:21","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:26:21.918{"Messages":{"5":{"Utc":"2023-03-03T15:11:21","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:26:30.434{"Messages":{"6":{"Utc":"2023-03-03T15:11:30","Category":"CarEvent","RacingNumber":"81","Message":"CAR 81 (PIA) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:41:35.110{"Messages":{"7":{"Utc":"2023-03-03T15:26:35","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 4 (NOR) AND 22 (TSU) NOTED - UNSAFE RELEASE"}}}
+00:43:30.704{"Messages":{"8":{"Utc":"2023-03-03T15:28:30","Category":"Other","Message":"CORRECTION: PIT LANE INCIDENT INVOLVING CARS 4 (NOR) AND 21 (DEV) NOTED - UNSAFE RELEASE"}}}
+00:54:59.429{"Messages":{"9":{"Utc":"2023-03-03T15:39:59","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 10"}}}
+00:56:00.913{"Messages":{"10":{"Utc":"2023-03-03T15:41:00","Category":"Other","Message":"FIA STEWARDS: PIT LANE INCIDENT INVOLVING CARS 4 (NOR) AND 21 (DEV) WILL BE INVESTIGATED AFTER THE SESSION - UNSAFE RELEASE"}}}
+00:59:46.348{"Messages":{"11":{"Utc":"2023-03-03T15:44:46","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 10"}}}
+01:15:00.337{"Messages":{"12":{"Utc":"2023-03-03T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:15.915{"Messages":{"13":{"Utc":"2023-03-03T16:00:15","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 10 (GAS)"}}}
+01:30:17.561{"Messages":{"14":{"Utc":"2023-03-03T16:15:17","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 0%"}}}

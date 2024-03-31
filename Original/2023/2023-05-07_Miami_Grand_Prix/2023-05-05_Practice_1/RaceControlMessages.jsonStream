@@ -1,0 +1,38 @@
+00:01:29.187{"Messages":[{"Utc":"2023-05-05T17:47:46","Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}]}
+00:03:26.717{"Messages":{"1":{"Utc":"2023-05-05T17:49:43","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:09:21.541{"Messages":{"2":{"Utc":"2023-05-05T17:55:38","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:13:43.788{"Messages":{"3":{"Utc":"2023-05-05T18:00:01","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:21:00.580{"Messages":{"4":{"Utc":"2023-05-05T18:07:17","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:22:31.141{"Messages":{"5":{"Utc":"2023-05-05T18:08:48","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:22:37.438{"Messages":{"6":{"Utc":"2023-05-05T18:08:54","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+00:22:41.625{"Messages":{"7":{"Utc":"2023-05-05T18:08:58","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+00:22:42.782{"Messages":{"8":{"Utc":"2023-05-05T18:09:00","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:22:46.469{"Messages":{"9":{"Utc":"2023-05-05T18:09:03","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+00:23:00.953{"Messages":{"10":{"Utc":"2023-05-05T18:09:18","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+00:23:04.250{"Messages":{"11":{"Utc":"2023-05-05T18:09:21","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+00:23:08.656{"Messages":{"12":{"Utc":"2023-05-05T18:09:25","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:23:08.656{"Messages":{"13":{"Utc":"2023-05-05T18:09:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:23:08.672{"Messages":{"14":{"Utc":"2023-05-05T18:09:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:23:08.703{"Messages":{"15":{"Utc":"2023-05-05T18:09:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:23:37.500{"Messages":{"16":{"Utc":"2023-05-05T18:09:54","Category":"Other","Message":"TURN 11 INCIDENT INVOLVING CAR 21 (DEV) NOTED - DANGEROUS DRIVING"}}}
+00:28:14.294{"Messages":{"17":{"Utc":"2023-05-05T18:14:31","Category":"Other","Message":"FIA STEWARDS: TURN 11 INCIDENT INVOLVING CAR 21 (DEV) REVIEWED NO FURTHER INVESTIGATION - DANGEROUS DRIVING"}}}
+00:29:25.793{"Messages":{"18":{"Utc":"2023-05-05T18:15:43","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 11"}}}
+00:35:24.086{"Messages":{"19":{"Utc":"2023-05-05T18:21:41","Category":"CarEvent","RacingNumber":"81","Message":"CAR 81 (PIA) OFF TRACK AND CONTINUED AT TURN 15"}}}
+00:44:32.642{"Messages":{"20":{"Utc":"2023-05-05T18:30:49","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 6"}}}
+00:47:04.859{"Messages":{"21":{"Utc":"2023-05-05T18:33:22","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:54:54.464{"Messages":{"22":{"Utc":"2023-05-05T18:41:11","Category":"Other","Message":"SESSION WILL RESUME AT 14:42"}}}
+00:55:00.963{"Messages":{"23":{"Utc":"2023-05-05T18:41:18","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:55:02.760{"Messages":{"24":{"Utc":"2023-05-05T18:41:20","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:55:43.900{"Messages":{"25":{"Utc":"2023-05-05T18:42:01","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:05:03.363{"Messages":{"26":{"Utc":"2023-05-05T18:51:20","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+01:05:04.441{"Messages":{"27":{"Utc":"2023-05-05T18:51:21","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:05:10.581{"Messages":{"28":{"Utc":"2023-05-05T18:51:27","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:05:10.581{"Messages":{"29":{"Utc":"2023-05-05T18:51:27","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:05:40.831{"Messages":{"30":{"Utc":"2023-05-05T18:51:58","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 17"}}}
+01:06:46.893{"Messages":{"31":{"Utc":"2023-05-05T18:53:04","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:11:31.937{"Messages":{"32":{"Utc":"2023-05-05T18:57:49","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 6"}}}
+01:12:03.358{"Messages":{"33":{"Utc":"2023-05-05T18:58:20","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 6"}}}
+01:13:43.841{"Messages":{"34":{"Utc":"2023-05-05T19:00:01","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:14:03.966{"Messages":{"35":{"Utc":"2023-05-05T19:00:21","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 14 (ALO)"}}}
+01:20:41.696{"Messages":{"36":{"Utc":"2023-05-05T19:06:58","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:20:56.571{"Messages":{"37":{"Utc":"2023-05-05T19:07:13","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}

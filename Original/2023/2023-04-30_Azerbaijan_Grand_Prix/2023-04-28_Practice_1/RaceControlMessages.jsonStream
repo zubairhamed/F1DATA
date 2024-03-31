@@ -1,0 +1,83 @@
+00:00:11.328{"Messages":[{"Utc":"2023-04-28T09:15:11","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:05:23.340{"Messages":{"1":{"Utc":"2023-04-28T09:20:23","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:06:47.496{"Messages":{"2":{"Utc":"2023-04-28T09:21:47","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.475{"Messages":{"3":{"Utc":"2023-04-28T09:30:01","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:16:50.723{"Messages":{"4":{"Utc":"2023-04-28T09:31:51","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 14"}}}
+00:16:53.598{"Messages":{"5":{"Utc":"2023-04-28T09:31:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:18:24.082{"Messages":{"6":{"Utc":"2023-04-28T09:33:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:18:25.175{"Messages":{"7":{"Utc":"2023-04-28T09:33:25","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:18:26.753{"Messages":{"8":{"Utc":"2023-04-28T09:33:27","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:18:26.816{"Messages":{"9":{"Utc":"2023-04-28T09:33:27","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:18:37.488{"Messages":{"10":{"Utc":"2023-04-28T09:33:38","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:19:26.878{"Messages":{"11":{"Utc":"2023-04-28T09:34:27","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:19:27.956{"Messages":{"12":{"Utc":"2023-04-28T09:34:28","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:19:29.800{"Messages":{"13":{"Utc":"2023-04-28T09:34:30","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:19:29.815{"Messages":{"14":{"Utc":"2023-04-28T09:34:30","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:19:40.862{"Messages":{"15":{"Utc":"2023-04-28T09:34:41","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:20:29.736{"Messages":{"16":{"Utc":"2023-04-28T09:35:30","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:20:30.846{"Messages":{"17":{"Utc":"2023-04-28T09:35:31","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:20:37.814{"Messages":{"18":{"Utc":"2023-04-28T09:35:38","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:20:37.830{"Messages":{"19":{"Utc":"2023-04-28T09:35:38","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:20:41.783{"Messages":{"20":{"Utc":"2023-04-28T09:35:42","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:23:34.828{"Messages":{"21":{"Utc":"2023-04-28T09:38:35","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+00:23:36.000{"Messages":{"22":{"Utc":"2023-04-28T09:38:36","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:23:56.531{"Messages":{"23":{"Utc":"2023-04-28T09:38:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:23:56.531{"Messages":{"24":{"Utc":"2023-04-28T09:38:57","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:25:30.452{"Messages":{"25":{"Utc":"2023-04-28T09:40:31","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:25:40.217{"Messages":{"26":{"Utc":"2023-04-28T09:40:40","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:25:41.514{"Messages":{"27":{"Utc":"2023-04-28T09:40:42","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:25:48.827{"Messages":{"28":{"Utc":"2023-04-28T09:40:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:25:58.030{"Messages":{"29":{"Utc":"2023-04-28T09:40:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:28:08.403{"Messages":{"30":{"Utc":"2023-04-28T09:43:09","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:28:09.450{"Messages":{"31":{"Utc":"2023-04-28T09:43:10","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:28:18.544{"Messages":{"32":{"Utc":"2023-04-28T09:43:19","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:28:18.575{"Messages":{"33":{"Utc":"2023-04-28T09:43:19","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:28:25.794{"Messages":{"34":{"Utc":"2023-04-28T09:43:26","Category":"CarEvent","RacingNumber":"81","Message":"CAR 81 (PIA) SPUN AND CONTINUED AT TURN 2"}}}
+00:28:40.075{"Messages":{"35":{"Utc":"2023-04-28T09:43:40","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:28:41.184{"Messages":{"36":{"Utc":"2023-04-28T09:43:41","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:28:44.403{"Messages":{"37":{"Utc":"2023-04-28T09:43:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:28:44.418{"Messages":{"38":{"Utc":"2023-04-28T09:43:45","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:28:54.153{"Messages":{"39":{"Utc":"2023-04-28T09:43:54","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:28:59.762{"Messages":{"40":{"Utc":"2023-04-28T09:44:00","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:29:00.903{"Messages":{"41":{"Utc":"2023-04-28T09:44:01","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:29:17.777{"Messages":{"42":{"Utc":"2023-04-28T09:44:18","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+00:30:01.324{"Messages":{"43":{"Utc":"2023-04-28T09:45:02","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:30:01.605{"Messages":{"44":{"Utc":"2023-04-28T09:45:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:30:01.636{"Messages":{"45":{"Utc":"2023-04-28T09:45:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:42:05.144{"Messages":{"46":{"Utc":"2023-04-28T09:57:05","Category":"Other","Message":"SESSION WILL RESUME AT 13:58"}}}
+00:42:11.862{"Messages":{"47":{"Utc":"2023-04-28T09:57:12","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:42:13.862{"Messages":{"48":{"Utc":"2023-04-28T09:57:14","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:43:00.502{"Messages":{"49":{"Utc":"2023-04-28T09:58:01","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:54:22.885{"Messages":{"50":{"Utc":"2023-04-28T10:09:23","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:54:32.807{"Messages":{"51":{"Utc":"2023-04-28T10:09:33","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:54:33.963{"Messages":{"52":{"Utc":"2023-04-28T10:09:34","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:54:41.526{"Messages":{"53":{"Utc":"2023-04-28T10:09:42","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:54:42.166{"Messages":{"54":{"Utc":"2023-04-28T10:09:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:54:44.354{"Messages":{"55":{"Utc":"2023-04-28T10:09:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:55:09.447{"Messages":{"56":{"Utc":"2023-04-28T10:10:10","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:05:38.956{"Messages":{"57":{"Utc":"2023-04-28T10:20:39","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:05:39.534{"Messages":{"58":{"Utc":"2023-04-28T10:20:40","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:05:40.112{"Messages":{"59":{"Utc":"2023-04-28T10:20:40","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:05:40.253{"Messages":{"60":{"Utc":"2023-04-28T10:20:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:05:40.268{"Messages":{"61":{"Utc":"2023-04-28T10:20:40","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:05:42.378{"Messages":{"62":{"Utc":"2023-04-28T10:20:43","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:05:48.643{"Messages":{"63":{"Utc":"2023-04-28T10:20:49","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:05:49.831{"Messages":{"64":{"Utc":"2023-04-28T10:20:50","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:05:55.034{"Messages":{"65":{"Utc":"2023-04-28T10:20:55","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:05:55.081{"Messages":{"66":{"Utc":"2023-04-28T10:20:55","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:05:57.127{"Messages":{"67":{"Utc":"2023-04-28T10:20:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:05:57.127{"Messages":{"68":{"Utc":"2023-04-28T10:20:57","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:06:08.424{"Messages":{"69":{"Utc":"2023-04-28T10:21:09","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 2"}}}
+01:07:35.517{"Messages":{"70":{"Utc":"2023-04-28T10:22:36","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+01:07:49.986{"Messages":{"71":{"Utc":"2023-04-28T10:22:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:07:53.767{"Messages":{"72":{"Utc":"2023-04-28T10:22:54","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+01:10:17.265{"Messages":{"73":{"Utc":"2023-04-28T10:25:17","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:15:00.871{"Messages":{"74":{"Utc":"2023-04-28T10:30:01","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:20.574{"Messages":{"75":{"Utc":"2023-04-28T10:30:21","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 21 (DEV)"}}}
+01:16:54.386{"Messages":{"76":{"Utc":"2023-04-28T10:31:55","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:16:59.370{"Messages":{"77":{"Utc":"2023-04-28T10:32:00","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:17:04.495{"Messages":{"78":{"Utc":"2023-04-28T10:32:05","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:23:08.241{"Messages":{"79":{"Utc":"2023-04-28T10:38:08","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:23:08.381{"Messages":{"80":{"Utc":"2023-04-28T10:38:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:23:08.397{"Messages":{"81":{"Utc":"2023-04-28T10:38:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:30:07.220{"Messages":{"82":{"Utc":"2023-04-28T10:45:07","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 0%"}}}

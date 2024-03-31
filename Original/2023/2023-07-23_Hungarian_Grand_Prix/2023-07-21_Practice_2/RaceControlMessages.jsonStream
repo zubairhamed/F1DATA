@@ -1,0 +1,12 @@
+00:09:38.540{"Messages":[{"Utc":"2023-07-21T14:55:13","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:14:25.490{"Messages":{"1":{"Utc":"2023-07-21T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:25.495{"Messages":{"2":{"Utc":"2023-07-21T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:09.839{"Messages":{"3":{"Utc":"2023-07-21T16:00:44","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 81 (PIA)"}}}
+01:16:06.744{"Messages":{"4":{"Utc":"2023-07-21T16:01:41","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+01:16:10.916{"Messages":{"5":{"Utc":"2023-07-21T16:01:46","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+01:16:15.869{"Messages":{"6":{"Utc":"2023-07-21T16:01:51","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:20:34.116{"Messages":{"7":{"Utc":"2023-07-21T16:06:09","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:20:49.116{"Messages":{"8":{"Utc":"2023-07-21T16:06:24","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:20:49.226{"Messages":{"9":{"Utc":"2023-07-21T16:06:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:20:49.241{"Messages":{"10":{"Utc":"2023-07-21T16:06:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:20:56.413{"Messages":{"11":{"Utc":"2023-07-21T16:06:31","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}

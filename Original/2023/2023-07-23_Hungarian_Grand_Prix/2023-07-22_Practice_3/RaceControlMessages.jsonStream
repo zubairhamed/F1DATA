@@ -1,0 +1,9 @@
+00:00:09.973{"Messages":[{"Utc":"2023-07-22T10:15:10","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}]}
+00:09:44.497{"Messages":{"1":{"Utc":"2023-07-22T10:24:44","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.197{"Messages":{"2":{"Utc":"2023-07-22T10:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:36:14.823{"Messages":{"3":{"Utc":"2023-07-22T10:51:15","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 7"}}}
+00:36:29.385{"Messages":{"4":{"Utc":"2023-07-22T10:51:29","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 14"}}}
+00:38:08.572{"Messages":{"5":{"Utc":"2023-07-22T10:53:08","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+00:38:10.587{"Messages":{"6":{"Utc":"2023-07-22T10:53:11","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+01:15:00.172{"Messages":{"7":{"Utc":"2023-07-22T11:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:22.968{"Messages":{"8":{"Utc":"2023-07-22T11:30:23","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 81 (PIA)"}}}

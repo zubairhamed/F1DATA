@@ -1,0 +1,74 @@
+00:09:00.793{"Messages":[{"Utc":"2023-09-17T11:10:01","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:19:00.693{"Messages":{"1":{"Utc":"2023-09-17T11:20:01","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:44:34.926{"Messages":{"2":{"Utc":"2023-09-17T11:45:35","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 10%"}}}
+00:56:10.199{"Messages":{"3":{"Utc":"2023-09-17T11:57:11","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:02:44.492{"Messages":{"4":{"Utc":"2023-09-17T12:03:45","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:04:20.944{"Messages":{"5":{"Utc":"2023-09-17T12:05:21","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:04:26.131{"Messages":{"6":{"Utc":"2023-09-17T12:05:26","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:04:37.412{"Messages":{"7":{"Utc":"2023-09-17T12:05:38","Lap":2,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:04:54.959{"Messages":{"8":{"Utc":"2023-09-17T12:05:55","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:06:12.911{"Messages":{"9":{"Utc":"2023-09-17T12:07:13","Lap":3,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:07:46.129{"Messages":{"10":{"Utc":"2023-09-17T12:08:46","Lap":3,"Category":"Other","Message":"TURN 2 INCIDENT INVOLVING CAR 44 (HAM) NOTED - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}
+01:09:52.659{"Messages":{"11":{"Utc":"2023-09-17T12:10:53","Lap":5,"Category":"Other","Message":"FIA STEWARDS: TURN 2 INCIDENT INVOLVING CAR 44 (HAM) REVIEWED NO FURTHER INVESTIGATION - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}
+01:19:38.574{"Messages":{"12":{"Utc":"2023-09-17T12:20:39","Lap":11,"Category":"Other","Message":"CAR 10 (GAS) TIME 1:41.829 DELETED - TRACK LIMITS AT TURN 7 LAP 6 20:12:55"}}}
+01:34:03.455{"Messages":{"13":{"Utc":"2023-09-17T12:35:04","Lap":19,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+01:34:04.158{"Messages":{"14":{"Utc":"2023-09-17T12:35:04","Lap":19,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+01:34:23.314{"Messages":{"15":{"Utc":"2023-09-17T12:35:24","Lap":19,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:34:35.736{"Messages":{"16":{"Utc":"2023-09-17T12:35:36","Lap":20,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 7"}}}
+01:35:40.219{"Messages":{"17":{"Utc":"2023-09-17T12:36:41","Lap":20,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:35:40.329{"Messages":{"18":{"Utc":"2023-09-17T12:36:41","Lap":20,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:38:50.248{"Messages":{"19":{"Utc":"2023-09-17T12:39:51","Lap":21,"Category":"Other","Message":"INCIDENT INVOLVING CAR 14 (ALO) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS – CROSSING THE LINE AT PIT ENTRY"}}}
+01:39:51.482{"Messages":{"20":{"Utc":"2023-09-17T12:40:52","Lap":22,"Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CAR 14 (ALO) UNDER INVESTIGATION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS – CROSSING THE LINE AT PIT ENTRY"}}}
+01:40:01.138{"Messages":{"21":{"Utc":"2023-09-17T12:41:01","Lap":22,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+01:41:49.246{"Messages":{"22":{"Utc":"2023-09-17T12:42:50","Lap":22,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:42:49.464{"Messages":{"23":{"Utc":"2023-09-17T12:43:50","Lap":23,"Category":"Other","Message":"FIA STEWARDS: 5 SECOND TIME PENALTY FOR CAR 14 (ALO) - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS – CROSSING THE LINE AT PIT ENTRY"}}}
+01:44:00.698{"Messages":{"24":{"Utc":"2023-09-17T12:45:01","Lap":24,"Category":"Other","Message":"CAR 16 (LEC) TIME 1:43.955 DELETED - TRACK LIMITS AT TURN 7 LAP 23 20:43:44"}}}
+01:45:31.103{"Messages":{"25":{"Utc":"2023-09-17T12:46:31","Lap":25,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:46:23.649{"Messages":{"26":{"Utc":"2023-09-17T12:47:24","Lap":25,"Category":"Other","Message":"CAR 44 (HAM) TIME 1:40.957 DELETED - TRACK LIMITS AT TURN 7 LAP 24 20:45:28"}}}
+01:48:47.226{"Messages":{"27":{"Utc":"2023-09-17T12:49:48","Lap":26,"Category":"Flag","Flag":"BLACK AND WHITE","Scope":"Driver","RacingNumber":"20","Message":"BLACK AND WHITE FLAG FOR CAR 20 (MAG) - FORCING ANOTHER DRIVER OFF THE TRACK"}}}
+01:54:39.347{"Messages":{"28":{"Utc":"2023-09-17T12:55:40","Lap":30,"Category":"Other","Message":"CAR 14 (ALO) TIME 1:41.292 DELETED - TRACK LIMITS AT TURN 2 LAP 29 20:53:28"}}}
+02:04:40.668{"Messages":{"29":{"Utc":"2023-09-17T13:05:41","Lap":36,"Category":"Other","Message":"TURN 7 INCIDENT INVOLVING CARS 10 (GAS) AND 20 (MAG) NOTED - FORCING ANOTHER DRIVER OFF THE TRACK"}}}
+02:06:09.995{"Messages":{"30":{"Utc":"2023-09-17T13:07:10","Lap":37,"Category":"Other","Message":"CAR 20 (MAG) TIME 1:42.612 DELETED - TRACK LIMITS AT TURN 7 LAP 35 21:04:00"}}}
+02:06:46.557{"Messages":{"31":{"Utc":"2023-09-17T13:07:47","Lap":37,"Category":"Other","Message":"CAR 20 (MAG) TIME 1:48.130 DELETED - TRACK LIMITS AT TURN 2 LAP 36 21:05:18"}}}
+02:13:00.303{"Messages":{"32":{"Utc":"2023-09-17T13:14:01","Lap":41,"Category":"Other","Message":"CAR 27 (HUL) TIME 1:42.010 DELETED - TRACK LIMITS AT TURN 7 LAP 39 21:10:47"}}}
+02:16:10.051{"Messages":{"33":{"Utc":"2023-09-17T13:17:10","Lap":43,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+02:16:12.066{"Messages":{"34":{"Utc":"2023-09-17T13:17:12","Lap":43,"Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+02:16:26.441{"Messages":{"35":{"Utc":"2023-09-17T13:17:27","Lap":43,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+02:17:05.581{"Messages":{"36":{"Utc":"2023-09-17T13:18:06","Lap":44,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+02:20:22.267{"Messages":{"37":{"Utc":"2023-09-17T13:21:23","Lap":45,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+02:20:25.282{"Messages":{"38":{"Utc":"2023-09-17T13:21:26","Lap":45,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+02:20:29.095{"Messages":{"39":{"Utc":"2023-09-17T13:21:29","Lap":45,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+02:20:43.657{"Messages":{"40":{"Utc":"2023-09-17T13:21:44","Lap":45,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+02:20:54.735{"Messages":{"41":{"Utc":"2023-09-17T13:21:55","Lap":45,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+02:21:56.391{"Messages":{"42":{"Utc":"2023-09-17T13:22:57","Lap":46,"Category":"Other","Message":"FIA STEWARDS: TURN 7 INCIDENT INVOLVING CARS 10 (GAS) AND 20 (MAG) REVIEWED NO FURTHER INVESTIGATION - FORCING ANOTHER DRIVER OFF THE TRACK"}}}
+02:23:46.905{"Messages":{"43":{"Utc":"2023-09-17T13:24:47","Lap":47,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+02:23:48.280{"Messages":{"44":{"Utc":"2023-09-17T13:24:49","Lap":47,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+02:23:49.952{"Messages":{"45":{"Utc":"2023-09-17T13:24:50","Lap":47,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+02:24:02.811{"Messages":{"46":{"Utc":"2023-09-17T13:25:03","Lap":47,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+02:24:02.920{"Messages":{"47":{"Utc":"2023-09-17T13:25:03","Lap":47,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+02:24:28.545{"Messages":{"48":{"Utc":"2023-09-17T13:25:29","Lap":47,"Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 14"}}}
+02:28:58.792{"Messages":{"49":{"Utc":"2023-09-17T13:29:59","Lap":50,"Category":"Other","Message":"PIT EXIT INCIDENT INVOLVING CARS 11 (PER) AND 23 (ALB) NOTED - VSC INFRINGEMENT"}}}
+02:30:47.931{"Messages":{"50":{"Utc":"2023-09-17T13:31:48","Lap":51,"Category":"Other","Message":"FIA STEWARDS: PIT EXIT INCIDENT INVOLVING CARS 11 (PER) AND 23 (ALB) WILL BE INVESTIGATED AFTER THE RACE - VSC INFRINGEMENT"}}}
+02:32:16.868{"Messages":{"51":{"Utc":"2023-09-17T13:33:17","Lap":52,"Category":"Other","Message":"CAR 63 (RUS) TIME 1:36.757 DELETED - TRACK LIMITS AT TURN 19 LAP 51 21:32:20"}}}
+02:33:41.945{"Messages":{"52":{"Utc":"2023-09-17T13:34:42","Lap":53,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+02:33:43.585{"Messages":{"53":{"Utc":"2023-09-17T13:34:44","Lap":53,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+02:33:44.382{"Messages":{"54":{"Utc":"2023-09-17T13:34:45","Lap":53,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+02:33:44.476{"Messages":{"55":{"Utc":"2023-09-17T13:34:45","Lap":53,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+02:36:48.990{"Messages":{"56":{"Utc":"2023-09-17T13:37:49","Lap":55,"Category":"Other","Message":"CAR 27 (HUL) TIME 1:43.808 DELETED - TRACK LIMITS AT TURN 7 LAP 53 21:35:18"}}}
+02:43:05.735{"Messages":{"57":{"Utc":"2023-09-17T13:44:06","Lap":59,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+02:43:08.235{"Messages":{"58":{"Utc":"2023-09-17T13:44:09","Lap":59,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+02:43:14.329{"Messages":{"59":{"Utc":"2023-09-17T13:44:15","Lap":59,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+02:43:16.704{"Messages":{"60":{"Utc":"2023-09-17T13:44:17","Lap":59,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+02:43:21.813{"Messages":{"61":{"Utc":"2023-09-17T13:44:22","Lap":59,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+02:43:21.954{"Messages":{"62":{"Utc":"2023-09-17T13:44:22","Lap":59,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+02:43:26.282{"Messages":{"63":{"Utc":"2023-09-17T13:44:27","Lap":59,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+02:44:12.313{"Messages":{"64":{"Utc":"2023-09-17T13:45:13","Lap":59,"Category":"Other","Message":"TURN 13 INCIDENT INVOLVING CARS 11 (PER) AND 23 (ALB) NOTED - CAUSING A COLLISION"}}}
+02:44:37.359{"Messages":{"65":{"Utc":"2023-09-17T13:45:38","Lap":60,"Category":"Other","Message":"FIA STEWARDS: TURN 13 INCIDENT INVOLVING CARS 11 (PER) AND 23 (ALB) WILL BE INVESTIGATED AFTER THE RACE - CAUSING A COLLISION"}}}
+02:47:41.732{"Messages":{"66":{"Utc":"2023-09-17T13:48:42","Lap":61,"Category":"Other","Message":"TURN 7 INCIDENT INVOLVING CARS 11 (PER) AND 40 (LAW) NOTED - CAUSING A COLLISION"}}}
+02:48:07.466{"Messages":{"67":{"Utc":"2023-09-17T13:49:08","Lap":62,"Category":"Other","Message":"CAR 11 (PER) TIME 1:39.147 DELETED - TRACK LIMITS AT TURN 7 LAP 60 21:46:56"}}}
+02:48:37.919{"Messages":{"68":{"Utc":"2023-09-17T13:49:38","Lap":62,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+02:48:45.763{"Messages":{"69":{"Utc":"2023-09-17T13:49:46","Lap":62,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+02:48:48.341{"Messages":{"70":{"Utc":"2023-09-17T13:49:49","Lap":62,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+02:49:25.215{"Messages":{"71":{"Utc":"2023-09-17T13:50:26","Lap":62,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+02:56:00.773{"Messages":{"72":{"Utc":"2023-09-17T13:57:01","Lap":62,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+02:57:01.132{"Messages":{"73":{"Utc":"2023-09-17T13:58:01","Lap":62,"Category":"Other","Message":"FIA STEWARDS: TURN 7 INCIDENT INVOLVING CARS 11 (PER) AND 40 (LAW) REVIEWED NO FURTHER INVESTIGATION - CAUSING A COLLISION"}}}

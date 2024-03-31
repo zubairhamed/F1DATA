@@ -1,0 +1,17 @@
+00:00:23.857{"Messages":[{"Utc":"2023-07-07T11:15:25","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:14:59.254{"Messages":{"1":{"Utc":"2023-07-07T11:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:25:57.731{"Messages":{"2":{"Utc":"2023-07-07T11:40:59","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:26:12.465{"Messages":{"3":{"Utc":"2023-07-07T11:41:13","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:26:34.918{"Messages":{"4":{"Utc":"2023-07-07T11:41:36","Category":"CarEvent","RacingNumber":"21","Message":"CAR 21 (DEV) SPUN AND CONTINUED AT TURN 7"}}}
+00:42:30.376{"Messages":{"5":{"Utc":"2023-07-07T11:57:31","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 15"}}}
+00:50:07.340{"Messages":{"6":{"Utc":"2023-07-07T12:05:08","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+00:50:08.324{"Messages":{"7":{"Utc":"2023-07-07T12:05:09","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:50:10.293{"Messages":{"8":{"Utc":"2023-07-07T12:05:11","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:50:10.308{"Messages":{"9":{"Utc":"2023-07-07T12:05:11","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:10:33.498{"Messages":{"10":{"Utc":"2023-07-07T12:25:34","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 6"}}}
+01:11:10.029{"Messages":{"11":{"Utc":"2023-07-07T12:26:11","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:11:22.278{"Messages":{"12":{"Utc":"2023-07-07T12:26:23","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:14:59.198{"Messages":{"13":{"Utc":"2023-07-07T12:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:25.072{"Messages":{"14":{"Utc":"2023-07-07T12:30:26","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 16 (LEC)"}}}
+01:40:10.931{"Messages":{"15":{"Utc":"2023-07-07T12:55:12","Category":"Other","Message":"RISK OF RAIN FOR F3 QUALIFYING SESSION IS 0%"}}}
+01:41:46.430{"Messages":{"16":{"Utc":"2023-07-07T12:56:47","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
