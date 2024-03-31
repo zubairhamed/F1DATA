@@ -1,0 +1,17 @@
+00:11:30.253{"Messages":[{"Utc":"2024-02-22T07:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+02:33:00.485{"Messages":{"1":{"Utc":"2024-02-22T09:21:30","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+02:35:46.199{"Messages":{"2":{"Utc":"2024-02-22T09:24:16","Category":"Other","Message":"SESSION WILL BE RESUMED AFTER TRACK INSPECTION"}}}
+03:09:48.052{"Messages":{"3":{"Utc":"2024-02-22T09:58:18","Category":"Other","Message":"MORNING SESSION WILL NOT BE RESUMED "}}}
+03:10:15.638{"Messages":{"4":{"Utc":"2024-02-22T09:58:46","Category":"Other","Message":"AFTERNOON SESSION WILL BE FROM 14:00 - 19:00"}}}
+04:11:30.321{"Messages":{"5":{"Utc":"2024-02-22T11:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+07:55:36.111{"Messages":{"6":{"Utc":"2024-02-22T14:44:06","Category":"Other","Message":"THIS IS A TEST MESSAGE "}}}
+09:06:30.718{"Messages":{"7":{"Utc":"2024-02-22T15:55:01","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+09:06:40.458{"Messages":{"8":{"Utc":"2024-02-22T15:55:10","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+09:06:51.749{"Messages":{"9":{"Utc":"2024-02-22T15:55:22","Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+09:07:29.389{"Messages":{"10":{"Utc":"2024-02-22T15:55:59","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:07:29.427{"Messages":{"11":{"Utc":"2024-02-22T15:55:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+09:09:14.157{"Messages":{"12":{"Utc":"2024-02-22T15:57:44","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+09:10:40.468{"Messages":{"13":{"Utc":"2024-02-22T15:59:10","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+09:11:21.616{"Messages":{"14":{"Utc":"2024-02-22T15:59:52","Category":"Other","Message":"SAFETY CAR WILL ENTER PITS: ROLLING START PROCEDURE"}}}
+09:16:07.495{"Messages":{"15":{"Utc":"2024-02-22T16:04:37","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:18:09.489{"Messages":{"16":{"Utc":"2024-02-22T16:06:39","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

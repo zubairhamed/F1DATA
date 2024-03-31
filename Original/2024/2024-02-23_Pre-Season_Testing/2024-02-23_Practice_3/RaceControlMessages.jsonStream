@@ -1,0 +1,23 @@
+00:09:50.836{"Messages":[{"Utc":"2024-02-23T07:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:37:45.645{"Messages":{"1":{"Utc":"2024-02-23T07:27:55","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:23:59.637{"Messages":{"2":{"Utc":"2024-02-23T08:14:09","Category":"Other","Message":"ESTIMATED RESTART TIME 11:45 - TO BE CONFIRMED "}}}
+01:50:33.033{"Messages":{"3":{"Utc":"2024-02-23T08:40:42","Category":"Other","Message":"PM SESSION WILL START AT 11:45 AND RUN UNTIL 19:00"}}}
+01:54:50.837{"Messages":{"4":{"Utc":"2024-02-23T08:45:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+08:38:36.731{"Messages":{"5":{"Utc":"2024-02-23T15:28:46","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 2"}}}
+08:40:02.694{"Messages":{"6":{"Utc":"2024-02-23T15:30:12","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+08:40:03.853{"Messages":{"7":{"Utc":"2024-02-23T15:30:13","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+08:40:10.758{"Messages":{"8":{"Utc":"2024-02-23T15:30:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+08:40:10.910{"Messages":{"9":{"Utc":"2024-02-23T15:30:20","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+09:04:51.687{"Messages":{"10":{"Utc":"2024-02-23T15:55:01","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+09:05:02.428{"Messages":{"11":{"Utc":"2024-02-23T15:55:12","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+09:05:12.204{"Messages":{"12":{"Utc":"2024-02-23T15:55:22","Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+09:05:41.295{"Messages":{"13":{"Utc":"2024-02-23T15:55:51","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:05:41.385{"Messages":{"14":{"Utc":"2024-02-23T15:55:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+09:06:29.765{"Messages":{"15":{"Utc":"2024-02-23T15:56:39","Category":"Other","Message":"RACE WILL RESUME AT 18:58 - STANDING START PROCEDURE"}}}
+09:06:59.801{"Messages":{"16":{"Utc":"2024-02-23T15:57:09","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+09:07:02.305{"Messages":{"17":{"Utc":"2024-02-23T15:57:12","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+09:08:29.838{"Messages":{"18":{"Utc":"2024-02-23T15:58:39","Category":"Other","Message":"STANDING START PROCEDURE"}}}
+09:11:04.695{"Messages":{"19":{"Utc":"2024-02-23T16:01:14","Category":"Other","Message":"START ABORTED - EXTRA FORMATION LAP"}}}
+09:11:43.850{"Messages":{"20":{"Utc":"2024-02-23T16:01:53","Category":"Other","Message":"STANDING START PROCEDURE"}}}
+09:15:02.993{"Messages":{"21":{"Utc":"2024-02-23T16:05:12","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:16:49.107{"Messages":{"22":{"Utc":"2024-02-23T16:06:59","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

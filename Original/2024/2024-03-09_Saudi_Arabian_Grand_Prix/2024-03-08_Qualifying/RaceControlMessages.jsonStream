@@ -1,0 +1,35 @@
+00:13:55.545{"Messages":[{"Utc":"2024-03-08T17:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:22:29.133{"Messages":{"1":{"Utc":"2024-03-08T17:08:34","Category":"Flag","Flag":"BLACK AND WHITE","Scope":"Driver","RacingNumber":"63","Message":"BLACK AND WHITE FLAG FOR CAR 63 (RUS) - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS – CROSSING THE LINE AT PIT ENTRY"}}}
+00:24:22.952{"Messages":{"2":{"Utc":"2024-03-08T17:10:28","Category":"Other","Message":"CAR 18 (STR) LAP DELETED - TRACK LIMITS AT TURN 23 LAP 6 20:09:36"}}}
+00:25:05.271{"Messages":{"3":{"Utc":"2024-03-08T17:11:10","Category":"Other","Message":"CAR 20 (MAG) TIME 1:56.534 DELETED - TRACK LIMITS AT TURN 8 LAP 4 20:04:00"}}}
+00:31:55.536{"Messages":{"4":{"Utc":"2024-03-08T17:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:32:04.032{"Messages":{"5":{"Utc":"2024-03-08T17:18:09","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 24 (ZHO)"}}}
+00:33:10.455{"Messages":{"6":{"Utc":"2024-03-08T17:19:15","Category":"Other","Message":"CAR 38 (BEA) LAP DELETED - TRACK LIMITS AT TURN 4 LAP 10 20:17:14 (PIT)"}}}
+00:34:32.993{"Messages":{"7":{"Utc":"2024-03-08T17:20:38","Category":"Other","Message":"CAR 23 (ALB) LAP DELETED - TRACK LIMITS AT TURN 23 LAP 9 20:18:13"}}}
+00:34:47.335{"Messages":{"8":{"Utc":"2024-03-08T17:20:52","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 38 (BEA) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+00:35:01.117{"Messages":{"9":{"Utc":"2024-03-08T17:21:06","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CAR 38 (BEA) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+00:38:55.536{"Messages":{"10":{"Utc":"2024-03-08T17:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:42:26.625{"Messages":{"11":{"Utc":"2024-03-08T17:28:31","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:42:57.829{"Messages":{"12":{"Utc":"2024-03-08T17:29:02","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:42:57.949{"Messages":{"13":{"Utc":"2024-03-08T17:29:03","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:43:13.540{"Messages":{"14":{"Utc":"2024-03-08T17:29:18","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) STOPPED AT TURN 8"}}}
+00:44:50.793{"Messages":{"15":{"Utc":"2024-03-08T17:30:55","Category":"Other","Message":"Q2 WILL RESUME AT 20:34"}}}
+00:45:23.476{"Messages":{"16":{"Utc":"2024-03-08T17:31:28","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:45:25.609{"Messages":{"17":{"Utc":"2024-03-08T17:31:30","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:47:55.493{"Messages":{"18":{"Utc":"2024-03-08T17:34:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:58:54.455{"Messages":{"19":{"Utc":"2024-03-08T17:44:59","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:59:02.116{"Messages":{"20":{"Utc":"2024-03-08T17:45:07","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 20 (MAG)"}}}
+01:01:05.536{"Messages":{"21":{"Utc":"2024-03-08T17:47:10","Category":"Other","Message":"Q3 WILL START AT 20:53"}}}
+01:01:59.424{"Messages":{"22":{"Utc":"2024-03-08T17:48:04","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CAR 38 (BEA) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+01:02:03.871{"Messages":{"23":{"Utc":"2024-03-08T17:48:09","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CAR 38 (BEA) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+01:06:55.585{"Messages":{"24":{"Utc":"2024-03-08T17:53:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:18:55.591{"Messages":{"25":{"Utc":"2024-03-08T18:05:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:19:23.161{"Messages":{"26":{"Utc":"2024-03-08T18:05:28","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 11 (PER)"}}}
+01:21:02.032{"Messages":{"27":{"Utc":"2024-03-08T18:07:07","Category":"Other","Message":"FIA STEWARDS: Q1 INCIDENT INVOLVING CARS 38 (BEA) NO FURTHER ACTION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+01:21:47.530{"Messages":{"28":{"Utc":"2024-03-08T18:07:52","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CAR 11 (PER) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+01:22:24.873{"Messages":{"29":{"Utc":"2024-03-08T18:08:30","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CAR 11 (PER) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+01:22:36.553{"Messages":{"30":{"Utc":"2024-03-08T18:08:41","Category":"Other","Message":"FIA STEWARDS: Q2 INCIDENT INVOLVING CAR 38 (BEA) NO FURTHER ACTION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+01:26:35.810{"Messages":{"31":{"Utc":"2024-03-08T18:12:40","Category":"Other","Message":"FIA STEWARDS: Q3 INCIDENT INVOLVING CAR 11 (PER) NO FURTHER ACTION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+01:27:00.538{"Messages":{"32":{"Utc":"2024-03-08T18:13:05","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:27:01.687{"Messages":{"33":{"Utc":"2024-03-08T18:13:06","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+01:28:46.744{"Messages":{"34":{"Utc":"2024-03-08T18:14:51","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":14,"Message":"DOUBLE YELLOW IN TRACK SECTOR 14"}}}

@@ -1,0 +1,23 @@
+00:00:15.538{"Messages":[{"Utc":"2024-03-08T13:15:15","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}]}
+00:00:18.035{"Messages":{"1":{"Utc":"2024-03-08T13:13:13","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:00:55.697{"Messages":{"2":{"Utc":"2024-03-08T13:13:13","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:00:55.707{"Messages":{"3":{"Utc":"2024-03-08T13:15:15","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}}}
+00:15:00.290{"Messages":{"4":{"Utc":"2024-03-08T13:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:41:33.304{"Messages":{"5":{"Utc":"2024-03-08T13:56:33","Category":"CarEvent","RacingNumber":"1","Message":"CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 9"}}}
+00:45:28.925{"Messages":{"6":{"Utc":"2024-03-08T14:00:29","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 14"}}}
+00:52:46.835{"Messages":{"7":{"Utc":"2024-03-08T14:07:47","Category":"Other","Message":"TURNS 5 TO 7 INCIDENT INVOLVING CARS 10 (GAS) AND 18 (STR) NOTED - IMPEDING"}}}
+00:54:40.707{"Messages":{"8":{"Utc":"2024-03-08T14:09:41","Category":"Other","Message":"FIA STEWARDS: TURNS 5 TO 7 INCIDENT INVOLVING CARS 10 (GAS) AND 18 (STR) REVIEWED NO FURTHER INVESTIGATION - IMPEDING"}}}
+00:57:51.292{"Messages":{"9":{"Utc":"2024-03-08T14:12:51","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:58:10.975{"Messages":{"10":{"Utc":"2024-03-08T14:13:11","Category":"CarEvent","RacingNumber":"24","Message":"CAR 24 (ZHO) STOPPED AT TURN 8"}}}
+00:58:26.388{"Messages":{"11":{"Utc":"2024-03-08T14:13:26","Category":"Other","Message":"MEDICAL CAR DEPLOYED"}}}
+01:07:38.942{"Messages":{"12":{"Utc":"2024-03-08T14:22:39","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:07:43.213{"Messages":{"13":{"Utc":"2024-03-08T14:22:43","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:08:20.548{"Messages":{"14":{"Utc":"2024-03-08T14:23:20","Category":"Other","Message":"SESSION WILL RESUME AT 17:25"}}}
+01:10:00.263{"Messages":{"15":{"Utc":"2024-03-08T14:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:01.182{"Messages":{"16":{"Utc":"2024-03-08T14:30:01","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:08.250{"Messages":{"17":{"Utc":"2024-03-08T14:30:08","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 10 (GAS)"}}}
+01:26:15.595{"Messages":{"18":{"Utc":"2024-03-08T14:41:16","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:26:24.311{"Messages":{"19":{"Utc":"2024-03-08T14:41:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:26:27.351{"Messages":{"20":{"Utc":"2024-03-08T14:41:27","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:27:02.476{"Messages":{"21":{"Utc":"2024-03-08T14:42:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:35:00.826{"Messages":{"22":{"Utc":"2024-03-08T14:50:01","Category":"Other","Message":"SESSION TEMPERATURES: AIR = 25, TRACK = 36"}}}

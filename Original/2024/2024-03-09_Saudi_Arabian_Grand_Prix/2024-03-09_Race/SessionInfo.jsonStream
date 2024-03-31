@@ -1,0 +1,27 @@
+{
+   "Meeting": {
+      "Key": 1230,
+      "Name": "Saudi Arabian Grand Prix",
+      "OfficialName": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024",
+      "Location": "Jeddah",
+      "Country": {
+         "Key": 153,
+         "Code": "KSA",
+         "Name": "Saudi Arabia"
+      },
+      "Circuit": {
+         "Key": 149,
+         "ShortName": "Jeddah"
+      }
+   },
+   "ArchiveStatus": {
+      "Status": "Generating"
+   },
+   "Key": 9480,
+   "Type": "Race",
+   "Name": "Race",
+   "StartDate": "2024-03-09T20:00:00",
+   "EndDate": "2024-03-09T22:00:00",
+   "GmtOffset": "03:00:00",
+   "Path": "2024/2024-03-09_Saudi_Arabian_Grand_Prix/2024-03-09_Race/"
+}

@@ -1,0 +1,69 @@
+00:02:58.834{"Messages":[{"Utc":"2024-03-02T14:06:41","Lap":1,"Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:16:18.440{"Messages":{"1":{"Utc":"2024-03-02T14:20:01","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:26:18.440{"Messages":{"2":{"Utc":"2024-03-02T14:30:01","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:41:46.608{"Messages":{"3":{"Utc":"2024-03-02T14:45:29","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 0%"}}}
+00:53:21.666{"Messages":{"4":{"Utc":"2024-03-02T14:57:04","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:00:00.113{"Messages":{"5":{"Utc":"2024-03-02T15:03:42","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:00:16.421{"Messages":{"6":{"Utc":"2024-03-02T15:03:59","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:00:20.900{"Messages":{"7":{"Utc":"2024-03-02T15:04:03","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:00:46.523{"Messages":{"8":{"Utc":"2024-03-02T15:04:29","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:00:53.502{"Messages":{"9":{"Utc":"2024-03-02T15:04:36","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:01:40.493{"Messages":{"10":{"Utc":"2024-03-02T15:05:23","Lap":2,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:01:55.603{"Messages":{"11":{"Utc":"2024-03-02T15:05:38","Lap":2,"Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) SPUN AND CONTINUED AT TURN 1"}}}
+01:02:01.608{"Messages":{"12":{"Utc":"2024-03-02T15:05:44","Lap":2,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 4"}}}
+01:02:12.613{"Messages":{"13":{"Utc":"2024-03-02T15:05:55","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:03:00.294{"Messages":{"14":{"Utc":"2024-03-02T15:06:43","Lap":2,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 18 (STR) AND 27 (HUL) NOTED - CAUSING A COLLISION"}}}
+01:04:59.798{"Messages":{"15":{"Utc":"2024-03-02T15:08:42","Lap":4,"Category":"Other","Message":"FIA STEWARDS: TURN 1 INCIDENT INVOLVING CARS 18 (STR) AND 27 (HUL) REVIEWED NO FURTHER INVESTIGATION - CAUSING A COLLISION"}}}
+01:07:35.661{"Messages":{"16":{"Utc":"2024-03-02T15:11:18","Lap":5,"Category":"Other","Message":"CAR 4 (NOR) TIME 1:37.787 DELETED - TRACK LIMITS AT TURN 15 LAP 3 18:08:35"}}}
+01:07:36.397{"Messages":{"17":{"Utc":"2024-03-02T15:11:19","Lap":5,"Category":"Other","Message":"CAR 4 (NOR) TIME 1:37.450 DELETED - TRACK LIMITS AT TURN 15 (NEXT LAP)"}}}
+01:09:22.670{"Messages":{"18":{"Utc":"2024-03-02T15:13:05","Lap":6,"Category":"Other","Message":"CAR 16 (LEC) TIME 1:37.752 DELETED - TRACK LIMITS AT TURN 10 LAP 4 18:09:29"}}}
+01:15:24.861{"Messages":{"19":{"Utc":"2024-03-02T15:19:07","Lap":10,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:15:25.873{"Messages":{"20":{"Utc":"2024-03-02T15:19:08","Lap":10,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:16:15.972{"Messages":{"21":{"Utc":"2024-03-02T15:19:58","Lap":11,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:16:16.016{"Messages":{"22":{"Utc":"2024-03-02T15:19:58","Lap":11,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:16:17.460{"Messages":{"23":{"Utc":"2024-03-02T15:20:00","Lap":11,"Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 4"}}}
+01:18:17.610{"Messages":{"24":{"Utc":"2024-03-02T15:22:00","Lap":12,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 18:21:59"}}}
+01:21:29.309{"Messages":{"25":{"Utc":"2024-03-02T15:25:12","Lap":14,"Category":"Other","Message":"CAR 22 (TSU) TIME 1:38.912 DELETED - TRACK LIMITS AT TURN 4 LAP 10 18:19:02"}}}
+01:22:40.443{"Messages":{"26":{"Utc":"2024-03-02T15:26:23","Lap":15,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 18:26:22"}}}
+01:23:19.044{"Messages":{"27":{"Utc":"2024-03-02T15:27:01","Lap":15,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 18:27:01"}}}
+01:26:25.217{"Messages":{"28":{"Utc":"2024-03-02T15:30:07","Lap":17,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 18:30:07"}}}
+01:26:46.444{"Messages":{"29":{"Utc":"2024-03-02T15:30:29","Lap":17,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 18:30:28"}}}
+01:29:24.173{"Messages":{"30":{"Utc":"2024-03-02T15:33:06","Lap":18,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 18:33:06"}}}
+01:40:40.327{"Messages":{"31":{"Utc":"2024-03-02T15:44:23","Lap":26,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 18:44:22"}}}
+01:46:44.161{"Messages":{"32":{"Utc":"2024-03-02T15:50:26","Lap":29,"Category":"Other","Message":"CAR 22 (TSU) TIME 1:38.083 DELETED - TRACK LIMITS AT TURN 13 LAP 27 18:48:03"}}}
+01:46:57.622{"Messages":{"33":{"Utc":"2024-03-02T15:50:40","Lap":29,"Category":"Other","Message":"CAR 44 (HAM) TIME 1:37.201 DELETED - TRACK LIMITS AT TURN 10 LAP 27 18:47:21"}}}
+01:48:43.775{"Messages":{"34":{"Utc":"2024-03-02T15:52:26","Lap":31,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 18:52:25"}}}
+01:49:14.273{"Messages":{"35":{"Utc":"2024-03-02T15:52:57","Lap":31,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 18:52:56"}}}
+01:54:26.231{"Messages":{"36":{"Utc":"2024-03-02T15:58:08","Lap":34,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"77","Message":"WAVED BLUE FLAG FOR CAR 77 (BOT) TIMED AT 18:58:08"}}}
+01:55:50.128{"Messages":{"37":{"Utc":"2024-03-02T15:59:32","Lap":35,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"77","Message":"WAVED BLUE FLAG FOR CAR 77 (BOT) TIMED AT 18:59:32"}}}
+01:59:45.520{"Messages":{"38":{"Utc":"2024-03-02T16:03:28","Lap":37,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"77","Message":"WAVED BLUE FLAG FOR CAR 77 (BOT) TIMED AT 19:03:27"}}}
+02:02:01.242{"Messages":{"39":{"Utc":"2024-03-02T16:05:43","Lap":39,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"77","Message":"WAVED BLUE FLAG FOR CAR 77 (BOT) TIMED AT 19:05:43"}}}
+02:02:27.750{"Messages":{"40":{"Utc":"2024-03-02T16:06:10","Lap":39,"Category":"Other","Message":"CAR 81 (PIA) TIME 1:34.774 DELETED - TRACK LIMITS AT TURN 15 LAP 37 19:04:27"}}}
+02:02:29.128{"Messages":{"41":{"Utc":"2024-03-02T16:06:11","Lap":39,"Category":"Other","Message":"CAR 81 (PIA) TIME 1:35.298 DELETED - TRACK LIMITS AT TURN 15 (NEXT LAP)"}}}
+02:08:13.666{"Messages":{"42":{"Utc":"2024-03-02T16:11:56","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 19:11:55"}}}
+02:11:07.577{"Messages":{"43":{"Utc":"2024-03-02T16:14:50","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 19:14:49"}}}
+02:13:20.338{"Messages":{"44":{"Utc":"2024-03-02T16:17:03","Lap":46,"Category":"Other","Message":"CAR 10 (GAS) TIME 1:56.481 DELETED - TRACK LIMITS AT TURN 4 LAP 44 19:15:47"}}}
+02:13:24.958{"Messages":{"45":{"Utc":"2024-03-02T16:17:07","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"31","Message":"WAVED BLUE FLAG FOR CAR 31 (OCO) TIMED AT 19:17:07"}}}
+02:14:57.217{"Messages":{"46":{"Utc":"2024-03-02T16:18:39","Lap":47,"Category":"Other","Message":"CAR 63 (RUS) TIME 1:36.657 DELETED - TRACK LIMITS AT TURN 10 LAP 46 19:17:53"}}}
+02:15:24.002{"Messages":{"47":{"Utc":"2024-03-02T16:19:06","Lap":47,"Category":"Other","Message":"CAR 1 (VER) TIME 1:34.193 DELETED - TRACK LIMITS AT TURN 4 LAP 46 19:16:58"}}}
+02:17:06.821{"Messages":{"48":{"Utc":"2024-03-02T16:20:49","Lap":48,"Category":"Other","Message":"CAR 44 (HAM) TIME 1:35.226 DELETED - TRACK LIMITS AT TURN 4 LAP 47 19:19:13"}}}
+02:17:59.355{"Messages":{"49":{"Utc":"2024-03-02T16:21:42","Lap":49,"Category":"Other","Message":"CAR 23 (ALB) TIME 1:36.026 DELETED - TRACK LIMITS AT TURN 4 LAP 47 19:20:01"}}}
+02:19:21.198{"Messages":{"50":{"Utc":"2024-03-02T16:23:03","Lap":50,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 19:23:03"}}}
+02:20:06.485{"Messages":{"51":{"Utc":"2024-03-02T16:23:49","Lap":50,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"23","Message":"WAVED BLUE FLAG FOR CAR 23 (ALB) TIMED AT 19:23:48"}}}
+02:20:49.567{"Messages":{"52":{"Utc":"2024-03-02T16:24:32","Lap":51,"Category":"Other","Message":"CAR 23 (ALB) TIME 1:37.102 DELETED - TRACK LIMITS AT TURN 10 LAP 49 19:23:50"}}}
+02:21:32.523{"Messages":{"53":{"Utc":"2024-03-02T16:25:15","Lap":51,"Category":"Other","Message":"CAR 81 (PIA) TIME 1:35.984 DELETED - TRACK LIMITS AT TURN 4 LAP 50 19:24:04"}}}
+02:24:23.310{"Messages":{"54":{"Utc":"2024-03-02T16:28:06","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 19:28:05"}}}
+02:24:42.111{"Messages":{"55":{"Utc":"2024-03-02T16:28:24","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 19:28:24"}}}
+02:24:59.966{"Messages":{"56":{"Utc":"2024-03-02T16:28:42","Lap":53,"Category":"Other","Message":"CAR 3 (RIC) TIME 1:37.103 DELETED - TRACK LIMITS AT TURN 13 LAP 51 19:27:11"}}}
+02:25:02.038{"Messages":{"57":{"Utc":"2024-03-02T16:28:44","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"31","Message":"WAVED BLUE FLAG FOR CAR 31 (OCO) TIMED AT 19:28:44"}}}
+02:25:51.680{"Messages":{"58":{"Utc":"2024-03-02T16:29:34","Lap":54,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 19:29:33"}}}
+02:27:13.284{"Messages":{"59":{"Utc":"2024-03-02T16:30:56","Lap":55,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"24","Message":"WAVED BLUE FLAG FOR CAR 24 (ZHO) TIMED AT 19:30:55"}}}
+02:27:22.781{"Messages":{"60":{"Utc":"2024-03-02T16:31:05","Lap":55,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"31","Message":"WAVED BLUE FLAG FOR CAR 31 (OCO) TIMED AT 19:31:05"}}}
+02:27:35.690{"Messages":{"61":{"Utc":"2024-03-02T16:31:18","Lap":55,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"77","Message":"WAVED BLUE FLAG FOR CAR 77 (BOT) TIMED AT 19:31:17"}}}
+02:28:59.711{"Messages":{"62":{"Utc":"2024-03-02T16:32:42","Lap":56,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (SAR) TIMED AT 19:32:41"}}}
+02:30:29.939{"Messages":{"63":{"Utc":"2024-03-02T16:34:12","Lap":57,"Category":"Other","Message":"CAR 3 (RIC) TIME 1:37.375 DELETED - TRACK LIMITS AT TURN 4 LAP 55 19:32:49"}}}
+02:30:45.624{"Messages":{"64":{"Utc":"2024-03-02T16:34:28","Lap":57,"Category":"Other","Message":"CAR 10 (GAS) TIME 1:35.908 DELETED - TRACK LIMITS AT TURN 4 LAP 55 19:33:15"}}}
+02:31:43.768{"Messages":{"65":{"Utc":"2024-03-02T16:35:26","Lap":57,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+02:32:10.558{"Messages":{"66":{"Utc":"2024-03-02T16:35:53","Lap":57,"Category":"Other","Message":"CAR 3 (RIC) TIME 1:37.662 DELETED - TRACK LIMITS AT TURN 4 LAP 56 19:34:27"}}}
+02:32:19.084{"Messages":{"67":{"Utc":"2024-03-02T16:36:01","Lap":57,"Category":"Flag","Flag":"BLACK AND WHITE","Scope":"Driver","RacingNumber":"3","Message":"BLACK AND WHITE FLAG FOR CAR 3 (RIC) - TRACK LIMITS"}}}
+02:34:55.815{"Messages":{"68":{"Utc":"2024-03-02T16:38:38","Lap":57,"Category":"Other","Message":"CAR 4 (NOR) TIME 1:35.976 DELETED - TRACK LIMITS AT TURN 13 LAP 56 19:34:20"}}}

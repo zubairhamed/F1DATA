@@ -1,0 +1,14 @@
+00:13:24.778{"Messages":[{"Utc":"2024-03-01T16:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:18:06.921{"Messages":{"1":{"Utc":"2024-03-01T16:04:42","Category":"Other","Message":"CAR 10 (GAS) TIME 1:32.434 DELETED - TRACK LIMITS AT TURN 13 LAP 3 19:03:46"}}}
+00:31:24.812{"Messages":{"2":{"Utc":"2024-03-01T16:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:31:37.667{"Messages":{"3":{"Utc":"2024-03-01T16:18:13","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 22 (TSU)"}}}
+00:35:31.375{"Messages":{"4":{"Utc":"2024-03-01T16:22:07","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 63 (RUS) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+00:38:24.892{"Messages":{"5":{"Utc":"2024-03-01T16:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:43:48.938{"Messages":{"6":{"Utc":"2024-03-01T16:30:24","Category":"Other","Message":"CAR 20 (MAG) TIME 1:31.170 DELETED - TRACK LIMITS AT TURN 7 LAP 9 19:29:18"}}}
+00:45:43.846{"Messages":{"7":{"Utc":"2024-03-01T16:32:19","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 63 (RUS) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}
+00:53:25.709{"Messages":{"8":{"Utc":"2024-03-01T16:40:01","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:53:36.680{"Messages":{"9":{"Utc":"2024-03-01T16:40:12","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 16 (LEC)"}}}
+01:01:24.875{"Messages":{"10":{"Utc":"2024-03-01T16:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:13:25.682{"Messages":{"11":{"Utc":"2024-03-01T17:00:01","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:13:51.233{"Messages":{"12":{"Utc":"2024-03-01T17:00:27","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 63 (RUS)"}}}
+01:16:47.514{"Messages":{"13":{"Utc":"2024-03-01T17:03:23","Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 63 (RUS) NO FURTHER ACTION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS - MAXIMUM DELTA TIME"}}}

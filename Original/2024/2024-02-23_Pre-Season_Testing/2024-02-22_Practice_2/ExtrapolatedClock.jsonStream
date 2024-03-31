@@ -1,0 +1,7 @@
+00:00:03.924{"Utc":"2024-02-22T06:48:34.012Z","Remaining":"04:10:00","Extrapolating":false}
+00:11:30.918{"Utc":"2024-02-22T07:00:01.006Z","Remaining":"04:09:59","Extrapolating":true}
+01:20:02.010{"Utc":"2024-02-22T08:08:32.098Z","Remaining":"03:01:29","Extrapolating":false}
+01:20:02.010{"Remaining":"03:01:28"}
+01:20:02.920{"Utc":"2024-02-22T08:08:33.008Z","Remaining":"03:01:27","Extrapolating":true}
+04:06:18.915{"Utc":"2024-02-22T10:54:49.003Z","Remaining":"05:10:00","Extrapolating":false}
+04:11:30.920{"Utc":"2024-02-22T11:00:01.008Z","Remaining":"05:09:59","Extrapolating":true}
