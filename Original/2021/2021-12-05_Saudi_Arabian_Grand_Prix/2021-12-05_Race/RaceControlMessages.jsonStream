@@ -1,0 +1,98 @@
+00:01:28.712{"Messages":[{"Utc":"2021-12-05T15:30:28","Lap":1,"Category":"Other","Message":"AIR TEMPERATURE 2 HOURS BEFORE THE RACE =  29 DEGREES"}]}
+00:17:53.064{"Messages":{"1":{"Utc":"2021-12-05T16:50:00","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:27:53.045{"Messages":{"2":{"Utc":"2021-12-05T17:00:00","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:30:53.796{"Messages":{"3":{"Utc":"2021-12-05T17:03:01","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":20,"Message":"DOUBLE YELLOW IN TRACK SECTOR 20"}}}
+00:30:54.928{"Messages":{"4":{"Utc":"2021-12-05T17:03:02","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:31:12.358{"Messages":{"5":{"Utc":"2021-12-05T17:03:19","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+00:31:12.485{"Messages":{"6":{"Utc":"2021-12-05T17:03:20","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:43:00.701{"Messages":{"7":{"Utc":"2021-12-05T17:15:08","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 0%"}}}
+00:50:13.106{"Messages":{"8":{"Utc":"2021-12-05T17:22:20","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+00:50:14.164{"Messages":{"9":{"Utc":"2021-12-05T17:22:21","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:50:14.887{"Messages":{"10":{"Utc":"2021-12-05T17:22:22","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:50:14.911{"Messages":{"11":{"Utc":"2021-12-05T17:22:22","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:55:00.376{"Messages":{"12":{"Utc":"2021-12-05T17:27:07","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:01:37.666{"Messages":{"13":{"Utc":"2021-12-05T17:33:45","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:04:13.651{"Messages":{"14":{"Utc":"2021-12-05T17:36:21","Lap":2,"Category":"Other","Message":"TURN 7 INCIDENT INVOLVING CARS 18 (STR) AND 63 (RUS) NOTED"}}}
+01:05:14.626{"Messages":{"15":{"Utc":"2021-12-05T17:37:21","Lap":3,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:06:54.001{"Messages":{"16":{"Utc":"2021-12-05T17:39:01","Lap":4,"Category":"Other","Message":"TURN 7 INCIDENT INVOLVING CARS 18 (STR) AND 63 (RUS) NO INVESTIGATION NECESSARY"}}}
+01:09:30.164{"Messages":{"17":{"Utc":"2021-12-05T17:41:37","Lap":6,"Category":"Other","Message":"START INCIDENT INVOLVING CARS 31 (OCO) AND 22 (TSU) NOTED"}}}
+01:11:25.984{"Messages":{"18":{"Utc":"2021-12-05T17:43:33","Lap":7,"Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) MISSED THE APEX OF TURN 2"}}}
+01:12:48.790{"Messages":{"19":{"Utc":"2021-12-05T17:44:56","Lap":8,"Category":"Other","Message":"START INCIDENT INVOLVING CARS 31 (OCO) AND 22 (TSU) NO INVESTIGATION NECESSARY"}}}
+01:15:58.500{"Messages":{"20":{"Utc":"2021-12-05T17:48:06","Lap":10,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+01:15:59.539{"Messages":{"21":{"Utc":"2021-12-05T17:48:07","Lap":10,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:16:10.264{"Messages":{"22":{"Utc":"2021-12-05T17:48:17","Lap":10,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:24:52.571{"Messages":{"23":{"Utc":"2021-12-05T17:57:00","Lap":13,"Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:24:52.741{"Messages":{"24":{"Utc":"2021-12-05T17:57:00","Lap":13,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:32:51.476{"Messages":{"25":{"Utc":"2021-12-05T18:04:59","Lap":14,"Category":"Other","Message":"RACE WILL RESUME AT 21:15"}}}
+01:34:21.393{"Messages":{"26":{"Utc":"2021-12-05T18:06:28","Lap":14,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:44:19.986{"Messages":{"27":{"Utc":"2021-12-05T18:16:27","Lap":14,"Category":"Other","Message":"SAFETY CAR WILL ENTER PITS: STANDING START"}}}
+01:47:47.324{"Messages":{"28":{"Utc":"2021-12-05T18:19:54","Lap":15,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:48:00.192{"Messages":{"29":{"Utc":"2021-12-05T18:20:07","Lap":15,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+01:48:22.560{"Messages":{"30":{"Utc":"2021-12-05T18:20:30","Lap":15,"Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:48:22.594{"Messages":{"31":{"Utc":"2021-12-05T18:20:30","Lap":15,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:48:22.614{"Messages":{"32":{"Utc":"2021-12-05T18:20:30","Lap":15,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:57:09.992{"Messages":{"33":{"Utc":"2021-12-05T18:29:17","Lap":16,"Category":"Other","Message":"RACE WILL RESUME AT 21:40"}}}
+02:00:34.067{"Messages":{"34":{"Utc":"2021-12-05T18:32:41","Lap":16,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+02:09:20.595{"Messages":{"35":{"Utc":"2021-12-05T18:41:28","Lap":16,"Category":"Other","Message":"SAFETY CAR WILL ENTER PITS: STANDING START"}}}
+02:10:42.010{"Messages":{"36":{"Utc":"2021-12-05T18:42:49","Lap":16,"Category":"Other","Message":"TURN 3 INCIDENT NOTED"}}}
+02:16:34.354{"Messages":{"37":{"Utc":"2021-12-05T18:48:41","Lap":19,"Category":"Other","Message":"TURN 3 INCIDENT WILL BE INVESTIGATED AFTER THE RACE"}}}
+02:20:44.378{"Messages":{"38":{"Utc":"2021-12-05T18:52:51","Lap":22,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+02:22:23.489{"Messages":{"39":{"Utc":"2021-12-05T18:54:31","Lap":23,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+02:22:24.583{"Messages":{"40":{"Utc":"2021-12-05T18:54:32","Lap":23,"Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+02:23:10.046{"Messages":{"41":{"Utc":"2021-12-05T18:55:17","Lap":23,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+02:24:58.923{"Messages":{"42":{"Utc":"2021-12-05T18:57:06","Lap":24,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+02:25:09.910{"Messages":{"43":{"Utc":"2021-12-05T18:57:17","Lap":24,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+02:25:09.998{"Messages":{"44":{"Utc":"2021-12-05T18:57:17","Lap":24,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+02:25:14.336{"Messages":{"45":{"Utc":"2021-12-05T18:57:21","Lap":24,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+02:27:03.097{"Messages":{"46":{"Utc":"2021-12-05T18:59:10","Lap":25,"Category":"Other","Message":"TURN 2 INCIDENT INVOLVING CARS 5 (VET) AND 22 (TSU) NOTED - CAUSING A COLLISION"}}}
+02:27:20.906{"Messages":{"47":{"Utc":"2021-12-05T18:59:28","Lap":26,"Category":"Other","Message":"TURN 2 INCIDENT INVOLVING CARS 5 (VET) AND 22 (TSU) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+02:28:16.632{"Messages":{"48":{"Utc":"2021-12-05T19:00:24","Lap":26,"Category":"Other","Message":"5 SECOND TIME PENALTY FOR CAR 22 (TSU) - CAUSING A COLLISION"}}}
+02:28:25.312{"Messages":{"49":{"Utc":"2021-12-05T19:00:32","Lap":26,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 22:00:32"}}}
+02:28:40.025{"Messages":{"50":{"Utc":"2021-12-05T19:00:47","Lap":27,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 22:00:47"}}}
+02:29:10.903{"Messages":{"51":{"Utc":"2021-12-05T19:01:18","Lap":27,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 8"}}}
+02:29:34.675{"Messages":{"52":{"Utc":"2021-12-05T19:01:42","Lap":27,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 7"}}}
+02:29:53.941{"Messages":{"53":{"Utc":"2021-12-05T19:02:01","Lap":27,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+02:30:07.811{"Messages":{"54":{"Utc":"2021-12-05T19:02:15","Lap":27,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+02:30:07.928{"Messages":{"55":{"Utc":"2021-12-05T19:02:15","Lap":28,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+02:30:07.959{"Messages":{"56":{"Utc":"2021-12-05T19:02:15","Lap":28,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+02:30:07.974{"Messages":{"57":{"Utc":"2021-12-05T19:02:15","Lap":28,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+02:30:43.381{"Messages":{"58":{"Utc":"2021-12-05T19:02:50","Lap":28,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+02:30:58.260{"Messages":{"59":{"Utc":"2021-12-05T19:03:05","Lap":28,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+02:31:00.711{"Messages":{"60":{"Utc":"2021-12-05T19:03:08","Lap":28,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+02:31:34.770{"Messages":{"61":{"Utc":"2021-12-05T19:03:42","Lap":28,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 7"}}}
+02:31:36.775{"Messages":{"62":{"Utc":"2021-12-05T19:03:44","Lap":28,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+02:33:02.551{"Messages":{"63":{"Utc":"2021-12-05T19:05:10","Lap":29,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+02:33:02.613{"Messages":{"64":{"Utc":"2021-12-05T19:05:10","Lap":29,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+02:33:02.632{"Messages":{"65":{"Utc":"2021-12-05T19:05:10","Lap":29,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+02:33:52.208{"Messages":{"66":{"Utc":"2021-12-05T19:05:59","Lap":30,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+02:33:54.824{"Messages":{"67":{"Utc":"2021-12-05T19:06:02","Lap":30,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+02:38:11.185{"Messages":{"68":{"Utc":"2021-12-05T19:10:18","Lap":32,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+02:38:15.584{"Messages":{"69":{"Utc":"2021-12-05T19:10:23","Lap":32,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+02:38:24.224{"Messages":{"70":{"Utc":"2021-12-05T19:10:31","Lap":32,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+02:40:12.680{"Messages":{"71":{"Utc":"2021-12-05T19:12:20","Lap":33,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+02:40:18.812{"Messages":{"72":{"Utc":"2021-12-05T19:12:26","Lap":33,"Category":"Other","Message":"TURN 4 INCIDENT INVOLVING CARS 5 (VET) AND 7 (RAI) NOTED"}}}
+02:40:23.740{"Messages":{"73":{"Utc":"2021-12-05T19:12:31","Lap":33,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+02:40:32.727{"Messages":{"74":{"Utc":"2021-12-05T19:12:40","Lap":33,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+02:40:40.634{"Messages":{"75":{"Utc":"2021-12-05T19:12:48","Lap":33,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 22:12:47"}}}
+02:40:55.683{"Messages":{"76":{"Utc":"2021-12-05T19:13:03","Lap":33,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+02:41:18.464{"Messages":{"77":{"Utc":"2021-12-05T19:13:26","Lap":33,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+02:43:33.387{"Messages":{"78":{"Utc":"2021-12-05T19:15:40","Lap":35,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 9"}}}
+02:44:52.340{"Messages":{"79":{"Utc":"2021-12-05T19:16:59","Lap":36,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+02:44:52.467{"Messages":{"80":{"Utc":"2021-12-05T19:16:59","Lap":36,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+02:45:26.645{"Messages":{"81":{"Utc":"2021-12-05T19:17:34","Lap":36,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+02:45:39.344{"Messages":{"82":{"Utc":"2021-12-05T19:17:46","Lap":36,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+02:45:41.627{"Messages":{"83":{"Utc":"2021-12-05T19:17:49","Lap":36,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+02:46:53.323{"Messages":{"84":{"Utc":"2021-12-05T19:19:00","Lap":37,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 33 (VER) AND 44 (HAM) NOTED"}}}
+02:48:31.709{"Messages":{"85":{"Utc":"2021-12-05T19:20:39","Lap":38,"Category":"Other","Message":"TURN 25 INCIDENT INVOLVING CARS 44 (HAM) AND 33 (VER) NOTED"}}}
+02:48:42.005{"Messages":{"86":{"Utc":"2021-12-05T19:20:49","Lap":38,"Category":"Other","Message":"TURN 25 INCIDENT INVOLVING CARS 44 (HAM) AND 33 (VER) UNDER INVESTIGATION"}}}
+02:55:38.522{"Messages":{"87":{"Utc":"2021-12-05T19:27:46","Lap":43,"Category":"Other","Message":"5 SECOND TIME PENALTY FOR CAR 33 (VER) - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}
+02:56:13.587{"Messages":{"88":{"Utc":"2021-12-05T19:28:21","Lap":43,"Category":"Other","Message":"TURN 27 INCIDENT INVOLVING CARS 44 (HAM) AND 33 (VER) - WILL BE INVESTIGATED AFTER THE RACE"}}}
+02:57:45.088{"Messages":{"89":{"Utc":"2021-12-05T19:29:52","Lap":44,"Category":"Other","Message":"TURN 4 INCIDENT INVOLVING CARS 5 (VET) AND 7 (RAI) NO INVESTIGATION NECESSARY"}}}
+02:59:21.304{"Messages":{"90":{"Utc":"2021-12-05T19:31:28","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 22:31:28"}}}
+03:00:08.250{"Messages":{"91":{"Utc":"2021-12-05T19:32:15","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 22:32:15"}}}
+03:01:56.512{"Messages":{"92":{"Utc":"2021-12-05T19:34:04","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 22:34:03"}}}
+03:03:44.061{"Messages":{"93":{"Utc":"2021-12-05T19:35:51","Lap":48,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+03:04:05.872{"Messages":{"94":{"Utc":"2021-12-05T19:36:13","Lap":48,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+03:07:50.355{"Messages":{"95":{"Utc":"2021-12-05T19:39:57","Lap":50,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+03:13:18.071{"Messages":{"96":{"Utc":"2021-12-05T19:45:25","Lap":50,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":17,"Message":"DOUBLE YELLOW IN TRACK SECTOR 17"}}}
+03:16:34.872{"Messages":{"97":{"Utc":"2021-12-05T19:48:42","Lap":50,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}

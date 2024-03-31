@@ -1,0 +1,5 @@
+00:08:56.620{"Series":[],"StatusSeries":[{"Utc":"2021-11-13T14:53:56.639Z","TrackStatus":"AllClear"}]}
+00:15:00.410{"StatusSeries":{"1":{"Utc":"2021-11-13T15:00:00.429Z","SessionStatus":"Started"}}}
+01:15:00.414{"StatusSeries":{"2":{"Utc":"2021-11-13T16:00:00.433Z","SessionStatus":"Finished"}}}
+01:20:45.786{"StatusSeries":{"3":{"Utc":"2021-11-13T16:05:45.805Z","SessionStatus":"Finalised"}}}
+01:20:45.786{"StatusSeries":{"4":{"Utc":"2021-11-13T16:05:45.805Z","SessionStatus":"Ends"}}}

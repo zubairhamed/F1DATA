@@ -1,0 +1,25 @@
+00:00:15.925{"Messages":[{"Utc":"2021-07-31T12:45:18","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 10%"}]}
+00:00:51.490{"Messages":{"1":{"Utc":"2021-07-31T12:45:53","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:00:51.495{"Messages":{"2":{"Utc":"2021-07-31T12:45:53","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:14:58.564{"Messages":{"3":{"Utc":"2021-07-31T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:32:58.528{"Messages":{"4":{"Utc":"2021-07-31T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:04.870{"Messages":{"5":{"Utc":"2021-07-31T13:18:06","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 63 (RUS)"}}}
+00:39:58.531{"Messages":{"6":{"Utc":"2021-07-31T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:48:11.022{"Messages":{"7":{"Utc":"2021-07-31T13:33:13","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:48:18.746{"Messages":{"8":{"Utc":"2021-07-31T13:33:20","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:48:18.792{"Messages":{"9":{"Utc":"2021-07-31T13:33:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:50:35.213{"Messages":{"10":{"Utc":"2021-07-31T13:35:37","Category":"Other","Message":"MEDICAL CAR DEPLOYED"}}}
+00:54:21.106{"Messages":{"11":{"Utc":"2021-07-31T13:39:23","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:54:24.723{"Messages":{"12":{"Utc":"2021-07-31T13:39:26","Category":"Other","Message":"SESSION WILL RESUME AT 15:41"}}}
+00:54:27.712{"Messages":{"13":{"Utc":"2021-07-31T13:39:29","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:55:58.502{"Messages":{"14":{"Utc":"2021-07-31T13:41:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:02:38.489{"Messages":{"15":{"Utc":"2021-07-31T13:47:40","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:02:55.262{"Messages":{"16":{"Utc":"2021-07-31T13:47:57","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 14 (ALO)"}}}
+01:04:50.825{"Messages":{"17":{"Utc":"2021-07-31T13:49:52","Category":"Other","Message":"Q3 WILL START AT 15:56"}}}
+01:10:58.566{"Messages":{"18":{"Utc":"2021-07-31T13:56:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:22:58.561{"Messages":{"19":{"Utc":"2021-07-31T14:08:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:23:17.959{"Messages":{"20":{"Utc":"2021-07-31T14:08:20","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 11 (PER)"}}}
+01:41:18.394{"Messages":{"21":{"Utc":"2021-07-31T14:26:20","Category":"Other","Message":"RACE START DELAYED - NEW TIMES:"}}}
+01:41:31.776{"Messages":{"22":{"Utc":"2021-07-31T14:26:33","Category":"Other","Message":"PIT LANE OPEN AT 16:30 FOR 5 MINUTES"}}}
+01:41:45.130{"Messages":{"23":{"Utc":"2021-07-31T14:26:47","Category":"Other","Message":"PIT LANE CLOSE AT 16:35"}}}
+01:41:54.353{"Messages":{"24":{"Utc":"2021-07-31T14:26:56","Category":"Other","Message":"START FORMATION LAP AT 16:40"}}}

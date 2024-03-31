@@ -1,0 +1,9 @@
+00:13:56.358{"Status":"1","Message":"AllClear"}
+01:08:53.051{"Status":"4","Message":"SCDeployed"}
+01:15:55.042{"Status":"1","Message":"AllClear"}
+01:19:10.057{"Status":"6","Message":"VSCDeployed"}
+01:22:28.753{"Status":"7","Message":"VSCEnding"}
+01:22:40.247{"Status":"1","Message":"AllClear"}
+01:43:09.876{"Status":"6","Message":"VSCDeployed"}
+01:43:57.781{"Status":"7","Message":"VSCEnding"}
+01:44:11.332{"Status":"1","Message":"AllClear"}

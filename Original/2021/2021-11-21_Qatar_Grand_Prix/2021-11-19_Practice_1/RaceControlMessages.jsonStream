@@ -1,0 +1,14 @@
+00:03:19.068{"Messages":[{"Utc":"2021-11-19T09:30:11","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P1 = 29 DEGREES"}]}
+00:03:19.080{"Messages":{"1":{"Utc":"2021-11-19T10:15:11","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}}}
+00:11:33.942{"Messages":{"2":{"Utc":"2021-11-19T10:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:09:47.871{"Messages":{"3":{"Utc":"2021-11-19T11:28:14","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+01:09:56.217{"Messages":{"4":{"Utc":"2021-11-19T11:28:23","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 1"}}}
+01:10:19.095{"Messages":{"5":{"Utc":"2021-11-19T11:28:45","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:10:23.463{"Messages":{"6":{"Utc":"2021-11-19T11:28:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+01:10:54.307{"Messages":{"7":{"Utc":"2021-11-19T11:29:21","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+01:10:58.724{"Messages":{"8":{"Utc":"2021-11-19T11:29:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:11:03.858{"Messages":{"9":{"Utc":"2021-11-19T11:29:30","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 12"}}}
+01:11:33.963{"Messages":{"10":{"Utc":"2021-11-19T11:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:11:54.869{"Messages":{"11":{"Utc":"2021-11-19T11:30:21","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 4 (NOR)"}}}
+01:13:53.448{"Messages":{"12":{"Utc":"2021-11-19T11:32:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+01:14:22.352{"Messages":{"13":{"Utc":"2021-11-19T11:32:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}

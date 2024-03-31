@@ -1,0 +1,57 @@
+00:00:54.866{"Messages":[{"Utc":"2021-10-22T16:15:55","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:15:00.545{"Messages":{"1":{"Utc":"2021-10-22T16:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:17:20.714{"Messages":{"2":{"Utc":"2021-10-22T16:32:21","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+00:17:21.897{"Messages":{"3":{"Utc":"2021-10-22T16:32:22","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:17:31.176{"Messages":{"4":{"Utc":"2021-10-22T16:32:31","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:17:32.216{"Messages":{"5":{"Utc":"2021-10-22T16:32:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:17:38.831{"Messages":{"6":{"Utc":"2021-10-22T16:32:39","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:17:38.952{"Messages":{"7":{"Utc":"2021-10-22T16:32:39","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:17:51.179{"Messages":{"8":{"Utc":"2021-10-22T16:32:51","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) STOPPED AT TURN 12"}}}
+00:24:55.738{"Messages":{"9":{"Utc":"2021-10-22T16:39:56","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:25:00.680{"Messages":{"10":{"Utc":"2021-10-22T16:40:00","Category":"Other","Message":"SESSION WILL RESUME AT 11:41"}}}
+00:25:29.005{"Messages":{"11":{"Utc":"2021-10-22T16:40:29","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:26:00.519{"Messages":{"12":{"Utc":"2021-10-22T16:41:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:29:44.908{"Messages":{"13":{"Utc":"2021-10-22T16:44:45","Category":"Other","Message":"CAR 7 (RAI) TIME 1:39.888 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:29:46.293{"Messages":{"14":{"Utc":"2021-10-22T16:44:46","Category":"Other","Message":"CAR 3 (RIC) TIME 1:37.856 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:30:16.295{"Messages":{"15":{"Utc":"2021-10-22T16:45:16","Category":"Other","Message":"CAR 31 (OCO) TIME 1:38.784 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:30:36.217{"Messages":{"16":{"Utc":"2021-10-22T16:45:36","Category":"Other","Message":"CAR 10 (GAS) TIME 1:38.116 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:31:31.133{"Messages":{"17":{"Utc":"2021-10-22T16:46:31","Category":"Other","Message":"CAR 18 (STR) TIME 1:38.342 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:32:15.407{"Messages":{"18":{"Utc":"2021-10-22T16:47:15","Category":"Other","Message":"CAR 3 (RIC) TIME 2:13.394 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:33:29.695{"Messages":{"19":{"Utc":"2021-10-22T16:48:29","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:33:52.041{"Messages":{"20":{"Utc":"2021-10-22T16:48:52","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:34:10.608{"Messages":{"21":{"Utc":"2021-10-22T16:49:10","Category":"Other","Message":"CAR 16 (LEC) SPUN AND CONTINUED AT TURN 4-5"}}}
+00:34:11.895{"Messages":{"22":{"Utc":"2021-10-22T16:49:12","Category":"Other","Message":"CAR 11 (PER) TIME 1:56.075 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:35:42.287{"Messages":{"23":{"Utc":"2021-10-22T16:50:42","Category":"Other","Message":"CAR 11 (PER) TIME 1:41.209 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:36:58.404{"Messages":{"24":{"Utc":"2021-10-22T16:51:58","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:42.476 DELETED - TRACK LIMITS AT TURN 19"}}}
+00:37:55.588{"Messages":{"25":{"Utc":"2021-10-22T16:52:55","Category":"Other","Message":"CAR 55 (SAI) TIME 1:37.483 DELETED - TRACK LIMITS AT TURN 19"}}}
+00:41:32.683{"Messages":{"26":{"Utc":"2021-10-22T16:56:32","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:40.948 DELETED - TRACK LIMITS AT TURN 19"}}}
+00:47:26.810{"Messages":{"27":{"Utc":"2021-10-22T17:02:27","Category":"Other","Message":"CAR 5 (VET) TIME 1:36.344 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:51:42.690{"Messages":{"28":{"Utc":"2021-10-22T17:06:43","Category":"Other","Message":"CAR 22 (TSU) TIME 1:37.661 DELETED - TRACK LIMITS AT TURN 19"}}}
+00:54:12.629{"Messages":{"29":{"Utc":"2021-10-22T17:09:12","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":19,"Message":"DOUBLE YELLOW IN TRACK SECTOR 19"}}}
+00:54:12.992{"Messages":{"30":{"Utc":"2021-10-22T17:09:13","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+00:54:14.152{"Messages":{"31":{"Utc":"2021-10-22T17:09:14","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:54:40.141{"Messages":{"32":{"Utc":"2021-10-22T17:09:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:54:42.244{"Messages":{"33":{"Utc":"2021-10-22T17:09:42","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 19"}}}
+00:56:07.049{"Messages":{"34":{"Utc":"2021-10-22T17:11:07","Category":"Other","Message":"CAR 4 (NOR) TIME 1:38.199 DELETED - TRACK LIMITS AT TURN 19"}}}
+00:56:07.492{"Messages":{"35":{"Utc":"2021-10-22T17:11:07","Category":"Other","Message":"CAR 11 (PER) TIME 1:35.817 DELETED - TRACK LIMITS AT TURN 19"}}}
+00:56:31.046{"Messages":{"36":{"Utc":"2021-10-22T17:11:31","Category":"Other","Message":"CAR 3 (RIC) TIME 1:36.220 DELETED - TRACK LIMITS AT TURN 19"}}}
+00:57:18.877{"Messages":{"37":{"Utc":"2021-10-22T17:12:19","Category":"Other","Message":"CAR 18 (STR) TIME 1:37.417 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:59:42.529{"Messages":{"38":{"Utc":"2021-10-22T17:14:42","Category":"Other","Message":"CAR 22 (TSU) TIME 1:37.248 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:02:19.152{"Messages":{"39":{"Utc":"2021-10-22T17:17:19","Category":"Other","Message":"CAR 31 (OCO) TIME 1:37.252 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:07:58.101{"Messages":{"40":{"Utc":"2021-10-22T17:22:58","Category":"Other","Message":"CAR 11 (PER) TIME 1:41.714 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:08:24.526{"Messages":{"41":{"Utc":"2021-10-22T17:23:24","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:45.405 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:12:02.159{"Messages":{"42":{"Utc":"2021-10-22T17:27:02","Category":"Other","Message":"CAR 11 (PER) TIME 1:41.849 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:12:25.470{"Messages":{"43":{"Utc":"2021-10-22T17:27:25","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+01:12:26.572{"Messages":{"44":{"Utc":"2021-10-22T17:27:26","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:12:34.464{"Messages":{"45":{"Utc":"2021-10-22T17:27:34","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:12:34.472{"Messages":{"46":{"Utc":"2021-10-22T17:27:34","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:13:44.938{"Messages":{"47":{"Utc":"2021-10-22T17:28:45","Category":"Other","Message":"TURN 12 INCIDENT INVOLVING CARS 11 (PER) AND 47 (MSC) NOTED "}}}
+01:14:20.039{"Messages":{"48":{"Utc":"2021-10-22T17:29:20","Category":"Other","Message":"CAR 33 (VER) TIME 1:43.143 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:14:57.587{"Messages":{"49":{"Utc":"2021-10-22T17:29:57","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:15:00.574{"Messages":{"50":{"Utc":"2021-10-22T17:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:11.112{"Messages":{"51":{"Utc":"2021-10-22T17:30:11","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:15:17.526{"Messages":{"52":{"Utc":"2021-10-22T17:30:17","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:15:30.569{"Messages":{"53":{"Utc":"2021-10-22T17:30:30","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 77 (BOT)"}}}
+01:15:31.230{"Messages":{"54":{"Utc":"2021-10-22T17:30:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:15:55.550{"Messages":{"55":{"Utc":"2021-10-22T17:30:55","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) SPUN AND CONTINUED AT TURN 10"}}}
+01:16:15.758{"Messages":{"56":{"Utc":"2021-10-22T17:31:16","Category":"Other","Message":"CAR 22 (TSU) TIME 1:43.398 DELETED - TRACK LIMITS AT TURN 19"}}}

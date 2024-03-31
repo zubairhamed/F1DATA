@@ -1,0 +1,18 @@
+00:01:05.672{"Messages":[{"Utc":"2021-11-13T17:30:03","Lap":1,"Category":"Other","Message":"AIR TEMPERATURE 2 HOURS BEFORE SPRINT QUALIFYING = 19 DEGREES"}]}
+00:02:21.114{"Messages":{"1":{"Utc":"2021-11-13T19:00:01","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:07:21.104{"Messages":{"2":{"Utc":"2021-11-13T19:05:00","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:17:22.741{"Messages":{"3":{"Utc":"2021-11-13T19:15:02","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 SPRINT QUALIFYING SESSION IS 0%"}}}
+00:29:24.602{"Messages":{"4":{"Utc":"2021-11-13T19:27:04","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:35:23.934{"Messages":{"5":{"Utc":"2021-11-13T19:33:03","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:36:58.972{"Messages":{"6":{"Utc":"2021-11-13T19:34:38","Lap":2,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:37:00.813{"Messages":{"7":{"Utc":"2021-11-13T19:34:40","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:37:16.244{"Messages":{"8":{"Utc":"2021-11-13T19:34:56","Lap":2,"Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) SPUN AND CONTINUED AT TURN 1"}}}
+00:37:53.053{"Messages":{"9":{"Utc":"2021-11-13T19:35:32","Lap":3,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:38:14.650{"Messages":{"10":{"Utc":"2021-11-13T19:35:54","Lap":3,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 7 (RAI) AND 99 (GIO) NOTED"}}}
+00:40:15.106{"Messages":{"11":{"Utc":"2021-11-13T19:37:55","Lap":4,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 7 (RAI) AND 99 (GIO) NO INVESTIGATION NECESSARY"}}}
+00:44:26.419{"Messages":{"12":{"Utc":"2021-11-13T19:42:06","Lap":8,"Category":"Other","Message":"CAR 9 (MAZ) TIME 1:16.702 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:55:25.762{"Messages":{"13":{"Utc":"2021-11-13T19:53:05","Lap":17,"Category":"Other","Message":"CAR 5 (VET) TIME 1:14.337 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:57:28.856{"Messages":{"14":{"Utc":"2021-11-13T19:55:08","Lap":19,"Category":"Other","Message":"CAR 18 (STR) TIME 1:14.111 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:01:51.111{"Messages":{"15":{"Utc":"2021-11-13T19:59:31","Lap":22,"Category":"Other","Message":"CAR 47 (MSC) TIME 1:14.904 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:03:11.763{"Messages":{"16":{"Utc":"2021-11-13T20:00:51","Lap":23,"Category":"Other","Message":"CAR 9 (MAZ) TIME 1:15.066 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:04:41.264{"Messages":{"17":{"Utc":"2021-11-13T20:02:21","Lap":24,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

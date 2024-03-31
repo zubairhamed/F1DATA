@@ -1,0 +1,40 @@
+00:00:03.066{"Messages":[{"Utc":"2021-09-03T09:15:03","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:00:03.476{"Messages":{"1":{"Utc":"2021-09-03T08:30:02","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P1 = 17 DEGREES"}}}
+00:00:24.995{"Messages":{"2":{"Utc":"2021-09-03T08:30:02","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P1 = 17 DEGREES"}}}
+00:00:24.995{"Messages":{"3":{"Utc":"2021-09-03T09:15:03","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}}}
+00:15:00.158{"Messages":{"4":{"Utc":"2021-09-03T09:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:16:36.652{"Messages":{"5":{"Utc":"2021-09-03T09:31:37","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:16:37.644{"Messages":{"6":{"Utc":"2021-09-03T09:31:38","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:16:39.654{"Messages":{"7":{"Utc":"2021-09-03T09:31:40","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+00:16:54.968{"Messages":{"8":{"Utc":"2021-09-03T09:31:55","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:16:55.010{"Messages":{"9":{"Utc":"2021-09-03T09:31:55","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:16:59.762{"Messages":{"10":{"Utc":"2021-09-03T09:32:00","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) SPUN AND CONTINUED AT TURN 10"}}}
+00:19:38.605{"Messages":{"11":{"Utc":"2021-09-03T09:34:09","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:19:38.610{"Messages":{"12":{"Utc":"2021-09-03T09:34:11","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:19:44.789{"Messages":{"13":{"Utc":"2021-09-03T09:34:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:19:44.795{"Messages":{"14":{"Utc":"2021-09-03T09:34:45","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:19:47.455{"Messages":{"15":{"Utc":"2021-09-03T09:34:47","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 11"}}}
+00:31:09.878{"Messages":{"16":{"Utc":"2021-09-03T09:46:10","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:31:10.919{"Messages":{"17":{"Utc":"2021-09-03T09:46:11","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:38:25.945{"Messages":{"18":{"Utc":"2021-09-03T09:53:26","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:06:02.874{"Messages":{"19":{"Utc":"2021-09-03T10:20:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:06:02.883{"Messages":{"20":{"Utc":"2021-09-03T10:20:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:06:20.547{"Messages":{"21":{"Utc":"2021-09-03T10:21:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:07:42.982{"Messages":{"22":{"Utc":"2021-09-03T10:22:43","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:07:59.085{"Messages":{"23":{"Utc":"2021-09-03T10:22:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:08:39.391{"Messages":{"24":{"Utc":"2021-09-03T10:23:39.394","Category":"Other","Message":"SESSION WILL RESUME AT 12:24"}}}
+01:09:28.062{"Messages":{"25":{"Utc":"2021-09-03T10:24:28","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:09:37.128{"Messages":{"26":{"Utc":"2021-09-03T10:24:37","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 2"}}}
+01:10:16.352{"Messages":{"27":{"Utc":"2021-09-03T10:25:16","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+01:10:18.548{"Messages":{"28":{"Utc":"2021-09-03T10:25:18","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:12:22.988{"Messages":{"29":{"Utc":"2021-09-03T10:27:23","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:12:32.947{"Messages":{"30":{"Utc":"2021-09-03T10:27:33","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:12:33.952{"Messages":{"31":{"Utc":"2021-09-03T10:27:34","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:12:36.447{"Messages":{"32":{"Utc":"2021-09-03T10:27:36","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:12:36.464{"Messages":{"33":{"Utc":"2021-09-03T10:27:36","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:15:00.230{"Messages":{"34":{"Utc":"2021-09-03T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:19.080{"Messages":{"35":{"Utc":"2021-09-03T10:30:19","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG -  CAR 44 (HAM)"}}}
+01:15:46.470{"Messages":{"36":{"Utc":"2021-09-03T10:30:46","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+01:15:50.790{"Messages":{"37":{"Utc":"2021-09-03T10:30:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:16:06.022{"Messages":{"38":{"Utc":"2021-09-03T10:31:06","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 13"}}}
+01:40:00.166{"Messages":{"39":{"Utc":"2021-09-03T10:55:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}

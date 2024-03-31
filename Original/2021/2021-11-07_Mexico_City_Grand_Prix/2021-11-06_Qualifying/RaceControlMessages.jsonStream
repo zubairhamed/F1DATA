@@ -1,0 +1,40 @@
+00:15:00.583{"Messages":[{"Utc":"2021-11-06T20:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:20:00.144{"Messages":{"1":{"Utc":"2021-11-06T20:05:00","Category":"Other","Message":"CAR 47 (MSC) TIME 1:21.524 DELETED - TRACK LIMITS AT TURN 12"}}}
+00:21:57.553{"Messages":{"2":{"Utc":"2021-11-06T20:06:57","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+00:22:00.702{"Messages":{"3":{"Utc":"2021-11-06T20:07:00","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+00:22:01.769{"Messages":{"4":{"Utc":"2021-11-06T20:07:02","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:22:02.709{"Messages":{"5":{"Utc":"2021-11-06T20:07:03","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:22:02.832{"Messages":{"6":{"Utc":"2021-11-06T20:07:03","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:22:02.849{"Messages":{"7":{"Utc":"2021-11-06T20:07:03","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:38:04.475{"Messages":{"8":{"Utc":"2021-11-06T20:23:04","Category":"Other","Message":"A 5 MIN WARNING WILL BE GIVEN BEFORE Q1 RESUMES"}}}
+00:42:31.876{"Messages":{"9":{"Utc":"2021-11-06T20:27:32","Category":"Other","Message":"SESSION WILL RESUME AT 14:33"}}}
+00:43:36.207{"Messages":{"10":{"Utc":"2021-11-06T20:28:36","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:44:57.205{"Messages":{"11":{"Utc":"2021-11-06T20:29:57","Category":"Other","Message":"RED FLAG INCIDENT INVOLVING CAR 7 (RAI) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:45:05.221{"Messages":{"12":{"Utc":"2021-11-06T20:30:05","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:48:00.528{"Messages":{"13":{"Utc":"2021-11-06T20:33:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:53:05.755{"Messages":{"14":{"Utc":"2021-11-06T20:38:06","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 12"}}}
+00:58:58.567{"Messages":{"15":{"Utc":"2021-11-06T20:43:58","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:59:09.087{"Messages":{"16":{"Utc":"2021-11-06T20:44:09","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 9 (MAZ)"}}}
+01:00:40.863{"Messages":{"17":{"Utc":"2021-11-06T20:45:41","Category":"Other","Message":"Q2 WILL START AT 14:51"}}}
+01:04:54.200{"Messages":{"18":{"Utc":"2021-11-06T20:49:54","Category":"Other","Message":"Q1 PIT EXIT INCIDENT INVOLVING CARS 63 (RUS) AND 6 (LAT) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+01:06:00.589{"Messages":{"19":{"Utc":"2021-11-06T20:51:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:13:43.861{"Messages":{"20":{"Utc":"2021-11-06T20:58:44","Category":"CarEvent","RacingNumber":"99","Message":"CAR 99 (GIO) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:20:45.658{"Messages":{"21":{"Utc":"2021-11-06T21:05:45","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:20:46.701{"Messages":{"22":{"Utc":"2021-11-06T21:05:46","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:20:53.344{"Messages":{"23":{"Utc":"2021-11-06T21:05:53","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:20:53.349{"Messages":{"24":{"Utc":"2021-11-06T21:05:53","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:20:55.468{"Messages":{"25":{"Utc":"2021-11-06T21:05:55","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+01:20:56.551{"Messages":{"26":{"Utc":"2021-11-06T21:05:56","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:21:00.576{"Messages":{"27":{"Utc":"2021-11-06T21:06:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:21:00.653{"Messages":{"28":{"Utc":"2021-11-06T21:06:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:21:00.676{"Messages":{"29":{"Utc":"2021-11-06T21:06:00","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:21:13.777{"Messages":{"30":{"Utc":"2021-11-06T21:06:13","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 22 (TSU)"}}}
+01:23:23.454{"Messages":{"31":{"Utc":"2021-11-06T21:08:23","Category":"Other","Message":"Q3 WILL START AT 15:14"}}}
+01:29:00.599{"Messages":{"32":{"Utc":"2021-11-06T21:14:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:33:24.033{"Messages":{"33":{"Utc":"2021-11-06T21:18:24","Category":"Other","Message":"CAR 22 (TSU) TIME 1:50.338 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:34:38.257{"Messages":{"34":{"Utc":"2021-11-06T21:19:38","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:41:00.801{"Messages":{"35":{"Utc":"2021-11-06T21:26:01","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:41:32.750{"Messages":{"36":{"Utc":"2021-11-06T21:26:33","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 55 (SAI)"}}}
+01:50:58.442{"Messages":{"37":{"Utc":"2021-11-06T21:35:58","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":14,"Message":"DOUBLE YELLOW IN TRACK SECTOR 14"}}}
+01:51:02.567{"Messages":{"38":{"Utc":"2021-11-06T21:36:02","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+01:51:03.706{"Messages":{"39":{"Utc":"2021-11-06T21:36:03","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}

@@ -1,0 +1,8 @@
+00:00:00.000{"Status":"1","Message":"AllClear"}
+00:21:57.506{"Status":"2","Message":"Yellow"}
+00:22:02.820{"Status":"5","Message":"Red"}
+00:43:36.232{"Status":"1","Message":"AllClear"}
+01:20:45.606{"Status":"2","Message":"Yellow"}
+01:20:53.303{"Status":"1","Message":"AllClear"}
+01:20:55.460{"Status":"2","Message":"Yellow"}
+01:21:00.628{"Status":"1","Message":"AllClear"}

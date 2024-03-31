@@ -1,0 +1,11 @@
+00:00:23.439{"Messages":[{"Utc":"2021-11-12T14:30:03","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P1 = 17 DEGREES"}]}
+00:00:23.445{"Messages":{"1":{"Utc":"2021-11-12T15:15:02","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 60%"}}}
+00:15:00.688{"Messages":{"2":{"Utc":"2021-11-12T15:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:42:41.865{"Messages":{"3":{"Utc":"2021-11-12T15:57:42","Category":"Other","Message":"WET TRACK"}}}
+00:49:26.651{"Messages":{"4":{"Utc":"2021-11-12T16:04:26","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 4"}}}
+01:04:23.983{"Messages":{"5":{"Utc":"2021-11-12T16:19:24","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 4"}}}
+01:07:59.335{"Messages":{"6":{"Utc":"2021-11-12T16:22:59","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 4"}}}
+01:12:22.158{"Messages":{"7":{"Utc":"2021-11-12T16:27:22","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) MISSED THE APEX OF TURN 2"}}}
+01:12:31.511{"Messages":{"8":{"Utc":"2021-11-12T16:27:31","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 5"}}}
+01:15:00.690{"Messages":{"9":{"Utc":"2021-11-12T16:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:09.587{"Messages":{"10":{"Utc":"2021-11-12T16:30:09","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 55 (SAI)"}}}

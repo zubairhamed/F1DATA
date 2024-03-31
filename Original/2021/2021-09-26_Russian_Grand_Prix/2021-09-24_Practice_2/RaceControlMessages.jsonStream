@@ -1,0 +1,24 @@
+00:00:07.108{"Messages":[{"Utc":"2021-09-24T11:00:17","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P2 = 19 DEGREES"}]}
+00:00:08.395{"Messages":{"1":{"Utc":"2021-09-24T11:45:08","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}}}
+00:15:00.290{"Messages":{"2":{"Utc":"2021-09-24T12:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:29:49.783{"Messages":{"3":{"Utc":"2021-09-24T12:14:50","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 14"}}}
+00:49:51.121{"Messages":{"4":{"Utc":"2021-09-24T12:34:51","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:49:51.954{"Messages":{"5":{"Utc":"2021-09-24T12:34:52","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+00:50:15.535{"Messages":{"6":{"Utc":"2021-09-24T12:35:15","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:50:15.610{"Messages":{"7":{"Utc":"2021-09-24T12:35:16","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:50:55.274{"Messages":{"8":{"Utc":"2021-09-24T12:35:55","Category":"CarEvent","RacingNumber":"99","Message":"CAR 99 (GIO) STOPPED AT TURN 10"}}}
+00:57:43.588{"Messages":{"9":{"Utc":"2021-09-24T12:42:43","Category":"Other","Message":"SESSION WILL RESUME AT 15:44"}}}
+00:57:46.276{"Messages":{"10":{"Utc":"2021-09-24T12:42:46","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:59:00.362{"Messages":{"11":{"Utc":"2021-09-24T12:44:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:59:00.858{"Messages":{"12":{"Utc":"2021-09-24T12:44:01","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:05:28.595{"Messages":{"13":{"Utc":"2021-09-24T12:50:28","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:10:03.571{"Messages":{"14":{"Utc":"2021-09-24T12:55:03","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:13:14.813{"Messages":{"15":{"Utc":"2021-09-24T12:58:15","Category":"Other","Message":"CAR 11 (PER) TIME 1:44.753 DELETED - TRACK LIMITS AT TURN 2"}}}
+01:14:36.603{"Messages":{"16":{"Utc":"2021-09-24T12:59:37","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:14:37.644{"Messages":{"17":{"Utc":"2021-09-24T12:59:38","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:15:00.324{"Messages":{"18":{"Utc":"2021-09-24T13:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:16.668{"Messages":{"19":{"Utc":"2021-09-24T13:00:17","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 9 (MAZ)"}}}
+01:17:33.532{"Messages":{"20":{"Utc":"2021-09-24T13:02:33","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+01:18:07.524{"Messages":{"21":{"Utc":"2021-09-24T13:03:07","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:18:07.608{"Messages":{"22":{"Utc":"2021-09-24T13:03:08","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:25:01.832{"Messages":{"23":{"Utc":"2021-09-24T13:10:02","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 0%"}}}

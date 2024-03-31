@@ -1,0 +1,12 @@
+00:00:02.907{"Messages":[{"Utc":"2021-07-30T12:00:14","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P2 = 32 DEGREES"}]}
+00:00:28.874{"Messages":{"1":{"Utc":"2021-07-30T12:45:29","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}}}
+00:00:58.862{"Messages":{"2":{"Utc":"2021-07-30T12:45:59","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:08:03.467{"Messages":{"3":{"Utc":"2021-07-30T12:00:14","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P2 = 32 DEGREES"}}}
+00:08:03.469{"Messages":{"4":{"Utc":"2021-07-30T12:45:29","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}}}
+00:08:03.479{"Messages":{"5":{"Utc":"2021-07-30T12:45:59","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.163{"Messages":{"6":{"Utc":"2021-07-30T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:20:30.151{"Messages":{"7":{"Utc":"2021-07-30T13:05:30","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:23.093 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:45:13.888{"Messages":{"8":{"Utc":"2021-07-30T13:30:14","Category":"Other","Message":"CAR 99 (GIO) TIME 1:19.256 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:50:35.533{"Messages":{"9":{"Utc":"2021-07-30T13:35:35","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 7"}}}
+01:06:34.850{"Messages":{"10":{"Utc":"2021-07-30T13:51:35","Category":"Other","Message":"CAR 44 (HAM) TIME 1:32.053 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:15:17.080{"Messages":{"11":{"Utc":"2021-07-30T14:00:17","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 11 (PER)"}}}

@@ -1,0 +1,28 @@
+00:00:43.736{"Messages":[{"Utc":"2021-09-04T09:00:02","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P3 = 16 DEGREES"}]}
+00:00:43.744{"Messages":{"1":{"Utc":"2021-09-04T09:45:03","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}}}
+00:13:40.612{"Messages":{"2":{"Utc":"2021-09-04T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:31:34.836{"Messages":{"3":{"Utc":"2021-09-04T10:17:54","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 10"}}}
+00:33:27.448{"Messages":{"4":{"Utc":"2021-09-04T10:19:47","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+00:33:28.863{"Messages":{"5":{"Utc":"2021-09-04T10:19:48","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+00:33:30.898{"Messages":{"6":{"Utc":"2021-09-04T10:19:50","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+00:33:39.498{"Messages":{"7":{"Utc":"2021-09-04T10:19:59","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:33:39.575{"Messages":{"8":{"Utc":"2021-09-04T10:19:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:33:39.636{"Messages":{"9":{"Utc":"2021-09-04T10:19:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:34:11.306{"Messages":{"10":{"Utc":"2021-09-04T10:20:31","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) STOPPED AT TURN 3"}}}
+00:42:49.055{"Messages":{"11":{"Utc":"2021-09-04T10:29:09","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:43:04.059{"Messages":{"12":{"Utc":"2021-09-04T10:29:24","Category":"Other","Message":"SESSION WILL RESUME AT 12:31"}}}
+00:44:40.625{"Messages":{"13":{"Utc":"2021-09-04T10:31:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:44:44.025{"Messages":{"14":{"Utc":"2021-09-04T10:31:04","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:56:33.879{"Messages":{"15":{"Utc":"2021-09-04T10:42:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+00:56:45.229{"Messages":{"16":{"Utc":"2021-09-04T10:43:05","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:56:48.675{"Messages":{"17":{"Utc":"2021-09-04T10:43:08","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 12"}}}
+00:56:53.373{"Messages":{"18":{"Utc":"2021-09-04T10:43:13","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 9"}}}
+00:57:21.877{"Messages":{"19":{"Utc":"2021-09-04T10:43:41","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:57:48.985{"Messages":{"20":{"Utc":"2021-09-04T10:44:09","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 13"}}}
+00:58:12.533{"Messages":{"21":{"Utc":"2021-09-04T10:44:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:58:18.374{"Messages":{"22":{"Utc":"2021-09-04T10:44:38","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 13"}}}
+00:59:52.580{"Messages":{"23":{"Utc":"2021-09-04T10:46:12","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:08:51.776{"Messages":{"24":{"Utc":"2021-09-04T10:55:11","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) MISSED THE APEX OF TURN 12"}}}
+01:10:59.485{"Messages":{"25":{"Utc":"2021-09-04T10:57:19","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 11"}}}
+01:13:40.629{"Messages":{"26":{"Utc":"2021-09-04T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:13:53.349{"Messages":{"27":{"Utc":"2021-09-04T11:00:13","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 33 (VER)"}}}

@@ -1,0 +1,9 @@
+00:15:00.701{"Messages":[{"Utc":"2021-11-13T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:18:15.812{"Messages":{"1":{"Utc":"2021-11-13T15:03:16","Category":"Other","Message":"CAR 9 (GIA) TIME 1:16.500 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:33:10.731{"Messages":{"2":{"Utc":"2021-11-13T15:18:10","Category":"Other","Message":"CAR 16 (LEC) TIME 1:15.011 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:00:28.840{"Messages":{"3":{"Utc":"2021-11-13T15:45:29","Category":"Other","Message":"CAR 10 (BOR) TIME 1:14.415 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:02:15.828{"Messages":{"4":{"Utc":"2021-11-13T15:47:16","Category":"Other","Message":"CAR 4 (NOR) TIME 1:14.151 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:02:25.075{"Messages":{"5":{"Utc":"2021-11-13T15:47:25","Category":"Other","Message":"CAR 16 (LEC) TIME 1:13.358 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:03:29.389{"Messages":{"6":{"Utc":"2021-11-13T15:48:29","Category":"Other","Message":"CAR 7 (RAI) TIME 1:14.666 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:15:00.750{"Messages":{"7":{"Utc":"2021-11-13T16:00:01","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:13.186{"Messages":{"8":{"Utc":"2021-11-13T16:00:13","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 77 (BOT)"}}}

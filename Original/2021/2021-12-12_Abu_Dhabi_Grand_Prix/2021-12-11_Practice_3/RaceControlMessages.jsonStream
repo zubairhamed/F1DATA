@@ -1,0 +1,18 @@
+00:00:18.821{"Messages":[{"Utc":"2021-12-11T09:45:19","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}]}
+00:15:00.379{"Messages":{"1":{"Utc":"2021-12-11T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:29:11.959{"Messages":{"2":{"Utc":"2021-12-11T10:14:12","Category":"Other","Message":"CAR 5 (VET) TIME 1:26.936 DELETED - TRACK LIMITS AT TURN 16"}}}
+00:30:57.333{"Messages":{"3":{"Utc":"2021-12-11T10:15:57","Category":"Other","Message":"CAR 5 (VET) TIME 1:56.958 DELETED - TRACK LIMITS AT TURN 16"}}}
+00:31:09.566{"Messages":{"4":{"Utc":"2021-12-11T10:16:09","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (MAZ) MISSED THE APEX OF TURN 7"}}}
+00:32:15.200{"Messages":{"5":{"Utc":"2021-12-11T10:17:15","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:50.771 DELETED - TRACK LIMITS AT TURN 7"}}}
+00:36:15.780{"Messages":{"6":{"Utc":"2021-12-11T10:21:16","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:51:41.038{"Messages":{"7":{"Utc":"2021-12-11T10:36:41","Category":"Other","Message":"CAR 5 (VET) TIME 1:26.259 DELETED - TRACK LIMITS AT TURN 16"}}}
+01:03:22.559{"Messages":{"8":{"Utc":"2021-12-11T10:48:22","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 12"}}}
+01:04:15.918{"Messages":{"9":{"Utc":"2021-12-11T10:49:16","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:06:37.148{"Messages":{"10":{"Utc":"2021-12-11T10:51:37","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:14:22.851{"Messages":{"11":{"Utc":"2021-12-11T10:59:23","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 7"}}}
+01:14:37.202{"Messages":{"12":{"Utc":"2021-12-11T10:59:37","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:14:40.876{"Messages":{"13":{"Utc":"2021-12-11T10:59:41","Category":"Other","Message":"CAR 7 (RAI) TIME 1:26.337 DELETED - TRACK LIMITS AT TURN 16"}}}
+01:15:00.391{"Messages":{"14":{"Utc":"2021-12-11T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:24.030{"Messages":{"15":{"Utc":"2021-12-11T11:00:24","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 10 (GAS)"}}}
+01:15:42.683{"Messages":{"16":{"Utc":"2021-12-11T11:00:43","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 7"}}}
+01:15:55.886{"Messages":{"17":{"Utc":"2021-12-11T11:00:56","Category":"Other","Message":"CAR 7 (RAI) TIME 1:45.594 DELETED - TRACK LIMITS AT TURN 16"}}}

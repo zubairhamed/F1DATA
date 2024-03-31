@@ -1,0 +1,120 @@
+00:02:51.800{"Drivers":{},"Teams":{}}
+00:02:51.800{"Drivers":{"33":{"RacingNumber":"33","CurrentPosition":1,"PredictedPosition":1,"CurrentPoints":185.0,"PredictedPoints":185.0},"44":{"RacingNumber":"44","CurrentPosition":2,"PredictedPosition":2,"CurrentPoints":152.0,"PredictedPoints":152.0},"11":{"RacingNumber":"11","CurrentPosition":3,"PredictedPosition":3,"CurrentPoints":104.0,"PredictedPoints":104.0},"4":{"RacingNumber":"4","CurrentPosition":4,"PredictedPosition":4,"CurrentPoints":101.0,"PredictedPoints":101.0},"77":{"RacingNumber":"77","CurrentPosition":5,"PredictedPosition":5,"CurrentPoints":93.0,"PredictedPoints":93.0},"16":{"RacingNumber":"16","CurrentPosition":6,"PredictedPosition":6,"CurrentPoints":62.0,"PredictedPoints":62.0},"55":{"RacingNumber":"55","CurrentPosition":7,"PredictedPosition":7,"CurrentPoints":60.0,"PredictedPoints":60.0},"3":{"RacingNumber":"3","CurrentPosition":8,"PredictedPosition":8,"CurrentPoints":40.0,"PredictedPoints":40.0},"10":{"RacingNumber":"10","CurrentPosition":9,"PredictedPosition":9,"CurrentPoints":39.0,"PredictedPoints":39.0},"5":{"RacingNumber":"5","CurrentPosition":10,"PredictedPosition":10,"CurrentPoints":30.0,"PredictedPoints":30.0},"14":{"RacingNumber":"14","CurrentPosition":11,"PredictedPosition":11,"CurrentPoints":20.0,"PredictedPoints":20.0},"18":{"RacingNumber":"18","CurrentPosition":12,"PredictedPosition":12,"CurrentPoints":14.0,"PredictedPoints":14.0},"31":{"RacingNumber":"31","CurrentPosition":13,"PredictedPosition":13,"CurrentPoints":12.0,"PredictedPoints":12.0},"22":{"RacingNumber":"22","CurrentPosition":14,"PredictedPosition":14,"CurrentPoints":9.0,"PredictedPoints":9.0},"7":{"RacingNumber":"7","CurrentPosition":15,"PredictedPosition":15,"CurrentPoints":1.0,"PredictedPoints":1.0},"99":{"RacingNumber":"99","CurrentPosition":16,"PredictedPosition":16,"CurrentPoints":1.0,"PredictedPoints":1.0},"63":{"RacingNumber":"63","CurrentPosition":17,"PredictedPosition":17,"CurrentPoints":0.0,"PredictedPoints":0.0},"47":{"RacingNumber":"47","CurrentPosition":18,"PredictedPosition":18,"CurrentPoints":0.0,"PredictedPoints":0.0},"9":{"RacingNumber":"9","CurrentPosition":19,"PredictedPosition":19,"CurrentPoints":0.0,"PredictedPoints":0.0},"6":{"RacingNumber":"6","CurrentPosition":20,"PredictedPosition":20,"CurrentPoints":0.0,"PredictedPoints":0.0}},"Teams":{"Red Bull Racing Honda":{"TeamName":"Red Bull Racing","CurrentPosition":1,"PredictedPosition":1,"CurrentPoints":289.0,"PredictedPoints":289.0},"Mercedes":{"TeamName":"Mercedes","CurrentPosition":2,"PredictedPosition":2,"CurrentPoints":245.0,"PredictedPoints":245.0},"McLaren Mercedes":{"TeamName":"McLaren","CurrentPosition":3,"PredictedPosition":3,"CurrentPoints":141.0,"PredictedPoints":141.0},"Ferrari":{"TeamName":"Ferrari","CurrentPosition":4,"PredictedPosition":4,"CurrentPoints":122.0,"PredictedPoints":122.0},"AlphaTauri Honda":{"TeamName":"AlphaTauri","CurrentPosition":5,"PredictedPosition":5,"CurrentPoints":48.0,"PredictedPoints":48.0},"Aston Martin Mercedes":{"TeamName":"Aston Martin","CurrentPosition":6,"PredictedPosition":6,"CurrentPoints":44.0,"PredictedPoints":44.0},"Alpine Renault":{"TeamName":"Alpine","CurrentPosition":7,"PredictedPosition":7,"CurrentPoints":32.0,"PredictedPoints":32.0},"Alfa Romeo Racing Ferrari":{"TeamName":"Alfa Romeo Racing","CurrentPosition":8,"PredictedPosition":8,"CurrentPoints":2.0,"PredictedPoints":2.0},"Williams Mercedes":{"TeamName":"Williams","CurrentPosition":9,"PredictedPosition":9,"CurrentPoints":0.0,"PredictedPoints":0.0},"Haas Ferrari":{"TeamName":"Haas F1 Team","CurrentPosition":10,"PredictedPosition":10,"CurrentPoints":0.0,"PredictedPoints":0.0}}}
+01:02:33.462{"Drivers":{"33":{"PredictedPoints":210.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":314.0}}}
+01:02:33.588{"Drivers":{"44":{"PredictedPoints":170.0}},"Teams":{"Mercedes":{"PredictedPoints":263.0}}}
+01:02:33.918{"Drivers":{"16":{"PredictedPoints":77.0}},"Teams":{"Ferrari":{"PredictedPoints":137.0}}}
+01:02:34.144{"Drivers":{"11":{"PredictedPosition":4},"4":{"PredictedPosition":5},"77":{"PredictedPosition":3,"PredictedPoints":105.0}},"Teams":{"Mercedes":{"PredictedPoints":275.0}}}
+01:02:34.223{"Drivers":{"11":{"PredictedPosition":5},"4":{"PredictedPosition":3,"PredictedPoints":111.0},"77":{"PredictedPosition":4}},"Teams":{"McLaren Mercedes":{"PredictedPoints":151.0}}}
+01:02:34.593{"Drivers":{"3":{"PredictedPoints":48.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":159.0}}}
+01:02:34.715{"Drivers":{"5":{"PredictedPoints":36.0}},"Teams":{"AlphaTauri Honda":{"PredictedPosition":6},"Aston Martin Mercedes":{"PredictedPosition":5,"PredictedPoints":50.0}}}
+01:02:34.876{"Drivers":{"55":{"PredictedPoints":64.0}},"Teams":{"Ferrari":{"PredictedPoints":141.0}}}
+01:02:34.992{"Drivers":{"14":{"PredictedPoints":22.0}},"Teams":{"Alpine Renault":{"PredictedPoints":34.0}}}
+01:02:35.124{"Drivers":{"31":{"PredictedPoints":13.0}},"Teams":{"Alpine Renault":{"PredictedPoints":35.0}}}
+01:02:43.168{"Drivers":{"31":{"PredictedPoints":12.0},"7":{"PredictedPoints":2.0}},"Teams":{"Alpine Renault":{"PredictedPoints":34.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":3.0}}}
+01:02:48.664{"Drivers":{"55":{"PredictedPoints":62.0},"14":{"PredictedPoints":24.0}},"Teams":{"Ferrari":{"PredictedPoints":139.0},"Alpine Renault":{"PredictedPoints":36.0}}}
+01:02:54.486{"Drivers":{"33":{"PredictedPoints":203.0},"44":{"PredictedPoints":177.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":307.0},"Mercedes":{"PredictedPoints":282.0}}}
+01:03:00.800{"Drivers":{"33":{"PredictedPoints":210.0},"44":{"PredictedPoints":170.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":314.0},"Mercedes":{"PredictedPoints":275.0}}}
+01:03:20.113{"Drivers":{"33":{"PredictedPoints":203.0},"44":{"PredictedPoints":177.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":307.0},"Mercedes":{"PredictedPoints":282.0}}}
+01:03:20.148{"Drivers":{"33":{"PredictedPoints":200.0},"16":{"PredictedPoints":80.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":304.0},"Ferrari":{"PredictedPoints":142.0}}}
+01:03:20.697{"Drivers":{"33":{"PredictedPoints":197.0},"77":{"PredictedPoints":108.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":301.0},"Mercedes":{"PredictedPoints":285.0}}}
+01:03:21.199{"Drivers":{"33":{"PredictedPoints":195.0},"4":{"PredictedPoints":113.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":299.0},"McLaren Mercedes":{"PredictedPoints":161.0}}}
+01:03:21.796{"Drivers":{"33":{"PredictedPoints":193.0},"3":{"PredictedPoints":50.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":297.0},"McLaren Mercedes":{"PredictedPoints":163.0}}}
+01:03:22.413{"Drivers":{"33":{"PredictedPoints":191.0},"5":{"PredictedPoints":38.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":295.0},"Aston Martin Mercedes":{"PredictedPoints":52.0}}}
+01:03:22.733{"Drivers":{"44":{"PredictedPoints":170.0},"16":{"PredictedPoints":87.0}},"Teams":{"Mercedes":{"PredictedPoints":278.0},"Ferrari":{"PredictedPoints":149.0}}}
+01:03:22.881{"Drivers":{"33":{"PredictedPoints":189.0},"14":{"PredictedPoints":26.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":293.0},"Alpine Renault":{"PredictedPoints":38.0}}}
+01:03:23.287{"Drivers":{"33":{"PredictedPoints":187.0},"55":{"PredictedPoints":64.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":291.0},"Ferrari":{"PredictedPoints":151.0}}}
+01:03:23.694{"Drivers":{"33":{"PredictedPoints":186.0},"7":{"PredictedPoints":3.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":290.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":4.0}}}
+01:03:24.244{"Drivers":{"33":{"PredictedPoints":185.0},"31":{"PredictedPoints":13.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":289.0},"Alpine Renault":{"PredictedPoints":39.0}}}
+01:45:24.542{"Drivers":{"4":{"PredictedPoints":116.0},"77":{"PredictedPoints":105.0}},"Teams":{"Mercedes":{"PredictedPoints":275.0},"McLaren Mercedes":{"PredictedPoints":166.0}}}
+01:45:25.395{"Drivers":{"18":{"PredictedPoints":15.0},"31":{"PredictedPoints":12.0}},"Teams":{"Aston Martin Mercedes":{"PredictedPoints":53.0},"Alpine Renault":{"PredictedPoints":38.0}}}
+01:45:28.789{"Drivers":{"5":{"PredictedPoints":36.0},"14":{"PredictedPoints":28.0}},"Teams":{"Aston Martin Mercedes":{"PredictedPoints":51.0},"Alpine Renault":{"PredictedPoints":40.0}}}
+01:45:32.848{"Drivers":{"18":{"PredictedPoints":16.0},"7":{"PredictedPoints":2.0}},"Teams":{"Aston Martin Mercedes":{"PredictedPoints":52.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":3.0}}}
+01:45:36.876{"Drivers":{"55":{"PredictedPoints":62.0},"18":{"PredictedPoints":18.0}},"Teams":{"Ferrari":{"PredictedPoints":149.0},"Aston Martin Mercedes":{"PredictedPoints":54.0}}}
+01:45:36.916{"Drivers":{"55":{"PredictedPoints":64.0},"18":{"PredictedPoints":16.0}},"Teams":{"Ferrari":{"PredictedPoints":151.0},"Aston Martin Mercedes":{"PredictedPoints":52.0}}}
+01:45:50.728{"Drivers":{"5":{"PredictedPoints":38.0},"14":{"PredictedPoints":26.0}},"Teams":{"Aston Martin Mercedes":{"PredictedPoints":54.0},"Alpine Renault":{"PredictedPoints":38.0}}}
+01:46:02.750{"Drivers":{"5":{"PredictedPoints":36.0},"14":{"PredictedPoints":28.0}},"Teams":{"Aston Martin Mercedes":{"PredictedPoints":52.0},"Alpine Renault":{"PredictedPoints":40.0}}}
+01:46:08.837{"Drivers":{"55":{"PredictedPoints":66.0},"5":{"PredictedPoints":34.0}},"Teams":{"Ferrari":{"PredictedPoints":153.0},"Aston Martin Mercedes":{"PredictedPoints":50.0}}}
+01:46:09.097{"Drivers":{"5":{"PredictedPoints":32.0},"18":{"PredictedPoints":18.0}}}
+01:46:09.363{"Drivers":{"5":{"PredictedPoints":31.0},"7":{"PredictedPoints":3.0}},"Teams":{"Aston Martin Mercedes":{"PredictedPoints":49.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":4.0}}}
+01:46:09.538{"Drivers":{"5":{"PredictedPoints":30.0},"99":{"PredictedPoints":2.0}},"Teams":{"Aston Martin Mercedes":{"PredictedPoints":48.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":5.0}}}
+01:46:11.849{"Drivers":{"3":{"PredictedPoints":48.0},"14":{"PredictedPoints":30.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":164.0},"Alpine Renault":{"PredictedPoints":42.0}}}
+01:46:20.938{"Drivers":{"3":{"PredictedPoints":50.0},"14":{"PredictedPoints":28.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":166.0},"Alpine Renault":{"PredictedPoints":40.0}}}
+01:46:39.093{"Drivers":{"31":{"PredictedPoints":13.0},"99":{"PredictedPoints":1.0}},"Teams":{"Alpine Renault":{"PredictedPoints":41.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":4.0}}}
+01:46:51.767{"Drivers":{"16":{"PredictedPoints":88.0}},"Teams":{"Ferrari":{"PredictedPoints":154.0}}}
+01:46:52.958{"Drivers":{"44":{"PredictedPoints":171.0},"16":{"PredictedPoints":87.0}},"Teams":{"Mercedes":{"PredictedPoints":276.0},"Ferrari":{"PredictedPoints":153.0}}}
+01:46:54.163{"Drivers":{"44":{"PredictedPoints":170.0},"4":{"PredictedPoints":117.0}},"Teams":{"Mercedes":{"PredictedPoints":275.0},"McLaren Mercedes":{"PredictedPoints":167.0}}}
+01:46:55.871{"Drivers":{"4":{"PredictedPoints":116.0},"3":{"PredictedPoints":51.0}}}
+01:46:56.721{"Drivers":{"3":{"PredictedPoints":50.0},"14":{"PredictedPoints":29.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":166.0},"Alpine Renault":{"PredictedPoints":42.0}}}
+01:46:57.221{"Drivers":{"55":{"PredictedPoints":67.0},"14":{"PredictedPoints":28.0}},"Teams":{"Ferrari":{"PredictedPoints":154.0},"Alpine Renault":{"PredictedPoints":41.0}}}
+01:46:57.985{"Drivers":{"55":{"PredictedPoints":66.0},"18":{"PredictedPoints":19.0}},"Teams":{"Ferrari":{"PredictedPoints":153.0},"Aston Martin Mercedes":{"PredictedPoints":49.0}}}
+01:46:59.439{"Drivers":{"18":{"PredictedPoints":18.0}},"Teams":{"Aston Martin Mercedes":{"PredictedPoints":48.0}}}
+01:47:07.361{"Drivers":{"31":{"PredictedPoints":14.0},"7":{"PredictedPoints":2.0}},"Teams":{"Alpine Renault":{"PredictedPoints":42.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":3.0}}}
+01:47:07.565{"Drivers":{"7":{"PredictedPosition":16,"PredictedPoints":1.0},"99":{"PredictedPosition":15,"PredictedPoints":2.0}}}
+01:47:10.671{"Drivers":{"31":{"PredictedPoints":13.0},"7":{"PredictedPosition":15,"PredictedPoints":3.0},"99":{"PredictedPosition":16,"PredictedPoints":1.0}},"Teams":{"Alpine Renault":{"PredictedPoints":41.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":4.0}}}
+01:47:14.615{"Drivers":{"31":{"PredictedPoints":14.0},"7":{"PredictedPoints":2.0}},"Teams":{"Alpine Renault":{"PredictedPoints":42.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":3.0}}}
+01:47:27.615{"Drivers":{"55":{"PredictedPoints":68.0},"14":{"PredictedPoints":26.0}},"Teams":{"Ferrari":{"PredictedPoints":155.0},"Alpine Renault":{"PredictedPoints":40.0}}}
+01:48:24.595{"Drivers":{"16":{"PredictedPoints":88.0}},"Teams":{"Ferrari":{"PredictedPoints":156.0}}}
+01:51:31.837{"Drivers":{"44":{"PredictedPoints":171.0},"16":{"PredictedPoints":87.0}},"Teams":{"Mercedes":{"PredictedPoints":276.0},"Ferrari":{"PredictedPoints":155.0}}}
+02:04:01.864{"Drivers":{"44":{"PredictedPoints":170.0},"77":{"PredictedPoints":106.0}}}
+02:05:27.173{"Drivers":{"77":{"PredictedPoints":105.0},"16":{"PredictedPoints":88.0}},"Teams":{"Mercedes":{"PredictedPoints":275.0},"Ferrari":{"PredictedPoints":156.0}}}
+02:05:28.226{"Drivers":{"44":{"PredictedPoints":171.0},"16":{"PredictedPoints":87.0}},"Teams":{"Mercedes":{"PredictedPoints":276.0},"Ferrari":{"PredictedPoints":155.0}}}
+02:05:34.257{"Drivers":{"44":{"PredictedPoints":170.0},"77":{"PredictedPoints":106.0}}}
+02:07:00.536{"Drivers":{"44":{"PredictedPoints":171.0},"77":{"PredictedPoints":105.0}}}
+02:09:11.463{"Drivers":{"10":{"PredictedPoints":40.0},"7":{"PredictedPoints":1.0}},"Teams":{"AlphaTauri Honda":{"PredictedPosition":5,"PredictedPoints":49.0},"Aston Martin Mercedes":{"PredictedPosition":6},"Alfa Romeo Racing Ferrari":{"PredictedPoints":2.0}}}
+02:09:19.024{"Drivers":{"47":{"PredictedPosition":19},"9":{"PredictedPosition":20},"6":{"PredictedPosition":18}}}
+02:10:03.952{"Drivers":{"44":{"PredictedPoints":170.0},"16":{"PredictedPoints":88.0}},"Teams":{"Mercedes":{"PredictedPoints":275.0},"Ferrari":{"PredictedPoints":156.0}}}
+02:10:44.440{"Drivers":{"10":{"PredictedPoints":41.0},"31":{"PredictedPoints":13.0}},"Teams":{"AlphaTauri Honda":{"PredictedPoints":50.0},"Alpine Renault":{"PredictedPoints":39.0}}}
+02:10:48.611{"Drivers":{"31":{"PredictedPoints":12.0},"7":{"PredictedPosition":16},"99":{"PredictedPosition":15,"PredictedPoints":2.0}},"Teams":{"Alpine Renault":{"PredictedPoints":38.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":3.0}}}
+02:11:03.207{"Drivers":{"47":{"PredictedPosition":18},"6":{"PredictedPosition":19}}}
+02:11:03.247{"Drivers":{"9":{"PredictedPosition":19},"6":{"PredictedPosition":20}}}
+02:12:00.947{"Drivers":{"55":{"PredictedPoints":70.0},"3":{"PredictedPoints":48.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":164.0},"Ferrari":{"PredictedPoints":158.0}}}
+02:12:07.007{"Drivers":{"3":{"PredictedPoints":46.0},"14":{"PredictedPoints":28.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":162.0},"Alpine Renault":{"PredictedPoints":40.0}}}
+02:12:10.098{"Drivers":{"3":{"PredictedPoints":44.0},"18":{"PredictedPoints":20.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":160.0},"AlphaTauri Honda":{"PredictedPosition":6},"Aston Martin Mercedes":{"PredictedPosition":5,"PredictedPoints":50.0}}}
+02:12:17.395{"Drivers":{"3":{"PredictedPosition":9,"PredictedPoints":42.0},"10":{"PredictedPosition":8,"PredictedPoints":43.0}},"Teams":{"McLaren Mercedes":{"PredictedPosition":4,"PredictedPoints":158.0},"Ferrari":{"PredictedPosition":3},"AlphaTauri Honda":{"PredictedPosition":5,"PredictedPoints":52.0},"Aston Martin Mercedes":{"PredictedPosition":6}}}
+02:13:21.675{"Drivers":{"4":{"PredictedPoints":113.0},"77":{"PredictedPoints":108.0}},"Teams":{"Mercedes":{"PredictedPoints":278.0},"McLaren Mercedes":{"PredictedPoints":155.0}}}
+02:13:33.431{"Drivers":{"4":{"PredictedPoints":111.0},"55":{"PredictedPoints":72.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":153.0},"Ferrari":{"PredictedPoints":160.0}}}
+02:13:39.936{"Drivers":{"4":{"PredictedPoints":109.0},"14":{"PredictedPoints":30.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":151.0},"Alpine Renault":{"PredictedPoints":42.0}}}
+02:15:05.827{"Drivers":{"77":{"PredictedPoints":105.0},"55":{"PredictedPoints":75.0}},"Teams":{"Mercedes":{"PredictedPoints":275.0},"Ferrari":{"PredictedPoints":163.0}}}
+02:15:19.438{"Drivers":{"11":{"PredictedPosition":4},"77":{"PredictedPosition":5,"PredictedPoints":103.0},"5":{"PredictedPosition":11},"14":{"PredictedPosition":10,"PredictedPoints":32.0}},"Teams":{"Mercedes":{"PredictedPoints":273.0},"Alpine Renault":{"PredictedPoints":44.0}}}
+02:15:37.831{"Drivers":{"11":{"PredictedPosition":5},"77":{"PredictedPosition":4,"PredictedPoints":105.0},"5":{"PredictedPosition":10},"14":{"PredictedPosition":11,"PredictedPoints":30.0}},"Teams":{"Mercedes":{"PredictedPoints":275.0},"Alpine Renault":{"PredictedPoints":42.0}}}
+02:16:42.734{"Drivers":{"4":{"PredictedPoints":111.0},"14":{"PredictedPoints":28.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":153.0},"Alpine Renault":{"PredictedPoints":40.0}}}
+02:16:56.008{"Drivers":{"10":{"PredictedPoints":45.0},"18":{"PredictedPoints":18.0}},"Teams":{"AlphaTauri Honda":{"PredictedPoints":54.0},"Aston Martin Mercedes":{"PredictedPoints":48.0}}}
+02:16:57.804{"Drivers":{"3":{"PredictedPoints":44.0},"18":{"PredictedPoints":16.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":155.0},"Aston Martin Mercedes":{"PredictedPoints":46.0}}}
+02:17:04.429{"Drivers":{"18":{"PredictedPoints":15.0},"22":{"PredictedPoints":11.0},"7":{"PredictedPosition":15},"99":{"PredictedPosition":16,"PredictedPoints":1.0}},"Teams":{"AlphaTauri Honda":{"PredictedPoints":56.0},"Aston Martin Mercedes":{"PredictedPoints":45.0},"Alfa Romeo Racing Ferrari":{"PredictedPoints":2.0}}}
+02:18:28.845{"Drivers":{"10":{"PredictedPoints":47.0},"14":{"PredictedPoints":26.0}},"Teams":{"AlphaTauri Honda":{"PredictedPoints":58.0},"Alpine Renault":{"PredictedPoints":38.0}}}
+02:18:30.373{"Drivers":{"3":{"PredictedPoints":46.0},"14":{"PredictedPoints":24.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":157.0},"Alpine Renault":{"PredictedPoints":36.0}}}
+02:18:37.254{"Drivers":{"14":{"PredictedPoints":22.0},"31":{"PredictedPosition":14},"22":{"PredictedPosition":13,"PredictedPoints":13.0}},"Teams":{"AlphaTauri Honda":{"PredictedPoints":60.0},"Alpine Renault":{"PredictedPoints":34.0}}}
+02:18:49.231{"Drivers":{"14":{"PredictedPoints":21.0},"18":{"PredictedPoints":16.0}},"Teams":{"Aston Martin Mercedes":{"PredictedPoints":46.0},"Alpine Renault":{"PredictedPoints":33.0}}}
+02:19:06.968{"Drivers":{"14":{"PredictedPoints":22.0},"18":{"PredictedPoints":15.0}},"Teams":{"Aston Martin Mercedes":{"PredictedPoints":45.0},"Alpine Renault":{"PredictedPoints":34.0}}}
+02:19:37.142{"Drivers":{"16":{"PredictedPoints":87.0},"55":{"PredictedPoints":76.0}}}
+02:19:44.615{"Drivers":{"77":{"PredictedPoints":106.0},"55":{"PredictedPoints":75.0}},"Teams":{"Mercedes":{"PredictedPoints":276.0},"Ferrari":{"PredictedPoints":162.0}}}
+02:22:46.029{"Drivers":{"44":{"PredictedPoints":167.0},"55":{"PredictedPoints":78.0}},"Teams":{"Mercedes":{"PredictedPoints":273.0},"Ferrari":{"PredictedPoints":165.0}}}
+02:22:52.726{"Drivers":{"44":{"PredictedPoints":164.0},"77":{"PredictedPoints":109.0}}}
+02:22:56.703{"Drivers":{"44":{"PredictedPoints":162.0},"4":{"PredictedPoints":113.0}},"Teams":{"Mercedes":{"PredictedPoints":271.0},"McLaren Mercedes":{"PredictedPoints":159.0}}}
+02:24:24.344{"Drivers":{"77":{"PredictedPoints":112.0},"55":{"PredictedPoints":75.0}},"Teams":{"Mercedes":{"PredictedPoints":274.0},"Ferrari":{"PredictedPoints":162.0}}}
+02:24:28.823{"Drivers":{"4":{"PredictedPoints":116.0},"55":{"PredictedPoints":72.0}},"Teams":{"McLaren Mercedes":{"PredictedPosition":3,"PredictedPoints":162.0},"Ferrari":{"PredictedPosition":4,"PredictedPoints":159.0}}}
+02:24:32.204{"Drivers":{"44":{"PredictedPoints":164.0},"55":{"PredictedPoints":70.0}},"Teams":{"Mercedes":{"PredictedPoints":276.0},"Ferrari":{"PredictedPoints":157.0}}}
+02:24:41.958{"Drivers":{"55":{"PredictedPoints":68.0},"3":{"PredictedPosition":8,"PredictedPoints":50.0},"10":{"PredictedPosition":9,"PredictedPoints":45.0}},"Teams":{"McLaren Mercedes":{"PredictedPoints":166.0},"Ferrari":{"PredictedPoints":155.0},"AlphaTauri Honda":{"PredictedPoints":58.0}}}
+02:24:47.738{"Drivers":{"10":{"PredictedPoints":43.0},"18":{"PredictedPosition":13},"22":{"PredictedPosition":12,"PredictedPoints":15.0}}}
+02:24:54.840{"Drivers":{"10":{"PredictedPoints":41.0},"14":{"PredictedPoints":24.0}},"Teams":{"AlphaTauri Honda":{"PredictedPoints":56.0},"Alpine Renault":{"PredictedPoints":36.0}}}
+02:24:55.704{"Drivers":{"10":{"PredictedPoints":40.0},"18":{"PredictedPosition":12,"PredictedPoints":16.0},"22":{"PredictedPosition":13}},"Teams":{"AlphaTauri Honda":{"PredictedPoints":55.0},"Aston Martin Mercedes":{"PredictedPoints":46.0}}}
+02:24:56.540{"Drivers":{"11":{"PredictedPoints":105.0},"10":{"PredictedPoints":39.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":290.0},"AlphaTauri Honda":{"PredictedPoints":54.0}}}
+02:25:58.222{"Drivers":{"44":{"PredictedPoints":165.0},"77":{"PredictedPoints":111.0}}}
+02:28:01.936{"Drivers":{"14":{"PredictedPoints":26.0},"22":{"PredictedPoints":13.0}},"Teams":{"AlphaTauri Honda":{"PredictedPoints":52.0},"Alpine Renault":{"PredictedPoints":38.0}}}
+02:28:03.063{"Drivers":{"18":{"PredictedPoints":18.0},"31":{"PredictedPosition":13},"22":{"PredictedPosition":14,"PredictedPoints":11.0}},"Teams":{"AlphaTauri Honda":{"PredictedPoints":50.0},"Aston Martin Mercedes":{"PredictedPoints":48.0}}}
+02:28:03.536{"Drivers":{"11":{"PredictedPoints":106.0},"22":{"PredictedPoints":10.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":291.0},"AlphaTauri Honda":{"PredictedPoints":49.0}}}
+02:28:05.933{"Drivers":{"10":{"PredictedPoints":40.0},"22":{"PredictedPoints":9.0}}}
+02:28:18.160{"Drivers":{"44":{"PredictedPoints":168.0},"4":{"PredictedPoints":113.0}},"Teams":{"Mercedes":{"PredictedPoints":279.0},"McLaren Mercedes":{"PredictedPoints":163.0}}}
+02:40:23.976{"Drivers":{"11":{"PredictedPoints":108.0},"18":{"PredictedPoints":16.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":293.0},"Aston Martin Mercedes":{"PredictedPoints":46.0}}}
+02:40:29.221{"Drivers":{"11":{"PredictedPoints":106.0},"18":{"PredictedPoints":18.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":291.0},"Aston Martin Mercedes":{"PredictedPoints":48.0}}}
+02:40:30.868{"Drivers":{"11":{"PredictedPoints":105.0},"10":{"PredictedPoints":41.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":290.0},"AlphaTauri Honda":{"PredictedPoints":50.0}}}
+02:40:31.853{"Drivers":{"11":{"PredictedPoints":104.0},"31":{"PredictedPoints":13.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":289.0},"Alpine Renault":{"PredictedPoints":39.0}}}
+02:42:25.380{"Drivers":{"44":{"PredictedPoints":171.0},"77":{"PredictedPoints":108.0}}}
+02:52:52.277{"Drivers":{"10":{"PredictedPoints":40.0},"31":{"PredictedPoints":14.0}},"Teams":{"AlphaTauri Honda":{"PredictedPoints":49.0},"Alpine Renault":{"PredictedPoints":40.0}}}
+02:53:04.186{"Drivers":{"11":{"PredictedPoints":105.0},"10":{"PredictedPoints":39.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":290.0},"AlphaTauri Honda":{"PredictedPosition":6,"PredictedPoints":48.0},"Aston Martin Mercedes":{"PredictedPosition":5}}}
+02:53:13.333{"Drivers":{"9":{"PredictedPosition":20},"6":{"PredictedPosition":19}}}
+02:53:34.448{"Drivers":{"9":{"PredictedPosition":19},"6":{"PredictedPosition":20}}}
+02:56:08.906{"Drivers":{"11":{"PredictedPoints":104.0},"22":{"PredictedPoints":10.0}},"Teams":{"Red Bull Racing Honda":{"PredictedPoints":289.0},"AlphaTauri Honda":{"PredictedPosition":5,"PredictedPoints":49.0},"Aston Martin Mercedes":{"PredictedPosition":6}}}
+02:56:18.895{"Drivers":{"9":{"PredictedPosition":20},"6":{"PredictedPosition":19}}}
+02:57:05.233{"Drivers":{"44":{"PredictedPoints":178.0},"16":{"PredictedPoints":80.0}},"Teams":{"Mercedes":{"PredictedPoints":286.0},"Ferrari":{"PredictedPoints":148.0}}}
+02:59:27.208{"Drivers":{"44":{"PredictedPoints":177.0}},"Teams":{"Mercedes":{"PredictedPoints":285.0}}}

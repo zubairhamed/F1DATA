@@ -1,0 +1,14 @@
+00:00:23.606{"Messages":[{"Utc":"2021-11-12T18:45:23","Category":"Other","Message":"CHANGE IN CLIMATIC CONDITIONS"}]}
+00:15:00.695{"Messages":{"1":{"Utc":"2021-11-12T19:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:25:24.808{"Messages":{"2":{"Utc":"2021-11-12T19:10:25","Category":"Other","Message":"CAR 16 (LEC) TIME 1:09.135 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:27:19.282{"Messages":{"3":{"Utc":"2021-11-12T19:12:19","Category":"Other","Message":"CAR 99 (GIO) TIME 1:10.067 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:33:00.718{"Messages":{"4":{"Utc":"2021-11-12T19:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:09.995{"Messages":{"5":{"Utc":"2021-11-12T19:18:10","Category":"Other","Message":"CAR 47 (MSC) TIME 1:09.958 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:33:18.930{"Messages":{"6":{"Utc":"2021-11-12T19:18:19","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 6 (LAT)"}}}
+00:40:00.735{"Messages":{"7":{"Utc":"2021-11-12T19:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:46:13.083{"Messages":{"8":{"Utc":"2021-11-12T19:31:13","Category":"Other","Message":"CAR 44 (HAM) TIME 1:08.659 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:55:00.723{"Messages":{"9":{"Utc":"2021-11-12T19:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:10.991{"Messages":{"10":{"Utc":"2021-11-12T19:40:11","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 16 (LEC)"}}}
+01:03:00.746{"Messages":{"11":{"Utc":"2021-11-12T19:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.745{"Messages":{"12":{"Utc":"2021-11-12T20:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:13.716{"Messages":{"13":{"Utc":"2021-11-12T20:00:13","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 55 (SAI)"}}}

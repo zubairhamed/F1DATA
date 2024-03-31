@@ -1,0 +1,69 @@
+00:19:00.451{"Messages":[{"Utc":"2021-08-01T12:20:00","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:29:00.508{"Messages":{"1":{"Utc":"2021-08-01T12:30:00","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:32:21.927{"Messages":{"2":{"Utc":"2021-08-01T12:33:22","Lap":1,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 19"}}}
+00:32:25.163{"Messages":{"3":{"Utc":"2021-08-01T12:33:25","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:36:14.647{"Messages":{"4":{"Utc":"2021-08-01T12:37:15","Lap":1,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 1"}}}
+00:36:36.026{"Messages":{"5":{"Utc":"2021-08-01T12:37:36","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:37:11.659{"Messages":{"6":{"Utc":"2021-08-01T12:38:12","Lap":1,"Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:38:02.779{"Messages":{"7":{"Utc":"2021-08-01T12:39:03","Lap":1,"Category":"Other","Message":"CHANGE IN CLIMATIC CONDITIONS"}}}
+00:43:15.137{"Messages":{"8":{"Utc":"2021-08-01T12:44:15","Lap":1,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 1"}}}
+00:43:16.948{"Messages":{"9":{"Utc":"2021-08-01T12:44:17","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:43:20.835{"Messages":{"10":{"Utc":"2021-08-01T12:44:21","Lap":1,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 1"}}}
+00:43:21.328{"Messages":{"11":{"Utc":"2021-08-01T12:44:21","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:43:26.137{"Messages":{"12":{"Utc":"2021-08-01T12:44:26","Lap":1,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 1"}}}
+00:43:28.638{"Messages":{"13":{"Utc":"2021-08-01T12:44:29","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:44:23.794{"Messages":{"14":{"Utc":"2021-08-01T12:45:24","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 100%"}}}
+00:49:00.884{"Messages":{"15":{"Utc":"2021-08-01T12:50:01","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:01:24.900{"Messages":{"16":{"Utc":"2021-08-01T13:02:25","Lap":1,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 9"}}}
+01:01:27.860{"Messages":{"17":{"Utc":"2021-08-01T13:02:28","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:02:12.973{"Messages":{"18":{"Utc":"2021-08-01T13:03:13","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:02:29.587{"Messages":{"19":{"Utc":"2021-08-01T13:03:30","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:02:49.821{"Messages":{"20":{"Utc":"2021-08-01T13:03:50","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:03:23.253{"Messages":{"21":{"Utc":"2021-08-01T13:04:23","Lap":1,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:06:15.113{"Messages":{"22":{"Utc":"2021-08-01T13:07:15","Lap":2,"Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:06:15.213{"Messages":{"23":{"Utc":"2021-08-01T13:07:15","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:06:15.231{"Messages":{"24":{"Utc":"2021-08-01T13:07:15","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:11:56.822{"Messages":{"25":{"Utc":"2021-08-01T13:12:57","Lap":3,"Category":"Other","Message":"TURN 1 INCIDENTS UNDER INVESTIGATION"}}}
+01:16:49.200{"Messages":{"26":{"Utc":"2021-08-01T13:17:49","Lap":3,"Category":"Other","Message":"RACE WILL RESUME IN APPROX. 15 MINUTES"}}}
+01:18:25.114{"Messages":{"27":{"Utc":"2021-08-01T13:19:25","Lap":3,"Category":"Other","Message":"RACE WILL RESUME AT 15:32"}}}
+01:21:09.405{"Messages":{"28":{"Utc":"2021-08-01T13:22:09","Lap":3,"Category":"Other","Message":"10 MINUTES SIGNAL"}}}
+01:21:35.834{"Messages":{"29":{"Utc":"2021-08-01T13:22:36","Lap":3,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:32:04.037{"Messages":{"30":{"Utc":"2021-08-01T13:33:04","Lap":3,"Category":"Other","Message":"STANDING START"}}}
+01:37:57.059{"Messages":{"31":{"Utc":"2021-08-01T13:38:57","Lap":6,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CAR 63 (RUS) NOTED - NO INVESTIGATION NECESSARY"}}}
+01:39:08.234{"Messages":{"32":{"Utc":"2021-08-01T13:40:08","Lap":7,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:39:46.718{"Messages":{"33":{"Utc":"2021-08-01T13:40:47","Lap":7,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 7 (RAI) AND 9 (MAZ) NOTED - UNSAFE RELEASE"}}}
+01:40:29.580{"Messages":{"34":{"Utc":"2021-08-01T13:41:30","Lap":8,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 7 (RAI) AND 9 (MAZ) UNDER INVESTIGATION - UNSAFE RELEASE"}}}
+01:42:35.854{"Messages":{"35":{"Utc":"2021-08-01T13:43:36","Lap":9,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 22 (TSU) AND 55 (SAI) NOTED - UNSAFE RELEASE"}}}
+01:43:16.563{"Messages":{"36":{"Utc":"2021-08-01T13:44:16","Lap":10,"Category":"Other","Message":"10 SECOND STOP/GO PENALTY FOR CAR 99 (GIO) - SPEEDING IN THE PIT LANE"}}}
+01:44:21.221{"Messages":{"37":{"Utc":"2021-08-01T13:45:21","Lap":11,"Category":"Other","Message":"NORMAL GRIP CONDITIONS"}}}
+01:45:35.844{"Messages":{"38":{"Utc":"2021-08-01T13:46:36","Lap":12,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 22 (TSU) AND 55 (SAI) NO INVESTIGATION NECESSARY - UNSAFE RELEASE"}}}
+01:49:18.061{"Messages":{"39":{"Utc":"2021-08-01T13:50:18","Lap":14,"Category":"Other","Message":"10 SECOND TIME PENALTY FOR CAR 7 (RAI) - UNSAFE RELEASE"}}}
+01:50:12.512{"Messages":{"40":{"Utc":"2021-08-01T13:51:12","Lap":15,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 33 (VER) AND 47 (MSC) NOTED"}}}
+01:50:22.348{"Messages":{"41":{"Utc":"2021-08-01T13:51:22","Lap":15,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 33 (VER) AND 47 (MSC) NO INVESTIGATION NECESSARY"}}}
+02:36:36.646{"Messages":{"42":{"Utc":"2021-08-01T14:37:37","Lap":48,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 16:37:36"}}}
+02:39:55.720{"Messages":{"43":{"Utc":"2021-08-01T14:40:56","Lap":51,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 16:40:55"}}}
+02:40:20.074{"Messages":{"44":{"Utc":"2021-08-01T14:41:20","Lap":51,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 16:41:19"}}}
+02:42:50.147{"Messages":{"45":{"Utc":"2021-08-01T14:43:50","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 16:43:49"}}}
+02:43:05.254{"Messages":{"46":{"Utc":"2021-08-01T14:44:05","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 16:44:05"}}}
+02:43:50.190{"Messages":{"47":{"Utc":"2021-08-01T14:44:50","Lap":54,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 16:44:50"}}}
+02:45:24.151{"Messages":{"48":{"Utc":"2021-08-01T14:46:24","Lap":55,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 16:46:23"}}}
+02:57:17.554{"Messages":{"49":{"Utc":"2021-08-01T14:58:17","Lap":63,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+02:57:18.459{"Messages":{"50":{"Utc":"2021-08-01T14:58:18","Lap":63,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+02:57:18.641{"Messages":{"51":{"Utc":"2021-08-01T14:58:19","Lap":63,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+02:57:20.550{"Messages":{"52":{"Utc":"2021-08-01T14:58:20","Lap":63,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 16:58:20"}}}
+02:57:20.957{"Messages":{"53":{"Utc":"2021-08-01T14:58:21","Lap":63,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+02:57:22.566{"Messages":{"54":{"Utc":"2021-08-01T14:58:22","Lap":63,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+02:57:23.562{"Messages":{"55":{"Utc":"2021-08-01T14:58:23","Lap":63,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+02:57:23.727{"Messages":{"56":{"Utc":"2021-08-01T14:58:24","Lap":63,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+02:58:11.691{"Messages":{"57":{"Utc":"2021-08-01T14:59:12","Lap":64,"Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) SPUN AND CONTINUED AT TURN 2"}}}
+03:01:15.150{"Messages":{"58":{"Utc":"2021-08-01T15:02:15","Lap":66,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 17:02:14"}}}
+03:01:47.099{"Messages":{"59":{"Utc":"2021-08-01T15:02:47","Lap":67,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 17:02:46"}}}
+03:06:56.026{"Messages":{"60":{"Utc":"2021-08-01T15:07:56","Lap":70,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+03:08:31.888{"Messages":{"61":{"Utc":"2021-08-01T15:09:32","Lap":70,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+03:08:32.980{"Messages":{"62":{"Utc":"2021-08-01T15:09:33","Lap":70,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+03:08:32.994{"Messages":{"63":{"Utc":"2021-08-01T15:09:33","Lap":70,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+03:08:58.197{"Messages":{"64":{"Utc":"2021-08-01T15:09:58","Lap":70,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+03:15:38.966{"Messages":{"65":{"Utc":"2021-08-01T15:16:39","Lap":70,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+03:15:46.697{"Messages":{"66":{"Utc":"2021-08-01T15:16:47","Lap":70,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+03:20:49.790{"Messages":{"67":{"Utc":"2021-08-01T15:21:50","Lap":70,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+03:20:51.986{"Messages":{"68":{"Utc":"2021-08-01T15:21:52","Lap":70,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}

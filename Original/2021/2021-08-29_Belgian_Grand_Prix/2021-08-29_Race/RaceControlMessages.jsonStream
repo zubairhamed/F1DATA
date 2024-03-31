@@ -1,0 +1,33 @@
+00:13:51.306{"Messages":[{"Utc":"2021-08-29T12:14:52","Lap":1,"Category":"Other","Message":"LIGHT BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:13:54.852{"Messages":{"1":{"Utc":"2021-08-29T12:14:56","Lap":1,"Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:18:59.402{"Messages":{"2":{"Utc":"2021-08-29T12:20:00","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:25:25.491{"Messages":{"3":{"Utc":"2021-08-29T12:26:27","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:25:33.820{"Messages":{"4":{"Utc":"2021-08-29T12:26:35","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:28:59.397{"Messages":{"5":{"Utc":"2021-08-29T12:30:00","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:32:17.843{"Messages":{"6":{"Utc":"2021-08-29T12:33:19","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:44:04.482{"Messages":{"7":{"Utc":"2021-08-29T12:45:05","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 100%"}}}
+00:49:00.245{"Messages":{"8":{"Utc":"2021-08-29T12:50:01","Lap":1,"Category":"Other","Message":"FORMATION LAP WILL BE STARTED BEHIND THE SAFETY CAR"}}}
+00:56:07.911{"Messages":{"9":{"Utc":"2021-08-29T12:57:09","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:57:31.564{"Messages":{"10":{"Utc":"2021-08-29T12:58:33","Lap":1,"Category":"Other","Message":"DELAYED START"}}}
+00:58:51.915{"Messages":{"11":{"Utc":"2021-08-29T12:59:53","Lap":1,"Category":"Other","Message":"FORMATION LAP WILL START AT 15:10"}}}
+01:03:41.051{"Messages":{"12":{"Utc":"2021-08-29T13:04:42","Lap":1,"Category":"Other","Message":"DELAYED START"}}}
+01:04:01.684{"Messages":{"13":{"Utc":"2021-08-29T13:05:03","Lap":1,"Category":"Other","Message":"FORMATION LAP WILL START AT 15:15"}}}
+01:06:39.315{"Messages":{"14":{"Utc":"2021-08-29T13:07:40","Lap":1,"Category":"Other","Message":"DELAYED START"}}}
+01:06:58.283{"Messages":{"15":{"Utc":"2021-08-29T13:07:59","Lap":1,"Category":"Other","Message":"FORMATION LAP WILL START AT 15:20"}}}
+01:13:33.805{"Messages":{"16":{"Utc":"2021-08-29T13:14:35","Lap":1,"Category":"Other","Message":"DELAYED START"}}}
+01:13:50.852{"Messages":{"17":{"Utc":"2021-08-29T13:14:52","Lap":1,"Category":"Other","Message":"FORMATION LAP WILL START AT 15:25"}}}
+01:29:30.291{"Messages":{"18":{"Utc":"2021-08-29T13:30:31","Lap":1,"Category":"Other","Message":"START PROCEDURE SUSPENDED"}}}
+01:29:40.885{"Messages":{"19":{"Utc":"2021-08-29T13:30:42","Lap":1,"Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+03:27:55.782{"Messages":{"20":{"Utc":"2021-08-29T15:28:57","Lap":1,"Category":"Other","Message":"A WEATHER UPDATE WILL BE PROVIDED AT 17:45"}}}
+03:44:04.398{"Messages":{"21":{"Utc":"2021-08-29T15:45:05","Lap":1,"Category":"Other","Message":"NEXT WEATHER UPDATE WILL BE PROVIDED AT 17:55"}}}
+03:54:00.950{"Messages":{"22":{"Utc":"2021-08-29T15:55:02","Lap":1,"Category":"Other","Message":"NEXT WEATHER UPDATE WILL BE PROVIDED AT 18:00"}}}
+03:59:00.833{"Messages":{"23":{"Utc":"2021-08-29T16:00:02","Lap":1,"Category":"Other","Message":"NEXT WEATHER UPDATE WILL BE PROVIDED AT 18:05"}}}
+04:05:44.402{"Messages":{"24":{"Utc":"2021-08-29T16:06:45","Lap":1,"Category":"Other","Message":"RACE WILL RESUME AT 18:17"}}}
+04:06:12.821{"Messages":{"25":{"Utc":"2021-08-29T16:07:14","Lap":1,"Category":"Other","Message":"EXTREME TIRES MUST BE FITTED"}}}
+04:10:20.146{"Messages":{"26":{"Utc":"2021-08-29T16:11:21","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+04:15:59.218{"Messages":{"27":{"Utc":"2021-08-29T16:17:00","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+04:24:35.087{"Messages":{"28":{"Utc":"2021-08-29T16:25:36","Lap":3,"Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+04:43:03.071{"Messages":{"29":{"Utc":"2021-08-29T16:44:04","Lap":4,"Category":"Other","Message":"RACE WILL NOT RESUME"}}}
+04:44:13.310{"Messages":{"30":{"Utc":"2021-08-29T16:45:14","Lap":4,"Category":"Other","Message":"ALL CARS TO PARC FERME"}}}
+04:44:41.800{"Messages":{"31":{"Utc":"2021-08-29T16:45:43","Lap":4,"Category":"Other","Message":"ALL DRIVERS TO FIA GARAGE TO BE WEIGHED"}}}
+04:53:53.567{"Messages":{"32":{"Utc":"2021-08-29T16:54:55","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

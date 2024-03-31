@@ -1,0 +1,32 @@
+00:01:05.176{"Messages":[{"Utc":"2021-12-04T13:00:40","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P3 = 30 DEGREES"}]}
+00:01:05.182{"Messages":{"1":{"Utc":"2021-12-04T13:45:07","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}}}
+00:03:01.211{"Messages":{"2":{"Utc":"2021-12-04T13:48:28","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:03:04.614{"Messages":{"3":{"Utc":"2021-12-04T13:48:31","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:03:07.680{"Messages":{"4":{"Utc":"2021-12-04T13:48:34","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:06:36.156{"Messages":{"5":{"Utc":"2021-12-04T13:52:03","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:06:40.002{"Messages":{"6":{"Utc":"2021-12-04T13:52:07","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:06:49.216{"Messages":{"7":{"Utc":"2021-12-04T13:52:16","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:06:52.408{"Messages":{"8":{"Utc":"2021-12-04T13:52:19","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:07:41.328{"Messages":{"9":{"Utc":"2021-12-04T13:53:08","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:14:33.508{"Messages":{"10":{"Utc":"2021-12-04T14:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:30:46.556{"Messages":{"11":{"Utc":"2021-12-04T14:16:13","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:30:47.545{"Messages":{"12":{"Utc":"2021-12-04T14:16:14","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:30:59.702{"Messages":{"13":{"Utc":"2021-12-04T14:16:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:30:59.711{"Messages":{"14":{"Utc":"2021-12-04T14:16:26","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:31:05.401{"Messages":{"15":{"Utc":"2021-12-04T14:16:32","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:31:51.634{"Messages":{"16":{"Utc":"2021-12-04T14:17:18","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:31:55.761{"Messages":{"17":{"Utc":"2021-12-04T14:17:22","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:34:13.189{"Messages":{"18":{"Utc":"2021-12-04T14:19:40","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) MISSED THE APEX OF TURN 2"}}}
+00:34:35.003{"Messages":{"19":{"Utc":"2021-12-04T14:20:02","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) MISSED THE APEX OF TURN 5"}}}
+00:37:09.516{"Messages":{"20":{"Utc":"2021-12-04T14:22:36","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:37:10.947{"Messages":{"21":{"Utc":"2021-12-04T14:22:38","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:37:12.467{"Messages":{"22":{"Utc":"2021-12-04T14:22:39","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:45:02.077{"Messages":{"23":{"Utc":"2021-12-04T14:30:29","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:45:04.060{"Messages":{"24":{"Utc":"2021-12-04T14:30:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:54:50.675{"Messages":{"25":{"Utc":"2021-12-04T14:40:17","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (MAZ) MISSED THE APEX OF TURN 8"}}}
+00:58:05.511{"Messages":{"26":{"Utc":"2021-12-04T14:43:32","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 2"}}}
+00:58:12.000{"Messages":{"27":{"Utc":"2021-12-04T14:43:39","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 2"}}}
+01:04:26.562{"Messages":{"28":{"Utc":"2021-12-04T14:49:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:04:29.175{"Messages":{"29":{"Utc":"2021-12-04T14:49:56","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:14:33.567{"Messages":{"30":{"Utc":"2021-12-04T15:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:14:47.547{"Messages":{"31":{"Utc":"2021-12-04T15:00:14","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 22 (TSU)"}}}

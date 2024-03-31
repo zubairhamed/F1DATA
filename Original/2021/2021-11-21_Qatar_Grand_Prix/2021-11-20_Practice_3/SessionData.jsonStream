@@ -1,0 +1,15 @@
+00:10:10.768{"Series":[],"StatusSeries":[{"Utc":"2021-11-20T10:55:10.777Z","TrackStatus":"AllClear"}]}
+00:15:00.232{"StatusSeries":{"1":{"Utc":"2021-11-20T11:00:00.241Z","SessionStatus":"Started"}}}
+00:16:18.966{"StatusSeries":{"2":{"Utc":"2021-11-20T11:01:18.975Z","TrackStatus":"Yellow"}}}
+00:16:54.531{"StatusSeries":{"3":{"Utc":"2021-11-20T11:01:54.54Z","SessionStatus":"Aborted"}}}
+00:16:54.818{"StatusSeries":{"4":{"Utc":"2021-11-20T11:01:54.827Z","TrackStatus":"Red"}}}
+00:19:19.660{"StatusSeries":{"5":{"Utc":"2021-11-20T11:04:19.669Z","TrackStatus":"AllClear"}}}
+00:19:26.903{"StatusSeries":{"6":{"Utc":"2021-11-20T11:04:26.912Z","SessionStatus":"Inactive"}}}
+00:20:00.223{"StatusSeries":{"7":{"Utc":"2021-11-20T11:05:00.232Z","SessionStatus":"Started"}}}
+01:01:56.111{"StatusSeries":{"8":{"Utc":"2021-11-20T11:46:56.12Z","TrackStatus":"Yellow"}}}
+01:02:07.817{"StatusSeries":{"9":{"Utc":"2021-11-20T11:47:07.826Z","TrackStatus":"AllClear"}}}
+01:09:55.313{"StatusSeries":{"10":{"Utc":"2021-11-20T11:54:55.322Z","TrackStatus":"Yellow"}}}
+01:10:17.499{"StatusSeries":{"11":{"Utc":"2021-11-20T11:55:17.508Z","TrackStatus":"AllClear"}}}
+01:15:00.240{"StatusSeries":{"12":{"Utc":"2021-11-20T12:00:00.249Z","SessionStatus":"Finished"}}}
+01:18:26.685{"StatusSeries":{"13":{"Utc":"2021-11-20T12:03:26.694Z","SessionStatus":"Finalised"}}}
+01:18:26.685{"StatusSeries":{"14":{"Utc":"2021-11-20T12:03:26.694Z","SessionStatus":"Ends"}}}
