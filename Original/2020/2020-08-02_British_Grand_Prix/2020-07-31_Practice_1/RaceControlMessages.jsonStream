@@ -1,0 +1,29 @@
+00:14:58.287{"Messages":[{"Utc":"2020-07-31T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:38:43.349{"Messages":{"1":{"Utc":"2020-07-31T10:23:45","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+00:38:51.661{"Messages":{"2":{"Utc":"2020-07-31T10:23:53","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:38:52.641{"Messages":{"3":{"Utc":"2020-07-31T10:23:54","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:38:53.710{"Messages":{"4":{"Utc":"2020-07-31T10:23:56","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:38:54.931{"Messages":{"5":{"Utc":"2020-07-31T10:23:57","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:38:54.969{"Messages":{"6":{"Utc":"2020-07-31T10:23:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:39:13.578{"Messages":{"7":{"Utc":"2020-07-31T10:24:15","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 7"}}}
+00:40:26.004{"Messages":{"8":{"Utc":"2020-07-31T10:25:28","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+00:40:26.998{"Messages":{"9":{"Utc":"2020-07-31T10:25:29","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:41:08.106{"Messages":{"10":{"Utc":"2020-07-31T10:26:10","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:41:08.254{"Messages":{"11":{"Utc":"2020-07-31T10:26:10","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:41:12.087{"Messages":{"12":{"Utc":"2020-07-31T10:26:14","Category":"CarEvent","RacingNumber":"99","Message":"CAR 99 (GIO) SPUN AND CONTINUED AT TURN 13"}}}
+00:42:46.502{"Messages":{"13":{"Utc":"2020-07-31T10:27:48","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:49:36.310{"Messages":{"14":{"Utc":"2020-07-31T10:34:38","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:51:30.306{"Messages":{"15":{"Utc":"2020-07-31T10:36:32","Category":"Other","Message":"SESSION WILL RE-START AT 11:39"}}}
+00:51:56.359{"Messages":{"16":{"Utc":"2020-07-31T10:36:58","Category":"Other","Message":"P140 TYRES MAY BE USED UNTIL 11:51"}}}
+00:53:10.836{"Messages":{"17":{"Utc":"2020-07-31T10:38:13","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:53:14.148{"Messages":{"18":{"Utc":"2020-07-31T10:38:16","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:53:58.298{"Messages":{"19":{"Utc":"2020-07-31T10:39:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:56:39.194{"Messages":{"20":{"Utc":"2020-07-31T10:41:41","Category":"Other","Message":"TURN 13 INCIDENT INVOLVING CAR 99 (GIO) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+01:02:59.858{"Messages":{"21":{"Utc":"2020-07-31T10:48:02","Category":"Other","Message":"CAR 3 (RIC) TIME 1:28.968 DELETED - TRACK LIMITS AT TURN 15"}}}
+01:18:04.008{"Messages":{"22":{"Utc":"2020-07-31T11:03:06","Category":"Other","Message":"CAR 31 (OCO) TIME 1:28.240 DELETED - TRACK LIMITS AT TURN 15"}}}
+01:19:47.232{"Messages":{"23":{"Utc":"2020-07-31T11:04:49","Category":"Other","Message":"CAR 4 (NOR) TIME 1:33.153 DELETED - TRACK LIMITS AT TURN 5"}}}
+01:21:26.838{"Messages":{"24":{"Utc":"2020-07-31T11:06:29","Category":"Other","Message":"CORRECTION - CAR 4 (NOR) TIME 1:33.153 DELETED - TRACK LIMITS AT TURN 15"}}}
+01:22:44.761{"Messages":{"25":{"Utc":"2020-07-31T11:07:47","Category":"Other","Message":"CAR 23 (ALB) TIME 1:28.912 DELETED - TRACK LIMITS AT TURN 15"}}}
+01:44:58.276{"Messages":{"26":{"Utc":"2020-07-31T11:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:54:57.523{"Messages":{"27":{"Utc":"2020-07-31T11:39:59","Category":"Other","Message":"RISK OF RAIN FOR F2 PRACTICE SESSION IS 0% "}}}
+01:55:26.027{"Messages":{"28":{"Utc":"2020-07-31T11:39:59","Category":"Other","Message":"RISK OF RAIN FOR F2 PRACTICE SESSION IS 0% "}}}

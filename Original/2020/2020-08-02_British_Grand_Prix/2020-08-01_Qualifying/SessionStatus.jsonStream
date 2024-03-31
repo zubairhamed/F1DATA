@@ -1,0 +1,14 @@
+00:00:13.735{"Status":"Inactive"}
+00:15:00.281{"Status":"Started"}
+00:33:00.309{"Status":"Finished"}
+00:38:11.312{"Status":"Inactive"}
+00:40:00.306{"Status":"Started"}
+00:46:09.247{"Status":"Aborted"}
+00:52:19.030{"Status":"Inactive"}
+00:53:00.284{"Status":"Started"}
+01:01:51.210{"Status":"Finished"}
+01:08:10.446{"Status":"Inactive"}
+01:10:00.284{"Status":"Started"}
+01:22:00.269{"Status":"Finished"}
+01:25:15.398{"Status":"Finalised"}
+01:40:04.536{"Status":"Ends"}

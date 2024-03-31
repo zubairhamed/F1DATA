@@ -1,0 +1,26 @@
+00:14:59.971{"Messages":[{"Utc":"2020-09-05T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:38:20.521{"Messages":{"1":{"Utc":"2020-09-05T10:23:21","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 5"}}}
+00:42:29.916{"Messages":{"2":{"Utc":"2020-09-05T10:27:30","Category":"Other","Message":"CAR 5 (VET) TIME 1:21.995 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:43:01.947{"Messages":{"3":{"Utc":"2020-09-05T10:28:02","Category":"Other","Message":"CAR 16 (LEC) TIME 1:55.117 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:43:11.180{"Messages":{"4":{"Utc":"2020-09-05T10:28:11","Category":"Other","Message":"CAR 99 (GIO) MISSED THE 2ND CHICANE"}}}
+00:44:47.520{"Messages":{"5":{"Utc":"2020-09-05T10:29:48","Category":"Other","Message":"CAR 16 (LEC) MISSED THE 1ST CHICANE"}}}
+00:45:01.481{"Messages":{"6":{"Utc":"2020-09-05T10:30:02","Category":"Other","Message":"CAR 23 (ALB) TIME 1:21.168 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:45:32.285{"Messages":{"7":{"Utc":"2020-09-05T10:30:32","Category":"Other","Message":"CAR 99 (GIO) TIME 1:57.588 DELETED - TRACK LIMITS AT TURN 5"}}}
+00:45:49.971{"Messages":{"8":{"Utc":"2020-09-05T10:30:50","Category":"Other","Message":"CAR 23 (ALB) TIME 1:49.699 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:46:52.292{"Messages":{"9":{"Utc":"2020-09-05T10:31:52","Category":"Other","Message":"CAR 16 (LEC) TIME 1:21.883 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:49:20.946{"Messages":{"10":{"Utc":"2020-09-05T10:34:21","Category":"Other","Message":"CAR 23 (ALB) TIME 1:20.952 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:49:26.633{"Messages":{"11":{"Utc":"2020-09-05T10:34:27","Category":"Other","Message":"CAR 23 (ALB) TIME 1:47.616 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:55:10.841{"Messages":{"12":{"Utc":"2020-09-05T10:40:11","Category":"Other","Message":"CAR 55 (SAI) MISSED THE 2ND CHICANE"}}}
+01:04:04.926{"Messages":{"13":{"Utc":"2020-09-05T10:49:05","Category":"Other","Message":"CAR 77 (BOT) MISSED THE 1ST CHICANE"}}}
+01:05:50.971{"Messages":{"14":{"Utc":"2020-09-05T10:50:51","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:06:05.256{"Messages":{"15":{"Utc":"2020-09-05T10:51:05","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) STOPPED AT TURN 6"}}}
+01:06:24.145{"Messages":{"16":{"Utc":"2020-09-05T10:51:24","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:06:24.218{"Messages":{"17":{"Utc":"2020-09-05T10:51:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:11:29.602{"Messages":{"18":{"Utc":"2020-09-05T10:56:30","Category":"Other","Message":"SESSION WILL RE-START AT 12:57"}}}
+01:11:31.127{"Messages":{"19":{"Utc":"2020-09-05T10:56:31","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:11:32.633{"Messages":{"20":{"Utc":"2020-09-05T10:56:33","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:12:00.008{"Messages":{"21":{"Utc":"2020-09-05T10:57:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:52.958{"Messages":{"22":{"Utc":"2020-09-05T10:59:53","Category":"Other","Message":"INCIDENT AT TURN 11 NOTED"}}}
+01:15:00.001{"Messages":{"23":{"Utc":"2020-09-05T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:15.127{"Messages":{"24":{"Utc":"2020-09-05T11:00:15","Category":"Other","Message":"CAR 16 (LEC) MISSED THE 1ST CHICANE"}}}
+01:15:35.625{"Messages":{"25":{"Utc":"2020-09-05T11:00:36","Category":"Other","Message":"CAR 23 (ALB) TIME 1:20.675 DELETED - TRACK LIMITS AT TURN 11"}}}

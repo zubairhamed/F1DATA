@@ -1,0 +1,40 @@
+00:00:19.463{"Messages":[{"Utc":"2021-04-30T10:15:19","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:15:00.291{"Messages":{"1":{"Utc":"2021-04-30T10:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:06.658{"Messages":{"2":{"Utc":"2021-04-30T10:34:07","Category":"Other","Message":"CAR 55 (SAI) TIME 1:27.625 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:19:44.368{"Messages":{"3":{"Utc":"2021-04-30T10:34:44","Category":"Other","Message":"CAR 10 (GAS) TIME 1:28.493 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:20:41.043{"Messages":{"4":{"Utc":"2021-04-30T10:35:41","Category":"Other","Message":"CAR 16 (LEC) TIME 1:24.112 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:21:19.776{"Messages":{"5":{"Utc":"2021-04-30T10:36:20","Category":"Other","Message":"CAR 10 (GAS) TIME 1:24.119 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:21:58.312{"Messages":{"6":{"Utc":"2021-04-30T10:36:58","Category":"Other","Message":"CAR 55 (SAI) TIME 1:23.128 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:22:49.766{"Messages":{"7":{"Utc":"2021-04-30T10:37:50","Category":"Other","Message":"CAR 6 (LAT) TIME 1:25.730 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:26:11.883{"Messages":{"8":{"Utc":"2021-04-30T10:41:12","Category":"Other","Message":"CAR 3 (RIC) TIME 1:24.133 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:26:34.102{"Messages":{"9":{"Utc":"2021-04-30T10:41:34","Category":"Other","Message":"CAR 16 (LEC) TIME 1:29.987 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:27:04.963{"Messages":{"10":{"Utc":"2021-04-30T10:42:05","Category":"Other","Message":"CAR 18 (STR) TIME 1:24.186 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:27:08.256{"Messages":{"11":{"Utc":"2021-04-30T10:42:08","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:27:09.261{"Messages":{"12":{"Utc":"2021-04-30T10:42:09","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:40:26.658{"Messages":{"13":{"Utc":"2021-04-30T10:55:27","Category":"Other","Message":"CAR 10 (GAS) TIME 1:21.970 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:43:07.406{"Messages":{"14":{"Utc":"2021-04-30T10:58:07","Category":"Other","Message":"CAR 10 (GAS) TIME 1:21.529 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:44:03.612{"Messages":{"15":{"Utc":"2021-04-30T10:59:04","Category":"Other","Message":"CAR 22 (TSU) TIME 1:22.377 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:46:10.129{"Messages":{"16":{"Utc":"2021-04-30T11:01:10","Category":"Other","Message":"CAR 10 (GAS) TIME 1:34.732 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:46:36.660{"Messages":{"17":{"Utc":"2021-04-30T11:01:37","Category":"Other","Message":"CAR 16 (LEC) TIME 1:23.153 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:47:58.767{"Messages":{"18":{"Utc":"2021-04-30T11:02:59","Category":"Other","Message":"CAR 16 (LEC) TIME 1:21.550 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:49:19.764{"Messages":{"19":{"Utc":"2021-04-30T11:04:20","Category":"Other","Message":"CAR 6 (LAT) TIME 1:23.092 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:50:34.386{"Messages":{"20":{"Utc":"2021-04-30T11:05:34","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:28.947 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:54:38.559{"Messages":{"21":{"Utc":"2021-04-30T11:09:38","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:23.520 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:57:37.741{"Messages":{"22":{"Utc":"2021-04-30T11:12:38","Category":"Other","Message":"CAR 7 (RAI) TIME 1:21.588 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:59:25.763{"Messages":{"23":{"Utc":"2021-04-30T11:14:26","Category":"Other","Message":"CAR 98 (ILO) TIME 1:22.899 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:00:35.660{"Messages":{"24":{"Utc":"2021-04-30T11:15:36","Category":"Other","Message":"CAR 14 (ALO) TIME 1:24.626 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:03:31.952{"Messages":{"25":{"Utc":"2021-04-30T11:18:32","Category":"Other","Message":"CAR 14 (ALO) TIME 1:21.962 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:06:14.764{"Messages":{"26":{"Utc":"2021-04-30T11:21:15","Category":"Other","Message":"CAR 16 (LEC) TIME 1:21.418 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:07:59.770{"Messages":{"27":{"Utc":"2021-04-30T11:23:00","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:27.721 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:08:06.085{"Messages":{"28":{"Utc":"2021-04-30T11:23:06","Category":"Other","Message":"CAR 14 (ALO) TIME 1:23.968 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:08:16.468{"Messages":{"29":{"Utc":"2021-04-30T11:23:16","Category":"Other","Message":"CAR 47 (MSC) TIME 1:26.644 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:11:14.368{"Messages":{"30":{"Utc":"2021-04-30T11:26:14","Category":"Other","Message":"CAR 77 (BOT) TIME 1:22.851 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:11:28.804{"Messages":{"31":{"Utc":"2021-04-30T11:26:29","Category":"Other","Message":"CAR 4 (NOR) TIME 1:21.162 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:11:41.203{"Messages":{"32":{"Utc":"2021-04-30T11:26:41","Category":"Other","Message":"CAR 5 (VET) TIME 1:24.664 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:12:09.355{"Messages":{"33":{"Utc":"2021-04-30T11:27:09","Category":"Other","Message":"CAR 63 (RUS) TIME 1:23.674 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:14:19.325{"Messages":{"34":{"Utc":"2021-04-30T11:29:19","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:26.073 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:15:00.250{"Messages":{"35":{"Utc":"2021-04-30T11:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:19.302{"Messages":{"36":{"Utc":"2021-04-30T11:30:19","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:25.588 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:15:22.969{"Messages":{"37":{"Utc":"2021-04-30T11:30:23","Category":"Other","Message":"CAR 55 (SAI) TIME 1:26.235 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:17:09.404{"Messages":{"38":{"Utc":"2021-04-30T11:32:09","Category":"Other","Message":"CAR 5 (VET) TIME 1:23.652 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:17:41.753{"Messages":{"39":{"Utc":"2021-04-30T11:32:42","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:39.199 DELETED - TRACK LIMITS AT TURN 1"}}}

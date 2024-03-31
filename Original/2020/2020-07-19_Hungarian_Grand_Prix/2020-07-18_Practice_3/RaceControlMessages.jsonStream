@@ -1,0 +1,18 @@
+00:10:38.704{"Messages":[{"Utc":"2020-07-18T09:00:04","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P3 = 18 DEGREES"}]}
+00:10:38.706{"Messages":{"1":{"Utc":"2020-07-18T09:45:07","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 90%"}}}
+00:12:13.737{"Messages":{"2":{"Utc":"2020-07-18T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:35:12.904{"Messages":{"3":{"Utc":"2020-07-18T10:22:59","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+00:35:25.540{"Messages":{"4":{"Utc":"2020-07-18T10:23:12","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:35:27.585{"Messages":{"5":{"Utc":"2020-07-18T10:23:14","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:35:33.879{"Messages":{"6":{"Utc":"2020-07-18T10:23:20","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) SPUN AND CONTINUED AT TURN 12"}}}
+00:39:17.529{"Messages":{"7":{"Utc":"2020-07-18T10:27:04","Category":"Other","Message":"CAR 44 (HAM) TIME 1:21.230 DELETED - TRACK LIMITS AT TURN 12"}}}
+00:48:32.693{"Messages":{"8":{"Utc":"2020-07-18T10:36:19","Category":"Other","Message":"CAR 23 (ALB) TIME 1:22.693 DELETED - TRACK LIMITS AT TURN 12"}}}
+00:57:46.890{"Messages":{"9":{"Utc":"2020-07-18T10:45:33","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+00:57:48.233{"Messages":{"10":{"Utc":"2020-07-18T10:45:35","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:58:02.116{"Messages":{"11":{"Utc":"2020-07-18T10:45:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:58:03.091{"Messages":{"12":{"Utc":"2020-07-18T10:45:49","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+00:58:09.308{"Messages":{"13":{"Utc":"2020-07-18T10:45:56","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:58:24.590{"Messages":{"14":{"Utc":"2020-07-18T10:46:11","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) SPUN AND CONTINUED AT TURN 12"}}}
+01:03:43.751{"Messages":{"15":{"Utc":"2020-07-18T10:51:30","Category":"Other","Message":"CAR 6 (LAT) TIME 1:27.963 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:04:30.515{"Messages":{"16":{"Utc":"2020-07-18T10:52:17","Category":"Other","Message":"CAR 3 (RIC) TIME 1:16.591 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:12:13.749{"Messages":{"17":{"Utc":"2020-07-18T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

@@ -1,0 +1,12 @@
+00:15:00.366{"Messages":[{"Utc":"2020-08-07T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:44:19.895{"Messages":{"1":{"Utc":"2020-08-07T10:29:20","Category":"Other","Message":"CAR 5 (VET) TIME 1:28.467 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:09:02.574{"Messages":{"2":{"Utc":"2020-08-07T10:54:02","Category":"Other","Message":"CAR 7 (RAI) TIME 1:29.265 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:09:03.197{"Messages":{"3":{"Utc":"2020-08-07T10:54:03","Category":"Other","Message":"CAR 20 (MAG) TIME 1:30.798 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:09:59.770{"Messages":{"4":{"Utc":"2020-08-07T10:55:00","Category":"Other","Message":"CAR 88 (KUB) TIME 1:29.589 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:45:00.328{"Messages":{"5":{"Utc":"2020-08-07T11:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:45:12.310{"Messages":{"6":{"Utc":"2020-08-07T11:30:12","Category":"Other","Message":"CAR 23 (ALB) TIME 1:29.464 DELETED - TRACK LIMITS AT TURN 15"}}}
+01:47:05.107{"Messages":{"7":{"Utc":"2020-08-07T11:32:05","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+01:47:15.030{"Messages":{"8":{"Utc":"2020-08-07T11:32:15","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+01:47:20.036{"Messages":{"9":{"Utc":"2020-08-07T11:32:20","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+01:47:26.745{"Messages":{"10":{"Utc":"2020-08-07T11:32:27","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+01:54:59.594{"Messages":{"11":{"Utc":"2020-08-07T11:39:59","Category":"Other","Message":"RISK OF RAIN FOR F2 PRACTICE SESSION IS 0% "}}}

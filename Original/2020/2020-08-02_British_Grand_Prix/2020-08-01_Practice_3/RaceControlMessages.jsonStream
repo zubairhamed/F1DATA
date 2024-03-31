@@ -1,0 +1,8 @@
+00:00:32.270{"Messages":[{"Utc":"2020-08-01T09:45:01","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 60%"}]}
+00:01:28.785{"Messages":{"1":{"Utc":"2020-08-01T09:00:01","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P3 = 18 DEGREES"}}}
+00:01:28.788{"Messages":{"2":{"Utc":"2020-08-01T09:45:01","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 60%"}}}
+00:14:56.975{"Messages":{"3":{"Utc":"2020-08-01T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:04:22.959{"Messages":{"4":{"Utc":"2020-08-01T10:49:26","Category":"Other","Message":"CAR 23 (ALB) TIME 1:28.398 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:12:31.935{"Messages":{"5":{"Utc":"2020-08-01T10:57:35","Category":"Other","Message":"CAR 7 (RAI) TIME 1:28.184 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:13:27.366{"Messages":{"6":{"Utc":"2020-08-01T10:58:31","Category":"Other","Message":"CAR 20 (MAG) TIME 1:46.092 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:14:56.991{"Messages":{"7":{"Utc":"2020-08-01T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

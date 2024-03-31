@@ -1,0 +1,18 @@
+00:04:01.477{"Messages":[{"Utc":"2021-07-03T12:00:02","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE Q1 = 24 DEGREES"}]}
+00:04:01.480{"Messages":{"1":{"Utc":"2021-07-03T12:45:02","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}}}
+00:14:33.776{"Messages":{"2":{"Utc":"2021-07-03T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:20:57.067{"Messages":{"3":{"Utc":"2021-07-03T13:06:23","Category":"Other","Message":"CAR 10 (GAS) TIME 1:05.434 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:26:43.330{"Messages":{"4":{"Utc":"2021-07-03T13:12:10","Category":"Other","Message":"CAR 16 (LEC) TIME 1:04.775 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:32:33.790{"Messages":{"5":{"Utc":"2021-07-03T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:32:51.966{"Messages":{"6":{"Utc":"2021-07-03T13:18:18","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 18 (STR)"}}}
+00:33:32.289{"Messages":{"7":{"Utc":"2021-07-03T13:18:59","Category":"Other","Message":"CAR 3 (RIC) TIME 1:05.202 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:39:33.782{"Messages":{"8":{"Utc":"2021-07-03T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:54:33.890{"Messages":{"9":{"Utc":"2021-07-03T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:54:48.661{"Messages":{"10":{"Utc":"2021-07-03T13:40:15","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 5 (VET)"}}}
+00:55:01.025{"Messages":{"11":{"Utc":"2021-07-03T13:40:27","Category":"Other","Message":"CAR 99 (GIO) TIME 1:04.777 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:56:01.729{"Messages":{"12":{"Utc":"2021-07-03T13:41:28","Category":"Other","Message":"TURN 9 INCIDENT INVOLVING CARS 5 (VET) AND 14 (ALO) - WILL BE INVESTIGATED AFTER THE SESSION"}}}
+01:02:33.828{"Messages":{"13":{"Utc":"2021-07-03T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:33.930{"Messages":{"14":{"Utc":"2021-07-03T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:14:45.669{"Messages":{"15":{"Utc":"2021-07-03T14:00:12","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 33 (VER)"}}}
+01:29:35.578{"Messages":{"16":{"Utc":"2021-07-03T14:15:02","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:34:34.648{"Messages":{"17":{"Utc":"2021-07-03T14:20:01","Category":"Other","Message":"PIT EXIT CLOSED"}}}

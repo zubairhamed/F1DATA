@@ -1,0 +1,13 @@
+00:14:23.122{"Status":"1","Message":"AllClear"}
+00:27:24.625{"Status":"2","Message":"Yellow"}
+00:27:37.246{"Status":"1","Message":"AllClear"}
+00:50:50.014{"Status":"2","Message":"Yellow"}
+00:51:48.510{"Status":"5","Message":"Red"}
+00:59:43.143{"Status":"1","Message":"AllClear"}
+01:16:04.407{"Status":"2","Message":"Yellow"}
+01:16:19.403{"Status":"1","Message":"AllClear"}
+01:24:58.492{"Status":"2","Message":"Yellow"}
+01:25:10.742{"Status":"1","Message":"AllClear"}
+01:26:13.026{"Status":"5","Message":"Red"}
+01:29:41.332{"Status":"1","Message":"AllClear"}
+01:46:13.614{"Status":"2","Message":"Yellow"}

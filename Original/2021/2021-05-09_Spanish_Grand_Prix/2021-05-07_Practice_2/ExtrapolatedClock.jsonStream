@@ -1,0 +1,6 @@
+00:00:00.972{"Utc":"2021-05-07T12:45:01.006Z","Remaining":"01:00:00","Extrapolating":false}
+00:15:00.972{"Utc":"2021-05-07T13:00:01.006Z","Remaining":"00:59:59","Extrapolating":true}
+01:10:09.167{"Utc":"2021-05-07T13:55:09.201Z","Remaining":"00:04:52","Extrapolating":false}
+01:10:09.256{"Utc":"2021-05-07T13:55:09.29Z","Remaining":"00:04:51"}
+01:10:09.972{"Utc":"2021-05-07T13:55:10.006Z","Remaining":"00:04:50","Extrapolating":true}
+01:14:59.973{"Utc":"2021-05-07T14:00:00.007Z","Remaining":"00:00:00","Extrapolating":false}

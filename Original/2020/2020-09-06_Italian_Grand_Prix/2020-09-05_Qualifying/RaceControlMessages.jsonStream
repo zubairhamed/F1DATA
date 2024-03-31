@@ -1,0 +1,24 @@
+00:03:05.676{"Messages":[{"Utc":"2020-09-05T12:48:07","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:14:59.105{"Messages":{"1":{"Utc":"2020-09-05T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:50.480{"Messages":{"2":{"Utc":"2020-09-05T13:04:51","Category":"Other","Message":"CAR 16 (LEC) TIME 1:20.970 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:20:21.168{"Messages":{"3":{"Utc":"2020-09-05T13:05:22","Category":"Other","Message":"CAR 20 (MAG) TIME 1:21.618 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:23:28.192{"Messages":{"4":{"Utc":"2020-09-05T13:08:29","Category":"Other","Message":"CAR 10 (GAS) TIME 1:20.171 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:24:16.971{"Messages":{"5":{"Utc":"2020-09-05T13:09:18","Category":"Other","Message":"CAR 18 (STR) TIME 1:20.402 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:25:03.200{"Messages":{"6":{"Utc":"2020-09-05T13:10:04","Category":"Other","Message":"CAR 10 (GAS) TIME 1:41.641 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:25:21.677{"Messages":{"7":{"Utc":"2020-09-05T13:10:23","Category":"Other","Message":"CAR 18 (STR) TIME 1:40.268 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:26:46.100{"Messages":{"8":{"Utc":"2020-09-05T13:11:47","Category":"Other","Message":"CAR 23 (ALB) TIME 1:20.618 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:32:59.120{"Messages":{"9":{"Utc":"2020-09-05T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:37:24.744{"Messages":{"10":{"Utc":"2020-09-05T13:22:26","Category":"Other","Message":"INCIDENT WITH MULTIPLE CARS AT TURN 11 NOTED"}}}
+00:39:59.159{"Messages":{"11":{"Utc":"2020-09-05T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:46:38.655{"Messages":{"12":{"Utc":"2020-09-05T13:31:40","Category":"Other","Message":"Q1 INCIDENT INVOLVING CARS 31 (OCO), 6 (LAT) AND 7 (RAI) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:54:10.400{"Messages":{"13":{"Utc":"2020-09-05T13:39:11","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) OFF TRACK AND CONTINUED AT TURN 5"}}}
+00:54:50.218{"Messages":{"14":{"Utc":"2020-09-05T13:39:51","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:54:51.280{"Messages":{"15":{"Utc":"2020-09-05T13:39:52","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:54:56.678{"Messages":{"16":{"Utc":"2020-09-05T13:39:58","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:54:57.715{"Messages":{"17":{"Utc":"2020-09-05T13:39:59","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:54:57.717{"Messages":{"18":{"Utc":"2020-09-05T13:39:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:54:59.180{"Messages":{"19":{"Utc":"2020-09-05T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:02.337{"Messages":{"20":{"Utc":"2020-09-05T13:40:03","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:02:59.136{"Messages":{"21":{"Utc":"2020-09-05T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:06:45.703{"Messages":{"22":{"Utc":"2020-09-05T13:51:47","Category":"Other","Message":"CAR 23 (ALB) TIME 1:20.079 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:14:59.266{"Messages":{"23":{"Utc":"2020-09-05T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

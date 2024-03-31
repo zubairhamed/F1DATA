@@ -1,0 +1,52 @@
+00:10:29.914{"Messages":[{"Utc":"2020-09-04T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:18:11.604{"Messages":{"1":{"Utc":"2020-09-04T13:07:42","Category":"Other","Message":"CAR 8 (GRO) MISSED THE 1ST CHICANE"}}}
+00:22:18.946{"Messages":{"2":{"Utc":"2020-09-04T13:11:49","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 5"}}}
+00:27:58.071{"Messages":{"3":{"Utc":"2020-09-04T13:17:28","Category":"Other","Message":"CAR 4 (NOR) MISSED THE 1ST CHICANE"}}}
+00:31:16.609{"Messages":{"4":{"Utc":"2020-09-04T13:20:47","Category":"Other","Message":"CAR 16 (LEC) TIME 1:22.011 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:31:36.405{"Messages":{"5":{"Utc":"2020-09-04T13:21:07","Category":"Other","Message":"CAR 26 (KVY) MISSED THE 1ST CHICANE"}}}
+00:33:14.827{"Messages":{"6":{"Utc":"2020-09-04T13:22:45","Category":"Other","Message":"CAR 16 (LEC) TIME 1:51.770 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:34:06.713{"Messages":{"7":{"Utc":"2020-09-04T13:23:37","Category":"Other","Message":"CAR 5 (VET) MISSED THE 2ND CHICANE"}}}
+00:34:55.469{"Messages":{"8":{"Utc":"2020-09-04T13:24:26","Category":"Other","Message":"CAR 5 (VET) TIME 1:46.155 DELETED - TRACK LIMITS AT TURN 5"}}}
+00:54:46.049{"Messages":{"9":{"Utc":"2020-09-04T13:44:16","Category":"Other","Message":"CAR 8 (GRO) TIME 1:21.729 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:56:57.671{"Messages":{"10":{"Utc":"2020-09-04T13:46:28","Category":"Other","Message":"CAR 8 (GRO) TIME 2:28.844 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:57:13.503{"Messages":{"11":{"Utc":"2020-09-04T13:46:44","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 2"}}}
+00:57:25.745{"Messages":{"12":{"Utc":"2020-09-04T13:46:56","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 6"}}}
+00:58:29.815{"Messages":{"13":{"Utc":"2020-09-04T13:48:00","Category":"Other","Message":"CAR 3 (RIC) TIME 1:20.905 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:01:20.376{"Messages":{"14":{"Utc":"2020-09-04T13:50:51","Category":"Other","Message":"CAR 5 (VET) TIME 1:22.518 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:01:53.651{"Messages":{"15":{"Utc":"2020-09-04T13:51:24","Category":"Other","Message":"CAR 23 (ALB) TIME 1:21.531 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:03:03.742{"Messages":{"16":{"Utc":"2020-09-04T13:52:34","Category":"Other","Message":"CAR 5 (VET) TIME 1:47.495 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:04:13.482{"Messages":{"17":{"Utc":"2020-09-04T13:53:44","Category":"Other","Message":"CAR 23 (ALB) TIME 2:14.643 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:05:27.393{"Messages":{"18":{"Utc":"2020-09-04T13:54:58","Category":"Other","Message":"CAR 20 (MAG) TIME 1:23.042 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:14:15.221{"Messages":{"19":{"Utc":"2020-09-04T14:03:45","Category":"Other","Message":"CAR 63 (RUS) MISSED THE 2ND CHICANE"}}}
+01:16:10.901{"Messages":{"20":{"Utc":"2020-09-04T14:05:41","Category":"Other","Message":"CAR 63 (RUS) TIME 1:28.798 DELETED - TRACK LIMITS AT TURN 5 AND TURN 11"}}}
+01:16:12.585{"Messages":{"21":{"Utc":"2020-09-04T14:05:43","Category":"Other","Message":"CAR 63 (RUS) TIME 1:28.798 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:16:58.838{"Messages":{"22":{"Utc":"2020-09-04T14:06:29","Category":"Other","Message":"CAR 63 (RUS) TIME 1:26.671 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:18:02.417{"Messages":{"23":{"Utc":"2020-09-04T14:07:33","Category":"Other","Message":"CAR 63 (RUS) TIME 1:27.143 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:19:13.664{"Messages":{"24":{"Utc":"2020-09-04T14:08:44","Category":"Other","Message":"CAR 23 (ALB) TIME 1:25.835 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:19:18.683{"Messages":{"25":{"Utc":"2020-09-04T14:08:49","Category":"Other","Message":"CAR 33 (VER) MISSED THE 1ST CHICANE"}}}
+01:19:46.810{"Messages":{"26":{"Utc":"2020-09-04T14:09:17","Category":"Other","Message":"CAR 23 (ALB) TIME 1:26.687 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:20:32.713{"Messages":{"27":{"Utc":"2020-09-04T14:10:03","Category":"Other","Message":"CAR 8 (GRO) TIME 1:25.601 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:22:01.966{"Messages":{"28":{"Utc":"2020-09-04T14:11:32","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) MISSED THE APEX OF TURN 2"}}}
+01:22:22.542{"Messages":{"29":{"Utc":"2020-09-04T14:11:53","Category":"Other","Message":"CAR 8 (GRO) TIME 1:25.809 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:23:26.425{"Messages":{"30":{"Utc":"2020-09-04T14:12:57","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:23:37.126{"Messages":{"31":{"Utc":"2020-09-04T14:13:07","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:23:45.699{"Messages":{"32":{"Utc":"2020-09-04T14:13:16","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) SPUN AND CONTINUED AT TURN 6"}}}
+01:25:28.444{"Messages":{"33":{"Utc":"2020-09-04T14:14:59","Category":"Other","Message":"CAR 55 (SAI) TIME 1:25.202 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:25:31.904{"Messages":{"34":{"Utc":"2020-09-04T14:15:02","Category":"Other","Message":"CAR 55 (SAI) TIME 1:26.279 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:27:04.470{"Messages":{"35":{"Utc":"2020-09-04T14:16:35","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:27:07.654{"Messages":{"36":{"Utc":"2020-09-04T14:16:38","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:27:34.568{"Messages":{"37":{"Utc":"2020-09-04T14:17:05","Category":"Other","Message":"CAR 63 (RUS) MISSED THE 1ST CHICANE"}}}
+01:27:38.327{"Messages":{"38":{"Utc":"2020-09-04T14:17:09","Category":"Other","Message":"CAR 33 (VER) TIME 1:24.837 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:27:45.459{"Messages":{"39":{"Utc":"2020-09-04T14:17:16","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 6"}}}
+01:28:44.811{"Messages":{"40":{"Utc":"2020-09-04T14:18:15","Category":"Other","Message":"CAR 6 (LAT) MISSED THE 1ST CHICANE"}}}
+01:30:18.335{"Messages":{"41":{"Utc":"2020-09-04T14:19:49","Category":"Other","Message":"CAR 10 (GAS) MISSED THE 1ST CHICANE"}}}
+01:30:26.076{"Messages":{"42":{"Utc":"2020-09-04T14:19:56","Category":"Other","Message":"CAR 77 (BOT) MISSED THE 1ST CHICANE"}}}
+01:31:00.483{"Messages":{"43":{"Utc":"2020-09-04T14:20:31","Category":"Other","Message":"CAR 99 (GIO) MISSED THE 1ST CHICANE"}}}
+01:32:24.158{"Messages":{"44":{"Utc":"2020-09-04T14:21:54","Category":"Other","Message":"CAR 23 (ALB) MISSED THE 1ST CHICANE"}}}
+01:35:42.874{"Messages":{"45":{"Utc":"2020-09-04T14:25:13","Category":"Other","Message":"CAR 33 (VER) TIME 1:24.452 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:36:57.267{"Messages":{"46":{"Utc":"2020-09-04T14:26:27","Category":"Other","Message":"CAR 33 (VER) TIME 1:24.689 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:37:22.899{"Messages":{"47":{"Utc":"2020-09-04T14:26:53","Category":"Other","Message":"CAR 4 (NOR) TIME 1:21.532 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:38:29.919{"Messages":{"48":{"Utc":"2020-09-04T14:28:00","Category":"Other","Message":"CAR 55 (SAI) TIME 1:24.379 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:39:30.723{"Messages":{"49":{"Utc":"2020-09-04T14:29:01","Category":"Other","Message":"CAR 4 (NOR) TIME 1:54.292 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:40:29.944{"Messages":{"50":{"Utc":"2020-09-04T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:53:26.534{"Messages":{"51":{"Utc":"2020-09-04T14:42:57","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 0%"}}}

@@ -1,0 +1,9 @@
+00:15:00.167{"Messages":[{"Utc":"2020-08-08T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:24:47.760{"Messages":{"1":{"Utc":"2020-08-08T13:09:48","Category":"Other","Message":"TURN 5 INCIDENT INVOLVING CARS 31 (OCO) AND 63 (RUS) NOTED"}}}
+00:26:28.651{"Messages":{"2":{"Utc":"2020-08-08T13:11:29","Category":"Other","Message":"TURN 5 INCIDENT INVOLVING CARS 31 (OCO) AND 63 (RUS) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:33:00.155{"Messages":{"3":{"Utc":"2020-08-08T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:17.319{"Messages":{"4":{"Utc":"2020-08-08T13:18:17","Category":"Other","Message":"CAR 26 (KVY) TIME 1:28.133 DELETED - TRACK LIMITS AT TURN 15"}}}
+00:40:00.145{"Messages":{"5":{"Utc":"2020-08-08T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:55:00.225{"Messages":{"6":{"Utc":"2020-08-08T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:03:00.234{"Messages":{"7":{"Utc":"2020-08-08T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.227{"Messages":{"8":{"Utc":"2020-08-08T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

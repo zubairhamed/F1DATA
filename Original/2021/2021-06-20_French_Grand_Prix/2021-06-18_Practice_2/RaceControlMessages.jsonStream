@@ -1,0 +1,26 @@
+00:02:15.002{"Messages":[{"Utc":"2021-06-18T12:01:00","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P2 = 28 DEGREES"}]}
+00:02:15.007{"Messages":{"1":{"Utc":"2021-06-18T12:45:07","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}}}
+00:12:49.184{"Messages":{"2":{"Utc":"2021-06-18T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:17:33.457{"Messages":{"3":{"Utc":"2021-06-18T13:04:44","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 6"}}}
+00:18:03.609{"Messages":{"4":{"Utc":"2021-06-18T13:05:15","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 6"}}}
+00:18:15.353{"Messages":{"5":{"Utc":"2021-06-18T13:05:26","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 6"}}}
+00:20:35.010{"Messages":{"6":{"Utc":"2021-06-18T13:07:46","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:20:36.096{"Messages":{"7":{"Utc":"2021-06-18T13:07:47","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:20:43.253{"Messages":{"8":{"Utc":"2021-06-18T13:07:54","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:20:43.277{"Messages":{"9":{"Utc":"2021-06-18T13:07:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:21:00.191{"Messages":{"10":{"Utc":"2021-06-18T13:08:11","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (MAZ) SPUN AND CONTINUED AT TURN 15"}}}
+00:23:19.444{"Messages":{"11":{"Utc":"2021-06-18T13:10:30","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 2"}}}
+00:25:55.744{"Messages":{"12":{"Utc":"2021-06-18T13:13:07","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:26:35.285{"Messages":{"13":{"Utc":"2021-06-18T13:13:46","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+00:26:50.062{"Messages":{"14":{"Utc":"2021-06-18T13:14:01","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:30:20.263{"Messages":{"15":{"Utc":"2021-06-18T13:17:31","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 4"}}}
+00:32:23.779{"Messages":{"16":{"Utc":"2021-06-18T13:19:35","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) MISSED THE APEX OF TURN 2"}}}
+00:33:50.239{"Messages":{"17":{"Utc":"2021-06-18T13:21:01","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) MISSED THE APEX OF TURN 2"}}}
+00:41:38.207{"Messages":{"18":{"Utc":"2021-06-18T13:28:49","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 6"}}}
+00:43:38.490{"Messages":{"19":{"Utc":"2021-06-18T13:30:49","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 6"}}}
+00:47:43.527{"Messages":{"20":{"Utc":"2021-06-18T13:34:54","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 6"}}}
+00:51:19.864{"Messages":{"21":{"Utc":"2021-06-18T13:38:31","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:03:25.409{"Messages":{"22":{"Utc":"2021-06-18T13:50:36","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (MAZ) MISSED THE APEX OF TURN 2"}}}
+01:10:24.150{"Messages":{"23":{"Utc":"2021-06-18T13:57:35","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 6"}}}
+01:10:47.824{"Messages":{"24":{"Utc":"2021-06-18T13:57:59","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 9"}}}
+01:12:49.631{"Messages":{"25":{"Utc":"2021-06-18T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

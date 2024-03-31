@@ -1,0 +1,12 @@
+00:00:18.098{"Messages":[{"Utc":"2020-08-28T08:45:18","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 10%"}]}
+00:15:00.322{"Messages":{"1":{"Utc":"2020-08-28T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:45:36.925{"Messages":{"2":{"Utc":"2020-08-28T09:30:37","Category":"Other","Message":"CAR 10 (GAS) TIME 2:00.079 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:50:42.115{"Messages":{"3":{"Utc":"2020-08-28T09:35:42","Category":"Other","Message":"CAR 33 (VER) TIME 1:45.648 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:35:15.994{"Messages":{"4":{"Utc":"2020-08-28T10:20:16","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 19"}}}
+01:39:17.238{"Messages":{"5":{"Utc":"2020-08-28T10:24:17","Category":"Other","Message":"CAR 55 (SAI) TIME 1:50.775 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:42:53.626{"Messages":{"6":{"Utc":"2020-08-28T10:27:53","Category":"Other","Message":"CAR 10 (GAS) TIME 1:47.850 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:43:20.313{"Messages":{"7":{"Utc":"2020-08-28T10:28:20","Category":"Other","Message":"CAR 10 (GAS) TIME 1:56.607 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:45:00.337{"Messages":{"8":{"Utc":"2020-08-28T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:50:30.919{"Messages":{"9":{"Utc":"2020-08-28T10:35:31","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":18,"Message":"DOUBLE YELLOW IN TRACK SECTOR 18"}}}
+01:52:01.277{"Messages":{"10":{"Utc":"2020-08-28T10:37:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:55:48.307{"Messages":{"11":{"Utc":"2020-08-28T10:40:48","Category":"Other","Message":"RISK OF RAIN FOR F2 PRACTICE SESSION IS 20% "}}}

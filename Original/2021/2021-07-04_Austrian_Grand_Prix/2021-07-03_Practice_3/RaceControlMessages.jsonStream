@@ -1,0 +1,29 @@
+00:02:36.634{"Messages":[{"Utc":"2021-07-03T09:00:02","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P3 = 21 DEGREES"}]}
+00:02:36.634{"Messages":{"1":{"Utc":"2021-07-03T09:45:02","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}}}
+00:12:40.114{"Messages":{"2":{"Utc":"2021-07-03T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:17:59.364{"Messages":{"3":{"Utc":"2021-07-03T10:05:19","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:11.098 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:20:12.707{"Messages":{"4":{"Utc":"2021-07-03T10:07:33","Category":"Other","Message":"CAR 7 (RAI) TIME 1:06.809 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:23:12.779{"Messages":{"5":{"Utc":"2021-07-03T10:10:33","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:10.915 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:24:06.912{"Messages":{"6":{"Utc":"2021-07-03T10:11:27","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:11.172 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:30:37.120{"Messages":{"7":{"Utc":"2021-07-03T10:17:57","Category":"Other","Message":"CAR 16 (LEC) TIME 1:06.401 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:41:03.512{"Messages":{"8":{"Utc":"2021-07-03T10:28:24","Category":"Other","Message":"CAR 18 (STR) TIME 1:06.344 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:41:54.457{"Messages":{"9":{"Utc":"2021-07-03T10:29:14","Category":"Other","Message":"CAR 10 (GAS) TIME 1:05.748 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:43:32.108{"Messages":{"10":{"Utc":"2021-07-03T10:30:52","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:43:33.177{"Messages":{"11":{"Utc":"2021-07-03T10:30:53","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:43:41.670{"Messages":{"12":{"Utc":"2021-07-03T10:31:02","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:43:41.717{"Messages":{"13":{"Utc":"2021-07-03T10:31:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:43:43.387{"Messages":{"14":{"Utc":"2021-07-03T10:31:03","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) SPUN AND CONTINUED AT TURN 9"}}}
+00:43:45.432{"Messages":{"15":{"Utc":"2021-07-03T10:31:05","Category":"Other","Message":"CAR 10 (GAS) TIME 2:08.566 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:46:54.513{"Messages":{"16":{"Utc":"2021-07-03T10:34:15","Category":"Other","Message":"CAR 10 (GAS) TIME 1:05.753 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:48:39.421{"Messages":{"17":{"Utc":"2021-07-03T10:35:59","Category":"Other","Message":"CAR 55 (SAI) TIME 1:07.558 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:48:52.618{"Messages":{"18":{"Utc":"2021-07-03T10:36:13","Category":"Other","Message":"CAR 14 (ALO) TIME 1:06.668 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:57:13.596{"Messages":{"19":{"Utc":"2021-07-03T10:44:34","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 7"}}}
+00:58:43.625{"Messages":{"20":{"Utc":"2021-07-03T10:46:04","Category":"Other","Message":"CAR 4 (NOR) TIME 1:09.172 DELETED - TRACK LIMITS AT TURN 10"}}}
+01:01:14.245{"Messages":{"21":{"Utc":"2021-07-03T10:48:34","Category":"Other","Message":"CAR 4 (NOR) TIME 1:05.800 DELETED - TRACK LIMITS AT TURN 10"}}}
+01:01:27.011{"Messages":{"22":{"Utc":"2021-07-03T10:48:47","Category":"Other","Message":"CAR 6 (LAT) TIME 1:06.145 DELETED - TRACK LIMITS AT TURN 10"}}}
+01:02:37.190{"Messages":{"23":{"Utc":"2021-07-03T10:49:57","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:03:00.332{"Messages":{"24":{"Utc":"2021-07-03T10:50:20","Category":"Other","Message":"CAR 6 (LAT) TIME 1:38.096 DELETED - TRACK LIMITS AT TURN 10"}}}
+01:04:50.005{"Messages":{"25":{"Utc":"2021-07-03T10:52:10","Category":"Other","Message":"CAR 44 (HAM) TIME 1:04.994 DELETED - TRACK LIMITS AT TURN 10"}}}
+01:12:40.169{"Messages":{"26":{"Utc":"2021-07-03T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:12:49.019{"Messages":{"27":{"Utc":"2021-07-03T11:00:09","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 11 (PER)"}}}
+01:37:40.608{"Messages":{"28":{"Utc":"2021-07-03T11:25:01","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}

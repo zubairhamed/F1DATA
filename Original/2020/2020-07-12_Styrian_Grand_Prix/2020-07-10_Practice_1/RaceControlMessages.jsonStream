@@ -1,0 +1,27 @@
+00:01:08.246{"Messages":[{"Utc":"2020-07-10T08:00:02","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P1 = 22 DEGREES"}]}
+00:01:08.250{"Messages":{"1":{"Utc":"2020-07-10T08:45:02","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}}}
+00:13:55.210{"Messages":{"2":{"Utc":"2020-07-10T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:35:05.809{"Messages":{"3":{"Utc":"2020-07-10T09:21:11","Category":"Other","Message":"CAR 8 (GRO) TIME 1:08.517 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:36:16.829{"Messages":{"4":{"Utc":"2020-07-10T09:22:22","Category":"Other","Message":"CAR 31 (OCO) TIME 1:06.568 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:41:31.598{"Messages":{"5":{"Utc":"2020-07-10T09:27:37","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:42:02.944{"Messages":{"6":{"Utc":"2020-07-10T09:28:08","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:44:04.138{"Messages":{"7":{"Utc":"2020-07-10T09:30:09","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:44:04.331{"Messages":{"8":{"Utc":"2020-07-10T09:30:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:46:16.827{"Messages":{"9":{"Utc":"2020-07-10T09:32:22","Category":"Other","Message":"SESSION WILL RE-START AT 11:34"}}}
+00:46:57.449{"Messages":{"10":{"Utc":"2020-07-10T09:33:02","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:46:59.838{"Messages":{"11":{"Utc":"2020-07-10T09:33:05","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:47:55.180{"Messages":{"12":{"Utc":"2020-07-10T09:34:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:48:40.449{"Messages":{"13":{"Utc":"2020-07-10T09:34:45","Category":"Other","Message":"P140 TYRES MAY BE USED UNTIL 11:44"}}}
+00:56:24.200{"Messages":{"14":{"Utc":"2020-07-10T09:42:29","Category":"Other","Message":"CAR 10 (GAS) TIME 1:06.535 DELETED - TRACK LIMITS AT TURN 10"}}}
+01:07:25.505{"Messages":{"15":{"Utc":"2020-07-10T09:53:30","Category":"Other","Message":"CAR 18 (STR) TIME 1:05.211 DELETED - TRACK LIMITS AT TURN 10"}}}
+01:08:56.715{"Messages":{"16":{"Utc":"2020-07-10T09:55:02","Category":"Other","Message":"CAR 18 (STR) TIME 1:41.510 DELETED - TRACK LIMITS AT TURN 10"}}}
+01:41:05.388{"Messages":{"17":{"Utc":"2020-07-10T10:27:10","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:41:06.489{"Messages":{"18":{"Utc":"2020-07-10T10:27:11","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:41:27.545{"Messages":{"19":{"Utc":"2020-07-10T10:27:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:41:27.569{"Messages":{"20":{"Utc":"2020-07-10T10:27:33","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:41:30.206{"Messages":{"21":{"Utc":"2020-07-10T10:27:35","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) SPUN AND CONTINUED AT TURN 3"}}}
+01:41:41.527{"Messages":{"22":{"Utc":"2020-07-10T10:27:46","Category":"Other","Message":"CAR 23 (ALB) TIME 1:08.375 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:43:55.203{"Messages":{"23":{"Utc":"2020-07-10T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:53:57.000{"Messages":{"24":{"Utc":"2020-07-10T10:40:02","Category":"Other","Message":"RISK OF RAIN FOR F2 PRACTICE SESSION IS 0% "}}}
+01:58:04.421{"Messages":{"25":{"Utc":"2020-07-10T10:44:09","Category":"Other","Message":"YELLOW IN PIT LANE"}}}
+01:59:18.550{"Messages":{"26":{"Utc":"2020-07-10T10:45:24","Category":"Other","Message":"PIT LANE ENTRY CLEAR"}}}

@@ -1,0 +1,6 @@
+01:06:55.343{"Messages":[{"Utc":"2020-09-12T10:51:55","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 11"}]}
+01:15:00.406{"Messages":{"1":{"Utc":"2020-09-12T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:17:35.973{"Messages":{"2":{"Utc":"2020-09-12T11:02:36","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+01:17:45.006{"Messages":{"3":{"Utc":"2020-09-12T11:02:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:17:54.298{"Messages":{"4":{"Utc":"2020-09-12T11:02:54","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:18:11.500{"Messages":{"5":{"Utc":"2020-09-12T11:03:11","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}

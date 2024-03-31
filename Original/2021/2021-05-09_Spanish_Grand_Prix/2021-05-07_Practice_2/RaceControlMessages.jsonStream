@@ -1,0 +1,10 @@
+00:00:22.678{"Messages":[{"Utc":"2021-05-07T12:45:23","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}]}
+00:15:00.224{"Messages":{"1":{"Utc":"2021-05-07T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:17:49.017{"Messages":{"2":{"Utc":"2021-05-07T13:02:49","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+00:17:50.214{"Messages":{"3":{"Utc":"2021-05-07T13:02:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:25:46.574{"Messages":{"4":{"Utc":"2021-05-07T13:10:46","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:26:30.271{"Messages":{"5":{"Utc":"2021-05-07T13:11:30","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+00:26:42.078{"Messages":{"6":{"Utc":"2021-05-07T13:11:42","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:26:43.549{"Messages":{"7":{"Utc":"2021-05-07T13:11:44","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:27:02.204{"Messages":{"8":{"Utc":"2021-05-07T13:12:02","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 2"}}}
+01:15:00.190{"Messages":{"9":{"Utc":"2021-05-07T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

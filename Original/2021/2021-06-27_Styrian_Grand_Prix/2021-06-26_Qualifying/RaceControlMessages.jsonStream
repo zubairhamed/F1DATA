@@ -1,0 +1,18 @@
+00:04:28.899{"Messages":[{"Utc":"2021-06-26T12:00:03","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE Q1 = 24 DEGREES"}]}
+00:04:28.902{"Messages":{"1":{"Utc":"2021-06-26T12:45:03","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 30%"}}}
+00:14:57.215{"Messages":{"2":{"Utc":"2021-06-26T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:23.366{"Messages":{"3":{"Utc":"2021-06-26T13:04:26","Category":"Other","Message":"CAR 9 (MAZ) TIME 1:07.229 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:27:21.348{"Messages":{"4":{"Utc":"2021-06-26T13:12:24","Category":"Other","Message":"CAR 10 (GAS) TIME 1:04.827 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:32:57.332{"Messages":{"5":{"Utc":"2021-06-26T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:39:57.248{"Messages":{"6":{"Utc":"2021-06-26T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:54:57.207{"Messages":{"7":{"Utc":"2021-06-26T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:11.519{"Messages":{"8":{"Utc":"2021-06-26T13:40:14","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 63 (RUS) "}}}
+00:55:16.344{"Messages":{"9":{"Utc":"2021-06-26T13:40:19","Category":"Other","Message":"CAR 22 (TSU) TIME 1:04.656 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:55:31.049{"Messages":{"10":{"Utc":"2021-06-26T13:40:34","Category":"Other","Message":"CAR 55 (SAI) TIME 1:04.711 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:55:55.444{"Messages":{"11":{"Utc":"2021-06-26T13:40:58","Category":"Other","Message":"CAR 18 (STR) TIME 1:04.775 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:56:05.788{"Messages":{"12":{"Utc":"2021-06-26T13:41:09","Category":"Other","Message":"CAR 5 (VET) TIME 1:04.711 DELETED - TRACK LIMITS AT TURN 10"}}}
+01:02:57.172{"Messages":{"13":{"Utc":"2021-06-26T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:13:36.017{"Messages":{"14":{"Utc":"2021-06-26T13:58:39","Category":"Other","Message":"TURN 4 INCIDENT INVOLVING CARS 22 (TSU) AND 77 (BOT) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+01:14:57.191{"Messages":{"15":{"Utc":"2021-06-26T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:28.813{"Messages":{"16":{"Utc":"2021-06-26T14:00:32","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 22 (TSU)"}}}
+01:15:42.629{"Messages":{"17":{"Utc":"2021-06-26T14:00:45","Category":"Other","Message":"CAR 44 (HAM) TIME 1:06.385 DELETED - TRACK LIMITS AT TURN 9"}}}

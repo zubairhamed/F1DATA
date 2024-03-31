@@ -1,0 +1,13 @@
+00:01:38.040{"Messages":[{"Utc":"2020-07-17T12:46:39","Category":"Other","Message":"WET TRACK"}]}
+00:01:56.661{"Messages":{"1":{"Utc":"2020-07-17T12:46:58","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:02:03.770{"Messages":{"2":{"Utc":"2020-07-17T12:47:05","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:08:04.601{"Messages":{"3":{"Utc":"2020-07-17T12:53:06","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 100%"}}}
+00:14:59.175{"Messages":{"4":{"Utc":"2020-07-17T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:40:16.981{"Messages":{"5":{"Utc":"2020-07-17T13:25:18","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 7"}}}
+01:11:22.333{"Messages":{"6":{"Utc":"2020-07-17T13:56:23","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) MISSED THE APEX OF TURN 7"}}}
+01:13:19.785{"Messages":{"7":{"Utc":"2020-07-17T13:58:21","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 11"}}}
+01:13:40.758{"Messages":{"8":{"Utc":"2020-07-17T13:58:42","Category":"Other","Message":"CAR 7 (RAI) TIME 1:49.355 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:33:31.828{"Messages":{"9":{"Utc":"2020-07-17T14:18:33","Category":"Other","Message":"CAR 5 (VET) TIME 1:44.632 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:44:59.176{"Messages":{"10":{"Utc":"2020-07-17T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:58:10.909{"Messages":{"11":{"Utc":"2020-07-17T14:43:12","Category":"Other","Message":"WET TRACK"}}}
+02:00:01.766{"Messages":{"12":{"Utc":"2020-07-17T14:45:03","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 100%"}}}

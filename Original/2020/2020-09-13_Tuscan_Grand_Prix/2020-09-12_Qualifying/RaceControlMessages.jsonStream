@@ -1,0 +1,16 @@
+00:00:01.758{"Messages":[{"Utc":"2020-09-12T12:45:02","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:00:18.511{"Messages":{"1":{"Utc":"2020-09-12T12:45:18","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.204{"Messages":{"2":{"Utc":"2020-09-12T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:33:00.265{"Messages":{"3":{"Utc":"2020-09-12T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:40:00.273{"Messages":{"4":{"Utc":"2020-09-12T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:53:38.292{"Messages":{"5":{"Utc":"2020-09-12T13:38:38","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:53:39.817{"Messages":{"6":{"Utc":"2020-09-12T13:38:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:54:14.934{"Messages":{"7":{"Utc":"2020-09-12T13:39:15","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) OFF TRACK AND CONTINUED AT TURN 7"}}}
+00:55:00.235{"Messages":{"8":{"Utc":"2020-09-12T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:03:00.230{"Messages":{"9":{"Utc":"2020-09-12T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:13:47.789{"Messages":{"10":{"Utc":"2020-09-12T13:58:48","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+01:14:14.929{"Messages":{"11":{"Utc":"2020-09-12T13:59:15","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:14:36.288{"Messages":{"12":{"Utc":"2020-09-12T13:59:36","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) STOPPED AT TURN 3"}}}
+01:14:40.557{"Messages":{"13":{"Utc":"2020-09-12T13:59:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:14:41.318{"Messages":{"14":{"Utc":"2020-09-12T13:59:41","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:15:00.326{"Messages":{"15":{"Utc":"2020-09-12T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

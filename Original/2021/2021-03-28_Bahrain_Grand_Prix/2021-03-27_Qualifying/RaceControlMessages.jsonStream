@@ -1,0 +1,21 @@
+00:00:25.028{"Messages":[{"Utc":"2021-03-27T14:45:25","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:05:26.835{"Messages":{"1":{"Utc":"2021-03-27T14:50:27","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.064{"Messages":{"2":{"Utc":"2021-03-27T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:18:57.151{"Messages":{"3":{"Utc":"2021-03-27T15:03:57","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:19:01.547{"Messages":{"4":{"Utc":"2021-03-27T15:04:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:19:16.519{"Messages":{"5":{"Utc":"2021-03-27T15:04:17","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (MAZ) SPUN AND CONTINUED AT TURN 13"}}}
+00:33:00.101{"Messages":{"6":{"Utc":"2021-03-27T15:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:07.671{"Messages":{"7":{"Utc":"2021-03-27T15:18:08","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+00:33:08.757{"Messages":{"8":{"Utc":"2021-03-27T15:18:09","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:33:23.621{"Messages":{"9":{"Utc":"2021-03-27T15:18:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:33:24.666{"Messages":{"10":{"Utc":"2021-03-27T15:18:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:33:24.703{"Messages":{"11":{"Utc":"2021-03-27T15:18:25","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:34:08.149{"Messages":{"12":{"Utc":"2021-03-27T15:19:08","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:35:33.812{"Messages":{"13":{"Utc":"2021-03-27T15:20:34","Category":"Other","Message":"LAP TIMES SET DURING YELLOW FLAGS WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:40:00.095{"Messages":{"14":{"Utc":"2021-03-27T15:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:46:47.238{"Messages":{"15":{"Utc":"2021-03-27T15:31:47","Category":"Other","Message":"CAR 11 (PER) TIME 1:30.750 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:46:52.256{"Messages":{"16":{"Utc":"2021-03-27T15:31:52","Category":"Other","Message":"CAR 3 (RIC) TIME 1:30.877 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:55:00.196{"Messages":{"17":{"Utc":"2021-03-27T15:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:03:00.097{"Messages":{"18":{"Utc":"2021-03-27T15:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.163{"Messages":{"19":{"Utc":"2021-03-27T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:37:25.963{"Messages":{"20":{"Utc":"2021-03-27T16:22:26","Category":"Other","Message":"SESSION TEMPERATURES: AIR = 29, TRACK = 32"}}}

@@ -1,0 +1,38 @@
+00:02:11.356{"Messages":[{"Utc":"2021-06-18T08:35:42","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P1 = 25 DEGREES"}]}
+00:02:11.361{"Messages":{"1":{"Utc":"2021-06-18T09:15:08","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}}}
+00:14:28.748{"Messages":{"2":{"Utc":"2021-06-18T09:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:15:48.870{"Messages":{"3":{"Utc":"2021-06-18T09:31:20","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+00:16:05.723{"Messages":{"4":{"Utc":"2021-06-18T09:31:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:16:06.784{"Messages":{"5":{"Utc":"2021-06-18T09:31:38","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:17:44.936{"Messages":{"6":{"Utc":"2021-06-18T09:33:16","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:17:46.014{"Messages":{"7":{"Utc":"2021-06-18T09:33:17","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:17:55.636{"Messages":{"8":{"Utc":"2021-06-18T09:33:27","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:17:55.652{"Messages":{"9":{"Utc":"2021-06-18T09:33:27","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:18:24.203{"Messages":{"10":{"Utc":"2021-06-18T09:33:55","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) SPUN AND CONTINUED AT TURN 15"}}}
+00:23:04.356{"Messages":{"11":{"Utc":"2021-06-18T09:38:36","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 2"}}}
+00:25:17.022{"Messages":{"12":{"Utc":"2021-06-18T09:40:48","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:25:45.036{"Messages":{"13":{"Utc":"2021-06-18T09:41:16","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 2"}}}
+00:29:28.597{"Messages":{"14":{"Utc":"2021-06-18T09:45:00","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 2"}}}
+00:30:10.150{"Messages":{"15":{"Utc":"2021-06-18T09:45:42","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:30:17.750{"Messages":{"16":{"Utc":"2021-06-18T09:45:49","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+00:30:55.745{"Messages":{"17":{"Utc":"2021-06-18T09:46:27","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:30:55.753{"Messages":{"18":{"Utc":"2021-06-18T09:46:27","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:31:01.763{"Messages":{"19":{"Utc":"2021-06-18T09:46:33","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) SPUN AND CONTINUED AT TURN 11"}}}
+00:44:05.420{"Messages":{"20":{"Utc":"2021-06-18T09:59:37","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:44:06.460{"Messages":{"21":{"Utc":"2021-06-18T09:59:38","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:44:16.039{"Messages":{"22":{"Utc":"2021-06-18T09:59:47","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:44:16.046{"Messages":{"23":{"Utc":"2021-06-18T09:59:47","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:44:28.021{"Messages":{"24":{"Utc":"2021-06-18T09:59:59","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) SPUN AND CONTINUED AT TURN 2"}}}
+00:44:47.309{"Messages":{"25":{"Utc":"2021-06-18T10:00:19","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 4"}}}
+00:48:00.440{"Messages":{"26":{"Utc":"2021-06-18T10:03:32","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 2"}}}
+00:49:34.342{"Messages":{"27":{"Utc":"2021-06-18T10:05:06","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) MISSED THE APEX OF TURN 2"}}}
+00:52:09.601{"Messages":{"28":{"Utc":"2021-06-18T10:07:41","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) MISSED THE APEX OF TURN 2"}}}
+01:01:08.648{"Messages":{"29":{"Utc":"2021-06-18T10:16:40","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 6"}}}
+01:04:54.755{"Messages":{"30":{"Utc":"2021-06-18T10:20:26","Category":"CarEvent","RacingNumber":"45","Message":"CAR 45 (NIS) MISSED THE APEX OF TURN 2"}}}
+01:05:17.578{"Messages":{"31":{"Utc":"2021-06-18T10:20:49","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 4"}}}
+01:07:23.078{"Messages":{"32":{"Utc":"2021-06-18T10:22:54","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 2"}}}
+01:10:21.052{"Messages":{"33":{"Utc":"2021-06-18T10:25:52","Category":"CarEvent","RacingNumber":"45","Message":"CAR 45 (NIS) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:11:21.011{"Messages":{"34":{"Utc":"2021-06-18T10:26:52","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 11"}}}
+01:12:23.125{"Messages":{"35":{"Utc":"2021-06-18T10:27:54","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 2"}}}
+01:12:31.752{"Messages":{"36":{"Utc":"2021-06-18T10:28:03","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) MISSED THE APEX OF TURN 2"}}}
+01:14:28.809{"Messages":{"37":{"Utc":"2021-06-18T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

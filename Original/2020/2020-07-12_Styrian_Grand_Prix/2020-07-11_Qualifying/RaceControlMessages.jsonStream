@@ -1,0 +1,40 @@
+00:08:10.324{"Messages":[{"Utc":"2020-07-11T12:54:58","Category":"Other","Message":"START OF Q1 IS DELAYED"}]}
+00:09:46.881{"Messages":{"1":{"Utc":"2020-07-11T12:56:34","Category":"Other","Message":"A 5 MINUTE WARNING WILL BE GIVEN PRIOR TO THE START OF Q1"}}}
+00:15:04.627{"Messages":{"2":{"Utc":"2020-07-11T13:01:52","Category":"Other","Message":"A 10 MINUTE WARNING WILL NOW BE GIVEN PRIOR TO THE START OF Q1"}}}
+00:49:35.502{"Messages":{"3":{"Utc":"2020-07-11T13:36:23","Category":"Other","Message":"Q1 WILL START AT 15:46"}}}
+00:51:01.806{"Messages":{"4":{"Utc":"2020-07-11T13:37:49","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:51:05.638{"Messages":{"5":{"Utc":"2020-07-11T13:37:53","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:55:03.632{"Messages":{"6":{"Utc":"2020-07-11T13:41:51","Category":"Other","Message":"WET TRACK"}}}
+00:59:12.560{"Messages":{"7":{"Utc":"2020-07-11T13:46:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:06:26.706{"Messages":{"8":{"Utc":"2020-07-11T13:53:14","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:06:27.161{"Messages":{"9":{"Utc":"2020-07-11T13:53:15","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+01:06:29.244{"Messages":{"10":{"Utc":"2020-07-11T13:53:17","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:06:29.908{"Messages":{"11":{"Utc":"2020-07-11T13:53:17","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:06:46.224{"Messages":{"12":{"Utc":"2020-07-11T13:53:34","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) SPUN AND CONTINUED AT TURN 3"}}}
+01:15:25.380{"Messages":{"13":{"Utc":"2020-07-11T14:02:13","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:15:40.120{"Messages":{"14":{"Utc":"2020-07-11T14:02:28","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:16:43.801{"Messages":{"15":{"Utc":"2020-07-11T14:03:31","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+01:16:46.443{"Messages":{"16":{"Utc":"2020-07-11T14:03:34","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+01:17:00.410{"Messages":{"17":{"Utc":"2020-07-11T14:03:48","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:17:00.478{"Messages":{"18":{"Utc":"2020-07-11T14:03:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:17:00.486{"Messages":{"19":{"Utc":"2020-07-11T14:03:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:17:34.643{"Messages":{"20":{"Utc":"2020-07-11T14:04:22","Category":"Other","Message":"SESSION WILL NOT BE RESTARTED"}}}
+01:19:48.020{"Messages":{"21":{"Utc":"2020-07-11T14:06:36","Category":"Other","Message":"Q1 WILL START AT 16:11"}}}
+01:20:38.095{"Messages":{"22":{"Utc":"2020-07-11T14:07:26","Category":"Other","Message":"Q2 WILL START AT 16:11"}}}
+01:21:01.230{"Messages":{"23":{"Utc":"2020-07-11T14:07:49","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:24:12.544{"Messages":{"24":{"Utc":"2020-07-11T14:11:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:32:54.651{"Messages":{"25":{"Utc":"2020-07-11T14:19:42","Category":"Other","Message":"CAR 23 (ALB) TIME 1:20.124 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:33:42.198{"Messages":{"26":{"Utc":"2020-07-11T14:20:30","Category":"Other","Message":"CAR 20 (MAG) TIME 1:21.072 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:33:57.979{"Messages":{"27":{"Utc":"2020-07-11T14:20:46","Category":"Other","Message":"TURN 9 INCIDENT INVOLVING CARS 16 (LEC) AND 26 (KVY) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+01:34:31.191{"Messages":{"28":{"Utc":"2020-07-11T14:21:19","Category":"Other","Message":"CAR 26 (KVY) TIME 1:19.889 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:39:12.651{"Messages":{"29":{"Utc":"2020-07-11T14:26:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:41:57.173{"Messages":{"30":{"Utc":"2020-07-11T14:28:45","Category":"Other","Message":"Q3 WILL START AT 16:34"}}}
+01:47:12.555{"Messages":{"31":{"Utc":"2020-07-11T14:34:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:54:31.719{"Messages":{"32":{"Utc":"2020-07-11T14:41:19","Category":"Other","Message":"CAR 4 (NOR) TIME 1:27.358 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:59:12.568{"Messages":{"33":{"Utc":"2020-07-11T14:46:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:59:20.262{"Messages":{"34":{"Utc":"2020-07-11T14:46:08","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+01:59:21.231{"Messages":{"35":{"Utc":"2020-07-11T14:46:09","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+01:59:22.573{"Messages":{"36":{"Utc":"2020-07-11T14:46:10","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:59:41.883{"Messages":{"37":{"Utc":"2020-07-11T14:46:29","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:59:44.887{"Messages":{"38":{"Utc":"2020-07-11T14:46:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+02:21:58.641{"Messages":{"39":{"Utc":"2020-07-11T15:08:46","Category":"SafetyCar","Status":"THROUGH THE PIT LANE","Mode":"SAFETY CAR","Message":"SAFETY CAR THROUGH THE PIT LANE"}}}

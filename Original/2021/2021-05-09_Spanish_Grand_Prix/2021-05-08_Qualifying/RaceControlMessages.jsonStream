@@ -1,0 +1,15 @@
+00:01:13.325{"Messages":[{"Utc":"2021-05-08T12:46:13","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:10:46.404{"Messages":{"1":{"Utc":"2021-05-08T12:55:46","Category":"Other","Message":"SESSION DELAYED BY 10 MINUTES"}}}
+00:25:00.213{"Messages":{"2":{"Utc":"2021-05-08T13:10:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:35:10.308{"Messages":{"3":{"Utc":"2021-05-08T13:20:10","Category":"Other","Message":"TURN 14 INCIDENT INVOLVING CAR 4 (NOR) NOTED"}}}
+00:35:58.436{"Messages":{"4":{"Utc":"2021-05-08T13:20:58","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 13"}}}
+00:39:31.503{"Messages":{"5":{"Utc":"2021-05-08T13:24:31","Category":"Other","Message":"TURN 14 INCIDENT INVOLVING CAR 4 (NOR) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:43:00.278{"Messages":{"6":{"Utc":"2021-05-08T13:28:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:50:00.283{"Messages":{"7":{"Utc":"2021-05-08T13:35:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:05:00.293{"Messages":{"8":{"Utc":"2021-05-08T13:50:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:13:00.288{"Messages":{"9":{"Utc":"2021-05-08T13:58:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:18:01.433{"Messages":{"10":{"Utc":"2021-05-08T14:03:01","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) SPUN AND CONTINUED AT TURN 13"}}}
+01:25:00.240{"Messages":{"11":{"Utc":"2021-05-08T14:10:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:41:29.091{"Messages":{"12":{"Utc":"2021-05-08T14:26:29","Category":"Other","Message":"PIT LANE OPEN DELAYED BY 5 MINUTES"}}}
+01:41:38.423{"Messages":{"13":{"Utc":"2021-05-08T14:26:38","Category":"Other","Message":"SESSION TEMPERATURES: AIR = 25, TRACK = 42"}}}
+01:45:34.185{"Messages":{"14":{"Utc":"2021-05-08T14:30:34","Category":"Other","Message":"16.35 PIT OPEN"}}}

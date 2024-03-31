@@ -1,0 +1,8 @@
+00:00:01.263{"Messages":[{"Utc":"2020-09-11T08:45:01","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:15:00.120{"Messages":{"1":{"Utc":"2020-09-11T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:37:52.255{"Messages":{"2":{"Utc":"2020-09-11T10:22:52","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:38:06.874{"Messages":{"3":{"Utc":"2020-09-11T10:23:07","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:38:19.644{"Messages":{"4":{"Utc":"2020-09-11T10:23:20","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) SPUN AND CONTINUED AT TURN 3"}}}
+01:45:00.053{"Messages":{"5":{"Utc":"2020-09-11T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:55:01.999{"Messages":{"6":{"Utc":"2020-09-11T10:40:02","Category":"Other","Message":"RISK OF RAIN FOR F2 PRACTICE SESSION IS 0% "}}}
+01:55:42.633{"Messages":{"7":{"Utc":"2020-09-11T10:40:02","Category":"Other","Message":"RISK OF RAIN FOR F2 PRACTICE SESSION IS 0% "}}}
