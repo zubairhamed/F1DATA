@@ -1,0 +1,41 @@
+00:09:16.543{"Messages":[{"Utc":"2022-10-09T04:10:17","Lap":1,"Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:11:58.253{"Messages":{"1":{"Utc":"2022-10-09T04:12:58","Lap":1,"Category":"Other","Message":"GRID AWNINGS ARE ALLOWED"}}}
+00:14:21.390{"Messages":{"2":{"Utc":"2022-10-09T04:15:21","Lap":1,"Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:19:00.087{"Messages":{"3":{"Utc":"2022-10-09T04:20:00","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:29:00.093{"Messages":{"4":{"Utc":"2022-10-09T04:30:00","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:44:02.699{"Messages":{"5":{"Utc":"2022-10-09T04:45:03","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 100%"}}}
+00:56:04.762{"Messages":{"6":{"Utc":"2022-10-09T04:57:05","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:02:35.952{"Messages":{"7":{"Utc":"2022-10-09T05:03:36","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:02:52.675{"Messages":{"8":{"Utc":"2022-10-09T05:03:53","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:03:12.342{"Messages":{"9":{"Utc":"2022-10-09T05:04:12","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:03:33.540{"Messages":{"10":{"Utc":"2022-10-09T05:04:34","Lap":1,"Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) SPUN AND CONTINUED AT TURN 1"}}}
+01:03:47.896{"Messages":{"11":{"Utc":"2022-10-09T05:04:48","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+01:03:56.786{"Messages":{"12":{"Utc":"2022-10-09T05:04:57","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+01:03:57.999{"Messages":{"13":{"Utc":"2022-10-09T05:04:58","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+01:04:04.897{"Messages":{"14":{"Utc":"2022-10-09T05:05:05","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+01:04:09.897{"Messages":{"15":{"Utc":"2022-10-09T05:05:10","Lap":1,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:07:12.830{"Messages":{"16":{"Utc":"2022-10-09T05:08:13","Lap":2,"Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:07:12.996{"Messages":{"17":{"Utc":"2022-10-09T05:08:13","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:08:07.653{"Messages":{"18":{"Utc":"2022-10-09T05:09:08","Lap":3,"Category":"Other","Message":"GRID AWNINGS MAY BE USED IN THE PIT LANE"}}}
+01:34:10.610{"Messages":{"19":{"Utc":"2022-10-09T05:35:11","Lap":3,"Category":"Other","Message":"RACE WILL RESUME AT 14:50 - ROLLING START PROCEDURE"}}}
+01:35:08.182{"Messages":{"20":{"Utc":"2022-10-09T05:36:08","Lap":3,"Category":"Other","Message":"THERE WILL BE MORE THAN ONE LAP BEHIND THE SAFETY CAR"}}}
+01:39:17.468{"Messages":{"21":{"Utc":"2022-10-09T05:40:17","Lap":3,"Category":"Other","Message":"USE OF WET WEATHER TYRES IS MANDATORY"}}}
+01:47:06.010{"Messages":{"22":{"Utc":"2022-10-09T05:48:06","Lap":3,"Category":"Other","Message":"RE-START SUSPENDED"}}}
+01:48:24.758{"Messages":{"23":{"Utc":"2022-10-09T05:49:25","Lap":3,"Category":"Other","Message":"A MINIMUM OF 10 MINUTES NOTICE WILL BE GIVEN TO A RE-START"}}}
+01:49:27.045{"Messages":{"24":{"Utc":"2022-10-09T05:50:27","Lap":3,"Category":"Other","Message":"GRID AWNINGS MAY BE USED"}}}
+01:55:53.498{"Messages":{"25":{"Utc":"2022-10-09T05:56:53","Lap":3,"Category":"Other","Message":"LAP 1, TURN 12 INCIDENT INVOLVING CAR 10 (GAS) NOTED"}}}
+02:00:55.696{"Messages":{"26":{"Utc":"2022-10-09T06:01:56","Lap":3,"Category":"Other","Message":"CORRECTION - LAP 2, TURN 12 INCIDENT INVOLVING CAR 10 (GAS) NOTED"}}}
+02:02:15.948{"Messages":{"27":{"Utc":"2022-10-09T06:03:16","Lap":3,"Category":"Other","Message":"FIA STEWARDS: - LAP 2, TURN 12 INCIDENT INVOLVING CAR 10 (GAS) WILL BE INVESTIGATED AFTER THE RACE"}}}
+03:03:39.053{"Messages":{"28":{"Utc":"2022-10-09T07:04:39","Lap":3,"Category":"Other","Message":"RACE WILL RESUME AT 16:15"}}}
+03:03:47.234{"Messages":{"29":{"Utc":"2022-10-09T07:04:47","Lap":3,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+03:04:19.868{"Messages":{"30":{"Utc":"2022-10-09T07:05:20","Lap":3,"Category":"Other","Message":"USE OF WET WEATHER TYRES IS MANDATORY"}}}
+03:13:18.698{"Messages":{"31":{"Utc":"2022-10-09T07:14:19","Lap":3,"Category":"Other","Message":"RACE WILL RESUME AT 16:15 - ROLLING START PROCEDURE"}}}
+03:20:39.886{"Messages":{"32":{"Utc":"2022-10-09T07:21:40","Lap":5,"Category":"Other","Message":"SAFETY CAR WILL ENTER PITS: ROLLING START PROCEDURE"}}}
+03:24:02.475{"Messages":{"33":{"Utc":"2022-10-09T07:25:02","Lap":6,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 5 (VET) AND 6 (LAT) NOTED - UNSAFE RELEASE"}}}
+03:25:36.601{"Messages":{"34":{"Utc":"2022-10-09T07:26:37","Lap":7,"Category":"Other","Message":"FIA STEWARDS: PIT LANE INCIDENT INVOLVING CARS 5 (VET) AND 6 (LAT) REVIEWED NO FURTHER INVESTIGATION - UNSAFE RELEASE"}}}
+03:56:43.883{"Messages":{"35":{"Utc":"2022-10-09T07:57:44","Lap":24,"Category":"Other","Message":"TURN 11 INCIDENT INVOLVING CARS 18 (STR) AND 47 (MSC) NOTED - CAUSING A COLLISION"}}}
+03:58:40.833{"Messages":{"36":{"Utc":"2022-10-09T07:59:41","Lap":25,"Category":"Other","Message":"FIA STEWARDS: TURN 11 INCIDENT INVOLVING CARS 18 (STR) AND 47 (MSC) REVIEWED NO FURTHER INVESTIGATION - CAUSING A COLLISION"}}}
+04:04:18.640{"Messages":{"37":{"Utc":"2022-10-09T08:05:19","Lap":28,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+04:07:08.722{"Messages":{"38":{"Utc":"2022-10-09T08:08:09","Lap":29,"Category":"Other","Message":"TURN 16 INCIDENT INVOLVING CARS 16 (LEC) AND 11 (PER) NOTED - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}
+04:08:05.837{"Messages":{"39":{"Utc":"2022-10-09T08:09:06","Lap":29,"Category":"Other","Message":"FIA STEWARDS: TURN 16 INCIDENT INVOLVING CARS 16 (LEC) AND 11 (PER) UNDER INVESTIGATION - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}
+04:09:34.969{"Messages":{"40":{"Utc":"2022-10-09T08:10:35","Lap":29,"Category":"Other","Message":"FIA STEWARDS: 5 SECOND TIME PENALTY FOR CAR 16 (LEC) - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}

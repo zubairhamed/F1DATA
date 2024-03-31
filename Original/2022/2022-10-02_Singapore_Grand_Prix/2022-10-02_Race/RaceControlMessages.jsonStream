@@ -1,0 +1,134 @@
+00:01:32.597{"Messages":[{"Utc":"2022-10-02T11:02:32","Lap":1,"Category":"Other","Message":"PIT LANE OPEN AND WHOLE START PROCEDURE DELAYED - UPDATE IN 30 MINUTES, MINIMUM OF 10 MINUTES NOTICE WILL BE GIVEN"}]}
+00:29:01.262{"Messages":{"1":{"Utc":"2022-10-02T11:30:01","Lap":1,"Category":"Other","Message":"FURTHER UPDATE IN 15 MINUTES"}}}
+00:44:04.523{"Messages":{"2":{"Utc":"2022-10-02T11:45:04","Lap":1,"Category":"Other","Message":"FURTHER UPDATE IN 10 MINUTES"}}}
+00:45:35.246{"Messages":{"3":{"Utc":"2022-10-02T11:46:35","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 20%"}}}
+00:48:13.664{"Messages":{"4":{"Utc":"2022-10-02T11:49:13","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:48:40.347{"Messages":{"5":{"Utc":"2022-10-02T11:49:40","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:49:07.915{"Messages":{"6":{"Utc":"2022-10-02T11:50:08","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:54:02.687{"Messages":{"7":{"Utc":"2022-10-02T11:55:02","Lap":1,"Category":"Other","Message":"START PROCEDURE WILL START AT 20:05, PIT LANE WILL OPEN AT 20:25, CLOSE AT 20:35, FORMATION LAP AT 21:05"}}}
+00:59:31.251{"Messages":{"8":{"Utc":"2022-10-02T12:00:31","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:59:57.576{"Messages":{"9":{"Utc":"2022-10-02T12:00:57","Lap":1,"Category":"Other","Message":"IGNORE LAST MESSSAGE"}}}
+01:05:53.387{"Messages":{"10":{"Utc":"2022-10-02T12:06:53","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:11:55.857{"Messages":{"11":{"Utc":"2022-10-02T12:12:56","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+01:14:20.891{"Messages":{"12":{"Utc":"2022-10-02T12:15:21","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:15:47.415{"Messages":{"13":{"Utc":"2022-10-02T12:16:47","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:15:47.427{"Messages":{"14":{"Utc":"2022-10-02T12:16:47","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:16:14.719{"Messages":{"15":{"Utc":"2022-10-02T12:17:15","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:19:13.430{"Messages":{"16":{"Utc":"2022-10-02T12:20:13","Lap":1,"Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+01:19:22.662{"Messages":{"17":{"Utc":"2022-10-02T12:20:22","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+01:24:09.230{"Messages":{"18":{"Utc":"2022-10-02T12:25:09","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:34:03.934{"Messages":{"19":{"Utc":"2022-10-02T12:35:04","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+01:37:26.366{"Messages":{"20":{"Utc":"2022-10-02T12:38:26","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+01:39:29.523{"Messages":{"21":{"Utc":"2022-10-02T12:40:29","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:42:15.210{"Messages":{"22":{"Utc":"2022-10-02T12:43:15","Lap":1,"Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:43:57.152{"Messages":{"23":{"Utc":"2022-10-02T12:44:57","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+01:46:47.033{"Messages":{"24":{"Utc":"2022-10-02T12:47:47","Lap":1,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:49:04.816{"Messages":{"25":{"Utc":"2022-10-02T12:50:05","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 20%"}}}
+02:01:04.654{"Messages":{"26":{"Utc":"2022-10-02T13:02:04","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+02:07:56.727{"Messages":{"27":{"Utc":"2022-10-02T13:08:57","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+02:08:46.625{"Messages":{"28":{"Utc":"2022-10-02T13:09:46","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+02:08:48.084{"Messages":{"29":{"Utc":"2022-10-02T13:09:48","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+02:11:38.831{"Messages":{"30":{"Utc":"2022-10-02T13:12:39","Lap":2,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 44 (HAM) AND 55 (SAI) NOTED - FORCING ANOTHER DRIVER OFF THE TRACK"}}}
+02:12:04.308{"Messages":{"31":{"Utc":"2022-10-02T13:13:04","Lap":3,"Category":"Other","Message":"FIA STEWARDS: TURN 1 INCIDENT INVOLVING CARS 44 (HAM) AND 55 (SAI) REVIEWED NO FURTHER INVESTIGATION - FORCING ANOTHER DRIVER OFF THE TRACK"}}}
+02:13:00.188{"Messages":{"32":{"Utc":"2022-10-02T13:14:00","Lap":3,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CAR 1 (VER) NOTED - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}
+02:13:12.098{"Messages":{"33":{"Utc":"2022-10-02T13:14:12","Lap":3,"Category":"Other","Message":"FIA STEWARDS: TURN 1 INCIDENT INVOLVING CAR 1 (VER) REVIEWED NO FURTHER INVESTIGATION - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}
+02:20:27.082{"Messages":{"34":{"Utc":"2022-10-02T13:21:27","Lap":7,"Category":"Other","Message":"BLACK AND ORANGE FLAG FOR CAR 20 (MAG)"}}}
+02:21:22.402{"Messages":{"35":{"Utc":"2022-10-02T13:22:22","Lap":7,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+02:21:28.491{"Messages":{"36":{"Utc":"2022-10-02T13:22:28","Lap":7,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+02:21:45.163{"Messages":{"37":{"Utc":"2022-10-02T13:22:45","Lap":7,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+02:21:56.602{"Messages":{"38":{"Utc":"2022-10-02T13:22:56","Lap":7,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+02:22:17.436{"Messages":{"39":{"Utc":"2022-10-02T13:23:17","Lap":8,"Category":"CarEvent","RacingNumber":"24","Message":"CAR 24 (ZHO) STOPPED AT TURN 5"}}}
+02:23:37.620{"Messages":{"40":{"Utc":"2022-10-02T13:24:37","Lap":8,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+02:28:00.200{"Messages":{"41":{"Utc":"2022-10-02T13:29:00","Lap":10,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+02:28:25.566{"Messages":{"42":{"Utc":"2022-10-02T13:29:25","Lap":10,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+02:28:30.105{"Messages":{"43":{"Utc":"2022-10-02T13:29:30","Lap":10,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+02:30:05.646{"Messages":{"44":{"Utc":"2022-10-02T13:31:05","Lap":10,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+02:31:28.976{"Messages":{"45":{"Utc":"2022-10-02T13:32:29","Lap":11,"Category":"Other","Message":"LAP 1, TURN 7 INCIDENT INVOLVING CARS 1 (VER) AND 20 (MAG) NOTED - CAUSING A COLLISION"}}}
+02:31:48.951{"Messages":{"46":{"Utc":"2022-10-02T13:32:49","Lap":11,"Category":"Other","Message":"FIA STEWARDS: LAP 1, TURN 7 INCIDENT INVOLVING CARS 1 (VER) AND 20 (MAG) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+02:31:57.263{"Messages":{"47":{"Utc":"2022-10-02T13:32:57","Lap":11,"Category":"Other","Message":"TURN 5 INCIDENT INVOLVING CARS 6 (LAT) AND 24 (ZHO) NOTED - CAUSING A COLLISION"}}}
+02:32:02.094{"Messages":{"48":{"Utc":"2022-10-02T13:33:02","Lap":11,"Category":"Other","Message":"FIA STEWARDS: TURN 5 INCIDENT INVOLVING CARS 6 (LAT) AND 24 (ZHO) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+02:38:09.956{"Messages":{"49":{"Utc":"2022-10-02T13:39:10","Lap":14,"Category":"Other","Message":"FIA STEWARDS: LAP 1, TURN 7 INCIDENT INVOLVING CARS 1 (VER) AND 20 (MAG) NO FURTHER ACTION - CAUSING A COLLISION"}}}
+02:51:31.460{"Messages":{"50":{"Utc":"2022-10-02T13:52:31","Lap":21,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+02:51:34.234{"Messages":{"51":{"Utc":"2022-10-02T13:52:34","Lap":21,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+02:51:35.698{"Messages":{"52":{"Utc":"2022-10-02T13:52:35","Lap":21,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+02:51:38.198{"Messages":{"53":{"Utc":"2022-10-02T13:52:38","Lap":21,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+02:52:08.301{"Messages":{"54":{"Utc":"2022-10-02T13:53:08","Lap":22,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+02:52:23.858{"Messages":{"55":{"Utc":"2022-10-02T13:53:24","Lap":22,"Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) STOPPED AT TURN 10"}}}
+02:54:54.492{"Messages":{"56":{"Utc":"2022-10-02T13:55:54","Lap":23,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+02:55:00.748{"Messages":{"57":{"Utc":"2022-10-02T13:56:01","Lap":23,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+02:55:11.281{"Messages":{"58":{"Utc":"2022-10-02T13:56:11","Lap":23,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+03:00:45.800{"Messages":{"59":{"Utc":"2022-10-02T14:01:46","Lap":26,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+03:00:58.753{"Messages":{"60":{"Utc":"2022-10-02T14:01:59","Lap":26,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+03:01:07.001{"Messages":{"61":{"Utc":"2022-10-02T14:02:07","Lap":26,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+03:01:07.933{"Messages":{"62":{"Utc":"2022-10-02T14:02:08","Lap":26,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+03:01:13.113{"Messages":{"63":{"Utc":"2022-10-02T14:02:13","Lap":26,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+03:01:20.127{"Messages":{"64":{"Utc":"2022-10-02T14:02:20","Lap":26,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+03:02:02.144{"Messages":{"65":{"Utc":"2022-10-02T14:03:02","Lap":26,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+03:03:23.638{"Messages":{"66":{"Utc":"2022-10-02T14:04:23","Lap":27,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+03:03:26.342{"Messages":{"67":{"Utc":"2022-10-02T14:04:26","Lap":27,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+03:03:38.205{"Messages":{"68":{"Utc":"2022-10-02T14:04:38","Lap":27,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+03:05:29.179{"Messages":{"69":{"Utc":"2022-10-02T14:06:29","Lap":28,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+03:06:02.004{"Messages":{"70":{"Utc":"2022-10-02T14:07:02","Lap":28,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+03:06:48.998{"Messages":{"71":{"Utc":"2022-10-02T14:07:49","Lap":28,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 22:07:48"}}}
+03:06:56.356{"Messages":{"72":{"Utc":"2022-10-02T14:07:56","Lap":28,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+03:07:15.331{"Messages":{"73":{"Utc":"2022-10-02T14:08:15","Lap":29,"Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) STOPPED AT TURN 13"}}}
+03:10:47.330{"Messages":{"74":{"Utc":"2022-10-02T14:11:47","Lap":30,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+03:10:53.586{"Messages":{"75":{"Utc":"2022-10-02T14:11:53","Lap":30,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+03:10:56.003{"Messages":{"76":{"Utc":"2022-10-02T14:11:56","Lap":30,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+03:11:10.137{"Messages":{"77":{"Utc":"2022-10-02T14:12:10","Lap":30,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+03:11:17.759{"Messages":{"78":{"Utc":"2022-10-02T14:12:18","Lap":30,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 22:12:17"}}}
+03:11:47.516{"Messages":{"79":{"Utc":"2022-10-02T14:12:47","Lap":30,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 22:12:47"}}}
+03:17:00.391{"Messages":{"80":{"Utc":"2022-10-02T14:18:00","Lap":33,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+03:17:06.740{"Messages":{"81":{"Utc":"2022-10-02T14:18:07","Lap":33,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+03:22:48.685{"Messages":{"82":{"Utc":"2022-10-02T14:23:48","Lap":36,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+03:23:06.704{"Messages":{"83":{"Utc":"2022-10-02T14:24:06","Lap":36,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+03:23:29.397{"Messages":{"84":{"Utc":"2022-10-02T14:24:29","Lap":36,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+03:23:48.762{"Messages":{"85":{"Utc":"2022-10-02T14:24:49","Lap":36,"Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) STOPPED AT TURN 10"}}}
+03:29:57.140{"Messages":{"86":{"Utc":"2022-10-02T14:30:57","Lap":38,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+03:30:16.025{"Messages":{"87":{"Utc":"2022-10-02T14:31:16","Lap":38,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+03:31:20.871{"Messages":{"88":{"Utc":"2022-10-02T14:32:21","Lap":39,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+03:33:18.798{"Messages":{"89":{"Utc":"2022-10-02T14:34:19","Lap":39,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+03:34:38.132{"Messages":{"90":{"Utc":"2022-10-02T14:35:38","Lap":40,"Category":"Other","Message":"INCIDENT INVOLVING CAR 11 (PER) NOTED - SAFETY CAR INFRINGEMENT"}}}
+03:37:15.135{"Messages":{"91":{"Utc":"2022-10-02T14:38:15","Lap":41,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 63 (RUS) AND 47 (MSC) NOTED - CAUSING A COLLISION"}}}
+03:39:19.144{"Messages":{"92":{"Utc":"2022-10-02T14:40:19","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 22:40:18"}}}
+03:39:37.525{"Messages":{"93":{"Utc":"2022-10-02T14:40:37","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 22:40:37"}}}
+03:39:52.400{"Messages":{"94":{"Utc":"2022-10-02T14:40:52","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 22:40:52"}}}
+03:40:12.422{"Messages":{"95":{"Utc":"2022-10-02T14:41:12","Lap":43,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+03:41:04.791{"Messages":{"96":{"Utc":"2022-10-02T14:42:05","Lap":44,"Category":"Other","Message":"NORMAL GRIP CONDITIONS"}}}
+03:41:23.232{"Messages":{"97":{"Utc":"2022-10-02T14:42:23","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 22:42:22"}}}
+03:42:42.846{"Messages":{"98":{"Utc":"2022-10-02T14:43:43","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 22:43:42"}}}
+03:43:02.606{"Messages":{"99":{"Utc":"2022-10-02T14:44:02","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 22:44:02"}}}
+03:43:43.403{"Messages":{"100":{"Utc":"2022-10-02T14:44:43","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 22:44:43"}}}
+03:43:56.322{"Messages":{"101":{"Utc":"2022-10-02T14:44:56","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 22:44:56"}}}
+03:44:45.338{"Messages":{"102":{"Utc":"2022-10-02T14:45:45","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 22:45:45"}}}
+03:45:04.016{"Messages":{"103":{"Utc":"2022-10-02T14:46:04","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 22:46:03"}}}
+03:45:08.224{"Messages":{"104":{"Utc":"2022-10-02T14:46:08","Lap":46,"Category":"Other","Message":"FIA STEWARDS: TURN 1 INCIDENT INVOLVING CARS 63 (RUS) AND 47 (MSC) REVIEWED NO FURTHER INVESTIGATION - CAUSING A COLLISION"}}}
+03:49:06.061{"Messages":{"105":{"Utc":"2022-10-02T14:50:06","Lap":48,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 22:50:05"}}}
+03:52:50.826{"Messages":{"106":{"Utc":"2022-10-02T14:53:51","Lap":50,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 22:53:50"}}}
+03:54:09.772{"Messages":{"107":{"Utc":"2022-10-02T14:55:10","Lap":51,"Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CAR 11 (PER) WILL BE INVESTIGATED AFTER THE RACE - SAFETY CAR INFRINGEMENT"}}}
+04:07:59.177{"Messages":{"108":{"Utc":"2022-10-02T15:08:59","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 23:08:58"}}}
+04:08:21.541{"Messages":{"109":{"Utc":"2022-10-02T15:09:21","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 23:09:21"}}}
+04:10:11.941{"Messages":{"110":{"Utc":"2022-10-02T15:11:12","Lap":59,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+04:15:58.165{"Messages":{"111":{"Utc":"2022-10-02T15:16:58","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":14,"Message":"DOUBLE YELLOW IN TRACK SECTOR 14"}}}
+04:15:58.301{"Messages":{"112":{"Utc":"2022-10-02T15:16:58","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+04:16:10.220{"Messages":{"113":{"Utc":"2022-10-02T15:17:10","Lap":60,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+04:16:10.461{"Messages":{"114":{"Utc":"2022-10-02T15:17:10","Lap":60,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+04:16:17.407{"Messages":{"115":{"Utc":"2022-10-02T15:17:17","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":18,"Message":"DOUBLE YELLOW IN TRACK SECTOR 18"}}}
+04:16:22.741{"Messages":{"116":{"Utc":"2022-10-02T15:17:23","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+04:16:29.894{"Messages":{"117":{"Utc":"2022-10-02T15:17:30","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+04:16:38.714{"Messages":{"118":{"Utc":"2022-10-02T15:17:39","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+04:16:48.186{"Messages":{"119":{"Utc":"2022-10-02T15:17:48","Lap":60,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+04:17:00.684{"Messages":{"120":{"Utc":"2022-10-02T15:18:00","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":14,"Message":"DOUBLE YELLOW IN TRACK SECTOR 14"}}}
+04:17:16.063{"Messages":{"121":{"Utc":"2022-10-02T15:18:16","Lap":60,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+04:17:26.250{"Messages":{"122":{"Utc":"2022-10-02T15:18:26","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":14,"Message":"DOUBLE YELLOW IN TRACK SECTOR 14"}}}
+04:18:12.702{"Messages":{"123":{"Utc":"2022-10-02T15:19:12","Lap":60,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+04:19:07.615{"Messages":{"124":{"Utc":"2022-10-02T15:20:07","Lap":60,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+04:19:58.367{"Messages":{"125":{"Utc":"2022-10-02T15:20:58","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+04:20:16.772{"Messages":{"126":{"Utc":"2022-10-02T15:21:17","Lap":60,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+04:20:33.763{"Messages":{"127":{"Utc":"2022-10-02T15:21:34","Lap":60,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+04:20:55.366{"Messages":{"128":{"Utc":"2022-10-02T15:21:55","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+04:22:03.694{"Messages":{"129":{"Utc":"2022-10-02T15:23:03","Lap":60,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+04:22:06.700{"Messages":{"130":{"Utc":"2022-10-02T15:23:06","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+04:22:11.704{"Messages":{"131":{"Utc":"2022-10-02T15:23:11","Lap":60,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+04:27:17.278{"Messages":{"132":{"Utc":"2022-10-02T15:28:17","Lap":60,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+04:33:38.173{"Messages":{"133":{"Utc":"2022-10-02T15:34:38","Lap":60,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":1,"Message":"DOUBLE YELLOW IN TRACK SECTOR 1"}}}

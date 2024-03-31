@@ -1,0 +1,23 @@
+00:02:03.925{"Messages":[{"Utc":"2022-09-02T14:04:40","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:07:51.412{"Messages":{"1":{"Utc":"2022-09-02T14:10:27","Category":"Other","Message":"FREE PRACTICE 2 WILL START AT 16:15"}}}
+00:11:36.728{"Messages":{"2":{"Utc":"2022-09-02T14:14:13","Category":"Other","Message":"F1 DRIVERS MEETING WILL START AT 18:45"}}}
+00:12:24.101{"Messages":{"3":{"Utc":"2022-09-02T14:15:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:21:15.492{"Messages":{"4":{"Utc":"2022-09-02T14:23:51","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) MISSED THE APEX OF TURN 11"}}}
+00:39:35.515{"Messages":{"5":{"Utc":"2022-09-02T14:42:12","Category":"Other","Message":"TURN 9 INCIDENT INVOLVING CARS 11 (PER) AND 55 (SAI) NOTED - IMPEDING"}}}
+00:42:54.743{"Messages":{"6":{"Utc":"2022-09-02T14:45:31","Category":"Other","Message":"FIA STEWARDS: TURN 9 INCIDENT INVOLVING CARS 11 (PER) AND 55 (SAI) REVIEWED NO FURTHER INVESTIGATION - IMPEDING"}}}
+00:54:38.515{"Messages":{"7":{"Utc":"2022-09-02T14:57:14","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 12"}}}
+00:55:30.241{"Messages":{"8":{"Utc":"2022-09-02T14:58:06","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 12"}}}
+00:59:43.611{"Messages":{"9":{"Utc":"2022-09-02T15:02:20","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+00:59:44.692{"Messages":{"10":{"Utc":"2022-09-02T15:02:21","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:00:01.011{"Messages":{"11":{"Utc":"2022-09-02T15:02:37","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+01:00:13.742{"Messages":{"12":{"Utc":"2022-09-02T15:02:50","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:00:13.799{"Messages":{"13":{"Utc":"2022-09-02T15:02:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:00:13.808{"Messages":{"14":{"Utc":"2022-09-02T15:02:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:06:46.434{"Messages":{"15":{"Utc":"2022-09-02T15:09:22","Category":"Other","Message":"SESSION WILL RESUME AT 17:11"}}}
+01:07:00.956{"Messages":{"16":{"Utc":"2022-09-02T15:09:37","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:07:02.526{"Messages":{"17":{"Utc":"2022-09-02T15:09:39","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:08:24.136{"Messages":{"18":{"Utc":"2022-09-02T15:11:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:12:24.187{"Messages":{"19":{"Utc":"2022-09-02T15:15:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:12:54.828{"Messages":{"20":{"Utc":"2022-09-02T15:15:31","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 1 (VER)"}}}
+01:26:35.066{"Messages":{"21":{"Utc":"2022-09-02T15:29:11","Category":"Other","Message":"SESSION WILL START AT 17:45"}}}
+01:31:21.875{"Messages":{"22":{"Utc":"2022-09-02T15:33:58","Category":"Other","Message":"SESSION WILL START AT 17:45"}}}

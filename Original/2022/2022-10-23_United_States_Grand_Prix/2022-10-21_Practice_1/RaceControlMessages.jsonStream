@@ -1,0 +1,14 @@
+00:00:09.941{"Messages":[{"Utc":"2022-10-21T18:45:11","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:03:42.874{"Messages":{"1":{"Utc":"2022-10-21T18:48:44","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:14:59.207{"Messages":{"2":{"Utc":"2022-10-21T19:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:22:00.354{"Messages":{"3":{"Utc":"2022-10-21T19:07:01","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:22:24.999{"Messages":{"4":{"Utc":"2022-10-21T19:07:26","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:22:25.227{"Messages":{"5":{"Utc":"2022-10-21T19:07:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:25:14.651{"Messages":{"6":{"Utc":"2022-10-21T19:10:16","Category":"Other","Message":"SESSION WILL RESUME AT 14:11"}}}
+00:25:16.197{"Messages":{"7":{"Utc":"2022-10-21T19:10:17","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:25:19.027{"Messages":{"8":{"Utc":"2022-10-21T19:10:20","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:25:59.209{"Messages":{"9":{"Utc":"2022-10-21T19:11:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:34:25.403{"Messages":{"10":{"Utc":"2022-10-21T19:19:26","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":19,"Message":"DOUBLE YELLOW IN TRACK SECTOR 19"}}}
+00:34:27.232{"Messages":{"11":{"Utc":"2022-10-21T19:19:28","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+01:14:59.249{"Messages":{"12":{"Utc":"2022-10-21T20:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:14.605{"Messages":{"13":{"Utc":"2022-10-21T20:00:16","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 47 (MSC)"}}}

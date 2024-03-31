@@ -1,0 +1,27 @@
+00:00:01.417{"Messages":[{"Utc":"2022-03-25T13:45:03","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:00:56.456{"Messages":{"1":{"Utc":"2022-03-25T13:45:58","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:01:02.543{"Messages":{"2":{"Utc":"2022-03-25T13:46:04","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:02:08.416{"Messages":{"3":{"Utc":"2022-03-25T13:47:10","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:14:58.841{"Messages":{"4":{"Utc":"2022-03-25T14:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:28:13.253{"Messages":{"5":{"Utc":"2022-03-25T14:13:15","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) MISSED THE APEX OF TURN 2"}}}
+00:31:35.083{"Messages":{"6":{"Utc":"2022-03-25T14:16:36","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 1"}}}
+00:32:02.357{"Messages":{"7":{"Utc":"2022-03-25T14:17:04","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:32:02.569{"Messages":{"8":{"Utc":"2022-03-25T14:17:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:39:22.304{"Messages":{"9":{"Utc":"2022-03-25T14:24:24","Category":"Other","Message":"SESSION WILL RESUME AT 17:26"}}}
+00:39:36.182{"Messages":{"10":{"Utc":"2022-03-25T14:24:38","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:39:39.217{"Messages":{"11":{"Utc":"2022-03-25T14:24:41","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:40:58.857{"Messages":{"12":{"Utc":"2022-03-25T14:26:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:45:25.656{"Messages":{"13":{"Utc":"2022-03-25T14:30:27","Category":"Other","Message":"TURN 25 INCIDENT INVOLVING CARS 18 (STR) AND 10 (GAS) NOTED - IMPEDING"}}}
+00:48:08.970{"Messages":{"14":{"Utc":"2022-03-25T14:33:10","Category":"Other","Message":"FIA STEWARDS: TURN 25 INCIDENT INVOLVING CARS 18 (STR) AND 10 (GAS) REVIEWED NO FURTHER INVESTIGATION - IMPEDING"}}}
+00:52:42.679{"Messages":{"15":{"Utc":"2022-03-25T14:37:44","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:52:46.561{"Messages":{"16":{"Utc":"2022-03-25T14:37:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:53:21.662{"Messages":{"17":{"Utc":"2022-03-25T14:38:23","Category":"CarEvent","RacingNumber":"1","Message":"CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 8"}}}
+01:08:43.844{"Messages":{"18":{"Utc":"2022-03-25T14:53:45","Category":"Other","Message":"TURN 9 INCIDENT INVOLVING CARS 47 (MSC) AND 23 (ALB) NOTED - IMPEDING"}}}
+01:10:44.353{"Messages":{"19":{"Utc":"2022-03-25T14:55:46","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 8"}}}
+01:13:26.794{"Messages":{"20":{"Utc":"2022-03-25T14:58:28","Category":"Other","Message":"FIA STEWARDS: TURN 9 INCIDENT INVOLVING CARS 47 (MSC) AND 23 (ALB) UNDER INVESTIGATION - IMPEDING"}}}
+01:14:58.856{"Messages":{"21":{"Utc":"2022-03-25T15:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:06.935{"Messages":{"22":{"Utc":"2022-03-25T15:00:08","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 3 (RIC)"}}}
+01:25:06.501{"Messages":{"23":{"Utc":"2022-03-25T15:10:08","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+01:30:06.167{"Messages":{"24":{"Utc":"2022-03-25T15:15:07","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 0%"}}}
+01:30:09.891{"Messages":{"25":{"Utc":"2022-03-25T15:15:11","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:33:25.531{"Messages":{"26":{"Utc":"2022-03-25T15:18:27","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}

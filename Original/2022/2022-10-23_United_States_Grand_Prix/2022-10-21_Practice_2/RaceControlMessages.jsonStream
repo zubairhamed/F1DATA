@@ -1,0 +1,10 @@
+00:00:03.426{"Messages":[{"Utc":"2022-10-21T21:45:03","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}]}
+00:00:33.617{"Messages":{"1":{"Utc":"2022-10-21T21:45:34","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.402{"Messages":{"2":{"Utc":"2022-10-21T22:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:20:49.945{"Messages":{"3":{"Utc":"2022-10-21T22:05:50","Category":"Other","Message":"PIT EXIT INCIDENT INVOLVING CAR 16 (LEC) NOTED - PRACTICE START"}}}
+00:27:48.157{"Messages":{"4":{"Utc":"2022-10-21T22:12:48","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CAR 31 (OCO) NOTED - PIT STOP PRACTICE"}}}
+00:32:13.906{"Messages":{"5":{"Utc":"2022-10-21T22:17:14","Category":"Other","Message":"FIA STEWARDS: PIT LANE INCIDENT INVOLVING CAR 31 (OCO) NO FURTHER ACTION - PIT STOP PRACTICE"}}}
+00:36:09.302{"Messages":{"6":{"Utc":"2022-10-21T22:21:09","Category":"Other","Message":"FIA STEWARDS: PIT EXIT INCIDENT INVOLVING CAR 16 (LEC) REVIEWED NO FURTHER INVESTIGATION - PRACTICE START"}}}
+00:56:26.007{"Messages":{"7":{"Utc":"2022-10-21T22:41:26","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:45:00.472{"Messages":{"8":{"Utc":"2022-10-21T23:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:45:16.866{"Messages":{"9":{"Utc":"2022-10-21T23:30:17","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 77 (BOT)"}}}

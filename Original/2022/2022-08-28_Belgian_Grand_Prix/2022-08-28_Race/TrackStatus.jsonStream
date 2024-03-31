@@ -1,0 +1,10 @@
+00:01:29.745{"Status":"1","Message":"AllClear"}
+00:30:37.879{"Status":"2","Message":"Yellow"}
+00:31:09.838{"Status":"1","Message":"AllClear"}
+01:03:26.855{"Status":"2","Message":"Yellow"}
+01:03:32.069{"Status":"1","Message":"AllClear"}
+01:05:18.853{"Status":"2","Message":"Yellow"}
+01:05:51.780{"Status":"4","Message":"SCDeployed"}
+01:12:57.770{"Status":"1","Message":"AllClear"}
+02:28:40.049{"Status":"2","Message":"Yellow"}
+02:30:56.014{"Status":"1","Message":"AllClear"}

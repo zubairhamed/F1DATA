@@ -1,0 +1,76 @@
+00:07:58.840{"Messages":[{"Utc":"2022-10-01T09:52:59","Category":"Other","Message":"SESSION WILL START ON TIME - PIT EXIT WILL REMAIN CLOSED"}]}
+00:08:17.217{"Messages":{"1":{"Utc":"2022-10-01T09:53:18","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:08:47.314{"Messages":{"2":{"Utc":"2022-10-01T09:53:48","Category":"Other","Message":"WET TRACK"}}}
+00:09:20.882{"Messages":{"3":{"Utc":"2022-10-01T09:54:21","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:09:24.661{"Messages":{"4":{"Utc":"2022-10-01T09:54:25","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:14:59.859{"Messages":{"5":{"Utc":"2022-10-01T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:15:26.746{"Messages":{"6":{"Utc":"2022-10-01T10:00:27","Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:26:14.910{"Messages":{"7":{"Utc":"2022-10-01T10:11:15","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:26:15.617{"Messages":{"8":{"Utc":"2022-10-01T10:11:16","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+00:26:39.137{"Messages":{"9":{"Utc":"2022-10-01T10:11:40","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+00:26:55.576{"Messages":{"10":{"Utc":"2022-10-01T10:11:56","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":18,"Message":"DOUBLE YELLOW IN TRACK SECTOR 18"}}}
+00:26:57.429{"Messages":{"11":{"Utc":"2022-10-01T10:11:58","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:27:00.536{"Messages":{"12":{"Utc":"2022-10-01T10:12:01","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+00:27:03.715{"Messages":{"13":{"Utc":"2022-10-01T10:12:04","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":17,"Message":"DOUBLE YELLOW IN TRACK SECTOR 17"}}}
+00:27:04.718{"Messages":{"14":{"Utc":"2022-10-01T10:12:05","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:27:06.043{"Messages":{"15":{"Utc":"2022-10-01T10:12:06","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+00:27:10.226{"Messages":{"16":{"Utc":"2022-10-01T10:12:11","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+00:27:13.112{"Messages":{"17":{"Utc":"2022-10-01T10:12:14","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+00:27:24.325{"Messages":{"18":{"Utc":"2022-10-01T10:12:25","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+00:27:32.549{"Messages":{"19":{"Utc":"2022-10-01T10:12:33","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:27:35.842{"Messages":{"20":{"Utc":"2022-10-01T10:12:36","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+00:27:53.797{"Messages":{"21":{"Utc":"2022-10-01T10:12:54","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":14,"Message":"DOUBLE YELLOW IN TRACK SECTOR 14"}}}
+00:27:55.048{"Messages":{"22":{"Utc":"2022-10-01T10:12:56","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:28:05.621{"Messages":{"23":{"Utc":"2022-10-01T10:13:06","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:28:05.922{"Messages":{"24":{"Utc":"2022-10-01T10:13:06","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":1,"Message":"DOUBLE YELLOW IN TRACK SECTOR 1"}}}
+00:28:09.423{"Messages":{"25":{"Utc":"2022-10-01T10:13:10","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:28:17.519{"Messages":{"26":{"Utc":"2022-10-01T10:13:18","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:29:02.660{"Messages":{"27":{"Utc":"2022-10-01T10:14:03","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+00:29:06.214{"Messages":{"28":{"Utc":"2022-10-01T10:14:07","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:29:56.105{"Messages":{"29":{"Utc":"2022-10-01T10:14:57","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":10,"Message":"DOUBLE YELLOW IN TRACK SECTOR 10"}}}
+00:30:27.717{"Messages":{"30":{"Utc":"2022-10-01T10:15:28","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+00:31:02.545{"Messages":{"31":{"Utc":"2022-10-01T10:16:03","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:33:15.437{"Messages":{"32":{"Utc":"2022-10-01T10:18:16","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:33:25.497{"Messages":{"33":{"Utc":"2022-10-01T10:18:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:33:30.471{"Messages":{"34":{"Utc":"2022-10-01T10:18:31","Category":"Other","Message":"PIT EXIT ESTIMATED TO OPEN AT 18:30"}}}
+00:33:31.103{"Messages":{"35":{"Utc":"2022-10-01T10:18:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:33:44.208{"Messages":{"36":{"Utc":"2022-10-01T10:18:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:33:55.792{"Messages":{"37":{"Utc":"2022-10-01T10:18:56","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:34:49.405{"Messages":{"38":{"Utc":"2022-10-01T10:19:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:35:28.361{"Messages":{"39":{"Utc":"2022-10-01T10:20:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:37:10.848{"Messages":{"40":{"Utc":"2022-10-01T10:22:11","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:37:22.023{"Messages":{"41":{"Utc":"2022-10-01T10:22:23","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:37:26.030{"Messages":{"42":{"Utc":"2022-10-01T10:22:26","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+00:37:28.860{"Messages":{"43":{"Utc":"2022-10-01T10:22:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:37:53.333{"Messages":{"44":{"Utc":"2022-10-01T10:22:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:38:00.232{"Messages":{"45":{"Utc":"2022-10-01T10:23:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:38:13.561{"Messages":{"46":{"Utc":"2022-10-01T10:23:14","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:38:18.101{"Messages":{"47":{"Utc":"2022-10-01T10:23:19","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":18,"Message":"DOUBLE YELLOW IN TRACK SECTOR 18"}}}
+00:38:40.160{"Messages":{"48":{"Utc":"2022-10-01T10:23:41","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:38:54.254{"Messages":{"49":{"Utc":"2022-10-01T10:23:55","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:38:58.503{"Messages":{"50":{"Utc":"2022-10-01T10:23:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:39:01.393{"Messages":{"51":{"Utc":"2022-10-01T10:24:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:39:49.547{"Messages":{"52":{"Utc":"2022-10-01T10:24:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:40:00.886{"Messages":{"53":{"Utc":"2022-10-01T10:25:01","Category":"Other","Message":"PIT EXIT WILL OPEN AT 18:30"}}}
+00:40:44.884{"Messages":{"54":{"Utc":"2022-10-01T10:25:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:45:00.937{"Messages":{"55":{"Utc":"2022-10-01T10:30:01","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:57:39.604{"Messages":{"56":{"Utc":"2022-10-01T10:42:40","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:57:52.162{"Messages":{"57":{"Utc":"2022-10-01T10:42:53","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:58:02.473{"Messages":{"58":{"Utc":"2022-10-01T10:43:03","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) SPUN AND CONTINUED AT TURN 13"}}}
+01:06:53.303{"Messages":{"59":{"Utc":"2022-10-01T10:51:54","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+01:06:53.900{"Messages":{"60":{"Utc":"2022-10-01T10:51:54","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+01:06:56.356{"Messages":{"61":{"Utc":"2022-10-01T10:51:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:08:10.639{"Messages":{"62":{"Utc":"2022-10-01T10:53:11","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CAR 47 (MSC) NOTED - UNSAFE RELEASE"}}}
+01:09:22.853{"Messages":{"63":{"Utc":"2022-10-01T10:54:23","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+01:09:25.032{"Messages":{"64":{"Utc":"2022-10-01T10:54:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:09:39.229{"Messages":{"65":{"Utc":"2022-10-01T10:54:40","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:11:19.096{"Messages":{"66":{"Utc":"2022-10-01T10:56:20","Category":"Other","Message":"FIA STEWARDS: PIT LANE INCIDENT INVOLVING CAR 47 (MSC) UNDER INVESTIGATION - UNSAFE RELEASE"}}}
+01:14:59.869{"Messages":{"67":{"Utc":"2022-10-01T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:35.178{"Messages":{"68":{"Utc":"2022-10-01T11:00:36","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:15:51.249{"Messages":{"69":{"Utc":"2022-10-01T11:00:52","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+01:15:57.614{"Messages":{"70":{"Utc":"2022-10-01T11:00:58","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:16:01.833{"Messages":{"71":{"Utc":"2022-10-01T11:01:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:16:20.651{"Messages":{"72":{"Utc":"2022-10-01T11:01:21","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 18"}}}
+01:17:18.755{"Messages":{"73":{"Utc":"2022-10-01T11:02:19","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 6 (LAT)"}}}
+01:25:01.586{"Messages":{"74":{"Utc":"2022-10-01T11:10:02","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+01:26:15.362{"Messages":{"75":{"Utc":"2022-10-01T11:11:16","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}

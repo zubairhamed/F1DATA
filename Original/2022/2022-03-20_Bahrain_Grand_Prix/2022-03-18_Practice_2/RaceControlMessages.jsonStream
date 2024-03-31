@@ -1,0 +1,9 @@
+00:00:19.709{"Messages":[{"Utc":"2022-03-18T14:45:20","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}]}
+00:15:00.569{"Messages":{"1":{"Utc":"2022-03-18T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:05:13.918{"Messages":{"2":{"Utc":"2022-03-18T15:50:14","Category":"Other","Message":"TURN 8 INCIDENT INVOLVING CARS 16 (LEC) AND 22 (TSU) NOTED "}}}
+01:11:56.741{"Messages":{"3":{"Utc":"2022-03-18T15:56:57","Category":"Other","Message":"FIA STEWARDS: TURN 8 INCIDENT INVOLVING CARS 16 (LEC) AND 22 (TSU) UNDER INVESTIGATION "}}}
+01:15:00.380{"Messages":{"4":{"Utc":"2022-03-18T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:09.053{"Messages":{"5":{"Utc":"2022-03-18T16:00:09","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 31 (OCO)"}}}
+01:20:32.310{"Messages":{"6":{"Utc":"2022-03-18T16:05:32","Category":"Other","Message":"TURN 8 INCIDENT INVOLVING CARS 18 (STR) AND 22 (TSU) NOTED"}}}
+01:21:58.345{"Messages":{"7":{"Utc":"2022-03-18T16:06:58","Category":"Other","Message":"FIA STEWARDS: TURN 8 INCIDENT INVOLVING CARS 18 (STR) AND 22 (TSU) UNDER INVESTIGATION"}}}
+01:30:13.156{"Messages":{"8":{"Utc":"2022-03-18T16:15:13","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 0%"}}}

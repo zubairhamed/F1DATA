@@ -1,0 +1,3 @@
+00:00:01.427{"Utc":"2022-11-19T10:15:03.006Z","Remaining":"01:00:00","Extrapolating":false}
+00:14:59.427{"Utc":"2022-11-19T10:30:01.006Z","Remaining":"00:59:59","Extrapolating":true}
+01:14:58.485{"Utc":"2022-11-19T11:30:00.064Z","Remaining":"00:00:00","Extrapolating":false}

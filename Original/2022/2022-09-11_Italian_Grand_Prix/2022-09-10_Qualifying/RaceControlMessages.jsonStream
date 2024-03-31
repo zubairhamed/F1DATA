@@ -1,0 +1,16 @@
+00:00:11.213{"Messages":[{"Utc":"2022-09-10T13:45:13","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:14:57.919{"Messages":{"1":{"Utc":"2022-09-10T14:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:26:01.137{"Messages":{"2":{"Utc":"2022-09-10T14:11:03","Category":"Other","Message":"CAR 4 (NOR) TIME 1:22.277 DELETED - TRACK LIMITS AT TURN 7 LAP 5 16:10:13"}}}
+00:30:40.411{"Messages":{"3":{"Utc":"2022-09-10T14:15:43","Category":"Other","Message":"CAR 20 (MAG) TIME 1:22.399 DELETED - TRACK LIMITS AT TURN 7 LAP 8 16:14:55"}}}
+00:32:57.957{"Messages":{"4":{"Utc":"2022-09-10T14:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:22.066{"Messages":{"5":{"Utc":"2022-09-10T14:18:24","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 10 (GAS)"}}}
+00:33:46.136{"Messages":{"6":{"Utc":"2022-09-10T14:18:48","Category":"Other","Message":"CAR 20 (MAG) TIME 1:22.640 DELETED - TRACK LIMITS AT TURN 7 LAP 10 16:18:05"}}}
+00:34:58.233{"Messages":{"7":{"Utc":"2022-09-10T14:20:00","Category":"Other","Message":"CAR 45 (DEV) TIME 1:22.176 DELETED - TRACK LIMITS AT TURN 10 LAP 8 16:17:51"}}}
+00:39:57.956{"Messages":{"8":{"Utc":"2022-09-10T14:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:47:10.661{"Messages":{"9":{"Utc":"2022-09-10T14:32:13","Category":"Other","Message":"CAR 16 (LEC) TIME 2:00.809 DELETED - TRACK LIMITS AT TURN 2 LAP 6 16:30:20"}}}
+00:54:57.971{"Messages":{"10":{"Utc":"2022-09-10T14:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:49.966{"Messages":{"11":{"Utc":"2022-09-10T14:40:52","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 77 (BOT)"}}}
+01:02:58.019{"Messages":{"12":{"Utc":"2022-09-10T14:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:56.342{"Messages":{"13":{"Utc":"2022-09-10T14:59:59","Category":"Other","Message":"CAR 14 (ALO) TIME 1:21.829 DELETED - TRACK LIMITS AT TURN 7 LAP 17 16:59:16"}}}
+01:14:58.012{"Messages":{"14":{"Utc":"2022-09-10T15:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:14:58.736{"Messages":{"15":{"Utc":"2022-09-10T15:00:01","Category":"Other","Message":"CAR 10 (GAS) TIME 1:21.910 DELETED - TRACK LIMITS AT TURN 6 LAP 18 16:59:15"}}}

@@ -1,0 +1,52 @@
+00:00:10.136{"Messages":[{"Utc":"2022-07-08T14:45:10","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:15:00.192{"Messages":{"1":{"Utc":"2022-07-08T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:18:28.581{"Messages":{"2":{"Utc":"2022-07-08T15:03:28","Category":"Other","Message":"CAR 18 (STR) TIME 1:07.618 DELETED - TRACK LIMITS AT TURN 10 LAP 3 17:03:13"}}}
+00:18:37.344{"Messages":{"3":{"Utc":"2022-07-08T15:03:37","Category":"Other","Message":"CAR 55 (SAI) TIME 1:06.363 DELETED - TRACK LIMITS AT TURN 10 LAP 3 17:03:19"}}}
+00:19:34.176{"Messages":{"4":{"Utc":"2022-07-08T15:04:34","Category":"Other","Message":"CAR 6 (LAT) TIME 1:08.366 DELETED - TRACK LIMITS AT TURN 10 LAP 3 17:03:45"}}}
+00:20:10.885{"Messages":{"5":{"Utc":"2022-07-08T15:05:11","Category":"Other","Message":"CAR 18 (STR) TIME 1:48.832 DELETED - TRACK LIMITS AT TURN 10 (NEXT LAP)"}}}
+00:20:46.682{"Messages":{"6":{"Utc":"2022-07-08T15:05:47","Category":"Other","Message":"CAR 55 (SAI) TIME 2:04.763 DELETED - TRACK LIMITS AT TURN 10 (NEXT LAP)"}}}
+00:23:36.984{"Messages":{"7":{"Utc":"2022-07-08T15:08:37","Category":"Other","Message":"CAR 1 (VER) TIME 1:06.097 DELETED - TRACK LIMITS AT TURN 10 LAP 3 17:08:23"}}}
+00:25:25.006{"Messages":{"8":{"Utc":"2022-07-08T15:10:25","Category":"Other","Message":"CAR 1 (VER) TIME 1:55.194 DELETED - TRACK LIMITS AT TURN 10 (NEXT LAP)"}}}
+00:25:50.905{"Messages":{"9":{"Utc":"2022-07-08T15:10:51","Category":"Other","Message":"CAR 20 (MAG) TIME 1:06.388 DELETED - TRACK LIMITS AT TURN 10 LAP 6 17:10:04"}}}
+00:26:33.551{"Messages":{"10":{"Utc":"2022-07-08T15:11:33","Category":"Other","Message":"CAR 23 (ALB) TIME 1:06.511 DELETED - TRACK LIMITS AT TURN 9 LAP 6 17:11:22"}}}
+00:29:54.006{"Messages":{"11":{"Utc":"2022-07-08T15:14:54","Category":"Other","Message":"CAR 18 (STR) TIME 1:37.187 DELETED - TRACK LIMITS AT TURN 1 LAP 9 17:13:13"}}}
+00:33:00.186{"Messages":{"12":{"Utc":"2022-07-08T15:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:18.666{"Messages":{"13":{"Utc":"2022-07-08T15:18:19","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 77 (BOT)"}}}
+00:33:50.690{"Messages":{"14":{"Utc":"2022-07-08T15:18:51","Category":"Other","Message":"CAR 5 (VET) TIME 1:06.652 DELETED - TRACK LIMITS AT TURN 1 LAP 12 17:17:44"}}}
+00:33:53.977{"Messages":{"15":{"Utc":"2022-07-08T15:18:54","Category":"Other","Message":"CAR 63 (RUS) TIME 1:06.364 DELETED - TRACK LIMITS AT TURN 1 LAP 8 17:17:48"}}}
+00:40:00.186{"Messages":{"16":{"Utc":"2022-07-08T15:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:43:31.273{"Messages":{"17":{"Utc":"2022-07-08T15:28:31","Category":"Other","Message":"CAR 22 (TSU) TIME 1:07.007 DELETED - TRACK LIMITS AT TURN 10 LAP 14 17:27:45"}}}
+00:45:12.264{"Messages":{"18":{"Utc":"2022-07-08T15:30:12","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:46:12.561{"Messages":{"19":{"Utc":"2022-07-08T15:31:13","Category":"Other","Message":"CAR 55 (SAI) TIME 1:06.032 DELETED - TRACK LIMITS AT TURN 1 LAP 13 17:30:07"}}}
+00:48:06.760{"Messages":{"20":{"Utc":"2022-07-08T15:33:07","Category":"Other","Message":"CAR 11 (PER) TIME 1:06.273 DELETED - TRACK LIMITS AT TURN 9 LAP 15 17:32:39"}}}
+00:52:20.681{"Messages":{"21":{"Utc":"2022-07-08T15:37:21","Category":"Other","Message":"CAR 4 (NOR) TIME 1:06.625 DELETED - TRACK LIMITS AT TURN 7 LAP 18 17:36:47"}}}
+00:54:16.017{"Messages":{"22":{"Utc":"2022-07-08T15:39:16","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:54:47.803{"Messages":{"23":{"Utc":"2022-07-08T15:39:48","Category":"Other","Message":"CAR 44 (HAM) TIME 1:05.567 DELETED - TRACK LIMITS AT TURN 10 LAP 16 17:39:24"}}}
+00:54:58.158{"Messages":{"24":{"Utc":"2022-07-08T15:39:58","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:55:00.211{"Messages":{"25":{"Utc":"2022-07-08T15:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:19.734{"Messages":{"26":{"Utc":"2022-07-08T15:40:20","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 1 (VER)"}}}
+00:56:02.860{"Messages":{"27":{"Utc":"2022-07-08T15:41:03","Category":"Other","Message":"CAR 14 (ALO) TIME 1:06.100 DELETED - TRACK LIMITS AT TURN 10 LAP 14 17:40:31"}}}
+01:03:00.230{"Messages":{"28":{"Utc":"2022-07-08T15:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:03:13.562{"Messages":{"29":{"Utc":"2022-07-08T15:48:14","Category":"Other","Message":"TURN 8 INCIDENT INVOLVING CAR 11 (PER) NOTED - TRACK LIMITS"}}}
+01:04:19.451{"Messages":{"30":{"Utc":"2022-07-08T15:49:19","Category":"Other","Message":"FIA STEWARDS: TURN 8 INCIDENT INVOLVING CAR 11 (PER) WILL BE INVESTIGATED AFTER THE SESSION - TRACK LIMITS"}}}
+01:07:37.364{"Messages":{"31":{"Utc":"2022-07-08T15:52:37","Category":"Other","Message":"CAR 47 (MSC) TIME 1:06.662 DELETED - TRACK LIMITS AT TURN 10 LAP 18 17:52:14"}}}
+01:09:14.705{"Messages":{"32":{"Utc":"2022-07-08T15:54:15","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+01:09:31.886{"Messages":{"33":{"Utc":"2022-07-08T15:54:32","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:09:32.007{"Messages":{"34":{"Utc":"2022-07-08T15:54:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:13:35.497{"Messages":{"35":{"Utc":"2022-07-08T15:58:35","Category":"Other","Message":"SESSION WILL RESUME AT 18:05"}}}
+01:14:15.846{"Messages":{"36":{"Utc":"2022-07-08T15:59:16","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:14:19.588{"Messages":{"37":{"Utc":"2022-07-08T15:59:19","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:20:00.242{"Messages":{"38":{"Utc":"2022-07-08T16:05:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:22:52.585{"Messages":{"39":{"Utc":"2022-07-08T16:07:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+01:22:53.584{"Messages":{"40":{"Utc":"2022-07-08T16:07:54","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:22:58.754{"Messages":{"41":{"Utc":"2022-07-08T16:07:59","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:22:58.943{"Messages":{"42":{"Utc":"2022-07-08T16:07:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:26:24.978{"Messages":{"43":{"Utc":"2022-07-08T16:11:25","Category":"Other","Message":"TURN 10 INCIDENT INVOLVING CAR 63 (RUS) NOTED - ENTERING THE TRACK WITHOUT PERMISSION"}}}
+01:27:04.724{"Messages":{"44":{"Utc":"2022-07-08T16:12:05","Category":"Other","Message":"SESSION WILL RESUME AT 18:18"}}}
+01:28:00.439{"Messages":{"45":{"Utc":"2022-07-08T16:13:00","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:28:02.041{"Messages":{"46":{"Utc":"2022-07-08T16:13:02","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:28:10.451{"Messages":{"47":{"Utc":"2022-07-08T16:13:10","Category":"Other","Message":"FIA STEWARDS: TURN 10 INCIDENT INVOLVING CAR 63 (RUS) WILL BE INVESTIGATED AFTER THE SESSION - ENTERING THE TRACK WITHOUT PERMISSION"}}}
+01:33:00.181{"Messages":{"48":{"Utc":"2022-07-08T16:18:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:35:31.192{"Messages":{"49":{"Utc":"2022-07-08T16:20:31","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:35:46.791{"Messages":{"50":{"Utc":"2022-07-08T16:20:47","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 31 (OCO)"}}}
+01:54:45.321{"Messages":{"51":{"Utc":"2022-07-08T16:39:45","Category":"Other","Message":"SESSION WILL START AT 18:50"}}}

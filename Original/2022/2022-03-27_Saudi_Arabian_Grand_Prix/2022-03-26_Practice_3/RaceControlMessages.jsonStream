@@ -1,0 +1,28 @@
+00:00:10.985{"Messages":[{"Utc":"2022-03-26T13:45:11","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}]}
+00:01:52.963{"Messages":{"1":{"Utc":"2022-03-26T13:46:53","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:02:48.327{"Messages":{"2":{"Utc":"2022-03-26T13:47:48","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:02:58.723{"Messages":{"3":{"Utc":"2022-03-26T13:47:59","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:07:13.001{"Messages":{"4":{"Utc":"2022-03-26T13:52:13","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:07:17.984{"Messages":{"5":{"Utc":"2022-03-26T13:52:18","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:07:22.541{"Messages":{"6":{"Utc":"2022-03-26T13:52:22","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:07:22.585{"Messages":{"7":{"Utc":"2022-03-26T13:52:22","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:15:00.289{"Messages":{"8":{"Utc":"2022-03-26T14:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:33:34.735{"Messages":{"9":{"Utc":"2022-03-26T14:18:35","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 2"}}}
+00:35:03.872{"Messages":{"10":{"Utc":"2022-03-26T14:20:04","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 17"}}}
+00:38:35.229{"Messages":{"11":{"Utc":"2022-03-26T14:23:35","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 2"}}}
+00:52:12.826{"Messages":{"12":{"Utc":"2022-03-26T14:37:13","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:52:14.205{"Messages":{"13":{"Utc":"2022-03-26T14:37:14","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:55:51.599{"Messages":{"14":{"Utc":"2022-03-26T14:40:51","Category":"Other","Message":"PIT EXIT INCIDENT INVOLVING CAR 63 (RUS) NOTED"}}}
+00:57:21.206{"Messages":{"15":{"Utc":"2022-03-26T14:42:21","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) MISSED THE APEX OF TURN 2"}}}
+00:58:19.945{"Messages":{"16":{"Utc":"2022-03-26T14:43:20","Category":"Other","Message":"FIA STEWARDS: PIT EXIT INCIDENT INVOLVING CAR 63 (RUS) REVIEWED NO FURTHER INVESTIGATION"}}}
+01:15:00.290{"Messages":{"17":{"Utc":"2022-03-26T15:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:19.843{"Messages":{"18":{"Utc":"2022-03-26T15:00:20","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 1 (VER)"}}}
+01:22:54.136{"Messages":{"19":{"Utc":"2022-03-26T15:07:54","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+01:23:32.532{"Messages":{"20":{"Utc":"2022-03-26T15:08:32","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:23:33.684{"Messages":{"21":{"Utc":"2022-03-26T15:08:34","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:24:01.635{"Messages":{"22":{"Utc":"2022-03-26T15:09:02","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+01:24:04.494{"Messages":{"23":{"Utc":"2022-03-26T15:09:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:24:19.038{"Messages":{"24":{"Utc":"2022-03-26T15:09:19","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:24:36.924{"Messages":{"25":{"Utc":"2022-03-26T15:09:37","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+01:25:02.718{"Messages":{"26":{"Utc":"2022-03-26T15:10:03","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+01:25:12.916{"Messages":{"27":{"Utc":"2022-03-26T15:10:13","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}

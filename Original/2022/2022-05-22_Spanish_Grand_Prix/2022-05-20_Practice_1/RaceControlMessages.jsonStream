@@ -1,0 +1,18 @@
+00:00:03.405{"Messages":[{"Utc":"2022-05-20T11:45:03","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:15:00.219{"Messages":{"1":{"Utc":"2022-05-20T12:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:51:33.092{"Messages":{"2":{"Utc":"2022-05-20T12:36:33","Category":"Other","Message":"TURN 12 INCIDENT INVOLVING CARS 44 (HAM) AND 14 (ALO) NOTED - IMPEDING"}}}
+00:52:07.663{"Messages":{"3":{"Utc":"2022-05-20T12:37:08","Category":"CarEvent","RacingNumber":"45","Message":"CAR 45 (DEV) MISSED THE APEX OF TURN 15"}}}
+00:52:21.410{"Messages":{"4":{"Utc":"2022-05-20T12:37:21","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) MISSED THE APEX OF TURN 15"}}}
+01:05:11.802{"Messages":{"5":{"Utc":"2022-05-20T12:50:12","Category":"Other","Message":"FIA STEWARDS: TURN 12 INCIDENT INVOLVING CARS 44 (HAM) AND 14 (ALO) WILL BE INVESTIGATED AFTER THE SESSION - IMPEDING"}}}
+01:08:16.883{"Messages":{"6":{"Utc":"2022-05-20T12:53:17","Category":"Other","Message":"TURN 15 INCIDENT INVOLVING CARS 1 (VER) AND 77 (BOT) NOTED - IMPEDING"}}}
+01:09:43.718{"Messages":{"7":{"Utc":"2022-05-20T12:54:44","Category":"Other","Message":"TURN 12 INCIDENT INVOLVING CARS 36 (VIP) AND 63 (RUS) NOTED - IMPEDING"}}}
+01:10:23.791{"Messages":{"8":{"Utc":"2022-05-20T12:55:24","Category":"Other","Message":"FIA STEWARDS: TURN 15 INCIDENT INVOLVING CARS 1 (VER) AND 77 (BOT) REVIEWED NO FURTHER INVESTIGATION - IMPEDING"}}}
+01:10:45.385{"Messages":{"9":{"Utc":"2022-05-20T12:55:45","Category":"Other","Message":"CAR 45 (DEV) TIME 2:22.970 DELETED - TRACK LIMITS AT TURN 2 LAP 25 14:54:05"}}}
+01:11:25.718{"Messages":{"10":{"Utc":"2022-05-20T12:56:26","Category":"Other","Message":"FIA STEWARDS: TURN 12 INCIDENT INVOLVING CARS 36 (VIP) AND 63 (RUS) WILL BE INVESTIGATED AFTER THE SESSION - IMPEDING"}}}
+01:15:00.239{"Messages":{"11":{"Utc":"2022-05-20T13:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:06.470{"Messages":{"12":{"Utc":"2022-05-20T13:00:06","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 45 (DEV)"}}}
+01:17:25.516{"Messages":{"13":{"Utc":"2022-05-20T13:02:25","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+01:17:26.613{"Messages":{"14":{"Utc":"2022-05-20T13:02:27","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:17:40.409{"Messages":{"15":{"Utc":"2022-05-20T13:02:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:17:40.454{"Messages":{"16":{"Utc":"2022-05-20T13:02:40","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:30:17.690{"Messages":{"17":{"Utc":"2022-05-20T13:15:18","Category":"Other","Message":"RISK OF RAIN FOR F3 QUALIFYING SESSION IS 0%"}}}

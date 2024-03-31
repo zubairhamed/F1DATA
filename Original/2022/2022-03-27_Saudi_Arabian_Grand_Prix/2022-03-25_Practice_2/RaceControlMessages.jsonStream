@@ -1,0 +1,46 @@
+00:00:12.886{"Messages":[{"Utc":"2022-03-25T16:45:13","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}]}
+00:05:33.621{"Messages":{"1":{"Utc":"2022-03-25T16:50:34","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+00:06:14.605{"Messages":{"2":{"Utc":"2022-03-25T16:51:15","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:06:41.253{"Messages":{"3":{"Utc":"2022-03-25T16:51:41","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+00:08:15.932{"Messages":{"4":{"Utc":"2022-03-25T16:53:16","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:08:34.810{"Messages":{"5":{"Utc":"2022-03-25T16:53:35","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:08:37.655{"Messages":{"6":{"Utc":"2022-03-25T16:53:38","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:11:42.212{"Messages":{"7":{"Utc":"2022-03-25T16:56:42","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:12:06.193{"Messages":{"8":{"Utc":"2022-03-25T16:57:06","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:14:41.666{"Messages":{"9":{"Utc":"2022-03-25T16:59:42","Category":"Other","Message":"START OF THE SESSION DELAYED - 20:15 TBC"}}}
+00:17:26.306{"Messages":{"10":{"Utc":"2022-03-25T17:02:26","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+00:17:27.367{"Messages":{"11":{"Utc":"2022-03-25T17:02:27","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:17:35.321{"Messages":{"12":{"Utc":"2022-03-25T17:02:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:17:35.334{"Messages":{"13":{"Utc":"2022-03-25T17:02:35","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:24:34.054{"Messages":{"14":{"Utc":"2022-03-25T17:09:34","Category":"Other","Message":"START OF THE SESSION DELAYED - 20:15"}}}
+00:24:58.395{"Messages":{"15":{"Utc":"2022-03-25T17:09:58","Category":"Other","Message":"SESSION WILL START AT 20:15"}}}
+00:30:00.256{"Messages":{"16":{"Utc":"2022-03-25T17:15:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:36:31.260{"Messages":{"17":{"Utc":"2022-03-25T17:21:31","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+00:36:35.175{"Messages":{"18":{"Utc":"2022-03-25T17:21:35","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+00:39:07.478{"Messages":{"19":{"Utc":"2022-03-25T17:24:07","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:39:07.488{"Messages":{"20":{"Utc":"2022-03-25T17:24:07","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:02:35.014{"Messages":{"21":{"Utc":"2022-03-25T17:47:35","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+01:02:49.138{"Messages":{"22":{"Utc":"2022-03-25T17:47:49","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:03:03.355{"Messages":{"23":{"Utc":"2022-03-25T17:48:03","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:03:04.613{"Messages":{"24":{"Utc":"2022-03-25T17:48:05","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:04:27.686{"Messages":{"25":{"Utc":"2022-03-25T17:49:28","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:04:42.646{"Messages":{"26":{"Utc":"2022-03-25T17:49:43","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:04:42.805{"Messages":{"27":{"Utc":"2022-03-25T17:49:43","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:04:42.805{"Messages":{"28":{"Utc":"2022-03-25T17:49:43","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:04:45.604{"Messages":{"29":{"Utc":"2022-03-25T17:49:46","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:04:54.077{"Messages":{"30":{"Utc":"2022-03-25T17:49:54","Category":"Other","Message":"CAR 11 (PER) TIME 2:54.960 DELETED - DOUBLE YELLOW AT TURN 14"}}}
+01:22:36.652{"Messages":{"31":{"Utc":"2022-03-25T18:07:36","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) MISSED THE APEX OF TURN 2"}}}
+01:29:58.865{"Messages":{"32":{"Utc":"2022-03-25T18:14:59","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:30:00.244{"Messages":{"33":{"Utc":"2022-03-25T18:15:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:30:18.727{"Messages":{"34":{"Utc":"2022-03-25T18:15:19","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 11 (PER)"}}}
+01:30:22.346{"Messages":{"35":{"Utc":"2022-03-25T18:15:22","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:31:12.758{"Messages":{"36":{"Utc":"2022-03-25T18:16:13","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:31:13.866{"Messages":{"37":{"Utc":"2022-03-25T18:16:14","Category":"Other","Message":"DRS DISABLED IN ZONE 3"}}}
+01:32:09.570{"Messages":{"38":{"Utc":"2022-03-25T18:17:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:32:09.585{"Messages":{"39":{"Utc":"2022-03-25T18:17:09","Category":"Other","Message":"DRS ENABLED IN ZONE 3"}}}
+01:32:15.626{"Messages":{"40":{"Utc":"2022-03-25T18:17:16","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+01:32:17.565{"Messages":{"41":{"Utc":"2022-03-25T18:17:17","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:33:05.790{"Messages":{"42":{"Utc":"2022-03-25T18:18:06","Category":"Other","Message":"CAR 44 (HAM) TIME 2:22.129 DELETED - DOUBLE YELLOW AT TURN 3"}}}
+01:33:06.345{"Messages":{"43":{"Utc":"2022-03-25T18:18:06","Category":"Other","Message":"CAR 3 (RIC) TIME 2:14.335 DELETED - DOUBLE YELLOW AT TURN 3"}}}
+01:33:07.979{"Messages":{"44":{"Utc":"2022-03-25T18:18:08","Category":"Other","Message":"CAR 18 (STR) TIME 2:21.608 DELETED - DOUBLE YELLOW AT TURN 3"}}}
+01:35:46.120{"Messages":{"45":{"Utc":"2022-03-25T18:20:46","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}

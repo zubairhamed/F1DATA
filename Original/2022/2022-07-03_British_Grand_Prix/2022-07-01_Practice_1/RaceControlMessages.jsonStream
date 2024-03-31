@@ -1,0 +1,19 @@
+00:01:03.378{"Messages":[{"Utc":"2022-07-01T11:46:03","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 100%"}]}
+00:10:47.360{"Messages":{"1":{"Utc":"2022-07-01T11:55:47","Category":"Other","Message":"WET TRACK"}}}
+00:11:29.357{"Messages":{"2":{"Utc":"2022-07-01T11:56:29","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:12:03.415{"Messages":{"3":{"Utc":"2022-07-01T11:57:03","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+00:12:05.830{"Messages":{"4":{"Utc":"2022-07-01T11:57:06","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:12:27.834{"Messages":{"5":{"Utc":"2022-07-01T11:57:28","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 12"}}}
+00:12:33.411{"Messages":{"6":{"Utc":"2022-07-01T11:57:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:15:00.144{"Messages":{"7":{"Utc":"2022-07-01T12:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:16:02.254{"Messages":{"8":{"Utc":"2022-07-01T12:01:02","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:25:36.646{"Messages":{"9":{"Utc":"2022-07-01T12:10:37","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 2"}}}
+00:25:37.581{"Messages":{"10":{"Utc":"2022-07-01T12:10:38","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+00:25:40.540{"Messages":{"11":{"Utc":"2022-07-01T12:10:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:25:45.414{"Messages":{"12":{"Utc":"2022-07-01T12:10:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:13:42.564{"Messages":{"13":{"Utc":"2022-07-01T12:58:43","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+01:14:02.605{"Messages":{"14":{"Utc":"2022-07-01T12:59:03","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:14:02.662{"Messages":{"15":{"Utc":"2022-07-01T12:59:03","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:14:12.331{"Messages":{"16":{"Utc":"2022-07-01T12:59:12","Category":"Other","Message":"SESSION WILL NOT BE RESUMED"}}}
+01:15:00.095{"Messages":{"17":{"Utc":"2022-07-01T13:00:00","Category":"Other","Message":"PRACTICE STARTS CANCELLED"}}}
+01:17:28.438{"Messages":{"18":{"Utc":"2022-07-01T13:02:28","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

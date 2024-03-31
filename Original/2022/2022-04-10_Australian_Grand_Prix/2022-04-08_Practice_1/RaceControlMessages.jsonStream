@@ -1,0 +1,39 @@
+00:00:48.535{"Messages":[{"Utc":"2022-04-08T02:45:48","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}]}
+00:09:08.018{"Messages":{"1":{"Utc":"2022-04-08T02:54:08","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:09:17.909{"Messages":{"2":{"Utc":"2022-04-08T02:54:18","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:15:00.750{"Messages":{"3":{"Utc":"2022-04-08T03:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:20:43.107{"Messages":{"4":{"Utc":"2022-04-08T03:05:43","Category":"Other","Message":"TURN 13 INCIDENT INVOLVING CARS 44 (HAM) AND 18 (STR) NOTED - IMPEDING"}}}
+00:24:31.928{"Messages":{"5":{"Utc":"2022-04-08T03:09:31","Category":"Other","Message":"FIA STEWARDS: TURN 13 INCIDENT INVOLVING CARS 44 (HAM) (HAM) AND 18 (STR) (STR) REVIEWED NO FURTHER INVESTIGATION - IMPEDING"}}}
+00:25:29.389{"Messages":{"6":{"Utc":"2022-04-08T03:10:29","Category":"Other","Message":"TURN 4 INCIDENT INVOLVING CARS 1 (VER) AND 6 (LAT) NOTED - IMPEDING"}}}
+00:27:19.194{"Messages":{"7":{"Utc":"2022-04-08T03:12:19","Category":"Other","Message":"FIA STEWARDS: TURN 4 INCIDENT INVOLVING CARS 1 (VER) AND 6 (LAT) REVIEWED NO FURTHER INVESTIGATION - IMPEDING"}}}
+00:27:43.573{"Messages":{"8":{"Utc":"2022-04-08T03:12:43","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 2"}}}
+00:34:58.749{"Messages":{"9":{"Utc":"2022-04-08T03:19:58","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 20"}}}
+00:35:44.753{"Messages":{"10":{"Utc":"2022-04-08T03:20:44","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:35:44.823{"Messages":{"11":{"Utc":"2022-04-08T03:20:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+00:37:16.879{"Messages":{"12":{"Utc":"2022-04-08T03:22:17","Category":"Other","Message":"SESSION WILL RESUME AT 13:23"}}}
+00:37:19.869{"Messages":{"13":{"Utc":"2022-04-08T03:22:20","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:37:21.418{"Messages":{"14":{"Utc":"2022-04-08T03:22:21","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:38:00.780{"Messages":{"15":{"Utc":"2022-04-08T03:23:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:38:11.651{"Messages":{"16":{"Utc":"2022-04-08T03:23:11","Category":"Other","Message":"TURN 13 INCIDENT INVOLVING CARS 24 (ZHO) AND 55 (SAI) NOTED - IMPEDING"}}}
+00:42:24.625{"Messages":{"17":{"Utc":"2022-04-08T03:27:24","Category":"Other","Message":"FIA STEWARDS: TURN 13 INCIDENT INVOLVING CARS 24 (ZHO) (ZHO) AND 55 (SAI) (SAI) WILL BE INVESTIGATED AFTER THE SESSION - IMPEDING"}}}
+00:49:38.100{"Messages":{"18":{"Utc":"2022-04-08T03:34:38","Category":"Other","Message":"TURN 5 INCIDENT INVOLVING CARS 18 (STR) AND 20 (MAG) NOTED - IMPEDING"}}}
+00:49:53.204{"Messages":{"19":{"Utc":"2022-04-08T03:34:53","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:52:41.692{"Messages":{"20":{"Utc":"2022-04-08T03:37:41","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+00:52:42.721{"Messages":{"21":{"Utc":"2022-04-08T03:37:42","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:52:53.520{"Messages":{"22":{"Utc":"2022-04-08T03:37:53","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:52:53.525{"Messages":{"23":{"Utc":"2022-04-08T03:37:53","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:53:00.273{"Messages":{"24":{"Utc":"2022-04-08T03:38:00","Category":"Other","Message":"FIA STEWARDS: TURN 5 INCIDENT INVOLVING CARS 18 (STR) (STR) AND 20 (MAG) (MAG) WILL BE INVESTIGATED AFTER THE SESSION - IMPEDING"}}}
+00:53:19.249{"Messages":{"25":{"Utc":"2022-04-08T03:38:19","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) SPUN AND CONTINUED AT TURN 11"}}}
+01:00:19.405{"Messages":{"26":{"Utc":"2022-04-08T03:45:19","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:00:20.456{"Messages":{"27":{"Utc":"2022-04-08T03:45:20","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:00:27.439{"Messages":{"28":{"Utc":"2022-04-08T03:45:27","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:00:27.714{"Messages":{"29":{"Utc":"2022-04-08T03:45:27","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:03:41.167{"Messages":{"30":{"Utc":"2022-04-08T03:48:41","Category":"Other","Message":"SESSION WILL RESUME AT 13:50"}}}
+01:03:45.158{"Messages":{"31":{"Utc":"2022-04-08T03:48:45","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:03:46.843{"Messages":{"32":{"Utc":"2022-04-08T03:48:47","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:05:00.740{"Messages":{"33":{"Utc":"2022-04-08T03:50:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.716{"Messages":{"34":{"Utc":"2022-04-08T04:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:17.291{"Messages":{"35":{"Utc":"2022-04-08T04:00:17","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 3 (RIC)"}}}
+01:19:14.570{"Messages":{"36":{"Utc":"2022-04-08T04:04:14","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+01:27:32.160{"Messages":{"37":{"Utc":"2022-04-08T04:12:32","Category":"Other","Message":"INCIDENT INVOLVING CAR 5 NOTED - ENTERING TRACK WITHOUT PERMISSION"}}}
+01:27:42.146{"Messages":{"38":{"Utc":"2022-04-08T04:12:42","Category":"Other","Message":"INCIDENT INVOLVING CAR 5 UNDER INVESTIGATION - ENTERING TRACK WITHOUT PERMISSION"}}}

@@ -1,0 +1,18 @@
+00:29:00.158{"Messages":[{"Utc":"2022-04-23T14:00:00","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:34:00.164{"Messages":{"1":{"Utc":"2022-04-23T14:05:00","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:44:01.726{"Messages":{"2":{"Utc":"2022-04-23T14:15:02","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 SPRINT IS 40%"}}}
+00:56:10.494{"Messages":{"3":{"Utc":"2022-04-23T14:27:10","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:02:06.889{"Messages":{"4":{"Utc":"2022-04-23T14:33:07","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:02:58.972{"Messages":{"5":{"Utc":"2022-04-23T14:33:59","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+01:03:12.704{"Messages":{"6":{"Utc":"2022-04-23T14:34:13","Lap":1,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:04:19.461{"Messages":{"7":{"Utc":"2022-04-23T14:35:19","Lap":2,"Category":"Other","Message":"TURN 9 INCIDENT INVOLVING CARS 24 (ZHO) AND 10 (GAS) NOTED - CAUSING A COLLISION"}}}
+01:06:20.882{"Messages":{"8":{"Utc":"2022-04-23T14:37:21","Lap":3,"Category":"Other","Message":"TURN 5 INCIDENT INVOLVING CARS 20 (MAG) AND 11 (PER) NOTED - WEAVING ON STRAIGHT"}}}
+01:07:21.288{"Messages":{"9":{"Utc":"2022-04-23T14:38:21","Lap":3,"Category":"Other","Message":"FIA STEWARDS: TURN 9 INCIDENT INVOLVING CARS 24 (ZHO) AND 10 (GAS) REVIEWED NO FURTHER INVESTIGATION - CAUSING A COLLISION"}}}
+01:08:28.735{"Messages":{"10":{"Utc":"2022-04-23T14:39:29","Lap":4,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+01:08:32.248{"Messages":{"11":{"Utc":"2022-04-23T14:39:32","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:10:05.739{"Messages":{"12":{"Utc":"2022-04-23T14:41:06","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:10:50.588{"Messages":{"13":{"Utc":"2022-04-23T14:41:51","Lap":5,"Category":"Flag","Flag":"BLACK AND WHITE","Scope":"Driver","RacingNumber":"20","Message":"BLACK AND WHITE FLAG FOR CAR 20 (MAG) - WEAVING ON STRAIGHT"}}}
+01:13:07.611{"Messages":{"14":{"Utc":"2022-04-23T14:44:08","Lap":7,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:23:20.757{"Messages":{"15":{"Utc":"2022-04-23T14:54:21","Lap":14,"Category":"Other","Message":"INCIDENT INVOLVING CARS 14 (ALO) AND 77 (BOT) NOTED - WEAVING ON STRAIGHT"}}}
+01:24:54.400{"Messages":{"16":{"Utc":"2022-04-23T14:55:54","Lap":16,"Category":"Flag","Flag":"BLACK AND WHITE","Scope":"Driver","RacingNumber":"14","Message":"BLACK AND WHITE FLAG FOR CAR 14 (ALO) - WEAVING ON STRAIGHT"}}}
+01:32:46.539{"Messages":{"17":{"Utc":"2022-04-23T15:03:46","Lap":21,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

@@ -1,0 +1,8 @@
+00:00:36.000{"Messages":[{"Utc":"2022-10-08T02:45:36","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}]}
+00:00:53.137{"Messages":{"1":{"Utc":"2022-10-08T02:45:53","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}}}
+00:11:40.710{"Messages":{"2":{"Utc":"2022-10-08T02:56:40","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.709{"Messages":{"3":{"Utc":"2022-10-08T03:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:44:24.159{"Messages":{"4":{"Utc":"2022-10-08T03:29:24","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+00:44:27.575{"Messages":{"5":{"Utc":"2022-10-08T03:29:27","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:15:00.869{"Messages":{"6":{"Utc":"2022-10-08T04:00:01","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:12.306{"Messages":{"7":{"Utc":"2022-10-08T04:00:12","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 10 (GAS)"}}}

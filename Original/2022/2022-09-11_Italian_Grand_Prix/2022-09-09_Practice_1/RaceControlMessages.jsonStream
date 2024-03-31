@@ -1,0 +1,11 @@
+00:00:14.584{"Messages":[{"Utc":"2022-09-09T11:45:15","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 10%"}]}
+00:15:00.206{"Messages":{"1":{"Utc":"2022-09-09T12:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.179{"Messages":{"2":{"Utc":"2022-09-09T13:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:15.620{"Messages":{"3":{"Utc":"2022-09-09T13:00:16","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 14 (ALO)"}}}
+01:24:43.292{"Messages":{"4":{"Utc":"2022-09-09T13:09:43","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:24:44.371{"Messages":{"5":{"Utc":"2022-09-09T13:09:44","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:24:53.611{"Messages":{"6":{"Utc":"2022-09-09T13:09:54","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:24:55.598{"Messages":{"7":{"Utc":"2022-09-09T13:09:56","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:26:36.291{"Messages":{"8":{"Utc":"2022-09-09T13:11:36","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:30:32.494{"Messages":{"9":{"Utc":"2022-09-09T13:15:32","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:30:35.447{"Messages":{"10":{"Utc":"2022-09-09T13:15:35","Category":"Other","Message":"RISK OF RAIN FOR F3 QUALIFYING SESSION IS 0%"}}}

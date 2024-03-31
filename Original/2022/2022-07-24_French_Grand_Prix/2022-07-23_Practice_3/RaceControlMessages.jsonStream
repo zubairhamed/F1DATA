@@ -1,0 +1,29 @@
+00:06:44.041{"Messages":[{"Utc":"2022-07-23T10:51:44","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:15:00.170{"Messages":{"1":{"Utc":"2022-07-23T11:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:24:06.905{"Messages":{"2":{"Utc":"2022-07-23T11:09:07","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 11"}}}
+00:37:07.459{"Messages":{"3":{"Utc":"2022-07-23T11:22:07","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 12"}}}
+00:38:37.706{"Messages":{"4":{"Utc":"2022-07-23T11:23:38","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 11"}}}
+00:38:59.530{"Messages":{"5":{"Utc":"2022-07-23T11:23:59","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:40:22.669{"Messages":{"6":{"Utc":"2022-07-23T11:25:23","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 11"}}}
+00:47:09.477{"Messages":{"7":{"Utc":"2022-07-23T11:32:09","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:48:56.172{"Messages":{"8":{"Utc":"2022-07-23T11:33:56","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:50:03.130{"Messages":{"9":{"Utc":"2022-07-23T11:35:03","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:56:31.749{"Messages":{"10":{"Utc":"2022-07-23T11:41:32","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:56:32.802{"Messages":{"11":{"Utc":"2022-07-23T11:41:33","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:56:36.843{"Messages":{"12":{"Utc":"2022-07-23T11:41:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:56:36.866{"Messages":{"13":{"Utc":"2022-07-23T11:41:37","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:57:12.243{"Messages":{"14":{"Utc":"2022-07-23T11:42:12","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 1"}}}
+01:03:48.822{"Messages":{"15":{"Utc":"2022-07-23T11:48:49","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:07:13.051{"Messages":{"16":{"Utc":"2022-07-23T11:52:13","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 9"}}}
+01:10:35.776{"Messages":{"17":{"Utc":"2022-07-23T11:55:36","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 8"}}}
+01:14:05.672{"Messages":{"18":{"Utc":"2022-07-23T11:59:06","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:14:06.732{"Messages":{"19":{"Utc":"2022-07-23T11:59:07","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:14:10.477{"Messages":{"20":{"Utc":"2022-07-23T11:59:10","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:14:10.487{"Messages":{"21":{"Utc":"2022-07-23T11:59:10","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:14:36.575{"Messages":{"22":{"Utc":"2022-07-23T11:59:37","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:14:43.032{"Messages":{"23":{"Utc":"2022-07-23T11:59:43","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+01:14:45.229{"Messages":{"24":{"Utc":"2022-07-23T11:59:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:15:00.297{"Messages":{"25":{"Utc":"2022-07-23T12:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:23.523{"Messages":{"26":{"Utc":"2022-07-23T12:00:23","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 55 (SAI)"}}}
+01:19:30.903{"Messages":{"27":{"Utc":"2022-07-23T12:04:31","Category":"Other","Message":"PIT EXIT INCIDENT INVOLVING CARS 4 (NOR) AND 18 (STR) NOTED "}}}
+01:19:38.042{"Messages":{"28":{"Utc":"2022-07-23T12:04:38","Category":"Other","Message":"FIA STEWARDS: PIT EXIT INCIDENT INVOLVING CARS 4 (NOR) AND 18 (STR) WILL BE INVESTIGATED AFTER THE SESSION "}}}

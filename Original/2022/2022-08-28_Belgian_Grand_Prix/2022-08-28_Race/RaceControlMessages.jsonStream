@@ -1,0 +1,44 @@
+00:19:00.303{"Messages":[{"Utc":"2022-08-28T12:20:00","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:29:00.282{"Messages":{"1":{"Utc":"2022-08-28T12:30:00","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:30:02.659{"Messages":{"2":{"Utc":"2022-08-28T12:31:03","Lap":1,"Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:30:37.942{"Messages":{"3":{"Utc":"2022-08-28T12:31:38","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+00:31:09.920{"Messages":{"4":{"Utc":"2022-08-28T12:32:10","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:44:02.432{"Messages":{"5":{"Utc":"2022-08-28T12:45:02","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 0%"}}}
+00:56:15.551{"Messages":{"6":{"Utc":"2022-08-28T12:57:16","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:02:44.652{"Messages":{"7":{"Utc":"2022-08-28T13:03:45","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:03:26.915{"Messages":{"8":{"Utc":"2022-08-28T13:04:27","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+01:03:27.517{"Messages":{"9":{"Utc":"2022-08-28T13:04:28","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+01:03:32.099{"Messages":{"10":{"Utc":"2022-08-28T13:04:32","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:04:48.297{"Messages":{"11":{"Utc":"2022-08-28T13:05:48","Lap":2,"Category":"Other","Message":"TURN 5 INCIDENT INVOLVING CARS 14 (ALO) AND 44 (HAM) NOTED - CAUSING A COLLISION"}}}
+01:05:18.916{"Messages":{"12":{"Utc":"2022-08-28T13:06:19","Lap":2,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+01:05:51.724{"Messages":{"13":{"Utc":"2022-08-28T13:06:52","Lap":2,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:07:15.756{"Messages":{"14":{"Utc":"2022-08-28T13:08:16","Lap":3,"Category":"Other","Message":"TURN 7 INCIDENT INVOLVING CARS 6 (LAT), 31 (OCO) AND 77 (BOT) NOTED - CAUSING A COLLISION"}}}
+01:11:08.913{"Messages":{"15":{"Utc":"2022-08-28T13:12:09","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:11:21.233{"Messages":{"16":{"Utc":"2022-08-28T13:12:21","Lap":4,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+01:12:57.720{"Messages":{"17":{"Utc":"2022-08-28T13:13:58","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:13:37.154{"Messages":{"18":{"Utc":"2022-08-28T13:14:37","Lap":5,"Category":"Other","Message":"FIA STEWARDS: TURN 5 INCIDENT INVOLVING CARS 14 (ALO) AND 44 (HAM) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+01:13:44.758{"Messages":{"19":{"Utc":"2022-08-28T13:14:45","Lap":5,"Category":"Other","Message":"FIA STEWARDS: TURN 7 INCIDENT INVOLVING CARS 6 (LAT), 31 (OCO) AND 77 (BOT) REVIEWED NO FURTHER INVESTIGATION - CAUSING A COLLISION"}}}
+01:16:50.227{"Messages":{"20":{"Utc":"2022-08-28T13:17:50","Lap":7,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:16:59.924{"Messages":{"21":{"Utc":"2022-08-28T13:18:00","Lap":7,"Category":"Other","Message":"FIA STEWARDS: TURN 5 INCIDENT INVOLVING CARS 14 (ALO) AND 44 (HAM) NO FURTHER ACTION - CAUSING A COLLISION"}}}
+01:19:05.046{"Messages":{"22":{"Utc":"2022-08-28T13:20:05","Lap":8,"Category":"Other","Message":"CAR 6 (LAT) TIME 1:55.404 DELETED - TRACK LIMITS AT TURN 4 LAP 7 15:18:25"}}}
+01:21:39.620{"Messages":{"23":{"Utc":"2022-08-28T13:22:40","Lap":9,"Category":"Other","Message":"CAR 10 (GAS) TIME 1:57.112 DELETED - TRACK LIMITS AT TURN 4 LAP 8 15:20:20"}}}
+01:22:52.100{"Messages":{"24":{"Utc":"2022-08-28T13:23:52","Lap":10,"Category":"Other","Message":"CAR 23 (ALB) TIME 1:56.420 DELETED - TRACK LIMITS AT TURN 4 LAP 9 15:22:09"}}}
+02:08:04.702{"Messages":{"25":{"Utc":"2022-08-28T14:09:05","Lap":33,"Category":"Other","Message":"CAR 47 (MSC) TIME 1:52.212 DELETED - TRACK LIMITS AT TURN 4 LAP 32 16:07:20"}}}
+02:21:05.113{"Messages":{"26":{"Utc":"2022-08-28T14:22:05","Lap":40,"Category":"Other","Message":"CAR 5 (VET) TIME 1:52.773 DELETED - TRACK LIMITS AT TURN 4 LAP 39 16:19:59"}}}
+02:26:13.328{"Messages":{"27":{"Utc":"2022-08-28T14:27:13","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 16:27:13"}}}
+02:28:14.404{"Messages":{"28":{"Utc":"2022-08-28T14:29:14","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 16:29:14"}}}
+02:28:35.120{"Messages":{"29":{"Utc":"2022-08-28T14:29:35","Lap":44,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+02:28:40.150{"Messages":{"30":{"Utc":"2022-08-28T14:29:40","Lap":44,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+02:28:41.265{"Messages":{"31":{"Utc":"2022-08-28T14:29:41","Lap":44,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+02:30:44.617{"Messages":{"32":{"Utc":"2022-08-28T14:31:45","Lap":44,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CAR 16 (LEC) NOTED - SPEEDING IN THE PIT LANE"}}}
+02:30:56.068{"Messages":{"33":{"Utc":"2022-08-28T14:31:56","Lap":44,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+02:30:56.090{"Messages":{"34":{"Utc":"2022-08-28T14:31:56","Lap":44,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+02:32:06.232{"Messages":{"35":{"Utc":"2022-08-28T14:33:06","Lap":44,"Category":"Other","Message":"FIA STEWARDS: PIT LANE INCIDENT INVOLVING CAR 16 (LEC) UNDER INVESTIGATION - SPEEDING IN THE PIT LANE"}}}
+02:32:21.324{"Messages":{"36":{"Utc":"2022-08-28T14:33:21","Lap":44,"Category":"Other","Message":"FIA STEWARDS: 5 SECOND TIME PENALTY FOR CAR 16 (LEC) - SPEEDING IN THE PIT LANE"}}}
+02:38:46.362{"Messages":{"37":{"Utc":"2022-08-28T14:39:46","Lap":44,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+02:44:18.718{"Messages":{"38":{"Utc":"2022-08-28T14:45:19","Lap":44,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+02:44:24.840{"Messages":{"39":{"Utc":"2022-08-28T14:45:25","Lap":44,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":19,"Message":"DOUBLE YELLOW IN TRACK SECTOR 19"}}}
+02:44:49.510{"Messages":{"40":{"Utc":"2022-08-28T14:45:50","Lap":44,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 8"}}}
+02:44:56.845{"Messages":{"41":{"Utc":"2022-08-28T14:45:57","Lap":44,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+02:44:56.867{"Messages":{"42":{"Utc":"2022-08-28T14:45:57","Lap":44,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+02:45:51.194{"Messages":{"43":{"Utc":"2022-08-28T14:46:51","Lap":44,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 11"}}}

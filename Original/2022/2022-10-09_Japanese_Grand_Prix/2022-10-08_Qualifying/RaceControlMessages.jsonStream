@@ -1,0 +1,15 @@
+00:12:59.195{"Messages":[{"Utc":"2022-10-08T06:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:25:49.724{"Messages":{"1":{"Utc":"2022-10-08T06:12:51","Category":"Other","Message":"CAR 23 (ALB) TIME 1:31.588 DELETED - TRACK LIMITS AT TURN 14 LAP 3 15:10:06"}}}
+00:30:59.217{"Messages":{"2":{"Utc":"2022-10-08T06:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:31:09.408{"Messages":{"3":{"Utc":"2022-10-08T06:18:11","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 18 (STR)"}}}
+00:37:59.179{"Messages":{"4":{"Utc":"2022-10-08T06:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:52:59.161{"Messages":{"5":{"Utc":"2022-10-08T06:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:53:13.662{"Messages":{"6":{"Utc":"2022-10-08T06:40:15","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 11 (PER)"}}}
+01:00:59.177{"Messages":{"7":{"Utc":"2022-10-08T06:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:08:31.790{"Messages":{"8":{"Utc":"2022-10-08T06:55:33","Category":"Other","Message":"FIA STEWARDS: TURN 15 INCIDENT INVOLVING CARS 4 (NOR) AND 1 (VER) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+01:12:59.162{"Messages":{"9":{"Utc":"2022-10-08T07:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:13:22.211{"Messages":{"10":{"Utc":"2022-10-08T07:00:23","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 3"}}}
+01:13:27.518{"Messages":{"11":{"Utc":"2022-10-08T07:00:29","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 4 (NOR)"}}}
+01:16:55.038{"Messages":{"12":{"Utc":"2022-10-08T07:03:56","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:17:45.387{"Messages":{"13":{"Utc":"2022-10-08T07:04:47","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 3"}}}
+01:17:47.707{"Messages":{"14":{"Utc":"2022-10-08T07:04:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}

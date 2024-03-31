@@ -1,0 +1,23 @@
+00:16:34.511{"Messages":[{"Utc":"2022-11-12T18:53:35","Lap":1,"Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:16:43.031{"Messages":{"1":{"Utc":"2022-11-12T18:53:43","Lap":1,"Category":"Other","Message":"CHANGE IN CLIMATIC CONDITIONS"}}}
+00:38:06.734{"Messages":{"2":{"Utc":"2022-11-12T19:15:07","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 SPRINT IS 10%"}}}
+00:50:00.758{"Messages":{"3":{"Utc":"2022-11-12T19:27:01","Lap":1,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:50:05.273{"Messages":{"4":{"Utc":"2022-11-12T19:27:06","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:56:00.990{"Messages":{"5":{"Utc":"2022-11-12T19:33:01","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:58:59.307{"Messages":{"6":{"Utc":"2022-11-12T19:36:00","Lap":3,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:02:11.493{"Messages":{"7":{"Utc":"2022-11-12T19:39:12","Lap":5,"Category":"Other","Message":"INCIDENT INVOLVING CARS 3 (RIC), 24 (ZHO) AND 44 (HAM) NOTED - STARTING PROCEDURE INFRINGEMENT"}}}
+01:08:08.254{"Messages":{"8":{"Utc":"2022-11-12T19:45:09","Lap":10,"Category":"Other","Message":"INCIDENT INVOLVING CARS 5 (VET) AND 18 (STR) NOTED - FORCING ANOTHER DRIVER OFF THE TRACK"}}}
+01:11:41.285{"Messages":{"9":{"Utc":"2022-11-12T19:48:42","Lap":13,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:11:42.345{"Messages":{"10":{"Utc":"2022-11-12T19:48:43","Lap":13,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:12:20.079{"Messages":{"11":{"Utc":"2022-11-12T19:49:20","Lap":13,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:12:20.093{"Messages":{"12":{"Utc":"2022-11-12T19:49:20","Lap":13,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:14:52.617{"Messages":{"13":{"Utc":"2022-11-12T19:51:53","Lap":16,"Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 5 (VET) AND 18 (STR) UNDER INVESTIGATION - DANGEROUS MANOEUVRE"}}}
+01:14:55.085{"Messages":{"14":{"Utc":"2022-11-12T19:51:55","Lap":16,"Category":"Other","Message":"CAR 1 (VER) TIME 1:14.839 DELETED - TRACK LIMITS AT TURN 4 LAP 7 16:40:57"}}}
+01:16:04.895{"Messages":{"15":{"Utc":"2022-11-12T19:53:05","Lap":16,"Category":"Other","Message":"FIA STEWARDS: 10 SECOND TIME PENALTY FOR CAR 18 (STR) - DANGEROUS MANOEUVRE"}}}
+01:20:24.952{"Messages":{"16":{"Utc":"2022-11-12T19:57:25","Lap":20,"Category":"Other","Message":"STARTING PROCEDURE WILL BE INVESTIGATED AFTER THE SPRINT"}}}
+01:22:04.056{"Messages":{"17":{"Utc":"2022-11-12T19:59:04","Lap":21,"Category":"Other","Message":"LAP 1 INCIDENTS INVOLVING CARS 14 (ALO) AND 31 (OCO) NOTED - CAUSING A COLLISION"}}}
+01:24:08.609{"Messages":{"18":{"Utc":"2022-11-12T20:01:09","Lap":23,"Category":"Other","Message":"INCIDENT INVOLVING CARS 18 (STR) AND 47 (MSC) NOTED - DRIVING ERRATICALLY"}}}
+01:25:12.738{"Messages":{"19":{"Utc":"2022-11-12T20:02:13","Lap":24,"Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 18 (STR) AND 47 (MSC) REVIEWED NO FURTHER INVESTIGATION - DRIVING ERRATICALLY"}}}
+01:26:11.090{"Messages":{"20":{"Utc":"2022-11-12T20:03:11","Lap":24,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:37:52.721{"Messages":{"21":{"Utc":"2022-11-12T20:14:53","Lap":24,"Category":"Other","Message":"FIA STEWARDS: LAP 1, T4 INCIDENT INVOLVING CARS 14 (ALO) AND 31 (OCO) REVIEWED NO FURTHER INVESTIGATION - CAUSING A COLLISION"}}}
+01:38:34.138{"Messages":{"22":{"Utc":"2022-11-12T20:15:34","Lap":24,"Category":"Other","Message":"FIA STEWARDS: LAP 1, MAIN STRAIGHT INCIDENT INVOLVING CARS 14 (ALO) AND 31 (OCO) UNDER INVESTIGATION - CAUSING A COLLISION"}}}

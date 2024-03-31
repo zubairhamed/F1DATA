@@ -1,0 +1,19 @@
+00:04:36.130{"Messages":[{"Utc":"2022-10-22T21:49:38","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:14:58.451{"Messages":{"1":{"Utc":"2022-10-22T22:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:20:16.392{"Messages":{"2":{"Utc":"2022-10-22T22:05:18","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+00:20:34.488{"Messages":{"3":{"Utc":"2022-10-22T22:05:36","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 7"}}}
+00:20:35.481{"Messages":{"4":{"Utc":"2022-10-22T22:05:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:21:03.193{"Messages":{"5":{"Utc":"2022-10-22T22:06:05","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:26:40.321{"Messages":{"6":{"Utc":"2022-10-22T22:11:42","Category":"Other","Message":"CAR 24 (ZHO) TIME 1:36.908 DELETED - TRACK LIMITS AT TURN 12 LAP 6 17:09:56"}}}
+00:32:58.494{"Messages":{"7":{"Utc":"2022-10-22T22:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:09.600{"Messages":{"8":{"Utc":"2022-10-22T22:18:11","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 18 (STR)"}}}
+00:34:36.389{"Messages":{"9":{"Utc":"2022-10-22T22:19:38","Category":"Other","Message":"CAR 44 (HAM) TIME 1:35.878 DELETED - TRACK LIMITS AT TURN 19 LAP 6 17:19:11"}}}
+00:39:58.811{"Messages":{"10":{"Utc":"2022-10-22T22:25:01","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:45:57.916{"Messages":{"11":{"Utc":"2022-10-22T22:31:00","Category":"Other","Message":"CAR 5 (VET) TIME 1:37.131 DELETED - TRACK LIMITS AT TURN 9 LAP 9 17:29:52"}}}
+00:54:58.488{"Messages":{"12":{"Utc":"2022-10-22T22:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:09.285{"Messages":{"13":{"Utc":"2022-10-22T22:40:11","Category":"Other","Message":"CAR 22 (TSU) TIME 1:36.439 DELETED - TRACK LIMITS AT TURN 9 LAP 12 17:38:53"}}}
+00:55:15.920{"Messages":{"14":{"Utc":"2022-10-22T22:40:18","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 10 (GAS)"}}}
+00:56:35.510{"Messages":{"15":{"Utc":"2022-10-22T22:41:37","Category":"Other","Message":"CAR 24 (ZHO) TIME 1:36.196 DELETED - TRACK LIMITS AT TURN 12 LAP 15 17:40:28"}}}
+01:02:58.451{"Messages":{"16":{"Utc":"2022-10-22T22:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:58.469{"Messages":{"17":{"Utc":"2022-10-22T23:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:31.703{"Messages":{"18":{"Utc":"2022-10-22T23:00:33","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 77 (BOT)"}}}

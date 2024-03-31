@@ -1,0 +1,5 @@
+00:00:00.000{"Series":[],"StatusSeries":[{"Utc":"2022-10-22T18:41:27.217Z","TrackStatus":"AllClear"}]}
+00:14:58.960{"StatusSeries":{"1":{"Utc":"2022-10-22T19:00:00.208Z","SessionStatus":"Started"}}}
+01:14:58.962{"StatusSeries":{"2":{"Utc":"2022-10-22T20:00:00.21Z","SessionStatus":"Finished"}}}
+01:22:08.717{"StatusSeries":{"3":{"Utc":"2022-10-22T20:07:09.965Z","SessionStatus":"Finalised"}}}
+01:22:08.805{"StatusSeries":{"4":{"Utc":"2022-10-22T20:07:10.053Z","SessionStatus":"Ends"}}}

@@ -1,0 +1,11 @@
+00:07:07.314{"Messages":[{"Utc":"2022-07-23T13:53:00","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:14:07.049{"Messages":{"1":{"Utc":"2022-07-23T14:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:32:03.788{"Messages":{"2":{"Utc":"2022-07-23T14:17:57","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 8"}}}
+00:32:07.044{"Messages":{"3":{"Utc":"2022-07-23T14:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:17.317{"Messages":{"4":{"Utc":"2022-07-23T14:19:10","Category":"Other","Message":"CAR 3 (RIC) TIME 1:33.410 DELETED - TRACK LIMITS AT TURN 6 LAP 6 16:17:30"}}}
+00:33:26.133{"Messages":{"5":{"Utc":"2022-07-23T14:19:19","Category":"Other","Message":"CAR 47 (MSC) TIME 1:33.114 DELETED - TRACK LIMITS AT TURN 3 LAP 9 16:17:42"}}}
+00:36:33.442{"Messages":{"6":{"Utc":"2022-07-23T14:22:27","Category":"Other","Message":"CAR 22 (TSU) TIME 1:33.739 DELETED - TRACK LIMITS AT TURN 3 LAP 8 16:17:25"}}}
+00:39:07.044{"Messages":{"7":{"Utc":"2022-07-23T14:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:54:07.071{"Messages":{"8":{"Utc":"2022-07-23T14:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:02:07.042{"Messages":{"9":{"Utc":"2022-07-23T14:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:07.047{"Messages":{"10":{"Utc":"2022-07-23T15:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

@@ -1,0 +1,38 @@
+00:11:54.638{"Messages":[{"Utc":"2022-03-11T07:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:16:36.162{"Messages":{"1":{"Utc":"2022-03-11T07:04:42","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+01:53:49.405{"Messages":{"2":{"Utc":"2022-03-11T08:41:55","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+02:23:06.224{"Messages":{"3":{"Utc":"2022-03-11T09:11:12","Category":"Other","Message":"SESSION WILL RESUME AT 12:16"}}}
+02:24:54.145{"Messages":{"4":{"Utc":"2022-03-11T09:13:00","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+02:27:54.645{"Messages":{"5":{"Utc":"2022-03-11T09:16:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+03:57:02.048{"Messages":{"6":{"Utc":"2022-03-11T10:45:08","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+04:00:18.511{"Messages":{"7":{"Utc":"2022-03-11T10:48:24","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+04:01:46.047{"Messages":{"8":{"Utc":"2022-03-11T10:49:52","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+04:02:54.961{"Messages":{"9":{"Utc":"2022-03-11T10:51:01","Category":"Other","Message":"RACE WILL RESUME AT 13:53 - STANDING START"}}}
+04:03:41.970{"Messages":{"10":{"Utc":"2022-03-11T10:51:48","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+04:04:55.462{"Messages":{"11":{"Utc":"2022-03-11T10:53:01","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+04:05:29.358{"Messages":{"12":{"Utc":"2022-03-11T10:53:35","Category":"Other","Message":"STANDING START"}}}
+04:07:45.811{"Messages":{"13":{"Utc":"2022-03-11T10:55:51","Category":"Other","Message":"START ABORTED - EXTRA FORMATION LAP"}}}
+04:08:25.227{"Messages":{"14":{"Utc":"2022-03-11T10:56:31","Category":"Other","Message":"STANDING START"}}}
+04:09:06.196{"Messages":{"15":{"Utc":"2022-03-11T10:57:12","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+04:10:21.839{"Messages":{"16":{"Utc":"2022-03-11T10:58:28","Category":"Other","Message":"SESSION WILL NOT BE RESUMED"}}}
+05:11:54.621{"Messages":{"17":{"Utc":"2022-03-11T12:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+07:33:25.233{"Messages":{"18":{"Utc":"2022-03-11T14:21:31","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":14,"Message":"DOUBLE YELLOW IN TRACK SECTOR 14"}}}
+07:33:31.814{"Messages":{"19":{"Utc":"2022-03-11T14:21:37","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+07:33:31.832{"Messages":{"20":{"Utc":"2022-03-11T14:21:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+07:49:06.242{"Messages":{"21":{"Utc":"2022-03-11T14:37:12","Category":"Other","Message":"SESSION WILL RESUME AT 17:40"}}}
+07:49:42.992{"Messages":{"22":{"Utc":"2022-03-11T14:37:49","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+07:51:54.661{"Messages":{"23":{"Utc":"2022-03-11T14:40:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+08:00:10.798{"Messages":{"24":{"Utc":"2022-03-11T14:48:16","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+08:05:46.894{"Messages":{"25":{"Utc":"2022-03-11T14:53:52","Category":"Other","Message":"SESSION WILL RESUME AT 17:56"}}}
+08:05:51.905{"Messages":{"26":{"Utc":"2022-03-11T14:53:57","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+08:07:54.642{"Messages":{"27":{"Utc":"2022-03-11T14:56:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+08:56:59.484{"Messages":{"28":{"Utc":"2022-03-11T15:45:05","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+08:59:55.792{"Messages":{"29":{"Utc":"2022-03-11T15:48:01","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+09:00:52.808{"Messages":{"30":{"Utc":"2022-03-11T15:48:58","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:01:30.016{"Messages":{"31":{"Utc":"2022-03-11T15:49:36","Category":"Other","Message":"RACE WILL RESUME AT 18:52 - ROLLING START"}}}
+09:01:31.911{"Messages":{"32":{"Utc":"2022-03-11T15:49:38","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+09:03:56.105{"Messages":{"33":{"Utc":"2022-03-11T15:52:02","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+09:05:04.860{"Messages":{"34":{"Utc":"2022-03-11T15:53:11","Category":"Other","Message":"SAFETY CAR WILL ENTER PITS: ROLLING START"}}}
+09:12:03.787{"Messages":{"35":{"Utc":"2022-03-11T16:00:09","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+09:13:55.117{"Messages":{"36":{"Utc":"2022-03-11T16:02:01","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+09:16:54.663{"Messages":{"37":{"Utc":"2022-03-11T16:05:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}

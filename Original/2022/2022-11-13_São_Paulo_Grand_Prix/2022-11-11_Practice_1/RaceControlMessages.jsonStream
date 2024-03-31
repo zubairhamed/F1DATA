@@ -1,0 +1,6 @@
+00:00:06.896{"Messages":[{"Utc":"2022-11-11T15:15:08","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}]}
+00:02:43.611{"Messages":{"1":{"Utc":"2022-11-11T15:13:15","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:02:43.614{"Messages":{"2":{"Utc":"2022-11-11T15:15:08","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 0%"}}}
+00:14:58.900{"Messages":{"3":{"Utc":"2022-11-11T15:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:58.949{"Messages":{"4":{"Utc":"2022-11-11T16:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:15.999{"Messages":{"5":{"Utc":"2022-11-11T16:30:17","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 1 (VER)"}}}

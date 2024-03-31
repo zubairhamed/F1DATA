@@ -1,0 +1,17 @@
+00:00:26.342{"Messages":[{"Utc":"2022-07-30T13:45:52","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 30%"}]}
+00:14:34.459{"Messages":{"1":{"Utc":"2022-07-30T14:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:18:03.120{"Messages":{"2":{"Utc":"2022-07-30T14:03:29","Category":"Other","Message":"CAR 47 (MSC) TIME 1:20.905 DELETED - TRACK LIMITS AT TURN 5 LAP 3 16:02:37"}}}
+00:23:23.594{"Messages":{"3":{"Utc":"2022-07-30T14:08:49","Category":"Other","Message":"CAR 47 (MSC) TRACK LIMITS TURN 4 "}}}
+00:27:39.629{"Messages":{"4":{"Utc":"2022-07-30T14:13:05","Category":"Other","Message":"CAR 22 (TSU) TIME 1:19.904 DELETED - TRACK LIMITS AT TURN 5 LAP 6 16:09:22"}}}
+00:32:34.686{"Messages":{"5":{"Utc":"2022-07-30T14:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:32:50.471{"Messages":{"6":{"Utc":"2022-07-30T14:18:16","Category":"Other","Message":"CAR 10 (GAS) TIME 1:19.116 DELETED - TRACK LIMITS AT TURN 5 LAP 9 16:17:27"}}}
+00:33:10.865{"Messages":{"7":{"Utc":"2022-07-30T14:18:37","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 10 (GAS)"}}}
+00:34:04.460{"Messages":{"8":{"Utc":"2022-07-30T14:19:30","Category":"Other","Message":"CAR 1 (VER) TIME 1:18.668 DELETED - TRACK LIMITS AT TURN 11 LAP 10 16:18:39"}}}
+00:39:34.455{"Messages":{"9":{"Utc":"2022-07-30T14:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:43:59.556{"Messages":{"10":{"Utc":"2022-07-30T14:29:25","Category":"Other","Message":"CAR 11 (PER) TIME 1:18.516 DELETED - TRACK LIMITS AT TURN 5 LAP 13 16:28:39"}}}
+00:50:30.332{"Messages":{"11":{"Utc":"2022-07-30T14:35:56","Category":"Other","Message":"CAR 11 (PER) TIME 1:18.516 WILL BE REINSTATED "}}}
+00:54:34.460{"Messages":{"12":{"Utc":"2022-07-30T14:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:54:48.942{"Messages":{"13":{"Utc":"2022-07-30T14:40:15","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 24 (ZHO)"}}}
+01:02:34.497{"Messages":{"14":{"Utc":"2022-07-30T14:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:34.469{"Messages":{"15":{"Utc":"2022-07-30T15:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:14:54.864{"Messages":{"16":{"Utc":"2022-07-30T15:00:21","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 55 (SAI)"}}}

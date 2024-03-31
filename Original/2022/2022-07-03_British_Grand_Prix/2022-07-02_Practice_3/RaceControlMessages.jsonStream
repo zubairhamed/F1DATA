@@ -1,0 +1,8 @@
+00:00:20.336{"Messages":[{"Utc":"2022-07-02T10:45:20","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 30%"}]}
+00:04:38.966{"Messages":{"1":{"Utc":"2022-07-02T10:49:39","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.311{"Messages":{"2":{"Utc":"2022-07-02T11:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:45:05.014{"Messages":{"3":{"Utc":"2022-07-02T11:30:05","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:54:15.552{"Messages":{"4":{"Utc":"2022-07-02T11:39:16","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:06:09.339{"Messages":{"5":{"Utc":"2022-07-02T11:51:09","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:15:00.214{"Messages":{"6":{"Utc":"2022-07-02T12:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:07.223{"Messages":{"7":{"Utc":"2022-07-02T12:00:07","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 55 (SAI)"}}}

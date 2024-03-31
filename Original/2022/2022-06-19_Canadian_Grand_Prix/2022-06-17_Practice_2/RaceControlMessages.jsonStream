@@ -1,0 +1,35 @@
+00:00:02.173{"Messages":[{"Utc":"2022-06-17T20:45:04","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 40%"}]}
+00:14:58.507{"Messages":{"1":{"Utc":"2022-06-17T21:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:16:14.148{"Messages":{"2":{"Utc":"2022-06-17T21:01:16","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 5 (VET) AND 20 (MAG) NOTED - UNSAFE RELEASE"}}}
+00:17:24.616{"Messages":{"3":{"Utc":"2022-06-17T21:02:26","Category":"Other","Message":"FIA STEWARDS: PIT LANE INCIDENT INVOLVING CARS 5 (VET) AND 20 (MAG) WILL BE INVESTIGATED AFTER THE SESSION - UNSAFE RELEASE"}}}
+00:18:44.822{"Messages":{"4":{"Utc":"2022-06-17T21:03:47","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) MISSED THE APEX OF TURN 9"}}}
+00:27:28.290{"Messages":{"5":{"Utc":"2022-06-17T21:12:30","Category":"CarEvent","RacingNumber":"1","Message":"CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:27:57.549{"Messages":{"6":{"Utc":"2022-06-17T21:12:59","Category":"Other","Message":"CORRECTION - CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:28:34.621{"Messages":{"7":{"Utc":"2022-06-17T21:13:36","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) MISSED THE APEX OF TURN 9"}}}
+00:28:52.020{"Messages":{"8":{"Utc":"2022-06-17T21:13:54","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 14"}}}
+00:30:44.826{"Messages":{"9":{"Utc":"2022-06-17T21:15:46","Category":"Other","Message":"TURN 14 INCIDENT INVOLVING CAR 10 (GAS) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS"}}}
+00:31:32.054{"Messages":{"10":{"Utc":"2022-06-17T21:16:34","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:33:00.517{"Messages":{"11":{"Utc":"2022-06-17T21:18:02","Category":"Other","Message":"FIA STEWARDS: TURN 14 INCIDENT INVOLVING CAR 10 (GAS) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS"}}}
+00:37:09.688{"Messages":{"12":{"Utc":"2022-06-17T21:22:11","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:37:51.350{"Messages":{"13":{"Utc":"2022-06-17T21:22:53","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+00:38:03.675{"Messages":{"14":{"Utc":"2022-06-17T21:23:05","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:38:05.467{"Messages":{"15":{"Utc":"2022-06-17T21:23:07","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:45:24.704{"Messages":{"16":{"Utc":"2022-06-17T21:30:26","Category":"Other","Message":"PIT EXIT INCIDENT INVOLVING CARS 5 (VET) AND 55 (SAI) NOTED - DRIVING UNNECESSARILY SLOWLY"}}}
+00:48:23.967{"Messages":{"17":{"Utc":"2022-06-17T21:33:26","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) MISSED THE APEX OF TURN 14"}}}
+00:50:24.247{"Messages":{"18":{"Utc":"2022-06-17T21:35:26","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) MISSED THE APEX OF TURN 14"}}}
+00:51:24.918{"Messages":{"19":{"Utc":"2022-06-17T21:36:27","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 9"}}}
+00:51:47.480{"Messages":{"20":{"Utc":"2022-06-17T21:36:49","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) MISSED THE APEX OF TURN 14"}}}
+00:59:26.201{"Messages":{"21":{"Utc":"2022-06-17T21:44:28","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 14"}}}
+01:00:14.870{"Messages":{"22":{"Utc":"2022-06-17T21:45:17","Category":"Other","Message":"TURN 14 INCIDENT INVOLVING CAR 5 (VET) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS"}}}
+01:00:32.850{"Messages":{"23":{"Utc":"2022-06-17T21:45:35","Category":"Other","Message":"FIA STEWARDS: TURN 14 INCIDENT INVOLVING CAR 5 (VET) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS"}}}
+01:03:30.287{"Messages":{"24":{"Utc":"2022-06-17T21:48:32","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 14"}}}
+01:05:33.001{"Messages":{"25":{"Utc":"2022-06-17T21:50:35","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) MISSED THE APEX OF TURN 14"}}}
+01:09:59.367{"Messages":{"26":{"Utc":"2022-06-17T21:55:01","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 9"}}}
+01:10:14.619{"Messages":{"27":{"Utc":"2022-06-17T21:55:16","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) MISSED THE APEX OF TURN 9"}}}
+01:14:58.484{"Messages":{"28":{"Utc":"2022-06-17T22:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:16.237{"Messages":{"29":{"Utc":"2022-06-17T22:00:18","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 22 (TSU)"}}}
+01:15:32.356{"Messages":{"30":{"Utc":"2022-06-17T22:00:34","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 14"}}}
+01:16:10.098{"Messages":{"31":{"Utc":"2022-06-17T22:01:12","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) MISSED THE APEX OF TURN 14"}}}
+01:16:19.138{"Messages":{"32":{"Utc":"2022-06-17T22:01:21","Category":"Other","Message":"TURN 14 INCIDENT INVOLVING CAR 18 (STR) NOTED - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS"}}}
+01:16:34.037{"Messages":{"33":{"Utc":"2022-06-17T22:01:36","Category":"Other","Message":"FIA STEWARDS: TURN 14 INCIDENT INVOLVING CAR 18 (STR) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO FOLLOW RACE DIRECTORS INSTRUCTIONS"}}}
+01:19:16.997{"Messages":{"34":{"Utc":"2022-06-17T22:04:19","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1"}}}

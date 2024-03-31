@@ -1,0 +1,11 @@
+00:00:01.725{"Messages":[{"Utc":"2022-11-12T15:15:02","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:00:07.036{"Messages":{"1":{"Utc":"2022-11-12T15:15:07","Category":"Other","Message":"CHANGE IN CLIMATIC CONDITIONS"}}}
+00:00:17.589{"Messages":{"2":{"Utc":"2022-11-12T15:15:18","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 20%"}}}
+00:15:00.531{"Messages":{"3":{"Utc":"2022-11-12T15:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:24:47.483{"Messages":{"4":{"Utc":"2022-11-12T15:39:47","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:25:02.777{"Messages":{"5":{"Utc":"2022-11-12T15:40:03","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:39:13.244{"Messages":{"6":{"Utc":"2022-11-12T15:54:13","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+00:39:13.888{"Messages":{"7":{"Utc":"2022-11-12T15:54:14","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:15:00.527{"Messages":{"8":{"Utc":"2022-11-12T16:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:12.467{"Messages":{"9":{"Utc":"2022-11-12T16:30:12","Category":"Other","Message":"AIR TEMPERATURE 3 HOURS BEFORE THE SPRINT = 25.5 DEGREES"}}}
+01:15:35.152{"Messages":{"10":{"Utc":"2022-11-12T16:30:35","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 14 (ALO)"}}}

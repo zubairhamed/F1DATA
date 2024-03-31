@@ -1,0 +1,23 @@
+00:02:57.104{"Messages":[{"Utc":"2022-11-19T10:17:59","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}]}
+00:02:58.107{"Messages":{"1":{"Utc":"2022-11-19T10:18:00","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:03:15.041{"Messages":{"2":{"Utc":"2022-11-19T10:18:17","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:03:34.593{"Messages":{"3":{"Utc":"2022-11-19T10:18:36","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:06:32.885{"Messages":{"4":{"Utc":"2022-11-19T10:21:34","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:14:58.826{"Messages":{"5":{"Utc":"2022-11-19T10:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:38:09.235{"Messages":{"6":{"Utc":"2022-11-19T10:53:11","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+00:38:10.479{"Messages":{"7":{"Utc":"2022-11-19T10:53:12","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:38:19.662{"Messages":{"8":{"Utc":"2022-11-19T10:53:21","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:38:26.849{"Messages":{"9":{"Utc":"2022-11-19T10:53:28","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+00:38:30.841{"Messages":{"10":{"Utc":"2022-11-19T10:53:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:38:34.217{"Messages":{"11":{"Utc":"2022-11-19T10:53:36","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:43:41.002{"Messages":{"12":{"Utc":"2022-11-19T10:58:42","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:46:08.334{"Messages":{"13":{"Utc":"2022-11-19T11:01:10","Category":"Other","Message":"SESSION WILL RESUME AT 15:02"}}}
+00:46:15.963{"Messages":{"14":{"Utc":"2022-11-19T11:01:17","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:46:18.336{"Messages":{"15":{"Utc":"2022-11-19T11:01:20","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:46:58.865{"Messages":{"16":{"Utc":"2022-11-19T11:02:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:49:50.055{"Messages":{"17":{"Utc":"2022-11-19T11:04:51","Category":"Other","Message":"TURN 5 INCIDENT INVOLVING CAR 44 (HAM) NOTED - FAILING TO SLOW UNDER RED FLAG"}}}
+00:52:40.074{"Messages":{"18":{"Utc":"2022-11-19T11:07:42","Category":"Other","Message":"FIA STEWARDS: TURN 5 INCIDENT INVOLVING CAR 44 (HAM) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO SLOW UNDER RED FLAG"}}}
+00:54:57.829{"Messages":{"19":{"Utc":"2022-11-19T11:09:59","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 14"}}}
+00:54:59.947{"Messages":{"20":{"Utc":"2022-11-19T11:10:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:14:58.838{"Messages":{"21":{"Utc":"2022-11-19T11:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:16.505{"Messages":{"22":{"Utc":"2022-11-19T11:30:18","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 18 (STR)"}}}

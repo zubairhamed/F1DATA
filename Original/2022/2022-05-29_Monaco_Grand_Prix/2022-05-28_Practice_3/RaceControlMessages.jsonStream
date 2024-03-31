@@ -1,0 +1,51 @@
+00:14:59.253{"Messages":[{"Utc":"2022-05-28T11:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:27:54.400{"Messages":{"1":{"Utc":"2022-05-28T11:12:55","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 10"}}}
+00:29:33.319{"Messages":{"2":{"Utc":"2022-05-28T11:14:34","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 16"}}}
+00:29:55.463{"Messages":{"3":{"Utc":"2022-05-28T11:14:56","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 10"}}}
+00:31:38.596{"Messages":{"4":{"Utc":"2022-05-28T11:16:39","Category":"CarEvent","RacingNumber":"24","Message":"CAR 24 (ZHO) MISSED THE APEX OF TURN 10"}}}
+00:31:46.435{"Messages":{"5":{"Utc":"2022-05-28T11:16:47","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 16"}}}
+00:32:12.073{"Messages":{"6":{"Utc":"2022-05-28T11:17:13","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 16"}}}
+00:33:04.813{"Messages":{"7":{"Utc":"2022-05-28T11:18:06","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 10"}}}
+00:33:49.885{"Messages":{"8":{"Utc":"2022-05-28T11:18:51","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) MISSED THE APEX OF TURN 10"}}}
+00:35:20.350{"Messages":{"9":{"Utc":"2022-05-28T11:20:21","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 10"}}}
+00:38:40.284{"Messages":{"10":{"Utc":"2022-05-28T11:23:41","Category":"Other","Message":"TURN 18 INCIDENT INVOLVING CARS 18 (STR) AND 55 (SAI) NOTED - IMPEDING"}}}
+00:39:35.092{"Messages":{"11":{"Utc":"2022-05-28T11:24:36","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 10"}}}
+00:40:31.126{"Messages":{"12":{"Utc":"2022-05-28T11:25:32","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:40:32.155{"Messages":{"13":{"Utc":"2022-05-28T11:25:33","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:40:35.904{"Messages":{"14":{"Utc":"2022-05-28T11:25:37","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 10"}}}
+00:40:58.833{"Messages":{"15":{"Utc":"2022-05-28T11:26:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:40:58.846{"Messages":{"16":{"Utc":"2022-05-28T11:26:00","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:41:17.817{"Messages":{"17":{"Utc":"2022-05-28T11:26:19","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 10"}}}
+00:43:27.795{"Messages":{"18":{"Utc":"2022-05-28T11:28:29","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) MISSED THE APEX OF TURN 10"}}}
+00:45:20.387{"Messages":{"19":{"Utc":"2022-05-28T11:30:21","Category":"Other","Message":"FIA STEWARDS: TURN 18 INCIDENT INVOLVING CARS 18 (STR) AND 55 (SAI) WILL BE INVESTIGATED AFTER THE SESSION - IMPEDING"}}}
+00:45:33.709{"Messages":{"20":{"Utc":"2022-05-28T11:30:35","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 10"}}}
+00:46:08.247{"Messages":{"21":{"Utc":"2022-05-28T11:31:09","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 10"}}}
+00:47:19.676{"Messages":{"22":{"Utc":"2022-05-28T11:32:21","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:47:20.789{"Messages":{"23":{"Utc":"2022-05-28T11:32:22","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:47:38.960{"Messages":{"24":{"Utc":"2022-05-28T11:32:40","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:47:38.994{"Messages":{"25":{"Utc":"2022-05-28T11:32:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:48:46.590{"Messages":{"26":{"Utc":"2022-05-28T11:33:47","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 10"}}}
+00:58:42.013{"Messages":{"27":{"Utc":"2022-05-28T11:43:43","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 16"}}}
+00:59:52.227{"Messages":{"28":{"Utc":"2022-05-28T11:44:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:59:53.296{"Messages":{"29":{"Utc":"2022-05-28T11:44:54","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:00:00.155{"Messages":{"30":{"Utc":"2022-05-28T11:45:01","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:00:00.195{"Messages":{"31":{"Utc":"2022-05-28T11:45:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:00:46.896{"Messages":{"32":{"Utc":"2022-05-28T11:45:48","Category":"Other","Message":"TURN 14 INCIDENT INVOLVING CARS 1 (VER) AND 24 (ZHO) NOTED - IMPEDING"}}}
+01:01:37.844{"Messages":{"33":{"Utc":"2022-05-28T11:46:39","Category":"Other","Message":"TURN 3 INCIDENT INVOLVING CARS 55 (SAI) AND 5 (VET) NOTED - IMPEDING"}}}
+01:02:20.974{"Messages":{"34":{"Utc":"2022-05-28T11:47:22","Category":"Other","Message":"CARS 44 (HAM) AND 6 (LAT) MISSED THE APEX OF TURN 10"}}}
+01:03:02.748{"Messages":{"35":{"Utc":"2022-05-28T11:48:04","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 10"}}}
+01:03:08.588{"Messages":{"36":{"Utc":"2022-05-28T11:48:09","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 10"}}}
+01:04:13.034{"Messages":{"37":{"Utc":"2022-05-28T11:49:14","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 10"}}}
+01:05:02.782{"Messages":{"38":{"Utc":"2022-05-28T11:50:04","Category":"Other","Message":"FIA STEWARDS: TURN 14 INCIDENT INVOLVING CARS 1 (VER) AND 24 (ZHO) WILL BE INVESTIGATED AFTER THE SESSION - IMPEDING"}}}
+01:05:51.253{"Messages":{"39":{"Utc":"2022-05-28T11:50:52","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 10"}}}
+01:06:08.029{"Messages":{"40":{"Utc":"2022-05-28T11:51:09","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+01:08:13.510{"Messages":{"41":{"Utc":"2022-05-28T11:53:14","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) MISSED THE APEX OF TURN 10"}}}
+01:09:01.309{"Messages":{"42":{"Utc":"2022-05-28T11:54:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:09:29.007{"Messages":{"43":{"Utc":"2022-05-28T11:54:30","Category":"Other","Message":"TURN 18 INCIDENT INVOLVING CARS 11 (PER) AND 63 (RUS) NOTED - IMPEDING"}}}
+01:12:11.749{"Messages":{"44":{"Utc":"2022-05-28T11:57:13","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) MISSED THE APEX OF TURN 10"}}}
+01:13:12.741{"Messages":{"45":{"Utc":"2022-05-28T11:58:14","Category":"Other","Message":"FIA STEWARDS: TURN 3 INCIDENT INVOLVING CARS 55 (SAI) AND 5 (VET) REVIEWED NO FURTHER INVESTIGATION - IMPEDING"}}}
+01:14:59.227{"Messages":{"46":{"Utc":"2022-05-28T12:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:11.669{"Messages":{"47":{"Utc":"2022-05-28T12:00:13","Category":"CarEvent","RacingNumber":"22","Message":"CAR 22 (TSU) MISSED THE APEX OF TURN 10"}}}
+01:15:23.153{"Messages":{"48":{"Utc":"2022-05-28T12:00:24","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 55 (SAI)"}}}
+01:15:34.510{"Messages":{"49":{"Utc":"2022-05-28T12:00:35","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) MISSED THE APEX OF TURN 10"}}}
+01:15:42.556{"Messages":{"50":{"Utc":"2022-05-28T12:00:43","Category":"Other","Message":"FIA STEWARDS: TURN 18 INCIDENT INVOLVING CARS 11 (PER) AND 63 (RUS) WILL BE INVESTIGATED AFTER THE SESSION - IMPEDING"}}}

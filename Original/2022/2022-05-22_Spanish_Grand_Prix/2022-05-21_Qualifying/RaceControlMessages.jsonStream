@@ -1,0 +1,17 @@
+00:00:10.009{"Messages":[{"Utc":"2022-05-21T13:45:10","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:07:41.708{"Messages":{"1":{"Utc":"2022-05-21T13:52:42","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.348{"Messages":{"2":{"Utc":"2022-05-21T14:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:04.418{"Messages":{"3":{"Utc":"2022-05-21T14:04:04","Category":"Other","Message":"CAR 22 (TSU) TIME 1:21.836 DELETED - TRACK LIMITS AT TURN 12 LAP 3 16:03:34"}}}
+00:24:04.491{"Messages":{"4":{"Utc":"2022-05-21T14:09:04","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 4 (NOR) AND 18 (STR) NOTED - UNSAFE RELEASE"}}}
+00:25:22.311{"Messages":{"5":{"Utc":"2022-05-21T14:10:22","Category":"Other","Message":"FIA STEWARDS: PIT LANE INCIDENT INVOLVING CARS 4 (NOR) AND 18 (STR) WILL BE INVESTIGATED AFTER THE SESSION - UNSAFE RELEASE"}}}
+00:27:43.496{"Messages":{"6":{"Utc":"2022-05-21T14:12:43","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 8"}}}
+00:33:00.551{"Messages":{"7":{"Utc":"2022-05-21T14:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:37:41.302{"Messages":{"8":{"Utc":"2022-05-21T14:22:41","Category":"Other","Message":"TURN 14 INCIDENT INVOLVING CARS 4 (NOR) AND 14 (ALO) NOTED - IMPEDING"}}}
+00:39:50.750{"Messages":{"9":{"Utc":"2022-05-21T14:24:51","Category":"Other","Message":"FIA STEWARDS: TURN 14 INCIDENT INVOLVING CARS 4 (NOR) AND 14 (ALO) REVIEWED NO FURTHER INVESTIGATION - IMPEDING"}}}
+00:40:00.291{"Messages":{"10":{"Utc":"2022-05-21T14:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:55:00.259{"Messages":{"11":{"Utc":"2022-05-21T14:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:53.362{"Messages":{"12":{"Utc":"2022-05-21T14:40:53","Category":"Other","Message":"CAR 4 (NOR) TIME 1:19.977 DELETED - TRACK LIMITS AT TURN 12 LAP 12 16:40:24"}}}
+00:57:13.223{"Messages":{"13":{"Utc":"2022-05-21T14:42:13","Category":"Other","Message":"CAR 11 (PER) TIME 1:20.171 DELETED - TRACK LIMITS AT TURN 12 LAP 11 16:40:38"}}}
+01:03:00.250{"Messages":{"14":{"Utc":"2022-05-21T14:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:07:36.840{"Messages":{"15":{"Utc":"2022-05-21T14:52:37","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) SPUN AND CONTINUED AT TURN 15"}}}
+01:15:00.278{"Messages":{"16":{"Utc":"2022-05-21T15:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

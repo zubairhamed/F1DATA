@@ -1,0 +1,9 @@
+00:00:11.324{"Messages":[{"Utc":"2022-09-10T10:45:12","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}]}
+00:03:00.637{"Messages":{"1":{"Utc":"2022-09-10T10:48:01","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:14:59.597{"Messages":{"2":{"Utc":"2022-09-10T11:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:35:19.969{"Messages":{"3":{"Utc":"2022-09-10T11:20:20","Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 55 (SAI) AND 77 (BOT) NOTED - IMPEDING"}}}
+00:36:08.742{"Messages":{"4":{"Utc":"2022-09-10T11:21:09","Category":"Other","Message":"FIA STEWARDS: TURN 1 INCIDENT INVOLVING CARS 55 (SAI) AND 77 (BOT) UNDER INVESTIGATION - IMPEDING"}}}
+00:44:45.618{"Messages":{"5":{"Utc":"2022-09-10T11:29:46","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:44:53.965{"Messages":{"6":{"Utc":"2022-09-10T11:29:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:14:59.780{"Messages":{"7":{"Utc":"2022-09-10T12:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:46.471{"Messages":{"8":{"Utc":"2022-09-10T12:00:47","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 63 (RUS)"}}}

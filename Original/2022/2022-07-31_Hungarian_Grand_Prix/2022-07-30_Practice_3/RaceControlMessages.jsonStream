@@ -1,0 +1,49 @@
+00:10:05.714{"Messages":[{"Utc":"2022-07-30T10:55:53","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:10:54.981{"Messages":{"1":{"Utc":"2022-07-30T10:56:42","Category":"Other","Message":"WET TRACK"}}}
+00:10:58.183{"Messages":{"2":{"Utc":"2022-07-30T10:56:46","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:11:00.752{"Messages":{"3":{"Utc":"2022-07-30T10:56:48","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:14:12.618{"Messages":{"4":{"Utc":"2022-07-30T11:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:20:25.403{"Messages":{"5":{"Utc":"2022-07-30T11:06:13","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 7"}}}
+00:27:02.402{"Messages":{"6":{"Utc":"2022-07-30T11:12:50","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 7"}}}
+00:28:37.297{"Messages":{"7":{"Utc":"2022-07-30T11:14:25","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:31:53.917{"Messages":{"8":{"Utc":"2022-07-30T11:17:41","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:32:46.421{"Messages":{"9":{"Utc":"2022-07-30T11:18:34","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:34:04.134{"Messages":{"10":{"Utc":"2022-07-30T11:19:52","Category":"CarEvent","RacingNumber":"24","Message":"CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:34:15.758{"Messages":{"11":{"Utc":"2022-07-30T11:20:03","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:41:23.858{"Messages":{"12":{"Utc":"2022-07-30T11:27:11","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:43:50.536{"Messages":{"13":{"Utc":"2022-07-30T11:29:38","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 12"}}}
+00:47:31.415{"Messages":{"14":{"Utc":"2022-07-30T11:33:19","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 7"}}}
+00:47:37.703{"Messages":{"15":{"Utc":"2022-07-30T11:33:25","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) MISSED THE APEX OF TURN 7"}}}
+00:48:30.585{"Messages":{"16":{"Utc":"2022-07-30T11:34:18","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+00:48:35.383{"Messages":{"17":{"Utc":"2022-07-30T11:34:23","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":10,"Message":"DOUBLE YELLOW IN TRACK SECTOR 10"}}}
+00:48:39.327{"Messages":{"18":{"Utc":"2022-07-30T11:34:27","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:48:41.888{"Messages":{"19":{"Utc":"2022-07-30T11:34:29","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+00:48:43.850{"Messages":{"20":{"Utc":"2022-07-30T11:34:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:48:45.641{"Messages":{"21":{"Utc":"2022-07-30T11:34:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:49:15.425{"Messages":{"22":{"Utc":"2022-07-30T11:35:03","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) SPUN AND CONTINUED AT TURN 7"}}}
+00:55:31.482{"Messages":{"23":{"Utc":"2022-07-30T11:41:19","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 11"}}}
+00:55:46.840{"Messages":{"24":{"Utc":"2022-07-30T11:41:34","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 7"}}}
+00:57:18.406{"Messages":{"25":{"Utc":"2022-07-30T11:43:06","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 11"}}}
+00:58:16.810{"Messages":{"26":{"Utc":"2022-07-30T11:44:04","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 7"}}}
+00:58:48.064{"Messages":{"27":{"Utc":"2022-07-30T11:44:36","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) MISSED THE APEX OF TURN 7"}}}
+00:58:55.196{"Messages":{"28":{"Utc":"2022-07-30T11:44:43","Category":"CarEvent","RacingNumber":"1","Message":"CAR 1 (VER) MISSED THE APEX OF TURN 7"}}}
+00:59:04.172{"Messages":{"29":{"Utc":"2022-07-30T11:44:52","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 11"}}}
+00:59:51.719{"Messages":{"30":{"Utc":"2022-07-30T11:45:39","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) SPUN AND CONTINUED AT TURN 3"}}}
+01:00:16.923{"Messages":{"31":{"Utc":"2022-07-30T11:46:04","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 12"}}}
+01:00:49.638{"Messages":{"32":{"Utc":"2022-07-30T11:46:37","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:00:52.562{"Messages":{"33":{"Utc":"2022-07-30T11:46:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:01:05.287{"Messages":{"34":{"Utc":"2022-07-30T11:46:53","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 12"}}}
+01:03:09.998{"Messages":{"35":{"Utc":"2022-07-30T11:48:57","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 7"}}}
+01:04:41.719{"Messages":{"36":{"Utc":"2022-07-30T11:50:29","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 2"}}}
+01:04:46.470{"Messages":{"37":{"Utc":"2022-07-30T11:50:34","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:05:10.213{"Messages":{"38":{"Utc":"2022-07-30T11:50:58","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:05:10.352{"Messages":{"39":{"Utc":"2022-07-30T11:50:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:05:27.776{"Messages":{"40":{"Utc":"2022-07-30T11:51:15","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 7"}}}
+01:08:31.727{"Messages":{"41":{"Utc":"2022-07-30T11:54:19","Category":"Other","Message":"SESSION WILL RESUME AT 13:56"}}}
+01:08:49.290{"Messages":{"42":{"Utc":"2022-07-30T11:54:37","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:10:12.681{"Messages":{"43":{"Utc":"2022-07-30T11:56:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:13:07.785{"Messages":{"44":{"Utc":"2022-07-30T11:58:55","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 7"}}}
+01:13:30.671{"Messages":{"45":{"Utc":"2022-07-30T11:59:18","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 7"}}}
+01:14:12.643{"Messages":{"46":{"Utc":"2022-07-30T12:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:14:30.193{"Messages":{"47":{"Utc":"2022-07-30T12:00:18","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 24 (ZHO)"}}}
+01:39:14.184{"Messages":{"48":{"Utc":"2022-07-30T12:25:02","Category":"Other","Message":"PIT LANE OPEN"}}}

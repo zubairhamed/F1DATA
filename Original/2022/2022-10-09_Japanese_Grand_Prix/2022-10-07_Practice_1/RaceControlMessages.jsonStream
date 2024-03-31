@@ -1,0 +1,19 @@
+00:05:17.961{"Messages":[{"Utc":"2022-10-07T02:50:18","Category":"Other","Message":"TRACK TEST COMPLETED"}]}
+00:07:02.298{"Messages":{"1":{"Utc":"2022-10-07T02:52:02","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:07:30.294{"Messages":{"2":{"Utc":"2022-10-07T02:52:30","Category":"Other","Message":"WET TRACK"}}}
+00:07:35.062{"Messages":{"3":{"Utc":"2022-10-07T02:52:35","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:07:38.224{"Messages":{"4":{"Utc":"2022-10-07T02:52:38","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:15:00.722{"Messages":{"5":{"Utc":"2022-10-07T03:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:14.920{"Messages":{"6":{"Utc":"2022-10-07T03:04:15","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 15"}}}
+00:19:24.218{"Messages":{"7":{"Utc":"2022-10-07T03:04:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:48:18.280{"Messages":{"8":{"Utc":"2022-10-07T03:33:18","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:48:29.144{"Messages":{"9":{"Utc":"2022-10-07T03:33:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:48:44.523{"Messages":{"10":{"Utc":"2022-10-07T03:33:44","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 11"}}}
+01:15:00.700{"Messages":{"11":{"Utc":"2022-10-07T04:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:41.287{"Messages":{"12":{"Utc":"2022-10-07T04:00:41","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 24 (ZHO)"}}}
+01:19:43.888{"Messages":{"13":{"Utc":"2022-10-07T04:04:44","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:20:14.334{"Messages":{"14":{"Utc":"2022-10-07T04:05:14","Category":"Other","Message":"MEDICAL CAR DEPLOYED"}}}
+01:20:53.080{"Messages":{"15":{"Utc":"2022-10-07T04:05:53","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) STOPPED AT TURN 8"}}}
+01:21:28.969{"Messages":{"16":{"Utc":"2022-10-07T04:06:29","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+01:23:54.987{"Messages":{"17":{"Utc":"2022-10-07T04:08:55","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:38:28.988{"Messages":{"18":{"Utc":"2022-10-07T04:23:29","Category":"Other","Message":"START OF PORSCHE PRACTICE SESSION CURRENTLY DELAYED BY 15 MINUTES"}}}

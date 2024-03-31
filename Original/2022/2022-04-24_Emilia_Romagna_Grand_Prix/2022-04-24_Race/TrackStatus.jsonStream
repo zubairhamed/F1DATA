@@ -1,0 +1,8 @@
+00:00:00.000{"Status":"1","Message":"AllClear"}
+01:02:23.363{"Status":"2","Message":"Yellow"}
+01:03:13.645{"Status":"4","Message":"SCDeployed"}
+01:10:53.647{"Status":"1","Message":"AllClear"}
+01:42:12.719{"Status":"2","Message":"Yellow"}
+01:42:19.717{"Status":"1","Message":"AllClear"}
+02:20:45.792{"Status":"2","Message":"Yellow"}
+02:20:55.223{"Status":"1","Message":"AllClear"}

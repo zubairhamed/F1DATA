@@ -1,0 +1,34 @@
+00:06:08.519{"Messages":[{"Utc":"2022-06-11T10:51:46","Category":"Other","Message":"START OF THE SESSION IS DELAYED "}]}
+00:09:46.656{"Messages":{"1":{"Utc":"2022-06-11T10:55:24","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:17:24.155{"Messages":{"2":{"Utc":"2022-06-11T11:03:01","Category":"Other","Message":"SESSION WILL START AT 15:1 TBC"}}}
+00:17:42.562{"Messages":{"3":{"Utc":"2022-06-11T11:03:20","Category":"Other","Message":"SESSION WILL START AT 15:15 TBC"}}}
+00:21:57.152{"Messages":{"4":{"Utc":"2022-06-11T11:07:34","Category":"Other","Message":"SESSION WILL START AT 15:15"}}}
+00:22:21.349{"Messages":{"5":{"Utc":"2022-06-11T11:07:59","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:22:21.358{"Messages":{"6":{"Utc":"2022-06-11T11:07:59","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:26:51.241{"Messages":{"7":{"Utc":"2022-06-11T11:12:28","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:26:54.558{"Messages":{"8":{"Utc":"2022-06-11T11:12:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:26:54.570{"Messages":{"9":{"Utc":"2022-06-11T11:12:32","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:27:14.725{"Messages":{"10":{"Utc":"2022-06-11T11:12:52","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:28:05.300{"Messages":{"11":{"Utc":"2022-06-11T11:13:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:28:05.311{"Messages":{"12":{"Utc":"2022-06-11T11:13:42","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:29:23.111{"Messages":{"13":{"Utc":"2022-06-11T11:15:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:42:01.407{"Messages":{"14":{"Utc":"2022-06-11T11:27:39","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:17:04.614{"Messages":{"15":{"Utc":"2022-06-11T12:02:42","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:17:05.667{"Messages":{"16":{"Utc":"2022-06-11T12:02:43","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:18:26.789{"Messages":{"17":{"Utc":"2022-06-11T12:04:04","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:18:27.532{"Messages":{"18":{"Utc":"2022-06-11T12:04:05","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+01:18:30.347{"Messages":{"19":{"Utc":"2022-06-11T12:04:07","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:18:30.360{"Messages":{"20":{"Utc":"2022-06-11T12:04:07","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:18:30.738{"Messages":{"21":{"Utc":"2022-06-11T12:04:08","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:18:31.737{"Messages":{"22":{"Utc":"2022-06-11T12:04:09","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:18:32.021{"Messages":{"23":{"Utc":"2022-06-11T12:04:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:23:39.065{"Messages":{"24":{"Utc":"2022-06-11T12:09:16","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:23:47.694{"Messages":{"25":{"Utc":"2022-06-11T12:09:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:23:55.756{"Messages":{"26":{"Utc":"2022-06-11T12:09:33","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 15"}}}
+01:26:56.385{"Messages":{"27":{"Utc":"2022-06-11T12:12:33","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:26:57.476{"Messages":{"28":{"Utc":"2022-06-11T12:12:35","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:27:00.637{"Messages":{"29":{"Utc":"2022-06-11T12:12:38","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:27:00.653{"Messages":{"30":{"Utc":"2022-06-11T12:12:38","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:27:04.922{"Messages":{"31":{"Utc":"2022-06-11T12:12:42","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 2"}}}
+01:29:23.083{"Messages":{"32":{"Utc":"2022-06-11T12:15:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:29:32.561{"Messages":{"33":{"Utc":"2022-06-11T12:15:10","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 14 (ALO)"}}}

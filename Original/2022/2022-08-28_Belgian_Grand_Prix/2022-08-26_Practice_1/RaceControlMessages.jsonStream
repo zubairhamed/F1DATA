@@ -1,0 +1,34 @@
+00:03:49.011{"Messages":[{"Utc":"2022-08-26T11:48:51","Category":"Other","Message":"WET TRACK"}]}
+00:04:06.541{"Messages":{"1":{"Utc":"2022-08-26T11:49:08","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}}}
+00:05:05.610{"Messages":{"2":{"Utc":"2022-08-26T11:50:07","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:14:58.410{"Messages":{"3":{"Utc":"2022-08-26T12:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:25:15.324{"Messages":{"4":{"Utc":"2022-08-26T12:10:17","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 1 (VER) AND 6 (LAT) NOTED - UNSAFE RELEASE"}}}
+00:34:40.003{"Messages":{"5":{"Utc":"2022-08-26T12:19:42","Category":"Other","Message":"FIA STEWARDS: PIT LANE INCIDENT INVOLVING CARS 1 (VER) AND 6 (LAT) REVIEWED NO FURTHER INVESTIGATION - UNSAFE RELEASE"}}}
+00:37:59.132{"Messages":{"6":{"Utc":"2022-08-26T12:23:01","Category":"Other","Message":"NORMAL GRIP CONDITIONS"}}}
+00:51:22.166{"Messages":{"7":{"Utc":"2022-08-26T12:36:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:51:23.301{"Messages":{"8":{"Utc":"2022-08-26T12:36:25","Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+00:52:02.083{"Messages":{"9":{"Utc":"2022-08-26T12:37:04","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:52:02.364{"Messages":{"10":{"Utc":"2022-08-26T12:37:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:04:38.989{"Messages":{"11":{"Utc":"2022-08-26T12:49:41","Category":"Other","Message":"SESSION WILL RESUME AT 14:51"}}}
+01:04:48.850{"Messages":{"12":{"Utc":"2022-08-26T12:49:51","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:04:54.681{"Messages":{"13":{"Utc":"2022-08-26T12:49:56","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:05:58.396{"Messages":{"14":{"Utc":"2022-08-26T12:51:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:10:36.852{"Messages":{"15":{"Utc":"2022-08-26T12:55:39","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 9"}}}
+01:10:44.459{"Messages":{"16":{"Utc":"2022-08-26T12:55:46","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:11:20.447{"Messages":{"17":{"Utc":"2022-08-26T12:56:22","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 12"}}}
+01:11:58.451{"Messages":{"18":{"Utc":"2022-08-26T12:57:00","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+01:13:16.590{"Messages":{"19":{"Utc":"2022-08-26T12:58:18","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 19"}}}
+01:13:28.826{"Messages":{"20":{"Utc":"2022-08-26T12:58:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+01:14:25.777{"Messages":{"21":{"Utc":"2022-08-26T12:59:28","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:14:58.377{"Messages":{"22":{"Utc":"2022-08-26T13:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:16:25.936{"Messages":{"23":{"Utc":"2022-08-26T13:01:28","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 47 (MSC)"}}}
+01:16:57.983{"Messages":{"24":{"Utc":"2022-08-26T13:02:00","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 9"}}}
+01:16:59.140{"Messages":{"25":{"Utc":"2022-08-26T13:02:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:21:38.649{"Messages":{"26":{"Utc":"2022-08-26T13:06:40","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 9"}}}
+01:21:42.869{"Messages":{"27":{"Utc":"2022-08-26T13:06:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:22:00.059{"Messages":{"28":{"Utc":"2022-08-26T13:07:02","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 9"}}}
+01:22:01.002{"Messages":{"29":{"Utc":"2022-08-26T13:07:03","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:22:30.618{"Messages":{"30":{"Utc":"2022-08-26T13:07:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:23:46.969{"Messages":{"31":{"Utc":"2022-08-26T13:08:49","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+01:23:51.572{"Messages":{"32":{"Utc":"2022-08-26T13:08:53","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:29:59.664{"Messages":{"33":{"Utc":"2022-08-26T13:15:01","Category":"Other","Message":"RISK OF RAIN FOR F3 QUALIFYING SESSION IS 60%"}}}

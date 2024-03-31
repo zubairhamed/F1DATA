@@ -1,0 +1,10 @@
+00:01:00.862{"Messages":[{"Utc":"2022-07-22T14:45:02","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}]}
+00:06:11.569{"Messages":{"1":{"Utc":"2022-07-22T14:51:31","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:14:40.751{"Messages":{"2":{"Utc":"2022-07-22T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:27:53.338{"Messages":{"3":{"Utc":"2022-07-22T15:13:13","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 11"}}}
+00:34:06.898{"Messages":{"4":{"Utc":"2022-07-22T15:19:26","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 11"}}}
+00:51:26.565{"Messages":{"5":{"Utc":"2022-07-22T15:36:46","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 2"}}}
+01:04:11.986{"Messages":{"6":{"Utc":"2022-07-22T15:49:31","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 8"}}}
+01:14:40.610{"Messages":{"7":{"Utc":"2022-07-22T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:29.822{"Messages":{"8":{"Utc":"2022-07-22T16:00:49","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 4 (NOR)"}}}
+01:29:42.305{"Messages":{"9":{"Utc":"2022-07-22T16:15:02","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 0%"}}}

@@ -1,0 +1,5 @@
+00:00:01.731{"Utc":"2022-10-09T04:01:02.007Z","Remaining":"02:00:00","Extrapolating":false}
+01:02:35.732{"Utc":"2022-10-09T05:03:36.008Z","Remaining":"01:59:59","Extrapolating":true}
+01:07:12.731{"Utc":"2022-10-09T05:08:13.007Z","Remaining":"01:55:23","Extrapolating":false}
+02:07:12.741{"Utc":"2022-10-09T06:08:13.017Z","Remaining":"01:55:22","Extrapolating":true}
+04:02:34.733{"Utc":"2022-10-09T08:03:35.009Z","Remaining":"00:00:00","Extrapolating":false}

@@ -1,0 +1,11 @@
+00:00:04.235{"Messages":[{"Utc":"2022-09-03T09:45:04","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}]}
+00:15:00.243{"Messages":{"1":{"Utc":"2022-09-03T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:46:25.494{"Messages":{"2":{"Utc":"2022-09-03T10:31:25","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:46:26.497{"Messages":{"3":{"Utc":"2022-09-03T10:31:26","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:46:28.049{"Messages":{"4":{"Utc":"2022-09-03T10:31:28","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:46:28.064{"Messages":{"5":{"Utc":"2022-09-03T10:31:28","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:46:41.175{"Messages":{"6":{"Utc":"2022-09-03T10:31:41","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) MISSED THE APEX OF TURN 12"}}}
+00:47:42.042{"Messages":{"7":{"Utc":"2022-09-03T10:32:42","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 15"}}}
+00:50:35.235{"Messages":{"8":{"Utc":"2022-09-03T10:35:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:15:00.239{"Messages":{"9":{"Utc":"2022-09-03T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:15.434{"Messages":{"10":{"Utc":"2022-09-03T11:00:15","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 18 (STR)"}}}

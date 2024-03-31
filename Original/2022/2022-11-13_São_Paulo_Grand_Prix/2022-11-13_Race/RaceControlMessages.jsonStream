@@ -1,0 +1,59 @@
+00:03:58.683{"Messages":[{"Utc":"2022-11-13T17:05:00","Lap":1,"Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:04:08.129{"Messages":{"1":{"Utc":"2022-11-13T17:05:09","Lap":1,"Category":"Other","Message":"CHANGE IN CLIMATIC CONDITIONS"}}}
+00:18:59.225{"Messages":{"2":{"Utc":"2022-11-13T17:20:00","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:28:59.221{"Messages":{"3":{"Utc":"2022-11-13T17:30:00","Lap":1,"Category":"Other","Message":"PIT EXIT CLOSED"}}}
+00:44:26.847{"Messages":{"4":{"Utc":"2022-11-13T17:45:27","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 10%"}}}
+00:55:59.562{"Messages":{"5":{"Utc":"2022-11-13T17:57:00","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:01:46.560{"Messages":{"6":{"Utc":"2022-11-13T18:02:47","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:02:34.848{"Messages":{"7":{"Utc":"2022-11-13T18:03:36","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+01:02:44.756{"Messages":{"8":{"Utc":"2022-11-13T18:03:45","Lap":1,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:03:19.516{"Messages":{"9":{"Utc":"2022-11-13T18:04:20","Lap":2,"Category":"Other","Message":"TURN 9 INCIDENT INVOLVING CARS 20 (MAG) AND 3 (RIC) NOTED - CAUSING A COLLISION"}}}
+01:04:55.230{"Messages":{"10":{"Utc":"2022-11-13T18:05:56","Lap":2,"Category":"Other","Message":"RECOVERY VEHICLE ON TRACK AT TURN 10"}}}
+01:08:44.658{"Messages":{"11":{"Utc":"2022-11-13T18:09:45","Lap":4,"Category":"Other","Message":"FIA STEWARDS: TURN 9 INCIDENT INVOLVING CARS 20 (MAG) AND 3 (RIC) WILL BE INVESTIGATED AFTER THE RACE - CAUSING A COLLISION"}}}
+01:11:27.082{"Messages":{"12":{"Utc":"2022-11-13T18:12:28","Lap":6,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+01:12:51.885{"Messages":{"13":{"Utc":"2022-11-13T18:13:53","Lap":6,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:12:52.031{"Messages":{"14":{"Utc":"2022-11-13T18:13:53","Lap":6,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:13:49.905{"Messages":{"15":{"Utc":"2022-11-13T18:14:51","Lap":7,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+01:13:56.386{"Messages":{"16":{"Utc":"2022-11-13T18:14:57","Lap":7,"Category":"Other","Message":"TURN 2 INCIDENT INVOLVING CARS 1 (VER) AND 44 (HAM) NOTED - CAUSING A COLLISION"}}}
+01:14:01.337{"Messages":{"17":{"Utc":"2022-11-13T18:15:02","Lap":7,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:15:06.480{"Messages":{"18":{"Utc":"2022-11-13T18:16:07","Lap":8,"Category":"Other","Message":"INCIDENT INVOLVING CARS 4 (NOR) AND 16 (LEC) NOTED - CAUSING A COLLISION"}}}
+01:15:49.755{"Messages":{"19":{"Utc":"2022-11-13T18:16:51","Lap":9,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:16:27.052{"Messages":{"20":{"Utc":"2022-11-13T18:17:28","Lap":9,"Category":"Other","Message":"CAR 44 (HAM) TIME 1:22.132 DELETED - TRACK LIMITS AT TURN 4 LAP 7 15:14:40"}}}
+01:17:43.535{"Messages":{"21":{"Utc":"2022-11-13T18:18:44","Lap":10,"Category":"Other","Message":"FIA STEWARDS: TURN 2 INCIDENT INVOLVING CARS 1 (VER) AND 44 (HAM) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+01:17:48.940{"Messages":{"22":{"Utc":"2022-11-13T18:18:50","Lap":10,"Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 4 (NOR) AND 16 (LEC) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+01:21:07.073{"Messages":{"23":{"Utc":"2022-11-13T18:22:08","Lap":13,"Category":"Other","Message":"FIA STEWARDS: 5 SECOND TIME PENALTY FOR CAR 1 (VER) - CAUSING A COLLISION"}}}
+01:21:30.100{"Messages":{"24":{"Utc":"2022-11-13T18:22:31","Lap":13,"Category":"Other","Message":"FIA STEWARDS: 5 SECOND TIME PENALTY FOR CAR 4 (NOR) - CAUSING A COLLISION"}}}
+01:36:44.126{"Messages":{"25":{"Utc":"2022-11-13T18:37:45","Lap":25,"Category":"Other","Message":"CAR 18 (STR) TIME 1:18.269 DELETED - TRACK LIMITS AT TURN 4 LAP 24 15:36:49"}}}
+01:38:54.869{"Messages":{"26":{"Utc":"2022-11-13T18:39:56","Lap":27,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CAR 47 (MSC) NOTED"}}}
+01:42:37.732{"Messages":{"27":{"Utc":"2022-11-13T18:43:39","Lap":29,"Category":"Other","Message":"FIA STEWARDS: PIT LANE INCIDENT INVOLVING ALFA ROMEO TEAM WILL BE INVESTIGATED AFTER THE RACE"}}}
+01:57:45.941{"Messages":{"28":{"Utc":"2022-11-13T18:58:47","Lap":41,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 15:58:46"}}}
+01:58:26.433{"Messages":{"29":{"Utc":"2022-11-13T18:59:27","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 15:59:27"}}}
+02:00:19.329{"Messages":{"30":{"Utc":"2022-11-13T19:01:20","Lap":43,"Category":"Other","Message":"CAR 18 (STR) TIME 1:17.340 DELETED - TRACK LIMITS AT TURN 4 LAP 42 16:00:22"}}}
+02:03:44.362{"Messages":{"31":{"Utc":"2022-11-13T19:04:45","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"24","Message":"WAVED BLUE FLAG FOR CAR 24 (ZHO) TIMED AT 16:04:45"}}}
+02:04:33.713{"Messages":{"32":{"Utc":"2022-11-13T19:05:34","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"24","Message":"WAVED BLUE FLAG FOR CAR 24 (ZHO) TIMED AT 16:05:34"}}}
+02:05:13.469{"Messages":{"33":{"Utc":"2022-11-13T19:06:14","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"23","Message":"WAVED BLUE FLAG FOR CAR 23 (ALB) TIMED AT 16:06:14"}}}
+02:06:02.162{"Messages":{"34":{"Utc":"2022-11-13T19:07:03","Lap":48,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"47","Message":"WAVED BLUE FLAG FOR CAR 47 (MSC) TIMED AT 16:07:02"}}}
+02:10:35.710{"Messages":{"35":{"Utc":"2022-11-13T19:11:36","Lap":51,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 16:11:36"}}}
+02:11:42.949{"Messages":{"36":{"Utc":"2022-11-13T19:12:44","Lap":52,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+02:12:45.534{"Messages":{"37":{"Utc":"2022-11-13T19:13:46","Lap":53,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+02:15:23.343{"Messages":{"38":{"Utc":"2022-11-13T19:16:24","Lap":54,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+02:20:20.131{"Messages":{"39":{"Utc":"2022-11-13T19:21:21","Lap":57,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+02:20:23.382{"Messages":{"40":{"Utc":"2022-11-13T19:21:24","Lap":57,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+02:21:38.342{"Messages":{"41":{"Utc":"2022-11-13T19:22:39","Lap":58,"Category":"Other","Message":"LAPPED CARS MAY NOW OVERTAKE THE SAFETY CAR: 23, 6"}}}
+02:23:32.361{"Messages":{"42":{"Utc":"2022-11-13T19:24:33","Lap":59,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+02:25:12.092{"Messages":{"43":{"Utc":"2022-11-13T19:26:13","Lap":59,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+02:25:27.369{"Messages":{"44":{"Utc":"2022-11-13T19:26:28","Lap":59,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 16:26:28"}}}
+02:25:33.324{"Messages":{"45":{"Utc":"2022-11-13T19:26:34","Lap":60,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 16:26:33"}}}
+02:25:36.635{"Messages":{"46":{"Utc":"2022-11-13T19:26:37","Lap":60,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 16:26:37"}}}
+02:27:08.760{"Messages":{"47":{"Utc":"2022-11-13T19:28:10","Lap":61,"Category":"Other","Message":"CAR 18 (STR) TIME 1:17.438 DELETED - TRACK LIMITS AT TURN 4 LAP 60 16:27:00"}}}
+02:28:06.645{"Messages":{"48":{"Utc":"2022-11-13T19:29:07","Lap":62,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+02:28:39.204{"Messages":{"49":{"Utc":"2022-11-13T19:29:40","Lap":62,"Category":"Other","Message":"TURN 4 INCIDENT INVOLVING CARS 18 (STR) AND 47 (MSC) NOTED - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}
+02:29:33.441{"Messages":{"50":{"Utc":"2022-11-13T19:30:34","Lap":63,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 16:30:34"}}}
+02:30:40.932{"Messages":{"51":{"Utc":"2022-11-13T19:31:42","Lap":64,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 16:31:41"}}}
+02:30:43.777{"Messages":{"52":{"Utc":"2022-11-13T19:31:44","Lap":64,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 16:31:44"}}}
+02:30:50.970{"Messages":{"53":{"Utc":"2022-11-13T19:31:52","Lap":64,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"22","Message":"WAVED BLUE FLAG FOR CAR 22 (TSU) TIMED AT 16:31:51"}}}
+02:35:49.626{"Messages":{"54":{"Utc":"2022-11-13T19:36:50","Lap":68,"Category":"Other","Message":"FIA STEWARDS: TURN 4 INCIDENT INVOLVING CARS 18 (STR) AND 47 (MSC) REVIEWED NO FURTHER INVESTIGATION - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}
+02:40:51.887{"Messages":{"55":{"Utc":"2022-11-13T19:41:53","Lap":71,"Category":"Other","Message":"INCIDENT INVOLVING CARS 55 (SAI) AND 22 (TSU) NOTED - SAFETY CAR INFRINGEMENT"}}}
+02:42:00.550{"Messages":{"56":{"Utc":"2022-11-13T19:43:01","Lap":71,"Category":"Other","Message":"CAR 5 (VET) TIME 1:15.852 DELETED - TRACK LIMITS AT TURN 4 LAP 70 16:39:39"}}}
+02:42:42.037{"Messages":{"57":{"Utc":"2022-11-13T19:43:43","Lap":71,"Category":"Other","Message":"FIA STEWARDS: 5 SECOND TIME PENALTY FOR CAR 10 (GAS) - SPEEDING IN THE PIT LANE"}}}
+02:44:43.724{"Messages":{"58":{"Utc":"2022-11-13T19:45:45","Lap":71,"Category":"Other","Message":"FIA STEWARDS: INCIDENT INVOLVING CARS 55 (SAI) AND 22 (TSU) REVIEWED NO FURTHER INVESTIGATION - SAFETY CAR INFRINGEMENT"}}}

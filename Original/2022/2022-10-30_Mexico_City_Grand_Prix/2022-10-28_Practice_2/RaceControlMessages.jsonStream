@@ -1,0 +1,15 @@
+00:06:35.993{"Messages":[{"Utc":"2022-10-28T20:51:36","Category":"Other","Message":"PINK HEAD PADDING MATERIAL MUST BE USED"}]}
+00:15:00.479{"Messages":{"1":{"Utc":"2022-10-28T21:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:47:33.955{"Messages":{"2":{"Utc":"2022-10-28T21:32:34","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:47:40.494{"Messages":{"3":{"Utc":"2022-10-28T21:32:40","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:47:40.753{"Messages":{"4":{"Utc":"2022-10-28T21:32:41","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:49:12.130{"Messages":{"5":{"Utc":"2022-10-28T21:34:12","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) STOPPED AT TURN 8"}}}
+01:05:08.831{"Messages":{"6":{"Utc":"2022-10-28T21:50:09","Category":"Other","Message":"SESSION WILL RESUME AT 16:52"}}}
+01:05:41.899{"Messages":{"7":{"Utc":"2022-10-28T21:50:42","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:05:47.671{"Messages":{"8":{"Utc":"2022-10-28T21:50:47","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:07:00.524{"Messages":{"9":{"Utc":"2022-10-28T21:52:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:42:34.060{"Messages":{"10":{"Utc":"2022-10-28T22:27:34","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+01:43:07.844{"Messages":{"11":{"Utc":"2022-10-28T22:28:08","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:43:07.847{"Messages":{"12":{"Utc":"2022-10-28T22:28:08","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:43:19.083{"Messages":{"13":{"Utc":"2022-10-28T22:28:19","Category":"Other","Message":"SESSION WILL NOT BE RESUMED"}}}
+01:47:28.470{"Messages":{"14":{"Utc":"2022-10-28T22:32:28","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

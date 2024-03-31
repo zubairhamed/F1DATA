@@ -1,0 +1,17 @@
+00:00:01.442{"Messages":[{"Utc":"2022-08-27T10:45:02","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 30%"}]}
+00:14:59.756{"Messages":{"1":{"Utc":"2022-08-27T11:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:50:06.871{"Messages":{"2":{"Utc":"2022-08-27T11:35:07","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:50:12.481{"Messages":{"3":{"Utc":"2022-08-27T11:35:13","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:51:31.436{"Messages":{"4":{"Utc":"2022-08-27T11:36:32","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 17"}}}
+01:03:43.129{"Messages":{"5":{"Utc":"2022-08-27T11:48:43","Category":"Other","Message":"TURN 17 INCIDENT INVOLVING CAR 1 (VER) NOTED - FAILING TO SLOW UNDER YELLOW FLAGS"}}}
+01:05:52.680{"Messages":{"6":{"Utc":"2022-08-27T11:50:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:06:04.045{"Messages":{"7":{"Utc":"2022-08-27T11:51:04","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:06:04.322{"Messages":{"8":{"Utc":"2022-08-27T11:51:05","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:09:22.535{"Messages":{"9":{"Utc":"2022-08-27T11:54:22","Category":"Other","Message":"SESSION WILL RESUME AT 13:56"}}}
+01:09:44.979{"Messages":{"10":{"Utc":"2022-08-27T11:54:45","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:09:48.646{"Messages":{"11":{"Utc":"2022-08-27T11:54:49","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:10:59.849{"Messages":{"12":{"Utc":"2022-08-27T11:56:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:12:21.261{"Messages":{"13":{"Utc":"2022-08-27T11:57:22","Category":"Other","Message":"FIA STEWARDS: TURN 17 INCIDENT INVOLVING CAR 1 (VER) REVIEWED NO FURTHER INVESTIGATION - FAILING TO SLOW UNDER YELLOW FLAGS"}}}
+01:14:59.952{"Messages":{"14":{"Utc":"2022-08-27T12:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:29.721{"Messages":{"15":{"Utc":"2022-08-27T12:00:30","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 18 (STR)"}}}
+01:39:52.080{"Messages":{"16":{"Utc":"2022-08-27T12:24:52","Category":"Other","Message":"START OF SESSION DELAYED"}}}

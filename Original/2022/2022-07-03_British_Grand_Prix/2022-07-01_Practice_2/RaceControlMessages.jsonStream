@@ -1,0 +1,13 @@
+00:00:41.404{"Messages":[{"Utc":"2022-07-01T14:45:41","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 10%"}]}
+00:03:37.827{"Messages":{"1":{"Utc":"2022-07-01T14:48:38","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:03:52.049{"Messages":{"2":{"Utc":"2022-07-01T14:48:52","Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+00:15:00.170{"Messages":{"3":{"Utc":"2022-07-01T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:05:23.814{"Messages":{"4":{"Utc":"2022-07-01T15:50:24","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:05:40.153{"Messages":{"5":{"Utc":"2022-07-01T15:50:40","Category":"CarEvent","RacingNumber":"24","Message":"CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:07:35.185{"Messages":{"6":{"Utc":"2022-07-01T15:52:35","Category":"CarEvent","RacingNumber":"47","Message":"CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 9"}}}
+01:11:36.781{"Messages":{"7":{"Utc":"2022-07-01T15:56:37","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:14:24.217{"Messages":{"8":{"Utc":"2022-07-01T15:59:24","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+01:15:00.171{"Messages":{"9":{"Utc":"2022-07-01T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:18.626{"Messages":{"10":{"Utc":"2022-07-01T16:00:19","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - CAR 14 (ALO)"}}}
+01:20:05.961{"Messages":{"11":{"Utc":"2022-07-01T16:05:06","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:30:43.387{"Messages":{"12":{"Utc":"2022-07-01T16:15:43","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 10%"}}}
