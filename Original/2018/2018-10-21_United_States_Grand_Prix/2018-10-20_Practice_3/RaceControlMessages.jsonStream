@@ -1,0 +1,11 @@
+00:00:19.856{"Messages":[{"Utc":"2018-10-20T17:45:40","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 20%"}]}
+00:00:55.398{"Messages":{"1":{"Utc":"2018-10-20T17:45:40","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 20%"}}}
+00:14:40.430{"Messages":{"2":{"Utc":"2018-10-20T18:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:58:19.125{"Messages":{"3":{"Utc":"2018-10-20T17:45:40","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 20%"}}}
+00:58:19.188{"Messages":{"4":{"Utc":"2018-10-20T18:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:12:09.045{"Messages":{"5":{"Utc":"2018-10-20T18:57:29","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+01:12:15.055{"Messages":{"6":{"Utc":"2018-10-20T18:57:35","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+01:12:20.566{"Messages":{"7":{"Utc":"2018-10-20T18:57:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:12:22.261{"Messages":{"8":{"Utc":"2018-10-20T18:57:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+01:12:33.402{"Messages":{"9":{"Utc":"2018-10-20T18:57:53","Category":"CarEvent","RacingNumber":"28","Message":"CAR 28 (HAR) SPUN AND CONTINUED AT TURN 19"}}}
+01:14:40.305{"Messages":{"10":{"Utc":"2018-10-20T19:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

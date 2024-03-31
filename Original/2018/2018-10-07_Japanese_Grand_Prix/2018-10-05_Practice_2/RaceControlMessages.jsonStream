@@ -1,0 +1,9 @@
+00:00:06.675{"Messages":[{"Utc":"2018-10-05T04:45:07","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 20%"}]}
+00:15:00.340{"Messages":{"1":{"Utc":"2018-10-05T05:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:25:27.001{"Messages":{"2":{"Utc":"2018-10-05T05:10:27","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 13"}}}
+00:38:48.081{"Messages":{"3":{"Utc":"2018-10-05T05:23:48","Category":"CarEvent","RacingNumber":"35","Message":"CAR 35 (SIR) OFF TRACK AND CONTINUED AT TURN 13"}}}
+01:19:55.162{"Messages":{"4":{"Utc":"2018-10-05T06:04:55","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) MISSED THE APEX OF TURN 17"}}}
+01:29:27.703{"Messages":{"5":{"Utc":"2018-10-05T06:14:28","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 17"}}}
+01:35:22.290{"Messages":{"6":{"Utc":"2018-10-05T06:20:22","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 17"}}}
+01:36:52.519{"Messages":{"7":{"Utc":"2018-10-05T06:21:52","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) MISSED THE APEX OF TURN 17"}}}
+01:45:00.558{"Messages":{"8":{"Utc":"2018-10-05T06:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

@@ -1,0 +1,8 @@
+00:15:00.092{"Messages":[{"Utc":"2018-11-23T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:26:16.161{"Messages":{"1":{"Utc":"2018-11-23T13:11:16","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:26:24.135{"Messages":{"2":{"Utc":"2018-11-23T13:11:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:26:32.645{"Messages":{"3":{"Utc":"2018-11-23T13:11:33","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) MISSED THE APEX OF TURN 9"}}}
+00:33:26.983{"Messages":{"4":{"Utc":"2018-11-23T13:18:27","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":20,"Message":"YELLOW IN TRACK SECTOR 20"}}}
+00:33:29.389{"Messages":{"5":{"Utc":"2018-11-23T13:18:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+01:02:34.109{"Messages":{"6":{"Utc":"2018-11-23T13:47:34","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 5"}}}
+01:45:00.251{"Messages":{"7":{"Utc":"2018-11-23T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

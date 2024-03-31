@@ -1,0 +1,10 @@
+00:00:15.782{"Messages":[{"Utc":"2018-09-01T09:45:16","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 40%"}]}
+00:15:00.128{"Messages":{"1":{"Utc":"2018-09-01T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:25:14.370{"Messages":{"2":{"Utc":"2018-09-01T10:10:14","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) MISSED THE APEX OF TURN 2"}}}
+00:30:48.724{"Messages":{"3":{"Utc":"2018-09-01T10:15:49","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) MISSED THE APEX OF TURN 2"}}}
+00:41:24.858{"Messages":{"4":{"Utc":"2018-09-01T10:26:25","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) MISSED THE APEX OF TURN 2"}}}
+01:08:23.005{"Messages":{"5":{"Utc":"2018-09-01T10:53:23","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 2"}}}
+01:09:25.521{"Messages":{"6":{"Utc":"2018-09-01T10:54:25","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 2"}}}
+01:10:42.099{"Messages":{"7":{"Utc":"2018-09-01T10:55:42","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) MISSED THE APEX OF TURN 2"}}}
+01:11:16.348{"Messages":{"8":{"Utc":"2018-09-01T10:56:16","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 2"}}}
+01:15:00.231{"Messages":{"9":{"Utc":"2018-09-01T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

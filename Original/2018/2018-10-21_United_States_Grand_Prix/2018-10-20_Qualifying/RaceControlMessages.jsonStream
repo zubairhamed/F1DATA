@@ -1,0 +1,13 @@
+00:00:21.547{"Messages":[{"Utc":"2018-10-20T20:45:22","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 10%"}]}
+00:15:00.252{"Messages":{"1":{"Utc":"2018-10-20T21:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:27.292{"Messages":{"2":{"Utc":"2018-10-20T21:04:27","Category":"Other","Message":"CAR 10 (GAS) BEYOND TRACK LIMITS AT TURN 19"}}}
+00:19:52.835{"Messages":{"3":{"Utc":"2018-10-20T21:04:53","Category":"Other","Message":"TIME DISALLOWED FOR CAR 10 (GAS) - TRACK LIMITS"}}}
+00:24:48.296{"Messages":{"4":{"Utc":"2018-10-20T21:09:48","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 8"}}}
+00:24:51.920{"Messages":{"5":{"Utc":"2018-10-20T21:09:52","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 18"}}}
+00:24:56.907{"Messages":{"6":{"Utc":"2018-10-20T21:09:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:24:58.891{"Messages":{"7":{"Utc":"2018-10-20T21:09:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:33:00.127{"Messages":{"8":{"Utc":"2018-10-20T21:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:40:00.168{"Messages":{"9":{"Utc":"2018-10-20T21:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:55:00.138{"Messages":{"10":{"Utc":"2018-10-20T21:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:03:00.326{"Messages":{"11":{"Utc":"2018-10-20T21:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.211{"Messages":{"12":{"Utc":"2018-10-20T22:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

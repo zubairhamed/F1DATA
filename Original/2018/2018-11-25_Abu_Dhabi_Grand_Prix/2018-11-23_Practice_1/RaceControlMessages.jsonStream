@@ -1,0 +1,13 @@
+00:02:29.825{"Messages":[{"Utc":"2018-11-23T08:48:05","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:10:21.846{"Messages":{"1":{"Utc":"2018-11-23T08:55:57","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:10:24.605{"Messages":{"2":{"Utc":"2018-11-23T08:56:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:14:24.996{"Messages":{"3":{"Utc":"2018-11-23T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:49:13.079{"Messages":{"4":{"Utc":"2018-11-23T09:34:48","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+00:49:47.167{"Messages":{"5":{"Utc":"2018-11-23T09:35:22","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:50:00.344{"Messages":{"6":{"Utc":"2018-11-23T09:35:35","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (ERI) SPUN AND CONTINUED AT TURN 1"}}}
+01:40:29.180{"Messages":{"7":{"Utc":"2018-11-23T10:26:04","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":18,"Message":"DOUBLE YELLOW IN TRACK SECTOR 18"}}}
+01:40:35.083{"Messages":{"8":{"Utc":"2018-11-23T10:26:10","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:40:47.342{"Messages":{"9":{"Utc":"2018-11-23T10:26:23","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) SPUN AND CONTINUED AT TURN 18"}}}
+01:44:24.908{"Messages":{"10":{"Utc":"2018-11-23T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:48:10.136{"Messages":{"11":{"Utc":"2018-11-23T10:33:45","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+01:48:10.661{"Messages":{"12":{"Utc":"2018-11-23T10:33:46","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}

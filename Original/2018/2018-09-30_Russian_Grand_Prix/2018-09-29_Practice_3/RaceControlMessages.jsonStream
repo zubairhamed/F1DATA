@@ -1,0 +1,10 @@
+00:15:00.242{"Messages":[{"Utc":"2018-09-29T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:24:58.501{"Messages":{"1":{"Utc":"2018-09-29T09:09:58","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 7"}}}
+00:35:44.668{"Messages":{"2":{"Utc":"2018-09-29T09:20:45","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (ERI) OFF TRACK AND CONTINUED AT TURN 7"}}}
+00:36:57.852{"Messages":{"3":{"Utc":"2018-09-29T09:21:58","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+00:37:04.350{"Messages":{"4":{"Utc":"2018-09-29T09:22:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:59:22.615{"Messages":{"5":{"Utc":"2018-09-29T09:44:23","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 4"}}}
+01:08:22.677{"Messages":{"6":{"Utc":"2018-09-29T09:53:23","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:10:21.618{"Messages":{"7":{"Utc":"2018-09-29T09:55:21","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 4"}}}
+01:12:02.635{"Messages":{"8":{"Utc":"2018-09-29T09:57:03","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) OFF TRACK AND CONTINUED AT TURN 4"}}}
+01:15:00.168{"Messages":{"9":{"Utc":"2018-09-29T10:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

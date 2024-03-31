@@ -1,0 +1,6 @@
+00:07:38.223{"Messages":[{"Utc":"2018-09-15T09:55:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}]}
+00:09:47.945{"Messages":{"1":{"Utc":"2018-09-15T09:57:41","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:09:56.396{"Messages":{"2":{"Utc":"2018-09-15T09:57:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:12:07.528{"Messages":{"3":{"Utc":"2018-09-15T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:12:07.487{"Messages":{"4":{"Utc":"2018-09-15T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:16:57.741{"Messages":{"5":{"Utc":"2018-09-15T11:04:50","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":1,"Message":"DOUBLE YELLOW IN TRACK SECTOR 1"}}}

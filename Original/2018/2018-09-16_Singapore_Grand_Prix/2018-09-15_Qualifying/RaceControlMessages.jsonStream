@@ -1,0 +1,11 @@
+00:00:02.358{"Messages":[{"Utc":"2018-09-15T12:45:02","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:00:17.217{"Messages":{"1":{"Utc":"2018-09-15T12:45:17","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 10%"}}}
+00:15:00.308{"Messages":{"2":{"Utc":"2018-09-15T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:25:06.106{"Messages":{"3":{"Utc":"2018-09-15T13:10:06","Category":"Other","Message":"CAR 18 (STR) YELLOW LINE AT TURN 7"}}}
+00:33:00.203{"Messages":{"4":{"Utc":"2018-09-15T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:47.280{"Messages":{"5":{"Utc":"2018-09-15T13:18:47","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:33:51.773{"Messages":{"6":{"Utc":"2018-09-15T13:18:52","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:40:00.295{"Messages":{"7":{"Utc":"2018-09-15T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:55:00.187{"Messages":{"8":{"Utc":"2018-09-15T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:03:00.260{"Messages":{"9":{"Utc":"2018-09-15T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.299{"Messages":{"10":{"Utc":"2018-09-15T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

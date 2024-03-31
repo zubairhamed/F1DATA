@@ -1,0 +1,37 @@
+00:00:11.824{"Messages":[{"Utc":"2018-10-06T05:45:12","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 60%"}]}
+00:15:00.204{"Messages":{"1":{"Utc":"2018-10-06T06:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:22:37.865{"Messages":{"2":{"Utc":"2018-10-06T06:07:38","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+00:22:49.510{"Messages":{"3":{"Utc":"2018-10-06T06:07:49","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:22:50.278{"Messages":{"4":{"Utc":"2018-10-06T06:07:50","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:22:50.492{"Messages":{"5":{"Utc":"2018-10-06T06:07:50","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:22:51.587{"Messages":{"6":{"Utc":"2018-10-06T06:07:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:22:55.300{"Messages":{"7":{"Utc":"2018-10-06T06:07:55","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:23:02.094{"Messages":{"8":{"Utc":"2018-10-06T06:08:02","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:23:02.171{"Messages":{"9":{"Utc":"2018-10-06T06:08:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:23:28.041{"Messages":{"10":{"Utc":"2018-10-06T06:08:28","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (ERI) STOPPED AT TURN 7"}}}
+00:27:31.397{"Messages":{"11":{"Utc":"2018-10-06T06:12:31","Category":"Other","Message":"SESSION WILL RE-START AT 15:14"}}}
+00:28:00.373{"Messages":{"12":{"Utc":"2018-10-06T06:13:00","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:28:02.231{"Messages":{"13":{"Utc":"2018-10-06T06:13:02","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:29:00.563{"Messages":{"14":{"Utc":"2018-10-06T06:14:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:38:57.209{"Messages":{"15":{"Utc":"2018-10-06T06:23:57","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:41:28.316{"Messages":{"16":{"Utc":"2018-10-06T06:26:28","Category":"Other","Message":"Q2 WILL START AT 15:31"}}}
+00:46:00.248{"Messages":{"17":{"Utc":"2018-10-06T06:31:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:58:41.486{"Messages":{"18":{"Utc":"2018-10-06T06:43:41","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:58:42.927{"Messages":{"19":{"Utc":"2018-10-06T06:43:43","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:58:57.901{"Messages":{"20":{"Utc":"2018-10-06T06:43:58","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) SPUN AND CONTINUED AT TURN 8"}}}
+00:59:23.121{"Messages":{"21":{"Utc":"2018-10-06T06:44:23","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+00:59:31.098{"Messages":{"22":{"Utc":"2018-10-06T06:44:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:59:49.908{"Messages":{"23":{"Utc":"2018-10-06T06:44:50","Category":"Other","Message":"CHANGE IN CLIMATIC CONDITIONS"}}}
+01:01:00.795{"Messages":{"24":{"Utc":"2018-10-06T06:46:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:01:07.032{"Messages":{"25":{"Utc":"2018-10-06T06:46:07","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+01:01:08.628{"Messages":{"26":{"Utc":"2018-10-06T06:46:08","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:01:12.668{"Messages":{"27":{"Utc":"2018-10-06T06:46:12","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+01:01:13.420{"Messages":{"28":{"Utc":"2018-10-06T06:46:13","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:01:17.941{"Messages":{"29":{"Utc":"2018-10-06T06:46:18","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+01:01:23.273{"Messages":{"30":{"Utc":"2018-10-06T06:46:23","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+01:01:24.465{"Messages":{"31":{"Utc":"2018-10-06T06:46:24","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+01:01:28.899{"Messages":{"32":{"Utc":"2018-10-06T06:46:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:01:30.270{"Messages":{"33":{"Utc":"2018-10-06T06:46:30","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:01:49.871{"Messages":{"34":{"Utc":"2018-10-06T06:46:50","Category":"Other","Message":"Q3 WILL START AT 15:54"}}}
+01:09:00.280{"Messages":{"35":{"Utc":"2018-10-06T06:54:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:21:00.281{"Messages":{"36":{"Utc":"2018-10-06T07:06:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

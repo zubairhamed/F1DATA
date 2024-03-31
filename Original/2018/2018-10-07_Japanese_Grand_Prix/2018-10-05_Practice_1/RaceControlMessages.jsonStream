@@ -1,0 +1,22 @@
+00:00:06.543{"Messages":[{"Utc":"2018-10-05T00:45:06","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 40%"}]}
+00:00:47.004{"Messages":{"1":{"Utc":"2018-10-05T00:00:06","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P1 = 21 DEGREES"}}}
+00:00:47.069{"Messages":{"2":{"Utc":"2018-10-05T00:45:06","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 40%"}}}
+00:15:00.093{"Messages":{"3":{"Utc":"2018-10-05T01:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:40:28.580{"Messages":{"4":{"Utc":"2018-10-05T01:25:28","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 17"}}}
+00:43:08.291{"Messages":{"5":{"Utc":"2018-10-05T01:28:08","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 9"}}}
+00:45:09.708{"Messages":{"6":{"Utc":"2018-10-05T01:30:09","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 14"}}}
+00:48:00.102{"Messages":{"7":{"Utc":"2018-10-05T01:33:00","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 13"}}}
+00:49:39.619{"Messages":{"8":{"Utc":"2018-10-05T01:34:40","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 17"}}}
+00:50:49.472{"Messages":{"9":{"Utc":"2018-10-05T01:35:49","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+00:50:53.743{"Messages":{"10":{"Utc":"2018-10-05T01:35:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:51:25.972{"Messages":{"11":{"Utc":"2018-10-05T01:36:26","Category":"Other","Message":"TURN 16 INCIDENT INVOLVING CARS 10 (GAS) AND 44 (HAM) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:51:56.301{"Messages":{"12":{"Utc":"2018-10-05T01:36:56","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) SPUN AND CONTINUED AT TURN 17"}}}
+01:05:11.355{"Messages":{"13":{"Utc":"2018-10-05T01:50:11","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:05:28.937{"Messages":{"14":{"Utc":"2018-10-05T01:50:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:05:33.105{"Messages":{"15":{"Utc":"2018-10-05T01:50:33","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) SPUN AND CONTINUED AT TURN 9"}}}
+01:08:01.628{"Messages":{"16":{"Utc":"2018-10-05T01:53:02","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:08:16.710{"Messages":{"17":{"Utc":"2018-10-05T01:53:17","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:08:20.137{"Messages":{"18":{"Utc":"2018-10-05T01:53:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:08:24.112{"Messages":{"19":{"Utc":"2018-10-05T01:53:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:08:31.864{"Messages":{"20":{"Utc":"2018-10-05T01:53:32","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:45:00.244{"Messages":{"21":{"Utc":"2018-10-05T02:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

@@ -1,0 +1,16 @@
+00:03:55.103{"Messages":[{"Utc":"2018-07-28T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:44:19.307{"Messages":{"1":{"Utc":"2018-07-28T10:40:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:44:19.702{"Messages":{"2":{"Utc":"2018-07-28T10:40:25","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:44:26.926{"Messages":{"3":{"Utc":"2018-07-28T10:40:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:44:30.105{"Messages":{"4":{"Utc":"2018-07-28T10:40:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:44:53.296{"Messages":{"5":{"Utc":"2018-07-28T10:40:58","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) SPUN AND CONTINUED AT TURN 6"}}}
+00:48:20.149{"Messages":{"6":{"Utc":"2018-07-28T10:44:25","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 9"}}}
+00:48:20.723{"Messages":{"7":{"Utc":"2018-07-28T10:44:26","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:48:27.202{"Messages":{"8":{"Utc":"2018-07-28T10:44:32","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:48:28.235{"Messages":{"9":{"Utc":"2018-07-28T10:44:33","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:48:32.564{"Messages":{"10":{"Utc":"2018-07-28T10:44:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:48:34.910{"Messages":{"11":{"Utc":"2018-07-28T10:44:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:48:55.416{"Messages":{"12":{"Utc":"2018-07-28T10:45:00","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) SPUN AND CONTINUED AT TURN 7"}}}
+00:57:03.233{"Messages":{"13":{"Utc":"2018-07-28T10:53:08","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 4"}}}
+00:57:04.996{"Messages":{"14":{"Utc":"2018-07-28T10:53:10","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:03:55.142{"Messages":{"15":{"Utc":"2018-07-28T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

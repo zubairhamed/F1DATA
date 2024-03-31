@@ -1,0 +1,20 @@
+00:00:08.827{"Messages":[{"Utc":"2018-08-25T09:45:10","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 20%"}]}
+00:04:25.360{"Messages":{"1":{"Utc":"2018-08-25T09:49:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:14:59.320{"Messages":{"2":{"Utc":"2018-08-25T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:45:01.305{"Messages":{"3":{"Utc":"2018-08-25T10:30:02","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:45:03.657{"Messages":{"4":{"Utc":"2018-08-25T10:30:05","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:45:21.993{"Messages":{"5":{"Utc":"2018-08-25T10:30:23","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 5"}}}
+01:04:47.051{"Messages":{"6":{"Utc":"2018-08-25T10:49:48","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:05:36.671{"Messages":{"7":{"Utc":"2018-08-25T10:50:38","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:05:36.766{"Messages":{"8":{"Utc":"2018-08-25T10:50:38","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:07:00.028{"Messages":{"9":{"Utc":"2018-08-25T10:52:01","Category":"Other","Message":"INCIDENT INVOLVING CARS 2 (VAN) AND 77 (BOT) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+01:12:06.908{"Messages":{"10":{"Utc":"2018-08-25T10:57:08","Category":"Other","Message":"SESSION WILL RE-START AT 12:58"}}}
+01:12:12.916{"Messages":{"11":{"Utc":"2018-08-25T10:57:14","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:12:16.382{"Messages":{"12":{"Utc":"2018-08-25T10:57:17","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:12:59.255{"Messages":{"13":{"Utc":"2018-08-25T10:58:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:13:23.608{"Messages":{"14":{"Utc":"2018-08-25T10:58:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+01:13:28.450{"Messages":{"15":{"Utc":"2018-08-25T10:58:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+01:14:59.166{"Messages":{"16":{"Utc":"2018-08-25T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:07.165{"Messages":{"17":{"Utc":"2018-08-25T11:00:08","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":18,"Message":"DOUBLE YELLOW IN TRACK SECTOR 18"}}}
+01:15:09.879{"Messages":{"18":{"Utc":"2018-08-25T11:00:11","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:19:04.868{"Messages":{"19":{"Utc":"2018-08-25T11:04:06","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}

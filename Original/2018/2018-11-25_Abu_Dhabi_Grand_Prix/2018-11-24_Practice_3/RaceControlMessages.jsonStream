@@ -1,0 +1,19 @@
+00:00:11.989{"Messages":[{"Utc":"2018-11-24T09:45:12","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:15:00.147{"Messages":{"1":{"Utc":"2018-11-24T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:35:28.954{"Messages":{"2":{"Utc":"2018-11-24T10:20:29","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:35:47.817{"Messages":{"3":{"Utc":"2018-11-24T10:20:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:36:06.853{"Messages":{"4":{"Utc":"2018-11-24T10:21:07","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) SPUN AND CONTINUED AT TURN 19"}}}
+00:42:28.185{"Messages":{"5":{"Utc":"2018-11-24T10:27:28","Category":"Other","Message":"INCIDENT INVOLVING CAR 7 (RAI) UNDER INVESTIGATION - CROSSING THE WHITE LINES AT PIT ENTRY"}}}
+01:11:25.304{"Messages":{"6":{"Utc":"2018-11-24T10:56:25","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) STOPPED AT TURN 9"}}}
+01:12:39.002{"Messages":{"7":{"Utc":"2018-11-24T10:57:39","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:13:17.632{"Messages":{"8":{"Utc":"2018-11-24T10:58:17","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:13:40.102{"Messages":{"9":{"Utc":"2018-11-24T10:58:40","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 9"}}}
+01:14:48.777{"Messages":{"10":{"Utc":"2018-11-24T10:59:49","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+01:15:00.048{"Messages":{"11":{"Utc":"2018-11-24T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:04.458{"Messages":{"12":{"Utc":"2018-11-24T11:00:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:18:53.046{"Messages":{"13":{"Utc":"2018-11-24T11:03:53","Category":"Other","Message":"TURN 17 INCIDENT INVOLVING CARS 8 (GRO) AND 10 (GAS) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+01:30:27.710{"Messages":{"14":{"Utc":"2018-11-24T11:15:28","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:30:30.413{"Messages":{"15":{"Utc":"2018-11-24T11:15:30","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+01:30:40.951{"Messages":{"16":{"Utc":"2018-11-24T11:15:41","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:30:56.892{"Messages":{"17":{"Utc":"2018-11-24T11:15:57","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+01:31:03.713{"Messages":{"18":{"Utc":"2018-11-24T11:16:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}

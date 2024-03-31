@@ -1,0 +1,9 @@
+00:00:14.975{"Messages":[{"Utc":"2018-10-26T18:45:15","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 10%"}]}
+00:15:00.274{"Messages":{"1":{"Utc":"2018-10-26T19:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:37:39.572{"Messages":{"2":{"Utc":"2018-10-26T19:22:39","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:24:19.414{"Messages":{"3":{"Utc":"2018-10-26T20:09:19","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 11"}}}
+01:34:29.880{"Messages":{"4":{"Utc":"2018-10-26T20:19:30","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:34:53.822{"Messages":{"5":{"Utc":"2018-10-26T20:19:54","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) STOPPED AT TURN 3"}}}
+01:34:58.768{"Messages":{"6":{"Utc":"2018-10-26T20:19:59","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:36:04.256{"Messages":{"7":{"Utc":"2018-10-26T20:21:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:45:00.234{"Messages":{"8":{"Utc":"2018-10-26T20:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

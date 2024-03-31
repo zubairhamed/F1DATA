@@ -1,0 +1,3 @@
+00:00:16.942{"Messages":[{"Utc":"2018-11-10T13:45:17","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 20%"}]}
+00:15:00.192{"Messages":{"1":{"Utc":"2018-11-10T14:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.143{"Messages":{"2":{"Utc":"2018-11-10T15:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

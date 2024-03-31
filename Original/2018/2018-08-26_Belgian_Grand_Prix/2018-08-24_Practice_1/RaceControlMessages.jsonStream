@@ -1,0 +1,37 @@
+00:00:27.074{"Messages":[{"Utc":"2018-08-24T08:45:27","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 20%"}]}
+00:15:00.180{"Messages":{"1":{"Utc":"2018-08-24T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:38:24.819{"Messages":{"2":{"Utc":"2018-08-24T09:23:25","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 4"}}}
+00:38:47.169{"Messages":{"3":{"Utc":"2018-08-24T09:23:47","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 4"}}}
+00:38:58.052{"Messages":{"4":{"Utc":"2018-08-24T09:23:58","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) MISSED THE APEX OF TURN 4"}}}
+00:40:04.312{"Messages":{"5":{"Utc":"2018-08-24T09:25:04","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 4"}}}
+00:41:28.498{"Messages":{"6":{"Utc":"2018-08-24T09:26:28","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 4"}}}
+00:41:40.352{"Messages":{"7":{"Utc":"2018-08-24T09:26:40","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 4"}}}
+00:44:27.310{"Messages":{"8":{"Utc":"2018-08-24T09:29:27","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) MISSED THE APEX OF TURN 4"}}}
+00:44:35.931{"Messages":{"9":{"Utc":"2018-08-24T09:29:36","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 4"}}}
+00:45:30.909{"Messages":{"10":{"Utc":"2018-08-24T09:30:31","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) MISSED THE APEX OF TURN 4"}}}
+00:54:43.439{"Messages":{"11":{"Utc":"2018-08-24T09:39:43","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:54:53.267{"Messages":{"12":{"Utc":"2018-08-24T09:39:53","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:07:34.236{"Messages":{"13":{"Utc":"2018-08-24T09:52:34","Category":"CarEvent","RacingNumber":"35","Message":"CAR 35 (SIR) MISSED THE APEX OF TURN 4"}}}
+01:07:46.906{"Messages":{"14":{"Utc":"2018-08-24T09:52:47","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:07:56.195{"Messages":{"15":{"Utc":"2018-08-24T09:52:56","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:08:02.375{"Messages":{"16":{"Utc":"2018-08-24T09:53:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:08:05.798{"Messages":{"17":{"Utc":"2018-08-24T09:53:06","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:08:27.285{"Messages":{"18":{"Utc":"2018-08-24T09:53:27","Category":"CarEvent","RacingNumber":"35","Message":"CAR 35 (SIR) SPUN AND CONTINUED AT TURN 8"}}}
+01:09:42.089{"Messages":{"19":{"Utc":"2018-08-24T09:54:42","Category":"CarEvent","RacingNumber":"35","Message":"CAR 35 (SIR) MISSED THE APEX OF TURN 4"}}}
+01:12:28.976{"Messages":{"20":{"Utc":"2018-08-24T09:57:29","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+01:12:30.846{"Messages":{"21":{"Utc":"2018-08-24T09:57:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:13:29.748{"Messages":{"22":{"Utc":"2018-08-24T09:58:30","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) MISSED THE APEX OF TURN 4"}}}
+01:13:38.481{"Messages":{"23":{"Utc":"2018-08-24T09:58:38","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 4"}}}
+01:13:51.275{"Messages":{"24":{"Utc":"2018-08-24T09:58:51","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 4"}}}
+01:14:14.276{"Messages":{"25":{"Utc":"2018-08-24T09:59:14","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) MISSED THE APEX OF TURN 4"}}}
+01:35:58.706{"Messages":{"26":{"Utc":"2018-08-24T10:20:59","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) MISSED THE APEX OF TURN 4"}}}
+01:36:48.847{"Messages":{"27":{"Utc":"2018-08-24T10:21:49","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) MISSED THE APEX OF TURN 4"}}}
+01:38:15.884{"Messages":{"28":{"Utc":"2018-08-24T10:23:16","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) MISSED THE APEX OF TURN 4"}}}
+01:38:30.319{"Messages":{"29":{"Utc":"2018-08-24T10:23:30","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) MISSED THE APEX OF TURN 4"}}}
+01:42:02.439{"Messages":{"30":{"Utc":"2018-08-24T10:27:02","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) MISSED THE APEX OF TURN 4"}}}
+01:45:00.120{"Messages":{"31":{"Utc":"2018-08-24T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:45:52.763{"Messages":{"32":{"Utc":"2018-08-24T10:30:53","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (ERI) MISSED THE APEX OF TURN 4"}}}
+01:48:53.257{"Messages":{"33":{"Utc":"2018-08-24T10:33:53","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":10,"Message":"DOUBLE YELLOW IN TRACK SECTOR 10"}}}
+01:48:54.594{"Messages":{"34":{"Utc":"2018-08-24T10:33:54","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:48:56.332{"Messages":{"35":{"Utc":"2018-08-24T10:33:56","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+01:49:15.204{"Messages":{"36":{"Utc":"2018-08-24T10:34:15","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}

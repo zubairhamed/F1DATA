@@ -1,0 +1,28 @@
+00:03:54.115{"Messages":[{"Utc":"2018-07-28T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:22:03.018{"Messages":{"1":{"Utc":"2018-07-28T13:18:09","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:22:08.243{"Messages":{"2":{"Utc":"2018-07-28T13:18:14","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+00:22:09.946{"Messages":{"3":{"Utc":"2018-07-28T13:18:16","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:26:27.950{"Messages":{"4":{"Utc":"2018-07-28T13:22:34","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+00:26:37.514{"Messages":{"5":{"Utc":"2018-07-28T13:22:44","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:28:54.331{"Messages":{"6":{"Utc":"2018-07-28T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:33:04.874{"Messages":{"7":{"Utc":"2018-07-28T13:29:11","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 13"}}}
+00:33:15.786{"Messages":{"8":{"Utc":"2018-07-28T13:29:22","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:34:23.771{"Messages":{"9":{"Utc":"2018-07-28T13:30:30","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:34:23.830{"Messages":{"10":{"Utc":"2018-07-28T13:30:30","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+00:34:26.327{"Messages":{"11":{"Utc":"2018-07-28T13:30:32","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+00:34:38.904{"Messages":{"12":{"Utc":"2018-07-28T13:30:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:34:41.724{"Messages":{"13":{"Utc":"2018-07-28T13:30:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:34:43.035{"Messages":{"14":{"Utc":"2018-07-28T13:30:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:35:05.510{"Messages":{"15":{"Utc":"2018-07-28T13:31:11","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) SPUN AND CONTINUED AT TURN 9"}}}
+00:36:11.214{"Messages":{"16":{"Utc":"2018-07-28T13:32:17","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:36:20.502{"Messages":{"17":{"Utc":"2018-07-28T13:32:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:36:24.129{"Messages":{"18":{"Utc":"2018-07-28T13:32:30","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) SPUN AND CONTINUED AT TURN 6"}}}
+00:36:26.403{"Messages":{"19":{"Utc":"2018-07-28T13:32:32","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:38:16.739{"Messages":{"20":{"Utc":"2018-07-28T13:34:23","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:43:58.796{"Messages":{"21":{"Utc":"2018-07-28T13:40:05","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:49:02.010{"Messages":{"22":{"Utc":"2018-07-28T13:45:08","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 14"}}}
+00:49:03.287{"Messages":{"23":{"Utc":"2018-07-28T13:45:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:49:06.920{"Messages":{"24":{"Utc":"2018-07-28T13:45:13","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 14"}}}
+00:49:08.914{"Messages":{"25":{"Utc":"2018-07-28T13:45:15","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:51:54.436{"Messages":{"26":{"Utc":"2018-07-28T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:03:55.606{"Messages":{"27":{"Utc":"2018-07-28T14:00:01","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

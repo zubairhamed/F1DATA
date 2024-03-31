@@ -1,0 +1,12 @@
+00:00:20.956{"Messages":[{"Utc":"2018-11-09T16:45:21","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 40%"}]}
+00:15:00.220{"Messages":{"1":{"Utc":"2018-11-09T17:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:24:49.125{"Messages":{"2":{"Utc":"2018-11-09T17:09:49","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:24:56.211{"Messages":{"3":{"Utc":"2018-11-09T17:09:56","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:24:56.328{"Messages":{"4":{"Utc":"2018-11-09T17:09:56","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:25:54.452{"Messages":{"5":{"Utc":"2018-11-09T17:10:54","Category":"Other","Message":"MEDICAL CAR DEPLOYED"}}}
+00:27:09.290{"Messages":{"6":{"Utc":"2018-11-09T17:12:09","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) STOPPED AT TURN 14"}}}
+00:29:53.188{"Messages":{"7":{"Utc":"2018-11-09T17:14:53","Category":"Other","Message":"SESSION WILL RE-START AT 15:17"}}}
+00:30:53.363{"Messages":{"8":{"Utc":"2018-11-09T17:15:53","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:30:55.071{"Messages":{"9":{"Utc":"2018-11-09T17:15:55","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:32:00.089{"Messages":{"10":{"Utc":"2018-11-09T17:17:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:45:00.184{"Messages":{"11":{"Utc":"2018-11-09T18:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

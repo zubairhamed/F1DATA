@@ -1,0 +1,10 @@
+00:03:56.089{"Messages":[{"Utc":"2018-07-27T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:14:45.975{"Messages":{"1":{"Utc":"2018-07-27T13:10:50","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:14:47.095{"Messages":{"2":{"Utc":"2018-07-27T13:10:51","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+00:14:51.548{"Messages":{"3":{"Utc":"2018-07-27T13:10:56","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:14:53.087{"Messages":{"4":{"Utc":"2018-07-27T13:10:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:15:25.860{"Messages":{"5":{"Utc":"2018-07-27T13:11:30","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (ERI) SPUN AND CONTINUED AT TURN 11"}}}
+00:55:25.765{"Messages":{"6":{"Utc":"2018-07-27T13:51:30","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:55:52.441{"Messages":{"7":{"Utc":"2018-07-27T13:51:56","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:56:06.084{"Messages":{"8":{"Utc":"2018-07-27T13:52:10","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (VAN) OFF TRACK AND CONTINUED AT TURN 5"}}}
+01:33:56.179{"Messages":{"9":{"Utc":"2018-07-27T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
