@@ -1,0 +1,40 @@
+00:14:59.009{"Messages":[{"Utc":"2020-10-24T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:28:41.691{"Messages":{"1":{"Utc":"2020-10-24T10:13:43","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+00:28:48.547{"Messages":{"2":{"Utc":"2020-10-24T10:13:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:30:51.476{"Messages":{"3":{"Utc":"2020-10-24T10:15:53","Category":"Other","Message":"CAR 6 (LAT) TIME 1:20.110 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:31:15.371{"Messages":{"4":{"Utc":"2020-10-24T10:16:17","Category":"Other","Message":"CAR 55 (SAI) TIME 1:25.963 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:33:43.325{"Messages":{"5":{"Utc":"2020-10-24T10:18:45","Category":"Other","Message":"CAR 7 (RAI) TIME 1:18.590 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:35:41.067{"Messages":{"6":{"Utc":"2020-10-24T10:20:42","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+00:35:48.439{"Messages":{"7":{"Utc":"2020-10-24T10:20:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:35:52.855{"Messages":{"8":{"Utc":"2020-10-24T10:20:54","Category":"Other","Message":"CAR 63 (RUS) TIME 1:19.311 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:36:03.899{"Messages":{"9":{"Utc":"2020-10-24T10:21:05","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) SPUN AND CONTINUED AT TURN 14"}}}
+00:36:05.890{"Messages":{"10":{"Utc":"2020-10-24T10:21:07","Category":"Other","Message":"CAR 63 (RUS) TIME 1:19.311 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:39:01.870{"Messages":{"11":{"Utc":"2020-10-24T10:24:03","Category":"Other","Message":"CAR 99 (GIO) TIME 1:18.371 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:41:11.964{"Messages":{"12":{"Utc":"2020-10-24T10:26:13","Category":"Other","Message":"CAR 8 (GRO) TIME 1:18.584 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:42:29.311{"Messages":{"13":{"Utc":"2020-10-24T10:27:31","Category":"Other","Message":"CAR 23 (ALB) TIME 1:17.179 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:42:47.851{"Messages":{"14":{"Utc":"2020-10-24T10:27:49","Category":"Other","Message":"CAR 33 (VER) TIME 1:16.659 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:43:46.496{"Messages":{"15":{"Utc":"2020-10-24T10:28:48","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:43:49.755{"Messages":{"16":{"Utc":"2020-10-24T10:28:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:44:22.834{"Messages":{"17":{"Utc":"2020-10-24T10:29:24","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 5"}}}
+00:46:46.992{"Messages":{"18":{"Utc":"2020-10-24T10:31:48","Category":"Other","Message":"CAR 8 (GRO) TIME 1:18.517 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:50:12.920{"Messages":{"19":{"Utc":"2020-10-24T10:35:14","Category":"Other","Message":"CAR 10 (GAS) TIME 1:20.731 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:50:27.096{"Messages":{"20":{"Utc":"2020-10-24T10:35:28","Category":"Other","Message":"CAR 23 (ALB) TIME 1:16.949 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:50:46.052{"Messages":{"21":{"Utc":"2020-10-24T10:35:47","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+00:50:51.287{"Messages":{"22":{"Utc":"2020-10-24T10:35:53","Category":"Other","Message":"CAR 10 (GAS) TIME 1:20.301 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:50:57.117{"Messages":{"23":{"Utc":"2020-10-24T10:35:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:51:11.405{"Messages":{"24":{"Utc":"2020-10-24T10:36:13","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 8"}}}
+00:51:26.572{"Messages":{"25":{"Utc":"2020-10-24T10:36:28","Category":"Other","Message":"CAR 8 (GRO) TIME 1:18.132 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:53:17.513{"Messages":{"26":{"Utc":"2020-10-24T10:38:19","Category":"Other","Message":"CAR 26 (KVY) TIME 1:19.739 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:55:43.639{"Messages":{"27":{"Utc":"2020-10-24T10:40:45","Category":"Other","Message":"CAR 4 (NOR) TIME 1:29.034 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:56:35.273{"Messages":{"28":{"Utc":"2020-10-24T10:41:37","Category":"Other","Message":"CAR 26 (KVY) TIME 1:21.438 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:01:03.298{"Messages":{"29":{"Utc":"2020-10-24T10:46:05","Category":"Other","Message":"CAR 77 (BOT) TIME 1:21.198 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:02:01.022{"Messages":{"30":{"Utc":"2020-10-24T10:47:02","Category":"Other","Message":"CAR 55 (SAI) TIME 1:18.409 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:03:35.708{"Messages":{"31":{"Utc":"2020-10-24T10:48:37","Category":"Other","Message":"CAR 31 (OCO) TIME 1:18.129 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:08:26.740{"Messages":{"32":{"Utc":"2020-10-24T10:53:28","Category":"Other","Message":"CAR 10 (GAS) TIME 1:41.449 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:09:33.953{"Messages":{"33":{"Utc":"2020-10-24T10:54:35","Category":"Other","Message":"CAR 8 (GRO) TIME 1:18.484 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:10:00.905{"Messages":{"34":{"Utc":"2020-10-24T10:55:02","Category":"Other","Message":"CAR 18 (STR) TIME 1:18.090 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:10:12.502{"Messages":{"35":{"Utc":"2020-10-24T10:55:14","Category":"Other","Message":"CAR 20 (MAG) TIME 1:44.758 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:13:14.541{"Messages":{"36":{"Utc":"2020-10-24T10:58:16","Category":"Other","Message":"CAR 8 (GRO) TIME 1:18.666 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:13:52.577{"Messages":{"37":{"Utc":"2020-10-24T10:58:54","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:14:13.477{"Messages":{"38":{"Utc":"2020-10-24T10:59:15","Category":"Other","Message":"SESSION WILL NOT BE RESTARTED"}}}
+01:18:47.612{"Messages":{"39":{"Utc":"2020-10-24T11:03:49","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

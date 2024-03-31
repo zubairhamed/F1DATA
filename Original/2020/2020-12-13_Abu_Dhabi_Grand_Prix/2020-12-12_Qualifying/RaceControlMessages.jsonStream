@@ -1,0 +1,17 @@
+00:00:04.044{"Messages":[{"Utc":"2020-12-12T12:45:05","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:14:59.451{"Messages":{"1":{"Utc":"2020-12-12T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:21:38.131{"Messages":{"2":{"Utc":"2020-12-12T13:06:39","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 6 (LAT) AND 33 (VER) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:22:05.919{"Messages":{"3":{"Utc":"2020-12-12T13:07:07","Category":"Other","Message":"CAR 99 (GIO) TIME 1:37.811 DELETED - TRACK LIMITS AT TURN 20"}}}
+00:22:35.963{"Messages":{"4":{"Utc":"2020-12-12T13:07:37","Category":"Other","Message":"CAR 44 (HAM) TIME 1:35.797 DELETED - TRACK LIMITS AT TURN 20"}}}
+00:32:35.114{"Messages":{"5":{"Utc":"2020-12-12T13:17:36","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":20,"Message":"YELLOW IN TRACK SECTOR 20"}}}
+00:32:36.654{"Messages":{"6":{"Utc":"2020-12-12T13:17:37","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":20,"Message":"DOUBLE YELLOW IN TRACK SECTOR 20"}}}
+00:32:45.746{"Messages":{"7":{"Utc":"2020-12-12T13:17:47","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+00:32:54.611{"Messages":{"8":{"Utc":"2020-12-12T13:17:55","Category":"CarEvent","RacingNumber":"6","Message":"CAR 6 (LAT) SPUN AND CONTINUED AT TURN 21"}}}
+00:32:59.499{"Messages":{"9":{"Utc":"2020-12-12T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:39:59.472{"Messages":{"10":{"Utc":"2020-12-12T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:45:09.949{"Messages":{"11":{"Utc":"2020-12-12T13:30:11","Category":"Other","Message":"CAR 23 (ALB) TIME 1:36.121 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:46:04.161{"Messages":{"12":{"Utc":"2020-12-12T13:31:05","Category":"Other","Message":"CAR 3 (RIC) TIME 1:36.741 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:54:59.429{"Messages":{"13":{"Utc":"2020-12-12T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:32.387{"Messages":{"14":{"Utc":"2020-12-12T13:40:33","Category":"Other","Message":"CAR 99 (GIO) TIME 1:37.066 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:02:59.467{"Messages":{"15":{"Utc":"2020-12-12T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:59.434{"Messages":{"16":{"Utc":"2020-12-12T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

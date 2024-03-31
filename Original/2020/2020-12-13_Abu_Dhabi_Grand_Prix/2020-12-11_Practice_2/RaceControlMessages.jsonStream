@@ -1,0 +1,41 @@
+00:00:17.979{"Messages":[{"Utc":"2020-12-11T12:45:18","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}]}
+00:15:00.376{"Messages":{"1":{"Utc":"2020-12-11T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:19:25.633{"Messages":{"2":{"Utc":"2020-12-11T13:04:26","Category":"Other","Message":"CAR 20 (MAG) TIME 1:43.977 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:31:33.092{"Messages":{"3":{"Utc":"2020-12-11T13:16:33","Category":"Other","Message":"CAR 16 (LEC) TIME 1:41.283 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:32:49.938{"Messages":{"4":{"Utc":"2020-12-11T13:17:50","Category":"Other","Message":"CAR 16 (LEC) TIME 1:41.795 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:43:23.833{"Messages":{"5":{"Utc":"2020-12-11T13:28:24","Category":"Other","Message":"CAR 23 (ALB) TIME 1:37.015 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:45:51.804{"Messages":{"6":{"Utc":"2020-12-11T13:30:52","Category":"Other","Message":"CAR 23 (ALB) TIME 2:35.719 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:46:04.648{"Messages":{"7":{"Utc":"2020-12-11T13:31:05","Category":"Other","Message":"CAR 5 (VET) TIME 1:38.789 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:46:36.233{"Messages":{"8":{"Utc":"2020-12-11T13:31:36","Category":"Other","Message":"CAR 16 (LEC) TIME 1:37.984 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:48:19.657{"Messages":{"9":{"Utc":"2020-12-11T13:33:20","Category":"Other","Message":"CAR 5 (VET) TIME 2:19.634 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:48:44.570{"Messages":{"10":{"Utc":"2020-12-11T13:33:44","Category":"Other","Message":"CAR 23 (ALB) TIME 1:37.568 DELETED - TRACK LIMITS AT TURN 20"}}}
+00:49:14.884{"Messages":{"11":{"Utc":"2020-12-11T13:34:15","Category":"Other","Message":"CAR 16 (LEC) TIME 2:33.944 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:49:32.289{"Messages":{"12":{"Utc":"2020-12-11T13:34:32","Category":"Other","Message":"CAR 20 (MAG) TIME 1:39.077 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:51:01.429{"Messages":{"13":{"Utc":"2020-12-11T13:36:01","Category":"Other","Message":"CAR 16 (LEC) TIME 1:38.902 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:51:40.579{"Messages":{"14":{"Utc":"2020-12-11T13:36:40","Category":"Other","Message":"CAR 20 (MAG) TIME 1:51.466 DELETED - TRACK LIMITS AT TURN 21"}}}
+00:59:25.976{"Messages":{"15":{"Utc":"2020-12-11T13:44:26","Category":"Other","Message":"CAR 44 (HAM) TIME 1:36.097 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:00:28.935{"Messages":{"16":{"Utc":"2020-12-11T13:45:29","Category":"Other","Message":"CAR 6 (LAT) TIME 1:39.099 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:01:38.282{"Messages":{"17":{"Utc":"2020-12-11T13:46:38","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+01:01:46.138{"Messages":{"18":{"Utc":"2020-12-11T13:46:46","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+01:01:47.237{"Messages":{"19":{"Utc":"2020-12-11T13:46:47","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:01:49.123{"Messages":{"20":{"Utc":"2020-12-11T13:46:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+01:01:58.658{"Messages":{"21":{"Utc":"2020-12-11T13:46:59","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) SPUN AND CONTINUED AT TURN 1"}}}
+01:02:17.822{"Messages":{"22":{"Utc":"2020-12-11T13:47:18","Category":"Other","Message":"CAR 44 (HAM) TIME 2:58.260 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:13:23.471{"Messages":{"23":{"Utc":"2020-12-11T13:58:23","Category":"Other","Message":"CAR 33 (VER) TIME 1:37.029 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:22:47.949{"Messages":{"24":{"Utc":"2020-12-11T14:07:48","Category":"Other","Message":"CAR 20 (MAG) TIME 1:44.769 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:24:11.946{"Messages":{"25":{"Utc":"2020-12-11T14:09:12","Category":"Other","Message":"CAR 20 (MAG) TIME 1:44.927 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:25:59.255{"Messages":{"26":{"Utc":"2020-12-11T14:10:59","Category":"Other","Message":"CAR 33 (VER) TIME 1:41.517 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:27:08.499{"Messages":{"27":{"Utc":"2020-12-11T14:12:08","Category":"Other","Message":"CAR 20 (MAG) TIME 1:45.650 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:27:13.283{"Messages":{"28":{"Utc":"2020-12-11T14:12:13","Category":"Other","Message":"CAR 33 (VER) TIME 1:42.355 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:27:22.423{"Messages":{"29":{"Utc":"2020-12-11T14:12:22","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:37:22.618{"Messages":{"30":{"Utc":"2020-12-11T14:22:22","Category":"Other","Message":"SESSION WILL RE-START AT 18:24"}}}
+01:37:55.766{"Messages":{"31":{"Utc":"2020-12-11T14:22:56","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:37:57.893{"Messages":{"32":{"Utc":"2020-12-11T14:22:58","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:38:20.128{"Messages":{"33":{"Utc":"2020-12-11T14:23:20","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+01:39:00.368{"Messages":{"34":{"Utc":"2020-12-11T14:24:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:42:34.200{"Messages":{"35":{"Utc":"2020-12-11T14:27:34","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:43:19.243{"Messages":{"36":{"Utc":"2020-12-11T14:28:19","Category":"Other","Message":"CAR 77 (BOT) TIME 1:44.640 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:44:58.484{"Messages":{"37":{"Utc":"2020-12-11T14:29:58","Category":"Other","Message":"CAR 77 (BOT) TIME 1:43.708 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:45:00.424{"Messages":{"38":{"Utc":"2020-12-11T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:45:07.916{"Messages":{"39":{"Utc":"2020-12-11T14:30:08","Category":"Other","Message":"CAR 20 (MAG) TIME 1:45.716 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:46:54.171{"Messages":{"40":{"Utc":"2020-12-11T14:31:54","Category":"Other","Message":"CAR 20 (MAG) TIME 1:48.145 DELETED - TRACK LIMITS AT TURN 21"}}}

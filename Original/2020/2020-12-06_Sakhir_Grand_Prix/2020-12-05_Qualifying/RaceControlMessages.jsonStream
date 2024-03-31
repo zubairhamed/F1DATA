@@ -1,0 +1,9 @@
+00:00:32.691{"Messages":[{"Utc":"2020-12-05T16:45:33","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:15:00.419{"Messages":{"1":{"Utc":"2020-12-05T17:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:22:07.323{"Messages":{"2":{"Utc":"2020-12-05T17:07:07","Category":"Other","Message":"CAR 4 (NOR) TIME 0:54.870 DELETED - TRACK LIMITS AT TURN 8"}}}
+00:33:00.460{"Messages":{"3":{"Utc":"2020-12-05T17:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:40:00.495{"Messages":{"4":{"Utc":"2020-12-05T17:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:45:43.907{"Messages":{"5":{"Utc":"2020-12-05T17:30:44","Category":"Other","Message":"CAR 10 (GAS) TIME 0:54.130 DELETED - TRACK LIMITS AT TURN 8"}}}
+00:55:00.598{"Messages":{"6":{"Utc":"2020-12-05T17:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:03:00.464{"Messages":{"7":{"Utc":"2020-12-05T17:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.517{"Messages":{"8":{"Utc":"2020-12-05T18:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

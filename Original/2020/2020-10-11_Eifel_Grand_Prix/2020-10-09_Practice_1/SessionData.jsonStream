@@ -1,0 +1,4 @@
+00:00:00.000{"Series":[],"StatusSeries":[{"Utc":"2020-10-09T08:43:31.075Z","TrackStatus":"SCDeployed"}]}
+00:00:41.072{"StatusSeries":{"1":{"Utc":"2020-10-09T08:45:41.151Z","TrackStatus":"AllClear"}}}
+01:45:06.979{"StatusSeries":{"2":{"Utc":"2020-10-09T10:30:07.058Z","SessionStatus":"Finalised"}}}
+01:45:07.616{"StatusSeries":{"3":{"Utc":"2020-10-09T10:30:07.695Z","SessionStatus":"Ends"}}}

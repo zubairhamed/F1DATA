@@ -1,0 +1,119 @@
+00:15:00.765{"Messages":[{"Utc":"2020-10-25T12:55:02","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 40%"}]}
+00:27:04.596{"Messages":{"1":{"Utc":"2020-10-25T13:07:05","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:33:09.911{"Messages":{"2":{"Utc":"2020-10-25T13:13:11","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:33:36.662{"Messages":{"3":{"Utc":"2020-10-25T13:13:37","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:33:44.630{"Messages":{"4":{"Utc":"2020-10-25T13:13:45","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:36:15.765{"Messages":{"5":{"Utc":"2020-10-25T13:16:17","Lap":3,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:36:28.046{"Messages":{"6":{"Utc":"2020-10-25T13:16:29","Lap":3,"Category":"Other","Message":"TURN 4 INCIDENT INVOLVING CARS 11 (PER) AND 33 (VER) NOTED"}}}
+00:36:50.622{"Messages":{"7":{"Utc":"2020-10-25T13:16:51","Lap":3,"Category":"Other","Message":"CAR 23 (ALB) TIME 1:31.533 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:37:03.760{"Messages":{"8":{"Utc":"2020-10-25T13:17:05","Lap":3,"Category":"Other","Message":"CAR 18 (STR) TIME 1:29.459 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:37:13.463{"Messages":{"9":{"Utc":"2020-10-25T13:17:14","Lap":3,"Category":"Other","Message":"CAR 31 (OCO) TIME 1:29.961 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:41:02.501{"Messages":{"10":{"Utc":"2020-10-25T13:21:03","Lap":6,"Category":"Other","Message":"TURN 4 INCIDENT INVOLVING CARS 11 (PER) AND 33 (VER) - NO INVESTIGATION NECESSARY"}}}
+00:43:28.973{"Messages":{"11":{"Utc":"2020-10-25T13:23:30","Lap":8,"Category":"Other","Message":"CAR 18 (STR) TIME 1:23.860 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:45:22.430{"Messages":{"12":{"Utc":"2020-10-25T13:25:23","Lap":9,"Category":"Other","Message":"CAR 18 (STR) TIME 1:23.860 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:45:47.115{"Messages":{"13":{"Utc":"2020-10-25T13:25:48","Lap":9,"Category":"Other","Message":"BLACK AND WHITE FLAG FOR CAR 18 (STR)"}}}
+00:46:50.441{"Messages":{"14":{"Utc":"2020-10-25T13:26:51","Lap":10,"Category":"Other","Message":"CAR 33 (VER) TIME 1:24.232 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:49:02.220{"Messages":{"15":{"Utc":"2020-10-25T13:29:03","Lap":12,"Category":"Other","Message":"CAR 10 (GAS) TIME 1:22.551 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:50:23.693{"Messages":{"16":{"Utc":"2020-10-25T13:30:24","Lap":13,"Category":"Other","Message":"CAR 20 (MAG) TIME 1:24.188 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:52:08.566{"Messages":{"17":{"Utc":"2020-10-25T13:32:09","Lap":14,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:24.391 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:54:50.705{"Messages":{"18":{"Utc":"2020-10-25T13:34:52","Lap":16,"Category":"Other","Message":"CAR 10 (GAS) TIME 1:23.016 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:57:23.797{"Messages":{"19":{"Utc":"2020-10-25T13:37:25","Lap":18,"Category":"Other","Message":"CAR 63 (RUS) TIME 1:23.904 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:57:44.066{"Messages":{"20":{"Utc":"2020-10-25T13:37:45","Lap":18,"Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) SPUN AND CONTINUED AT TURN 1"}}}
+00:57:46.288{"Messages":{"21":{"Utc":"2020-10-25T13:37:47","Lap":18,"Category":"Other","Message":"CAR 6 (LAT) TIME 1:23.896 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:58:40.325{"Messages":{"22":{"Utc":"2020-10-25T13:38:41","Lap":19,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 4 (NOR) AND 18 (STR) NOTED"}}}
+00:59:14.100{"Messages":{"23":{"Utc":"2020-10-25T13:39:15","Lap":19,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 4 (NOR) AND 18 (STR) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+01:01:00.578{"Messages":{"24":{"Utc":"2020-10-25T13:41:01","Lap":21,"Category":"Other","Message":"CAR 77 (BOT) TIME 1:22.596 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:01:03.124{"Messages":{"25":{"Utc":"2020-10-25T13:41:04","Lap":21,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 13:41:03"}}}
+01:01:26.081{"Messages":{"26":{"Utc":"2020-10-25T13:41:27","Lap":21,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 13:41:26"}}}
+01:01:51.198{"Messages":{"27":{"Utc":"2020-10-25T13:41:52","Lap":21,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 19"}}}
+01:01:54.458{"Messages":{"28":{"Utc":"2020-10-25T13:41:55","Lap":21,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+01:05:05.942{"Messages":{"29":{"Utc":"2020-10-25T13:45:07","Lap":24,"Category":"Other","Message":"5 SECOND TIME PENALTY FOR CAR 18 (STR) - CAUSING A COLLISION"}}}
+01:07:26.493{"Messages":{"30":{"Utc":"2020-10-25T13:47:27","Lap":25,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:23.430 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:08:52.986{"Messages":{"31":{"Utc":"2020-10-25T13:48:54","Lap":26,"Category":"Other","Message":"CAR 20 (MAG) TIME 1:23.614 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:09:22.627{"Messages":{"32":{"Utc":"2020-10-25T13:49:23","Lap":27,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 13:49:23"}}}
+01:10:00.423{"Messages":{"33":{"Utc":"2020-10-25T13:50:01","Lap":27,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+01:10:28.577{"Messages":{"34":{"Utc":"2020-10-25T13:50:29","Lap":28,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:10:35.259{"Messages":{"35":{"Utc":"2020-10-25T13:50:36","Lap":28,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 13:50:36"}}}
+01:11:22.180{"Messages":{"36":{"Utc":"2020-10-25T13:51:23","Lap":28,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+01:11:22.698{"Messages":{"37":{"Utc":"2020-10-25T13:51:23","Lap":28,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:11:27.113{"Messages":{"38":{"Utc":"2020-10-25T13:51:28","Lap":28,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"4","Message":"WAVED BLUE FLAG FOR CAR 4 (NOR) TIMED AT 13:51:27"}}}
+01:12:08.344{"Messages":{"39":{"Utc":"2020-10-25T13:52:09","Lap":29,"Category":"Other","Message":"CAR 18 (STR) TIME 1:23.935 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:13:00.187{"Messages":{"40":{"Utc":"2020-10-25T13:53:01","Lap":29,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 13:53:00"}}}
+01:13:25.976{"Messages":{"41":{"Utc":"2020-10-25T13:53:27","Lap":30,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:23.814 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:13:49.884{"Messages":{"42":{"Utc":"2020-10-25T13:53:51","Lap":30,"Category":"Other","Message":"BLACK AND WHITE FLAG FOR CAR 8 (GRO) - TRACK LIMITS"}}}
+01:14:24.713{"Messages":{"43":{"Utc":"2020-10-25T13:54:26","Lap":30,"Category":"Other","Message":"5 SECOND TIME PENALTY FOR CAR 18 (STR) - TRACK LIMITS"}}}
+01:15:10.897{"Messages":{"44":{"Utc":"2020-10-25T13:55:12","Lap":31,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 13:55:11"}}}
+01:16:14.686{"Messages":{"45":{"Utc":"2020-10-25T13:56:15","Lap":32,"Category":"Other","Message":"CAR 7 (RAI) TIME 1:23.639 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:16:16.353{"Messages":{"46":{"Utc":"2020-10-25T13:56:17","Lap":32,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:24.050 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:16:45.920{"Messages":{"47":{"Utc":"2020-10-25T13:56:47","Lap":32,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 13:56:46"}}}
+01:16:57.300{"Messages":{"48":{"Utc":"2020-10-25T13:56:58","Lap":32,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:56:58"}}}
+01:17:05.626{"Messages":{"49":{"Utc":"2020-10-25T13:57:06","Lap":32,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"4","Message":"WAVED BLUE FLAG FOR CAR 4 (NOR) TIMED AT 13:57:06"}}}
+01:17:44.884{"Messages":{"50":{"Utc":"2020-10-25T13:57:46","Lap":33,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 13:57:45"}}}
+01:18:14.962{"Messages":{"51":{"Utc":"2020-10-25T13:58:16","Lap":33,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"23","Message":"WAVED BLUE FLAG FOR CAR 23 (ALB) TIMED AT 13:58:15"}}}
+01:18:34.742{"Messages":{"52":{"Utc":"2020-10-25T13:58:36","Lap":34,"Category":"Other","Message":"CAR 55 (SAI) TIME 1:23.907 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:18:38.046{"Messages":{"53":{"Utc":"2020-10-25T13:58:39","Lap":34,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 13:58:38"}}}
+01:18:50.029{"Messages":{"54":{"Utc":"2020-10-25T13:58:51","Lap":34,"Category":"Other","Message":"CAR 4 (NOR) TIME 1:23.682 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:19:09.388{"Messages":{"55":{"Utc":"2020-10-25T13:59:10","Lap":34,"Category":"Other","Message":"CAR 26 (KVY) TIME 1:22.594 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:19:27.698{"Messages":{"56":{"Utc":"2020-10-25T13:59:29","Lap":34,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"55","Message":"WAVED BLUE FLAG FOR CAR 55 (SAI) TIMED AT 13:59:28"}}}
+01:20:22.377{"Messages":{"57":{"Utc":"2020-10-25T14:00:23","Lap":35,"Category":"Other","Message":"CAR 26 (KVY) TIME 1:22.440 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:20:47.090{"Messages":{"58":{"Utc":"2020-10-25T14:00:48","Lap":35,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 14:00:47"}}}
+01:21:03.170{"Messages":{"59":{"Utc":"2020-10-25T14:01:04","Lap":35,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 14:01:03"}}}
+01:22:18.726{"Messages":{"60":{"Utc":"2020-10-25T14:02:20","Lap":36,"Category":"Other","Message":"CAR 77 (BOT) TIME 1:21.538 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:22:34.395{"Messages":{"61":{"Utc":"2020-10-25T14:02:35","Lap":37,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 14:02:35"}}}
+01:22:43.820{"Messages":{"62":{"Utc":"2020-10-25T14:02:45","Lap":37,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 14:02:44"}}}
+01:25:01.059{"Messages":{"63":{"Utc":"2020-10-25T14:05:02","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"23","Message":"WAVED BLUE FLAG FOR CAR 23 (ALB) TIMED AT 14:05:01"}}}
+01:25:27.957{"Messages":{"64":{"Utc":"2020-10-25T14:05:29","Lap":39,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 14:05:28"}}}
+01:25:56.971{"Messages":{"65":{"Utc":"2020-10-25T14:05:58","Lap":39,"Category":"Other","Message":"CAR 26 (KVY) TIME 1:22.708 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:26:41.053{"Messages":{"66":{"Utc":"2020-10-25T14:06:42","Lap":40,"Category":"Other","Message":"BLACK AND WHITE FLAG FOR CAR 26 (KVY) - TRACK LIMITS"}}}
+01:27:41.104{"Messages":{"67":{"Utc":"2020-10-25T14:07:42","Lap":40,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:07:41"}}}
+01:27:55.584{"Messages":{"68":{"Utc":"2020-10-25T14:07:56","Lap":40,"Category":"Other","Message":"CAR 20 (MAG) TIME 1:23.472 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:28:03.093{"Messages":{"69":{"Utc":"2020-10-25T14:08:04","Lap":41,"Category":"Other","Message":"CAR 6 (LAT) TIME 1:25.975 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:28:22.517{"Messages":{"70":{"Utc":"2020-10-25T14:08:23","Lap":41,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"55","Message":"WAVED BLUE FLAG FOR CAR 55 (SAI) TIMED AT 14:08:23"}}}
+01:28:51.236{"Messages":{"71":{"Utc":"2020-10-25T14:08:52","Lap":41,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:22.565 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:29:02.113{"Messages":{"72":{"Utc":"2020-10-25T14:09:03","Lap":41,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:09:02"}}}
+01:29:22.833{"Messages":{"73":{"Utc":"2020-10-25T14:09:24","Lap":41,"Category":"Other","Message":"5 SECOND TIME PENALTY FOR CAR 8 (GRO) - TRACK LIMITS"}}}
+01:30:02.847{"Messages":{"74":{"Utc":"2020-10-25T14:10:04","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 14:10:03"}}}
+01:30:30.288{"Messages":{"75":{"Utc":"2020-10-25T14:10:31","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 14:10:31"}}}
+01:33:26.033{"Messages":{"76":{"Utc":"2020-10-25T14:13:27","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 14:13:26"}}}
+01:33:40.702{"Messages":{"77":{"Utc":"2020-10-25T14:13:42","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"4","Message":"WAVED BLUE FLAG FOR CAR 4 (NOR) TIMED AT 14:13:41"}}}
+01:34:24.203{"Messages":{"78":{"Utc":"2020-10-25T14:14:25","Lap":45,"Category":"Other","Message":"INCIDENT INVOLVING CAR 26 (KVY) UNDER INVESTIGATION - IGNORING BLUE FLAGS"}}}
+01:34:45.478{"Messages":{"79":{"Utc":"2020-10-25T14:14:46","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 14:14:46"}}}
+01:36:36.790{"Messages":{"80":{"Utc":"2020-10-25T14:16:38","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:16:37"}}}
+01:36:42.370{"Messages":{"81":{"Utc":"2020-10-25T14:16:43","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:16:43"}}}
+01:37:57.303{"Messages":{"82":{"Utc":"2020-10-25T14:17:58","Lap":48,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 14:17:58"}}}
+01:38:55.159{"Messages":{"83":{"Utc":"2020-10-25T14:18:56","Lap":48,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 14:18:55"}}}
+01:38:55.982{"Messages":{"84":{"Utc":"2020-10-25T14:18:57","Lap":48,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:18:56"}}}
+01:39:43.300{"Messages":{"85":{"Utc":"2020-10-25T14:19:44","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 14:19:44"}}}
+01:39:53.802{"Messages":{"86":{"Utc":"2020-10-25T14:19:55","Lap":49,"Category":"Other","Message":"CAR 99 (GIO) TIME 1:22.953 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:40:14.461{"Messages":{"87":{"Utc":"2020-10-25T14:20:15","Lap":49,"Category":"Other","Message":"INCIDENT INVOLVING CAR 26 (KVY) - NO FURTHER ACTION "}}}
+01:41:12.479{"Messages":{"88":{"Utc":"2020-10-25T14:21:13","Lap":50,"Category":"Other","Message":"CAR 4 (NOR) TIME 1:21.092 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:41:58.807{"Messages":{"89":{"Utc":"2020-10-25T14:22:00","Lap":51,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 14:21:59"}}}
+01:42:26.311{"Messages":{"90":{"Utc":"2020-10-25T14:22:27","Lap":51,"Category":"Other","Message":"CAR 23 (ALB) TIME 1:20.997 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:42:44.262{"Messages":{"91":{"Utc":"2020-10-25T14:22:45","Lap":51,"Category":"Other","Message":"CAR 6 (LAT) TIME 1:22.337 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:43:05.203{"Messages":{"92":{"Utc":"2020-10-25T14:23:06","Lap":51,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 14:23:05"}}}
+01:44:09.004{"Messages":{"93":{"Utc":"2020-10-25T14:24:10","Lap":52,"Category":"Other","Message":"CAR 6 (LAT) TIME 1:22.415 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:44:37.929{"Messages":{"94":{"Utc":"2020-10-25T14:24:39","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 14:24:38"}}}
+01:44:47.894{"Messages":{"95":{"Utc":"2020-10-25T14:24:49","Lap":53,"Category":"Other","Message":"BLACK AND WHITE FLAG FOR CAR 6 (LAT) - TRACK LIMITS"}}}
+01:47:01.319{"Messages":{"96":{"Utc":"2020-10-25T14:27:02","Lap":54,"Category":"Other","Message":"CAR 26 (KVY) TIME 1:22.300 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:47:23.204{"Messages":{"97":{"Utc":"2020-10-25T14:27:24","Lap":55,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"55","Message":"WAVED BLUE FLAG FOR CAR 55 (SAI) TIMED AT 14:27:23"}}}
+01:47:29.735{"Messages":{"98":{"Utc":"2020-10-25T14:27:31","Lap":55,"Category":"Other","Message":"5 SECOND TIME PENALTY FOR CAR 26 (KVY) - TRACK LIMITS"}}}
+01:47:56.373{"Messages":{"99":{"Utc":"2020-10-25T14:27:57","Lap":55,"Category":"Other","Message":"CAR 4 (NOR) TIME 1:21.667 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:48:20.705{"Messages":{"100":{"Utc":"2020-10-25T14:28:22","Lap":55,"Category":"Other","Message":"BLACK AND WHITE FLAG FOR CAR 4 (NOR) - TRACK LIMITS"}}}
+01:48:48.624{"Messages":{"101":{"Utc":"2020-10-25T14:28:49","Lap":56,"Category":"Other","Message":"CAR 5 (VET) TIME 1:21.575 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:49:01.853{"Messages":{"102":{"Utc":"2020-10-25T14:29:03","Lap":56,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 14:29:02"}}}
+01:51:18.130{"Messages":{"103":{"Utc":"2020-10-25T14:31:19","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 14:31:18"}}}
+01:51:28.456{"Messages":{"104":{"Utc":"2020-10-25T14:31:29","Lap":58,"Category":"Other","Message":"CAR 7 (RAI) TIME 1:21.461 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:51:34.322{"Messages":{"105":{"Utc":"2020-10-25T14:31:35","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 14:31:35"}}}
+01:51:41.978{"Messages":{"106":{"Utc":"2020-10-25T14:31:43","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:31:42"}}}
+01:52:08.779{"Messages":{"107":{"Utc":"2020-10-25T14:32:10","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 14:32:09"}}}
+01:52:20.273{"Messages":{"108":{"Utc":"2020-10-25T14:32:21","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 14:32:21"}}}
+01:52:29.673{"Messages":{"109":{"Utc":"2020-10-25T14:32:30","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 14:32:30"}}}
+01:52:43.380{"Messages":{"110":{"Utc":"2020-10-25T14:32:44","Lap":59,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"11","Message":"WAVED BLUE FLAG FOR CAR 11 (PER) TIMED AT 14:32:44"}}}
+01:53:03.570{"Messages":{"111":{"Utc":"2020-10-25T14:33:04","Lap":59,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 14:33:04"}}}
+01:56:54.277{"Messages":{"112":{"Utc":"2020-10-25T14:36:55","Lap":62,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 14:36:54"}}}
+01:58:34.455{"Messages":{"113":{"Utc":"2020-10-25T14:38:35","Lap":63,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 14:38:35"}}}
+01:59:37.221{"Messages":{"114":{"Utc":"2020-10-25T14:39:38","Lap":64,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 14:39:37"}}}
+02:00:14.230{"Messages":{"115":{"Utc":"2020-10-25T14:40:15","Lap":64,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 11 (PER) AND 10 (GAS) NOTED"}}}
+02:01:13.584{"Messages":{"116":{"Utc":"2020-10-25T14:41:14","Lap":65,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:41:14"}}}
+02:02:12.357{"Messages":{"117":{"Utc":"2020-10-25T14:42:13","Lap":66,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 10 (GAS) AND 11 (PER) WILL BE INVESTIGATED AFTER THE RACE"}}}
+02:03:08.193{"Messages":{"118":{"Utc":"2020-10-25T14:43:09","Lap":66,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

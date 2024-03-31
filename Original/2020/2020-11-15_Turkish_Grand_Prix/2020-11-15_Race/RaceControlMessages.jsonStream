@@ -1,0 +1,167 @@
+00:01:04.662{"Messages":[{"Utc":"2020-11-15T09:41:05","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}]}
+00:01:06.439{"Messages":{"1":{"Utc":"2020-11-15T09:41:07","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:15:11.940{"Messages":{"2":{"Utc":"2020-11-15T09:55:12","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 60%"}}}
+00:33:26.627{"Messages":{"3":{"Utc":"2020-11-15T10:13:27","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:33:41.472{"Messages":{"4":{"Utc":"2020-11-15T10:13:42","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:33:50.786{"Messages":{"5":{"Utc":"2020-11-15T10:13:51","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:34:49.913{"Messages":{"6":{"Utc":"2020-11-15T10:14:50","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:34:54.227{"Messages":{"7":{"Utc":"2020-11-15T10:14:55","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:35:03.744{"Messages":{"8":{"Utc":"2020-11-15T10:15:04","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+00:35:08.983{"Messages":{"9":{"Utc":"2020-11-15T10:15:09","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:35:10.220{"Messages":{"10":{"Utc":"2020-11-15T10:15:11","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:35:15.154{"Messages":{"11":{"Utc":"2020-11-15T10:15:16","Lap":1,"Category":"Other","Message":"TURN 1 INCIDENT NOTED"}}}
+00:35:37.657{"Messages":{"12":{"Utc":"2020-11-15T10:15:38","Lap":2,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:35:48.683{"Messages":{"13":{"Utc":"2020-11-15T10:15:49","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:38:07.423{"Messages":{"14":{"Utc":"2020-11-15T10:18:08","Lap":3,"Category":"Other","Message":"CAR 77 (BOT) TIME 2:03.530 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:38:13.404{"Messages":{"15":{"Utc":"2020-11-15T10:18:14","Lap":3,"Category":"Other","Message":"CAR 63 (RUS) TIME 2:09.862 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:38:33.990{"Messages":{"16":{"Utc":"2020-11-15T10:18:34","Lap":3,"Category":"Other","Message":"CAR 6 (LAT) TIME 2:12.459 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:40:09.477{"Messages":{"17":{"Utc":"2020-11-15T10:20:10","Lap":4,"Category":"Other","Message":"CAR 8 (GRO) TIME 2:04.367 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:40:24.749{"Messages":{"18":{"Utc":"2020-11-15T10:20:25","Lap":4,"Category":"Other","Message":"CAR 31 (OCO) TIME 1:59.312 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:42:39.981{"Messages":{"19":{"Utc":"2020-11-15T10:22:40","Lap":5,"Category":"Other","Message":"1ST LAP INCIDENTS - NO INVESTIGATIONS NECESSARY"}}}
+00:46:07.161{"Messages":{"20":{"Utc":"2020-11-15T10:26:08","Lap":7,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:58.901 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:46:57.282{"Messages":{"21":{"Utc":"2020-11-15T10:26:58","Lap":8,"Category":"Other","Message":"CAR 6 (LAT) TIME 2:06.551 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:47:52.204{"Messages":{"22":{"Utc":"2020-11-15T10:27:53","Lap":8,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:27:52"}}}
+00:49:14.258{"Messages":{"23":{"Utc":"2020-11-15T10:29:15","Lap":9,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:29:14"}}}
+00:49:58.233{"Messages":{"24":{"Utc":"2020-11-15T10:29:59","Lap":9,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:29:58"}}}
+00:50:16.974{"Messages":{"25":{"Utc":"2020-11-15T10:30:17","Lap":9,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:30:17"}}}
+00:53:26.596{"Messages":{"26":{"Utc":"2020-11-15T10:33:27","Lap":11,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:33:26"}}}
+00:57:18.124{"Messages":{"27":{"Utc":"2020-11-15T10:37:18","Lap":13,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:57:40.142{"Messages":{"28":{"Utc":"2020-11-15T10:37:41","Lap":13,"Category":"CarEvent","RacingNumber":"99","Message":"CAR 99 (GIO) STOPPED AT TURN 9"}}}
+00:58:00.347{"Messages":{"29":{"Utc":"2020-11-15T10:38:01","Lap":13,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:59:24.694{"Messages":{"30":{"Utc":"2020-11-15T10:39:25","Lap":14,"Category":"Other","Message":"CAR 16 (LEC) TIME 2:04.007 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:00:55.499{"Messages":{"31":{"Utc":"2020-11-15T10:40:56","Lap":15,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:00:58.760{"Messages":{"32":{"Utc":"2020-11-15T10:40:59","Lap":15,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:01:13.429{"Messages":{"33":{"Utc":"2020-11-15T10:41:14","Lap":15,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:02:02.731{"Messages":{"34":{"Utc":"2020-11-15T10:42:03","Lap":15,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:42:03"}}}
+01:03:56.730{"Messages":{"35":{"Utc":"2020-11-15T10:43:57","Lap":16,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:43:57"}}}
+01:04:25.936{"Messages":{"36":{"Utc":"2020-11-15T10:44:26","Lap":17,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:44:26"}}}
+01:05:10.742{"Messages":{"37":{"Utc":"2020-11-15T10:45:11","Lap":17,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:45:11"}}}
+01:05:48.011{"Messages":{"38":{"Utc":"2020-11-15T10:45:48","Lap":18,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:05:52.973{"Messages":{"39":{"Utc":"2020-11-15T10:45:53","Lap":18,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:06:12.978{"Messages":{"40":{"Utc":"2020-11-15T10:46:13","Lap":18,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:46:13"}}}
+01:07:19.064{"Messages":{"41":{"Utc":"2020-11-15T10:47:19","Lap":18,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:07:30.624{"Messages":{"42":{"Utc":"2020-11-15T10:47:31","Lap":19,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:07:30.864{"Messages":{"43":{"Utc":"2020-11-15T10:47:31","Lap":19,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:07:31.189{"Messages":{"44":{"Utc":"2020-11-15T10:47:32","Lap":19,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+01:07:35.723{"Messages":{"45":{"Utc":"2020-11-15T10:47:36","Lap":19,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:07:37.390{"Messages":{"46":{"Utc":"2020-11-15T10:47:38","Lap":19,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+01:07:37.538{"Messages":{"47":{"Utc":"2020-11-15T10:47:38","Lap":19,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:07:38.445{"Messages":{"48":{"Utc":"2020-11-15T10:47:39","Lap":19,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:07:47.487{"Messages":{"49":{"Utc":"2020-11-15T10:47:48","Lap":19,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:47:47"}}}
+01:08:13.740{"Messages":{"50":{"Utc":"2020-11-15T10:48:14","Lap":19,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:48:14"}}}
+01:12:07.067{"Messages":{"51":{"Utc":"2020-11-15T10:52:07","Lap":21,"Category":"Other","Message":"INCIDENT INVOLVING CAR 33 (VER) UNDER INVESTIGATION - CROSSING THE LINE AT PIT EXIT"}}}
+01:12:33.345{"Messages":{"52":{"Utc":"2020-11-15T10:52:34","Lap":21,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:12:35.389{"Messages":{"53":{"Utc":"2020-11-15T10:52:36","Lap":21,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:12:40.841{"Messages":{"54":{"Utc":"2020-11-15T10:52:41","Lap":21,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:12:43.973{"Messages":{"55":{"Utc":"2020-11-15T10:52:44","Lap":21,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:15:42.760{"Messages":{"56":{"Utc":"2020-11-15T10:55:43","Lap":23,"Category":"Other","Message":"CAR 33 (VER) TIME 1:44.400 DELETED - TRACK LIMITS AT TURN 14"}}}
+01:15:52.244{"Messages":{"57":{"Utc":"2020-11-15T10:55:53","Lap":23,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:55:52"}}}
+01:16:59.330{"Messages":{"58":{"Utc":"2020-11-15T10:57:00","Lap":24,"Category":"Other","Message":"CAR 33 (VER) TIME 1:43.546 DELETED - TRACK LIMITS AT TURN 14"}}}
+01:17:54.488{"Messages":{"59":{"Utc":"2020-11-15T10:57:55","Lap":24,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 13:57:54"}}}
+01:19:23.315{"Messages":{"60":{"Utc":"2020-11-15T10:59:24","Lap":25,"Category":"Other","Message":"CAR 63 (RUS) TIME 1:47.054 DELETED - TRACK LIMITS AT TURN 14"}}}
+01:21:25.033{"Messages":{"61":{"Utc":"2020-11-15T11:01:25","Lap":26,"Category":"Other","Message":"CAR 63 (RUS) TIME 1:47.223 DELETED - TRACK LIMITS AT TURN 14"}}}
+01:22:49.707{"Messages":{"62":{"Utc":"2020-11-15T11:02:50","Lap":27,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:02:49"}}}
+01:22:56.292{"Messages":{"63":{"Utc":"2020-11-15T11:02:57","Lap":27,"Category":"Other","Message":"CROSSING THE WHITE LINE INCIDENT INVOLVING CAR 33 (VER) WILL BE INVESTIGATED AFTER THE RACE"}}}
+01:23:24.704{"Messages":{"64":{"Utc":"2020-11-15T11:03:25","Lap":28,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:03:25"}}}
+01:24:09.160{"Messages":{"65":{"Utc":"2020-11-15T11:04:10","Lap":28,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:04:09"}}}
+01:25:11.902{"Messages":{"66":{"Utc":"2020-11-15T11:05:12","Lap":29,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:05:12"}}}
+01:25:27.748{"Messages":{"67":{"Utc":"2020-11-15T11:05:28","Lap":29,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:05:28"}}}
+01:25:46.555{"Messages":{"68":{"Utc":"2020-11-15T11:05:47","Lap":29,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:05:46"}}}
+01:27:05.825{"Messages":{"69":{"Utc":"2020-11-15T11:07:06","Lap":30,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:27:16.170{"Messages":{"70":{"Utc":"2020-11-15T11:07:17","Lap":30,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:54.260 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:30:27.031{"Messages":{"71":{"Utc":"2020-11-15T11:10:27","Lap":32,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 14:10:27"}}}
+01:30:33.080{"Messages":{"72":{"Utc":"2020-11-15T11:10:33","Lap":32,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 14:10:33"}}}
+01:34:11.020{"Messages":{"73":{"Utc":"2020-11-15T11:14:11","Lap":34,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+01:34:17.028{"Messages":{"74":{"Utc":"2020-11-15T11:14:17","Lap":34,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:37:16.516{"Messages":{"75":{"Utc":"2020-11-15T11:17:17","Lap":36,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:17:16"}}}
+01:38:58.578{"Messages":{"76":{"Utc":"2020-11-15T11:18:59","Lap":37,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:18:58"}}}
+01:39:10.554{"Messages":{"77":{"Utc":"2020-11-15T11:19:11","Lap":37,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CAR 20 (MAG) WILL BE INVESTIGATED AFTER THE RACE"}}}
+01:40:27.572{"Messages":{"78":{"Utc":"2020-11-15T11:20:28","Lap":37,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:20:27"}}}
+01:41:07.830{"Messages":{"79":{"Utc":"2020-11-15T11:21:08","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:21:08"}}}
+01:41:41.631{"Messages":{"80":{"Utc":"2020-11-15T11:21:42","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 14:21:41"}}}
+01:41:45.444{"Messages":{"81":{"Utc":"2020-11-15T11:21:46","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:21:45"}}}
+01:42:03.037{"Messages":{"82":{"Utc":"2020-11-15T11:22:03","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:22:03"}}}
+01:43:09.146{"Messages":{"83":{"Utc":"2020-11-15T11:23:10","Lap":39,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 14:23:09"}}}
+01:43:12.099{"Messages":{"84":{"Utc":"2020-11-15T11:23:13","Lap":39,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:43:18.723{"Messages":{"85":{"Utc":"2020-11-15T11:23:19","Lap":39,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+01:43:35.343{"Messages":{"86":{"Utc":"2020-11-15T11:23:36","Lap":39,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:44:32.909{"Messages":{"87":{"Utc":"2020-11-15T11:24:33","Lap":40,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":20,"Message":"DOUBLE YELLOW IN TRACK SECTOR 20"}}}
+01:44:34.064{"Messages":{"88":{"Utc":"2020-11-15T11:24:34","Lap":40,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:44:34.489{"Messages":{"89":{"Utc":"2020-11-15T11:24:35","Lap":40,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+01:44:37.751{"Messages":{"90":{"Utc":"2020-11-15T11:24:38","Lap":40,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+01:44:37.813{"Messages":{"91":{"Utc":"2020-11-15T11:24:38","Lap":40,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:44:38.522{"Messages":{"92":{"Utc":"2020-11-15T11:24:39","Lap":40,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+01:45:11.301{"Messages":{"93":{"Utc":"2020-11-15T11:25:12","Lap":40,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 14:25:11"}}}
+01:45:20.925{"Messages":{"94":{"Utc":"2020-11-15T11:25:21","Lap":40,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:25:21"}}}
+01:45:34.898{"Messages":{"95":{"Utc":"2020-11-15T11:25:35","Lap":40,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:45:36.316{"Messages":{"96":{"Utc":"2020-11-15T11:25:37","Lap":40,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:45:40.096{"Messages":{"97":{"Utc":"2020-11-15T11:25:40","Lap":41,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:45:45.126{"Messages":{"98":{"Utc":"2020-11-15T11:25:46","Lap":41,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:45:55.914{"Messages":{"99":{"Utc":"2020-11-15T11:25:56","Lap":41,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+01:45:58.659{"Messages":{"100":{"Utc":"2020-11-15T11:25:59","Lap":41,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:46:04.145{"Messages":{"101":{"Utc":"2020-11-15T11:26:05","Lap":41,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:46:09.853{"Messages":{"102":{"Utc":"2020-11-15T11:26:10","Lap":41,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":14,"Message":"DOUBLE YELLOW IN TRACK SECTOR 14"}}}
+01:46:19.635{"Messages":{"103":{"Utc":"2020-11-15T11:26:20","Lap":41,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:47:14.099{"Messages":{"104":{"Utc":"2020-11-15T11:27:14","Lap":41,"Category":"Other","Message":"TURN 9 INCIDENT INVOLVING CARS 6 (LAT) AND 8 (GRO) NOTED"}}}
+01:47:30.630{"Messages":{"105":{"Utc":"2020-11-15T11:27:31","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 14:27:30"}}}
+01:47:43.208{"Messages":{"106":{"Utc":"2020-11-15T11:27:44","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 14:27:43"}}}
+01:48:18.968{"Messages":{"107":{"Utc":"2020-11-15T11:28:19","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:28:19"}}}
+01:48:52.912{"Messages":{"108":{"Utc":"2020-11-15T11:28:53","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:28:53"}}}
+01:49:16.515{"Messages":{"109":{"Utc":"2020-11-15T11:29:17","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 14:29:16"}}}
+01:49:39.795{"Messages":{"110":{"Utc":"2020-11-15T11:29:40","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:29:40"}}}
+01:50:15.254{"Messages":{"111":{"Utc":"2020-11-15T11:30:16","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 14:30:15"}}}
+01:50:37.254{"Messages":{"112":{"Utc":"2020-11-15T11:30:38","Lap":43,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:45.545 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:54:10.324{"Messages":{"113":{"Utc":"2020-11-15T11:34:11","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"77","Message":"WAVED BLUE FLAG FOR CAR 77 (BOT) TIMED AT 14:34:10"}}}
+01:54:58.843{"Messages":{"114":{"Utc":"2020-11-15T11:34:59","Lap":46,"Category":"Other","Message":"CAR 20 (MAG) TIME 1:41.691 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:55:32.525{"Messages":{"115":{"Utc":"2020-11-15T11:35:33","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:35:32"}}}
+01:55:44.898{"Messages":{"116":{"Utc":"2020-11-15T11:35:45","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:35:45"}}}
+01:55:53.367{"Messages":{"117":{"Utc":"2020-11-15T11:35:54","Lap":47,"Category":"Other","Message":"CAR 77 (BOT) TIME 1:48.022 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:56:49.535{"Messages":{"118":{"Utc":"2020-11-15T11:36:50","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:36:49"}}}
+01:57:58.968{"Messages":{"119":{"Utc":"2020-11-15T11:37:59","Lap":48,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 14:37:59"}}}
+01:59:03.787{"Messages":{"120":{"Utc":"2020-11-15T11:39:04","Lap":49,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":20,"Message":"DOUBLE YELLOW IN TRACK SECTOR 20"}}}
+01:59:04.825{"Messages":{"121":{"Utc":"2020-11-15T11:39:05","Lap":49,"Category":"Other","Message":"DRS DISABLED IN ZONE 2"}}}
+01:59:12.491{"Messages":{"122":{"Utc":"2020-11-15T11:39:13","Lap":49,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+01:59:13.926{"Messages":{"123":{"Utc":"2020-11-15T11:39:14","Lap":49,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+01:59:13.939{"Messages":{"124":{"Utc":"2020-11-15T11:39:14","Lap":49,"Category":"Other","Message":"DRS ENABLED IN ZONE 2"}}}
+01:59:16.781{"Messages":{"125":{"Utc":"2020-11-15T11:39:17","Lap":49,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+01:59:24.441{"Messages":{"126":{"Utc":"2020-11-15T11:39:25","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 14:39:24"}}}
+01:59:28.297{"Messages":{"127":{"Utc":"2020-11-15T11:39:29","Lap":49,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:57.719 DELETED - TRACK LIMITS AT TURN 1"}}}
+02:00:04.272{"Messages":{"128":{"Utc":"2020-11-15T11:40:05","Lap":49,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+02:00:05.338{"Messages":{"129":{"Utc":"2020-11-15T11:40:06","Lap":49,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+02:00:09.801{"Messages":{"130":{"Utc":"2020-11-15T11:40:10","Lap":49,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+02:00:09.804{"Messages":{"131":{"Utc":"2020-11-15T11:40:10","Lap":49,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+02:00:35.612{"Messages":{"132":{"Utc":"2020-11-15T11:40:36","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:40:35"}}}
+02:01:18.410{"Messages":{"133":{"Utc":"2020-11-15T11:41:19","Lap":50,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:48.751 DELETED - TRACK LIMITS AT TURN 14"}}}
+02:01:53.482{"Messages":{"134":{"Utc":"2020-11-15T11:41:54","Lap":50,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:41:53"}}}
+02:02:11.873{"Messages":{"135":{"Utc":"2020-11-15T11:42:12","Lap":50,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 14:42:12"}}}
+02:02:28.137{"Messages":{"136":{"Utc":"2020-11-15T11:42:29","Lap":51,"Category":"Other","Message":"BLACK AND WHITE FLAG FOR CAR 8 (GRO) - TRACK LIMITS"}}}
+02:02:30.020{"Messages":{"137":{"Utc":"2020-11-15T11:42:30","Lap":51,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"77","Message":"WAVED BLUE FLAG FOR CAR 77 (BOT) TIMED AT 14:42:30"}}}
+02:03:11.905{"Messages":{"138":{"Utc":"2020-11-15T11:43:12","Lap":51,"Category":"Other","Message":"CAR 8 (GRO) TIME 1:49.349 DELETED - TRACK LIMITS AT TURN 1"}}}
+02:03:13.548{"Messages":{"139":{"Utc":"2020-11-15T11:43:14","Lap":51,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 14:43:13"}}}
+02:03:34.231{"Messages":{"140":{"Utc":"2020-11-15T11:43:35","Lap":51,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+02:03:37.729{"Messages":{"141":{"Utc":"2020-11-15T11:43:38","Lap":51,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+02:03:39.930{"Messages":{"142":{"Utc":"2020-11-15T11:43:40","Lap":51,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+02:03:42.939{"Messages":{"143":{"Utc":"2020-11-15T11:43:43","Lap":51,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+02:04:10.072{"Messages":{"144":{"Utc":"2020-11-15T11:44:10","Lap":52,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:44:10"}}}
+02:04:39.103{"Messages":{"145":{"Utc":"2020-11-15T11:44:40","Lap":52,"Category":"Other","Message":"CAR 16 (LEC) TIME 1:41.625 DELETED - TRACK LIMITS AT TURN 1"}}}
+02:05:33.754{"Messages":{"146":{"Utc":"2020-11-15T11:45:34","Lap":52,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 14:45:34"}}}
+02:06:24.095{"Messages":{"147":{"Utc":"2020-11-15T11:46:24","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"77","Message":"WAVED BLUE FLAG FOR CAR 77 (BOT) TIMED AT 14:46:24"}}}
+02:09:05.659{"Messages":{"148":{"Utc":"2020-11-15T11:49:06","Lap":54,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 14:49:05"}}}
+02:10:11.337{"Messages":{"149":{"Utc":"2020-11-15T11:50:12","Lap":55,"Category":"Other","Message":"CAR 33 (VER) TIME 1:39.830 DELETED - TRACK LIMITS AT TURN 14"}}}
+02:11:35.549{"Messages":{"150":{"Utc":"2020-11-15T11:51:36","Lap":56,"Category":"Other","Message":"CAR 33 (VER) TIME 1:38.821 DELETED - TRACK LIMITS AT TURN 14"}}}
+02:13:18.192{"Messages":{"151":{"Utc":"2020-11-15T11:53:19","Lap":57,"Category":"Other","Message":"CAR 33 (VER) TIME 1:42.824 DELETED - TRACK LIMITS AT TURN 1"}}}
+02:13:45.568{"Messages":{"152":{"Utc":"2020-11-15T11:53:46","Lap":57,"Category":"Other","Message":"CAR 18 (STR) TIME 1:42.847 DELETED - TRACK LIMITS AT TURN 1"}}}
+02:14:16.581{"Messages":{"153":{"Utc":"2020-11-15T11:54:17","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"31","Message":"WAVED BLUE FLAG FOR CAR 31 (OCO) TIMED AT 14:54:16"}}}
+02:14:45.023{"Messages":{"154":{"Utc":"2020-11-15T11:54:45","Lap":58,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:54:45"}}}
+02:15:35.284{"Messages":{"155":{"Utc":"2020-11-15T11:55:36","Lap":58,"Category":"Other","Message":"CAR 7 (RAI) TIME 1:42.852 DELETED - TRACK LIMITS AT TURN 1"}}}
+02:15:43.846{"Messages":{"156":{"Utc":"2020-11-15T11:55:44","Lap":58,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+02:18:45.327{"Messages":{"157":{"Utc":"2020-11-15T11:58:46","Lap":58,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+02:18:46.397{"Messages":{"158":{"Utc":"2020-11-15T11:58:47","Lap":58,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+02:18:49.334{"Messages":{"159":{"Utc":"2020-11-15T11:58:50","Lap":58,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+02:18:49.359{"Messages":{"160":{"Utc":"2020-11-15T11:58:50","Lap":58,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+02:18:58.862{"Messages":{"161":{"Utc":"2020-11-15T11:58:59","Lap":58,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+02:18:59.640{"Messages":{"162":{"Utc":"2020-11-15T11:59:00","Lap":58,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+02:20:09.298{"Messages":{"163":{"Utc":"2020-11-15T12:00:10","Lap":58,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+02:20:14.574{"Messages":{"164":{"Utc":"2020-11-15T12:00:15","Lap":58,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+02:20:17.713{"Messages":{"165":{"Utc":"2020-11-15T12:00:18","Lap":58,"Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+02:20:19.473{"Messages":{"166":{"Utc":"2020-11-15T12:00:20","Lap":58,"Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}

@@ -1,0 +1,39 @@
+00:14:07.853{"Messages":[{"Utc":"2020-11-27T11:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:21:38.825{"Messages":{"1":{"Utc":"2020-11-27T11:07:31","Category":"Other","Message":"CAR 8 (GRO) TIME 1:34.472 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:22:19.457{"Messages":{"2":{"Utc":"2020-11-27T11:08:12","Category":"Other","Message":"CAR 23 (ALB) TIME 1:31.938 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:31:23.910{"Messages":{"3":{"Utc":"2020-11-27T11:17:16","Category":"Other","Message":"CAR 44 (HAM) TIME 1:41.205 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:31:56.848{"Messages":{"4":{"Utc":"2020-11-27T11:17:49","Category":"Other","Message":"CAR 6 (LAT) TIME 1:35.372 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:32:46.418{"Messages":{"5":{"Utc":"2020-11-27T11:18:39","Category":"Other","Message":"CAR 44 (HAM) TIME 1:32.946 DELETED - TRACK LIMITS AT TURN 4"}}}
+00:45:25.076{"Messages":{"6":{"Utc":"2020-11-27T11:31:17","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:45:41.635{"Messages":{"7":{"Utc":"2020-11-27T11:31:34","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:46:00.461{"Messages":{"8":{"Utc":"2020-11-27T11:31:53","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) SPUN AND CONTINUED AT TURN 7"}}}
+00:46:24.863{"Messages":{"9":{"Utc":"2020-11-27T11:32:17","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:46:25.941{"Messages":{"10":{"Utc":"2020-11-27T11:32:18","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+00:46:36.367{"Messages":{"11":{"Utc":"2020-11-27T11:32:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:46:36.371{"Messages":{"12":{"Utc":"2020-11-27T11:32:29","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+00:46:42.661{"Messages":{"13":{"Utc":"2020-11-27T11:32:35","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) SPUN AND CONTINUED AT TURN 3"}}}
+01:01:33.068{"Messages":{"14":{"Utc":"2020-11-27T11:47:25","Category":"Other","Message":"CAR 26 (KVY) TIME 1:30.951 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:08:56.599{"Messages":{"15":{"Utc":"2020-11-27T11:54:49","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+01:08:58.545{"Messages":{"16":{"Utc":"2020-11-27T11:54:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:09:29.192{"Messages":{"17":{"Utc":"2020-11-27T11:55:22","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+01:09:32.091{"Messages":{"18":{"Utc":"2020-11-27T11:55:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:09:53.005{"Messages":{"19":{"Utc":"2020-11-27T11:55:45","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) SPUN AND CONTINUED AT TURN 15"}}}
+01:10:23.221{"Messages":{"20":{"Utc":"2020-11-27T11:56:16","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:10:23.585{"Messages":{"21":{"Utc":"2020-11-27T11:56:16","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:10:24.294{"Messages":{"22":{"Utc":"2020-11-27T11:56:17","Category":"Other","Message":"DRS DISABLED IN ZONE 1"}}}
+01:10:26.127{"Messages":{"23":{"Utc":"2020-11-27T11:56:19","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:10:26.162{"Messages":{"24":{"Utc":"2020-11-27T11:56:19","Category":"Other","Message":"DRS ENABLED IN ZONE 1"}}}
+01:13:07.663{"Messages":{"25":{"Utc":"2020-11-27T11:59:00","Category":"Other","Message":"CAR 6 (LAT) TIME 1:32.600 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:14:28.619{"Messages":{"26":{"Utc":"2020-11-27T12:00:21","Category":"Other","Message":"CAR 8 (GRO) TIME 1:32.283 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:17:22.043{"Messages":{"27":{"Utc":"2020-11-27T12:03:14","Category":"Other","Message":"CAR 23 (ALB) TIME 1:31.063 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:18:40.831{"Messages":{"28":{"Utc":"2020-11-27T12:04:33","Category":"Other","Message":"CAR 44 (HAM) TIME 1:32.981 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:29:42.380{"Messages":{"29":{"Utc":"2020-11-27T12:15:35","Category":"Other","Message":"CAR 23 (ALB) TIME 1:31.884 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:31:35.889{"Messages":{"30":{"Utc":"2020-11-27T12:17:28","Category":"Other","Message":"CAR 10 (GAS) TIME 1:34.046 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:35:02.795{"Messages":{"31":{"Utc":"2020-11-27T12:20:55","Category":"Other","Message":"CAR 26 (KVY) TIME 1:34.969 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:35:21.957{"Messages":{"32":{"Utc":"2020-11-27T12:21:14","Category":"Other","Message":"CAR 26 (KVY) TIME 1:34.969 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:37:52.414{"Messages":{"33":{"Utc":"2020-11-27T12:23:45","Category":"Other","Message":"CAR 10 (GAS) TIME 1:35.596 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:41:00.403{"Messages":{"34":{"Utc":"2020-11-27T12:26:53","Category":"Other","Message":"CAR 6 (LAT) TIME 1:37.416 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:42:29.835{"Messages":{"35":{"Utc":"2020-11-27T12:28:22","Category":"Other","Message":"CAR 44 (HAM) TIME 1:34.009 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:42:33.512{"Messages":{"36":{"Utc":"2020-11-27T12:28:26","Category":"Other","Message":"CAR 44 (HAM) TIME 1:34.009 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:42:47.006{"Messages":{"37":{"Utc":"2020-11-27T12:28:39","Category":"Other","Message":"CAR 6 (LAT) TIME 1:38.039 DELETED - TRACK LIMITS AT TURN 4"}}}
+01:44:07.845{"Messages":{"38":{"Utc":"2020-11-27T12:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

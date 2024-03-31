@@ -1,0 +1,10 @@
+00:00:01.975{"Messages":[{"Utc":"2020-10-09T12:45:03","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 100%"}]}
+00:00:04.253{"Messages":{"1":{"Utc":"2020-10-09T12:45:05","Category":"Other","Message":"THERE WILL BE A FURTHER UPDATE AT 15:30"}}}
+00:01:00.829{"Messages":{"2":{"Utc":"2020-10-09T12:46:02","Category":"Other","Message":"A 10 MINUTE NOTIFICATION WILL BE GIVEN BEFORE PIT EXIT OPENS"}}}
+00:01:43.073{"Messages":{"3":{"Utc":"2020-10-09T12:46:44","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:02:19.447{"Messages":{"4":{"Utc":"2020-10-09T12:47:20","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:05:03.208{"Messages":{"5":{"Utc":"2020-10-09T12:50:04","Category":"Other","Message":"WET TRACK"}}}
+00:28:32.090{"Messages":{"6":{"Utc":"2020-10-09T13:13:33","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+00:28:38.971{"Messages":{"7":{"Utc":"2020-10-09T13:13:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:45:02.769{"Messages":{"8":{"Utc":"2020-10-09T13:30:04","Category":"Other","Message":"NO CHANGE TO THE WEATHER SITUATION - A FURTHER UPDATE WILL BE PROVIDED AT 16:00"}}}
+01:15:00.332{"Messages":{"9":{"Utc":"2020-10-09T14:00:01","Category":"Other","Message":"NO CHANGE TO THE WEATHER SITUATION - PIT EXIT WILL NOT OPEN FOR THIS SESSION"}}}

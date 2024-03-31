@@ -1,0 +1,13 @@
+00:00:41.031{"Messages":[{"Utc":"2020-10-09T08:45:41","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}]}
+00:01:20.986{"Messages":{"1":{"Utc":"2020-10-09T08:46:21","Category":"Other","Message":"TRACK TEST COMPLETED"}}}
+00:02:07.845{"Messages":{"2":{"Utc":"2020-10-09T08:01:21","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P1 = 10 DEGREES"}}}
+00:02:07.865{"Messages":{"3":{"Utc":"2020-10-09T08:45:02","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 80%"}}}
+00:07:09.300{"Messages":{"4":{"Utc":"2020-10-09T08:52:09","Category":"Other","Message":"THE MEDICAL HELICOPTER CURRENTLY CANNOT FLY"}}}
+00:07:53.592{"Messages":{"5":{"Utc":"2020-10-09T08:52:54","Category":"Other","Message":"SESSION COUNTDOWN CLOCK WILL START AT 11:00 AND PIT LANE EXIT WILL NOT OPEN"}}}
+00:08:16.215{"Messages":{"6":{"Utc":"2020-10-09T08:53:16","Category":"Other","Message":"THERE WILL BE A FURTHER UPDATE AT 11:30"}}}
+00:08:54.731{"Messages":{"7":{"Utc":"2020-10-09T08:53:55","Category":"Other","Message":"A 10 MINUTE NOTIFICATION WILL BE GIVEN BEFORE PIT EXIT OPENS"}}}
+00:12:20.087{"Messages":{"8":{"Utc":"2020-10-09T08:57:20","Category":"Other","Message":"WET TRACK"}}}
+00:12:25.294{"Messages":{"9":{"Utc":"2020-10-09T08:57:25","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:12:29.720{"Messages":{"10":{"Utc":"2020-10-09T08:57:30","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:45:02.038{"Messages":{"11":{"Utc":"2020-10-09T09:30:02","Category":"Other","Message":"NO CHANGE TO THE SITUATION - A FURTHER UPDATE WILL BE PROVIDED AT 12:00"}}}
+01:15:03.041{"Messages":{"12":{"Utc":"2020-10-09T10:00:03","Category":"Other","Message":"NO CHANGE TO THE WEATHER SITUATION - PIT EXIT WILL NOT OPEN FOR THIS SESSION"}}}

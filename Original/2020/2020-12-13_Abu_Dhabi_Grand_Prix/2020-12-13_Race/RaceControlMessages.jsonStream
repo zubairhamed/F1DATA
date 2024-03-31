@@ -1,0 +1,58 @@
+00:15:15.452{"Messages":[{"Utc":"2020-12-13T12:55:15","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 0%"}]}
+00:27:04.280{"Messages":{"1":{"Utc":"2020-12-13T13:07:04","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:33:28.772{"Messages":{"2":{"Utc":"2020-12-13T13:13:29","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:36:54.080{"Messages":{"3":{"Utc":"2020-12-13T13:16:54","Lap":2,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:49:19.176{"Messages":{"4":{"Utc":"2020-12-13T13:29:19","Lap":10,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:49:35.217{"Messages":{"5":{"Utc":"2020-12-13T13:29:35","Lap":10,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:52:35.180{"Messages":{"6":{"Utc":"2020-12-13T13:32:35","Lap":11,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+00:57:11.747{"Messages":{"7":{"Utc":"2020-12-13T13:37:12","Lap":13,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+00:57:16.976{"Messages":{"8":{"Utc":"2020-12-13T13:37:17","Lap":13,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:58:45.419{"Messages":{"9":{"Utc":"2020-12-13T13:38:45","Lap":13,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:02:14.268{"Messages":{"10":{"Utc":"2020-12-13T13:42:14","Lap":15,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:03:40.101{"Messages":{"11":{"Utc":"2020-12-13T13:43:40","Lap":16,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CAR 55 (SAI) UNDER INVESTIGATION - DRIVING UNNECESSARILY SLOWLY"}}}
+01:06:30.026{"Messages":{"12":{"Utc":"2020-12-13T13:46:30","Lap":18,"Category":"Other","Message":"CAR 16 (LEC) TIME 1:44.596 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:07:58.005{"Messages":{"13":{"Utc":"2020-12-13T13:47:58","Lap":19,"Category":"Other","Message":"CAR 16 (LEC) TIME 1:44.936 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:21:29.071{"Messages":{"14":{"Utc":"2020-12-13T14:01:29","Lap":27,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CAR 55 (SAI) WILL BE INVESTIGATED AFTER THE RACE"}}}
+01:29:07.404{"Messages":{"15":{"Utc":"2020-12-13T14:09:07","Lap":31,"Category":"Other","Message":"CAR 16 (LEC) TIME 1:42.686 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:30:40.808{"Messages":{"16":{"Utc":"2020-12-13T14:10:41","Lap":32,"Category":"Other","Message":"CAR 16 (LEC) TIME 1:43.273 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:35:14.253{"Messages":{"17":{"Utc":"2020-12-13T14:15:14","Lap":35,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"51","Message":"WAVED BLUE FLAG FOR CAR 51 (FIT) TIMED AT 18:15:14"}}}
+01:37:33.490{"Messages":{"18":{"Utc":"2020-12-13T14:17:34","Lap":36,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 18:17:33"}}}
+01:40:12.092{"Messages":{"19":{"Utc":"2020-12-13T14:20:12","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"6","Message":"WAVED BLUE FLAG FOR CAR 6 (LAT) TIMED AT 18:20:12"}}}
+01:40:45.781{"Messages":{"20":{"Utc":"2020-12-13T14:20:46","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 18:20:45"}}}
+01:43:34.777{"Messages":{"21":{"Utc":"2020-12-13T14:23:35","Lap":40,"Category":"Other","Message":"CAR 44 (HAM) TIME 1:41.452 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:44:58.624{"Messages":{"22":{"Utc":"2020-12-13T14:24:59","Lap":41,"Category":"Other","Message":"CAR 44 (HAM) TIME 1:41.429 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:45:36.876{"Messages":{"23":{"Utc":"2020-12-13T14:25:37","Lap":41,"Category":"Other","Message":"CAR 6 (LAT) TIME 1:42.773 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:46:49.073{"Messages":{"24":{"Utc":"2020-12-13T14:26:49","Lap":42,"Category":"Other","Message":"CAR 6 (LAT) TIME 1:43.593 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:47:34.072{"Messages":{"25":{"Utc":"2020-12-13T14:27:34","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"51","Message":"WAVED BLUE FLAG FOR CAR 51 (FIT) TIMED AT 18:27:34"}}}
+01:47:57.290{"Messages":{"26":{"Utc":"2020-12-13T14:27:57","Lap":43,"Category":"Other","Message":"CAR 4 (NOR) TIME 1:42.794 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:48:08.199{"Messages":{"27":{"Utc":"2020-12-13T14:28:08","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 18:28:08"}}}
+01:48:08.921{"Messages":{"28":{"Utc":"2020-12-13T14:28:09","Lap":43,"Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) MISSED THE APEX OF TURN 9"}}}
+01:48:53.109{"Messages":{"29":{"Utc":"2020-12-13T14:28:53","Lap":43,"Category":"Other","Message":"CAR 4 (NOR) TIME 1:42.647 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:50:27.756{"Messages":{"30":{"Utc":"2020-12-13T14:30:28","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"51","Message":"WAVED BLUE FLAG FOR CAR 51 (FIT) TIMED AT 18:30:27"}}}
+01:50:36.036{"Messages":{"31":{"Utc":"2020-12-13T14:30:36","Lap":44,"Category":"Other","Message":"CAR 5 (VET) TIME 1:42.342 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:51:37.963{"Messages":{"32":{"Utc":"2020-12-13T14:31:38","Lap":45,"Category":"Other","Message":"CAR 5 (VET) TIME 1:42.212 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:52:48.097{"Messages":{"33":{"Utc":"2020-12-13T14:32:48","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 18:32:48"}}}
+01:53:25.522{"Messages":{"34":{"Utc":"2020-12-13T14:33:26","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 18:33:25"}}}
+01:53:29.306{"Messages":{"35":{"Utc":"2020-12-13T14:33:29","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 18:33:29"}}}
+01:55:02.273{"Messages":{"36":{"Utc":"2020-12-13T14:35:02","Lap":47,"Category":"Other","Message":"CAR 16 (LEC) TIME 1:42.825 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:55:19.248{"Messages":{"37":{"Utc":"2020-12-13T14:35:19","Lap":47,"Category":"Other","Message":"BLACK AND WHITE FLAG FOR CAR 16 (LEC) - TRACK LIMITS"}}}
+01:56:02.524{"Messages":{"38":{"Utc":"2020-12-13T14:36:02","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 18:36:02"}}}
+01:56:14.962{"Messages":{"39":{"Utc":"2020-12-13T14:36:15","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 18:36:14"}}}
+01:56:16.786{"Messages":{"40":{"Utc":"2020-12-13T14:36:17","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 18:36:16"}}}
+01:56:26.851{"Messages":{"41":{"Utc":"2020-12-13T14:36:27","Lap":48,"Category":"Other","Message":"CAR 16 (LEC) TIME 1:43.260 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:57:34.446{"Messages":{"42":{"Utc":"2020-12-13T14:37:34","Lap":48,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"51","Message":"WAVED BLUE FLAG FOR CAR 51 (FIT) TIMED AT 18:37:34"}}}
+01:57:37.815{"Messages":{"43":{"Utc":"2020-12-13T14:37:38","Lap":48,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 18:37:37"}}}
+01:57:40.847{"Messages":{"44":{"Utc":"2020-12-13T14:37:41","Lap":48,"Category":"Other","Message":"CAR 4 (NOR) TIME 1:42.686 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:58:48.575{"Messages":{"45":{"Utc":"2020-12-13T14:38:49","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 18:38:48"}}}
+01:59:03.243{"Messages":{"46":{"Utc":"2020-12-13T14:39:03","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"16","Message":"WAVED BLUE FLAG FOR CAR 16 (LEC) TIMED AT 18:39:03"}}}
+01:59:10.473{"Messages":{"47":{"Utc":"2020-12-13T14:39:11","Lap":49,"Category":"Other","Message":"CAR 4 (NOR) TIME 1:42.561 DELETED - TRACK LIMITS AT TURN 21"}}}
+01:59:25.143{"Messages":{"48":{"Utc":"2020-12-13T14:39:25","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 18:39:25"}}}
+01:59:47.639{"Messages":{"49":{"Utc":"2020-12-13T14:39:48","Lap":50,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 18:39:47"}}}
+02:00:59.948{"Messages":{"50":{"Utc":"2020-12-13T14:41:00","Lap":50,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"51","Message":"WAVED BLUE FLAG FOR CAR 51 (FIT) TIMED AT 18:40:59"}}}
+02:03:34.738{"Messages":{"51":{"Utc":"2020-12-13T14:43:35","Lap":52,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 18:43:34"}}}
+02:03:51.428{"Messages":{"52":{"Utc":"2020-12-13T14:43:51","Lap":52,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 18:43:51"}}}
+02:06:26.601{"Messages":{"53":{"Utc":"2020-12-13T14:46:27","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 18:46:26"}}}
+02:07:10.848{"Messages":{"54":{"Utc":"2020-12-13T14:47:11","Lap":54,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 18:47:10"}}}
+02:07:53.266{"Messages":{"55":{"Utc":"2020-12-13T14:47:53","Lap":54,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"51","Message":"WAVED BLUE FLAG FOR CAR 51 (FIT) TIMED AT 18:47:53"}}}
+02:08:28.384{"Messages":{"56":{"Utc":"2020-12-13T14:48:28","Lap":55,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 18:48:28"}}}
+02:09:57.048{"Messages":{"57":{"Utc":"2020-12-13T14:49:57","Lap":55,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

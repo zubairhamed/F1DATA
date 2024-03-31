@@ -1,0 +1,19 @@
+00:00:36.084{"Messages":[{"Utc":"2020-10-31T12:45:37","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:14:59.212{"Messages":{"1":{"Utc":"2020-10-31T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:22:30.664{"Messages":{"2":{"Utc":"2020-10-31T13:07:32","Category":"Other","Message":"CAR 7 (RAI) TIME 1:16.207 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:24:42.246{"Messages":{"3":{"Utc":"2020-10-31T13:09:43","Category":"Other","Message":"CAR 77 (BOT) TIME 1:14.626 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:25:12.664{"Messages":{"4":{"Utc":"2020-10-31T13:10:14","Category":"Other","Message":"CAR 23 (ALB) TIME 1:15.539 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:32:59.198{"Messages":{"5":{"Utc":"2020-10-31T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:09.322{"Messages":{"6":{"Utc":"2020-10-31T13:18:10","Category":"Other","Message":"CAR 7 (RAI) TIME 1:15.758 DELETED - TRACK LIMITS AT TURN 15"}}}
+00:34:16.169{"Messages":{"7":{"Utc":"2020-10-31T13:19:17","Category":"Other","Message":"CAR 44 (HAM) TIME 1:14.321 DELETED - TRACK LIMITS AT TURN 9"}}}
+00:39:59.085{"Messages":{"8":{"Utc":"2020-10-31T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:46:18.076{"Messages":{"9":{"Utc":"2020-10-31T13:31:19","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+00:46:27.501{"Messages":{"10":{"Utc":"2020-10-31T13:31:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:46:37.536{"Messages":{"11":{"Utc":"2020-10-31T13:31:39","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) SPUN AND CONTINUED AT TURN 15"}}}
+00:54:59.091{"Messages":{"12":{"Utc":"2020-10-31T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:06.903{"Messages":{"13":{"Utc":"2020-10-31T13:40:08","Category":"Other","Message":"CAR 18 (STR) TIME 1:16.152 DELETED - TRACK LIMITS AT TURN 15"}}}
+00:57:02.068{"Messages":{"14":{"Utc":"2020-10-31T13:42:03","Category":"Other","Message":"CAR 5 (VET) TIME 1:15.274 DELETED - TRACK LIMITS AT TURN 15"}}}
+01:02:59.090{"Messages":{"15":{"Utc":"2020-10-31T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:07:16.984{"Messages":{"16":{"Utc":"2020-10-31T13:52:18","Category":"Other","Message":"CAR 23 (ALB) TIME 1:14.655 DELETED - TRACK LIMITS AT TURN 9"}}}
+01:14:59.120{"Messages":{"17":{"Utc":"2020-10-31T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:33:00.460{"Messages":{"18":{"Utc":"2020-10-31T14:18:02","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
