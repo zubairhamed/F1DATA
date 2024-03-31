@@ -1,0 +1,4 @@
+00:14:59.696{"Messages":[{"Utc":"2019-06-22T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:34:27.306{"Messages":{"1":{"Utc":"2019-06-22T10:19:28","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:34:29.287{"Messages":{"2":{"Utc":"2019-06-22T10:19:30","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:14:59.697{"Messages":{"3":{"Utc":"2019-06-22T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

@@ -1,0 +1,16 @@
+00:14:28.925{"Messages":[{"Utc":"2019-06-21T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:18:48.561{"Messages":{"1":{"Utc":"2019-06-21T09:04:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:21:02.669{"Messages":{"2":{"Utc":"2019-06-21T09:06:34","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:35:24.733{"Messages":{"3":{"Utc":"2019-06-21T09:20:56","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:35:41.235{"Messages":{"4":{"Utc":"2019-06-21T09:21:12","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:35:50.539{"Messages":{"5":{"Utc":"2019-06-21T09:21:22","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) SPUN AND CONTINUED AT TURN 5"}}}
+00:43:00.097{"Messages":{"6":{"Utc":"2019-06-21T09:28:31","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:49:29.317{"Messages":{"7":{"Utc":"2019-06-21T09:35:00","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:51:24.401{"Messages":{"8":{"Utc":"2019-06-21T09:36:56","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 2"}}}
+01:23:48.096{"Messages":{"9":{"Utc":"2019-06-21T10:09:19","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:24:01.222{"Messages":{"10":{"Utc":"2019-06-21T10:09:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:24:08.939{"Messages":{"11":{"Utc":"2019-06-21T10:09:40","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) SPUN AND CONTINUED AT TURN 8"}}}
+01:39:31.390{"Messages":{"12":{"Utc":"2019-06-21T10:25:03","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:39:40.541{"Messages":{"13":{"Utc":"2019-06-21T10:25:12","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:39:59.506{"Messages":{"14":{"Utc":"2019-06-21T10:25:31","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) SPUN AND CONTINUED AT TURN 4"}}}
+01:44:28.903{"Messages":{"15":{"Utc":"2019-06-21T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

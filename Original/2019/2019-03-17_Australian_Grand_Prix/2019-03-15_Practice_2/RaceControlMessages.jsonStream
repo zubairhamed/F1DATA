@@ -1,0 +1,19 @@
+00:02:04.665{"Messages":[{"Utc":"2019-03-15T04:47:06","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}]}
+00:14:58.633{"Messages":{"1":{"Utc":"2019-03-15T05:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:24:15.813{"Messages":{"2":{"Utc":"2019-03-15T06:09:15","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+01:24:25.994{"Messages":{"3":{"Utc":"2019-03-15T06:09:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+01:24:35.919{"Messages":{"4":{"Utc":"2019-03-15T06:09:36","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) SPUN AND CONTINUED AT TURN 15"}}}
+01:29:21.670{"Messages":{"5":{"Utc":"2019-03-15T06:14:23","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+01:29:24.440{"Messages":{"6":{"Utc":"2019-03-15T06:14:25","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:31:37.870{"Messages":{"7":{"Utc":"2019-03-15T06:16:39","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+01:31:42.844{"Messages":{"8":{"Utc":"2019-03-15T06:16:44","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+01:39:28.359{"Messages":{"9":{"Utc":"2019-03-15T06:24:29","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+01:39:33.403{"Messages":{"10":{"Utc":"2019-03-15T06:24:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:39:42.475{"Messages":{"11":{"Utc":"2019-03-15T06:24:43","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:42:53.657{"Messages":{"12":{"Utc":"2019-03-15T06:27:54","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+01:42:55.733{"Messages":{"13":{"Utc":"2019-03-15T06:27:57","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+01:43:05.906{"Messages":{"14":{"Utc":"2019-03-15T06:28:08","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+01:43:35.063{"Messages":{"15":{"Utc":"2019-03-15T06:28:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:43:35.100{"Messages":{"16":{"Utc":"2019-03-15T06:28:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:43:40.120{"Messages":{"17":{"Utc":"2019-03-15T06:28:40","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) SPUN AND CONTINUED AT TURN 5"}}}
+01:45:00.455{"Messages":{"18":{"Utc":"2019-03-15T06:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

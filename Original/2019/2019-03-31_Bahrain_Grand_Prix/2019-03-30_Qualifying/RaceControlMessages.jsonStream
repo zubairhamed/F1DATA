@@ -1,0 +1,9 @@
+00:00:11.221{"Messages":[{"Utc":"2019-03-30T14:45:13","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 10%"}]}
+00:01:10.024{"Messages":{"1":{"Utc":"2019-03-30T14:46:12","Category":"Other","Message":"AIR TEMPERATURE 15 MINS BEFORE Q = 25 DEGREES"}}}
+00:14:58.498{"Messages":{"2":{"Utc":"2019-03-30T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:25:06.271{"Messages":{"3":{"Utc":"2019-03-30T15:10:08","Category":"Other","Message":"TURN 14 INCIDENT INVOLVING CAR 8 (GRO) UNDER INVESTIGATION - ALLEGED IMPEDING OF CAR 4 (NOR)"}}}
+00:32:58.558{"Messages":{"4":{"Utc":"2019-03-30T15:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:39:58.731{"Messages":{"5":{"Utc":"2019-03-30T15:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:54:58.529{"Messages":{"6":{"Utc":"2019-03-30T15:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:02:58.507{"Messages":{"7":{"Utc":"2019-03-30T15:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:58.493{"Messages":{"8":{"Utc":"2019-03-30T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

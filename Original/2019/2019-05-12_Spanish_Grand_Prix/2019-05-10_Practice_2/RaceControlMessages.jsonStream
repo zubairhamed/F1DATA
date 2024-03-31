@@ -1,0 +1,14 @@
+00:12:07.787{"Messages":[{"Utc":"2019-05-10T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:18:04.763{"Messages":{"1":{"Utc":"2019-05-10T13:05:57","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:18:07.723{"Messages":{"2":{"Utc":"2019-05-10T13:06:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:21:58.245{"Messages":{"3":{"Utc":"2019-05-10T13:09:51","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+00:22:02.935{"Messages":{"4":{"Utc":"2019-05-10T13:09:55","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":17,"Message":"DOUBLE YELLOW IN TRACK SECTOR 17"}}}
+00:22:11.905{"Messages":{"5":{"Utc":"2019-05-10T13:10:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:22:46.819{"Messages":{"6":{"Utc":"2019-05-10T13:10:39","Category":"CarEvent","RacingNumber":"88","Message":"CAR 88 (KUB) SPUN AND CONTINUED AT TURN 15"}}}
+00:24:19.119{"Messages":{"7":{"Utc":"2019-05-10T13:12:11","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:24:23.698{"Messages":{"8":{"Utc":"2019-05-10T13:12:16","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:36:55.681{"Messages":{"9":{"Utc":"2019-05-10T13:24:48","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 13"}}}
+01:21:08.021{"Messages":{"10":{"Utc":"2019-05-10T14:09:00","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:21:16.768{"Messages":{"11":{"Utc":"2019-05-10T14:09:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:21:42.094{"Messages":{"12":{"Utc":"2019-05-10T14:09:34","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:42:07.852{"Messages":{"13":{"Utc":"2019-05-10T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

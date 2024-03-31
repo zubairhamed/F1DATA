@@ -1,0 +1,16 @@
+00:00:17.117{"Messages":[{"Utc":"2019-06-07T17:45:17","Category":"Other","Message":"AIR TEMPERATURE 15 MIN BEFORE P2 = 25 DEGREES"}]}
+00:00:27.085{"Messages":{"1":{"Utc":"2019-06-07T17:45:27","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 10%"}}}
+00:15:00.339{"Messages":{"2":{"Utc":"2019-06-07T18:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:22:19.228{"Messages":{"3":{"Utc":"2019-06-07T18:07:19","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 8"}}}
+00:29:10.194{"Messages":{"4":{"Utc":"2019-06-07T18:14:10","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 8"}}}
+00:30:22.687{"Messages":{"5":{"Utc":"2019-06-07T18:15:22","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:30:23.576{"Messages":{"6":{"Utc":"2019-06-07T18:15:23","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:36:43.013{"Messages":{"7":{"Utc":"2019-06-07T18:21:43","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 8"}}}
+01:06:09.474{"Messages":{"8":{"Utc":"2019-06-07T18:51:09","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:06:19.411{"Messages":{"9":{"Utc":"2019-06-07T18:51:19","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:19:44.446{"Messages":{"10":{"Utc":"2019-06-07T19:04:44","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 8"}}}
+01:25:07.771{"Messages":{"11":{"Utc":"2019-06-07T19:10:08","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 8"}}}
+01:36:24.824{"Messages":{"12":{"Utc":"2019-06-07T19:21:25","Category":"Other","Message":"TURN 13 INCIDENT INVOLVING CARS 8 (GRO) AND 18 (STR) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+01:39:45.300{"Messages":{"13":{"Utc":"2019-06-07T19:24:45","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 8"}}}
+01:44:56.644{"Messages":{"14":{"Utc":"2019-06-07T19:29:56","Category":"Other","Message":"TURN 13 INCIDENT INVOLVING CAR 20 (MAG) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO REJOIN THE TRACK CORRECTLY"}}}
+01:45:00.279{"Messages":{"15":{"Utc":"2019-06-07T19:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

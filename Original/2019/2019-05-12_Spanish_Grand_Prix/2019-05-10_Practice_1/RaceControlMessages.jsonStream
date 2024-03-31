@@ -1,0 +1,17 @@
+00:00:09.658{"Messages":[{"Utc":"2019-05-10T08:45:09","Category":"Other","Message":"AIR TEMPERATURE 15 MIN BEFORE P1 = 21 DEGREES"}]}
+00:00:15.757{"Messages":{"1":{"Utc":"2019-05-10T08:45:16","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}}}
+00:15:00.259{"Messages":{"2":{"Utc":"2019-05-10T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:41:53.466{"Messages":{"3":{"Utc":"2019-05-10T09:26:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:41:56.945{"Messages":{"4":{"Utc":"2019-05-10T09:26:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:57:16.874{"Messages":{"5":{"Utc":"2019-05-10T09:42:17","Category":"Other","Message":"AIR TEMPERATURE IS NOW= 23 DEGREES"}}}
+01:10:52.939{"Messages":{"6":{"Utc":"2019-05-10T09:55:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:10:53.439{"Messages":{"7":{"Utc":"2019-05-10T09:55:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:10:56.917{"Messages":{"8":{"Utc":"2019-05-10T09:55:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:10:59.990{"Messages":{"9":{"Utc":"2019-05-10T09:56:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:11:26.464{"Messages":{"10":{"Utc":"2019-05-10T09:56:26","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:43:44.445{"Messages":{"11":{"Utc":"2019-05-10T10:28:44","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+01:43:49.780{"Messages":{"12":{"Utc":"2019-05-10T10:28:50","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":10,"Message":"DOUBLE YELLOW IN TRACK SECTOR 10"}}}
+01:43:58.142{"Messages":{"13":{"Utc":"2019-05-10T10:28:58","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:43:58.204{"Messages":{"14":{"Utc":"2019-05-10T10:28:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:44:24.599{"Messages":{"15":{"Utc":"2019-05-10T10:29:24","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) STOPPED AT TURN 9"}}}
+01:48:27.163{"Messages":{"16":{"Utc":"2019-05-10T10:33:27","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

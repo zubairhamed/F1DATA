@@ -1,0 +1,10 @@
+00:00:15.555{"Messages":[{"Utc":"2019-03-16T05:45:16","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}]}
+00:15:00.241{"Messages":{"1":{"Utc":"2019-03-16T06:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:33:00.182{"Messages":{"2":{"Utc":"2019-03-16T06:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:34:01.309{"Messages":{"3":{"Utc":"2019-03-16T06:19:01","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 20 (MAG) AND 11 (PER) UNDER INVESTIGATION"}}}
+00:36:27.403{"Messages":{"4":{"Utc":"2019-03-16T06:21:27","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+00:37:00.868{"Messages":{"5":{"Utc":"2019-03-16T06:22:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:40:00.304{"Messages":{"6":{"Utc":"2019-03-16T06:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:55:00.508{"Messages":{"7":{"Utc":"2019-03-16T06:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:03:00.908{"Messages":{"8":{"Utc":"2019-03-16T06:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.346{"Messages":{"9":{"Utc":"2019-03-16T07:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

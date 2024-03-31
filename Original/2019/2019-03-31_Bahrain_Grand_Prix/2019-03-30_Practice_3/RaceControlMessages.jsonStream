@@ -1,0 +1,19 @@
+00:00:02.822{"Messages":[{"Utc":"2019-03-30T11:45:03","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 10%"}]}
+00:00:37.793{"Messages":{"1":{"Utc":"2019-03-30T11:45:38","Category":"Other","Message":"AIR TEMPERATURE 15 MINS BEFORE P3 = 26 DEGREES"}}}
+00:14:59.999{"Messages":{"2":{"Utc":"2019-03-30T12:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:21:06.558{"Messages":{"3":{"Utc":"2019-03-30T12:06:07","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:21:08.055{"Messages":{"4":{"Utc":"2019-03-30T12:06:08","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:21:17.250{"Messages":{"5":{"Utc":"2019-03-30T12:06:17","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:21:19.564{"Messages":{"6":{"Utc":"2019-03-30T12:06:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:51:37.471{"Messages":{"7":{"Utc":"2019-03-30T12:36:38","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:51:37.482{"Messages":{"8":{"Utc":"2019-03-30T12:36:38","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:51:47.719{"Messages":{"9":{"Utc":"2019-03-30T12:36:48","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:51:57.906{"Messages":{"10":{"Utc":"2019-03-30T12:36:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:51:58.111{"Messages":{"11":{"Utc":"2019-03-30T12:36:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:52:00.862{"Messages":{"12":{"Utc":"2019-03-30T12:37:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:14:59.981{"Messages":{"13":{"Utc":"2019-03-30T13:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:19:16.766{"Messages":{"14":{"Utc":"2019-03-30T13:04:17","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+01:19:19.561{"Messages":{"15":{"Utc":"2019-03-30T13:04:20","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+01:19:20.562{"Messages":{"16":{"Utc":"2019-03-30T13:04:21","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+01:19:40.961{"Messages":{"17":{"Utc":"2019-03-30T13:04:41","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:19:41.453{"Messages":{"18":{"Utc":"2019-03-30T13:04:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}

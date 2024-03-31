@@ -1,0 +1,9 @@
+00:00:04.175{"Utc":"2019-06-08T17:45:04.239Z","Remaining":"00:18:00","Extrapolating":false}
+00:15:01.188{"Utc":"2019-06-08T18:00:01.252Z","Remaining":"00:17:59","Extrapolating":true}
+00:33:00.190{"Utc":"2019-06-08T18:18:00.254Z","Remaining":"00:00:00","Extrapolating":false}
+00:38:01.175{"Utc":"2019-06-08T18:23:01.239Z","Remaining":"00:15:00"}
+00:40:01.186{"Utc":"2019-06-08T18:25:01.25Z","Remaining":"00:14:59","Extrapolating":true}
+00:55:00.180{"Utc":"2019-06-08T18:40:00.244Z","Remaining":"00:00:00","Extrapolating":false}
+01:18:01.181{"Utc":"2019-06-08T19:03:01.245Z","Remaining":"00:12:00"}
+01:20:01.176{"Utc":"2019-06-08T19:05:01.24Z","Remaining":"00:11:59","Extrapolating":true}
+01:32:00.178{"Utc":"2019-06-08T19:17:00.242Z","Remaining":"00:00:00","Extrapolating":false}

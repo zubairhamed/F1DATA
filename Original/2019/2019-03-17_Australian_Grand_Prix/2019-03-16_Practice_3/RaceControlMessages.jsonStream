@@ -1,0 +1,8 @@
+00:00:27.285{"Messages":[{"Utc":"2019-03-16T02:45:27","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}]}
+00:00:50.350{"Messages":{"1":{"Utc":"2019-03-16T02:45:50","Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+00:01:25.216{"Messages":{"2":{"Utc":"2019-03-16T02:46:25","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:15:00.118{"Messages":{"3":{"Utc":"2019-03-16T03:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:24:58.425{"Messages":{"4":{"Utc":"2019-03-16T03:09:58","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 4 (NOR) AND 88 (KUB) UNDER INVESTIGATION"}}}
+00:52:22.145{"Messages":{"5":{"Utc":"2019-03-16T03:37:21","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+00:52:22.849{"Messages":{"6":{"Utc":"2019-03-16T03:37:23","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:15:02.654{"Messages":{"7":{"Utc":"2019-03-16T04:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

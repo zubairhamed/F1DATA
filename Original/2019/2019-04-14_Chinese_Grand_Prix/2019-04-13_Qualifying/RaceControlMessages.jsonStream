@@ -1,0 +1,7 @@
+00:00:06.929{"Messages":[{"Utc":"2019-04-13T05:45:08","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}]}
+00:14:59.419{"Messages":{"1":{"Utc":"2019-04-13T06:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:32:59.435{"Messages":{"2":{"Utc":"2019-04-13T06:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:39:59.495{"Messages":{"3":{"Utc":"2019-04-13T06:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:54:59.425{"Messages":{"4":{"Utc":"2019-04-13T06:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:02:59.421{"Messages":{"5":{"Utc":"2019-04-13T06:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:59.452{"Messages":{"6":{"Utc":"2019-04-13T07:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

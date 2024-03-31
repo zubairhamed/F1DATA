@@ -1,0 +1,11 @@
+00:11:33.257{"Messages":[{"Utc":"2019-06-22T12:56:35","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}]}
+00:11:34.371{"Messages":{"1":{"Utc":"2019-06-22T12:56:36","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:14:58.044{"Messages":{"2":{"Utc":"2019-06-22T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:30:58.384{"Messages":{"3":{"Utc":"2019-06-22T13:16:00","Category":"Other","Message":"TURN 11 INCIDENT INVOLVING CARS 7 (RAI) AND 3 (RIC) WILL BE INVESTIGATED AFTER THE SESSION - LEAVING THE TRACK"}}}
+00:31:23.573{"Messages":{"4":{"Utc":"2019-06-22T13:16:26","Category":"Other","Message":"TURN 11 INCIDENT INVOLVING CARS 7 (RAI) AND 8 (GRO) WILL BE INVESTIGATED AFTER THE SESSION - REJOINING THE TRACK"}}}
+00:32:58.090{"Messages":{"5":{"Utc":"2019-06-22T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:39:58.059{"Messages":{"6":{"Utc":"2019-06-22T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:48:47.086{"Messages":{"7":{"Utc":"2019-06-22T13:33:49","Category":"Other","Message":"TIME OF 1:30.572 DISALLOWED FOR CAR 33 (VER) - TRACK LIMITS AT TURN 6"}}}
+00:54:58.051{"Messages":{"8":{"Utc":"2019-06-22T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:02:58.051{"Messages":{"9":{"Utc":"2019-06-22T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:58.029{"Messages":{"10":{"Utc":"2019-06-22T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

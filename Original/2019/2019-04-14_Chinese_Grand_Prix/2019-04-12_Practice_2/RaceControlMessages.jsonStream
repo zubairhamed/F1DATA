@@ -1,0 +1,12 @@
+00:00:10.027{"Messages":[{"Utc":"2019-04-12T05:45:10","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}]}
+00:15:00.082{"Messages":{"1":{"Utc":"2019-04-12T06:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:23:17.906{"Messages":{"2":{"Utc":"2019-04-12T06:08:18","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+00:23:28.711{"Messages":{"3":{"Utc":"2019-04-12T06:08:29","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:23:32.428{"Messages":{"4":{"Utc":"2019-04-12T06:08:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:23:34.832{"Messages":{"5":{"Utc":"2019-04-12T06:08:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:23:55.088{"Messages":{"6":{"Utc":"2019-04-12T06:08:55","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) SPUN AND CONTINUED AT TURN 3"}}}
+01:45:00.623{"Messages":{"7":{"Utc":"2019-04-12T07:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:46:39.755{"Messages":{"8":{"Utc":"2019-04-12T07:31:40","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:48:49.602{"Messages":{"9":{"Utc":"2019-04-12T07:33:50","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:49:02.205{"Messages":{"10":{"Utc":"2019-04-12T07:34:02","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:49:19.702{"Messages":{"11":{"Utc":"2019-04-12T07:34:20","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
