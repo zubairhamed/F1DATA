@@ -1,0 +1,11 @@
+00:03:51.913{"Messages":[{"Utc":"2018-07-07T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:18:15.658{"Messages":{"1":{"Utc":"2018-07-07T10:14:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:18:21.900{"Messages":{"2":{"Utc":"2018-07-07T10:14:30","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:18:21.986{"Messages":{"3":{"Utc":"2018-07-07T10:14:30","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:29:03.731{"Messages":{"4":{"Utc":"2018-07-07T10:25:12","Category":"Other","Message":"SESSION WILL RE-START AT 11:27"}}}
+00:30:01.247{"Messages":{"5":{"Utc":"2018-07-07T10:26:09","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:30:02.750{"Messages":{"6":{"Utc":"2018-07-07T10:26:11","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:30:51.787{"Messages":{"7":{"Utc":"2018-07-07T10:27:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:44:03.098{"Messages":{"8":{"Utc":"2018-07-07T10:40:11","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+00:46:23.060{"Messages":{"9":{"Utc":"2018-07-07T10:42:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:03:51.721{"Messages":{"10":{"Utc":"2018-07-07T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

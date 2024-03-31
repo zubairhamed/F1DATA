@@ -1,0 +1,9 @@
+00:03:59.673{"Messages":[{"Utc":"2018-06-29T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:36:04.210{"Messages":{"1":{"Utc":"2018-06-29T09:32:05","Category":"Other","Message":"PIT LANE INCIDENT INCIDENT INVOLVING CAR 2 (VAN) UNDER INVESTIGATION"}}}
+00:37:45.671{"Messages":{"2":{"Utc":"2018-06-29T09:33:46","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+00:37:51.561{"Messages":{"3":{"Utc":"2018-06-29T09:33:52","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:37:53.836{"Messages":{"4":{"Utc":"2018-06-29T09:33:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:37:59.654{"Messages":{"5":{"Utc":"2018-06-29T09:34:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:38:18.425{"Messages":{"6":{"Utc":"2018-06-29T09:34:19","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) SPUN AND CONTINUED AT TURN 4"}}}
+01:07:29.461{"Messages":{"7":{"Utc":"2018-06-29T10:03:30","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:33:59.512{"Messages":{"8":{"Utc":"2018-06-29T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

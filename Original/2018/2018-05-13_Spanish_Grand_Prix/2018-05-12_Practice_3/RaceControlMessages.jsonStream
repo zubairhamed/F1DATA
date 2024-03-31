@@ -1,0 +1,17 @@
+00:03:47.274{"Messages":[{"Utc":"2018-05-12T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:34:24.498{"Messages":{"1":{"Utc":"2018-05-12T10:30:37","Category":"Other","Message":"TURN 2 INCIDENT INVOLVING CAR 33 (VER) UNDER INVESTIGATION - FAILURE TO STAY TO THE LEFT OF THE BOLLARD WHEN REJOINING THE TRACK"}}}
+00:40:10.564{"Messages":{"2":{"Utc":"2018-05-12T10:36:23","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:40:13.600{"Messages":{"3":{"Utc":"2018-05-12T10:36:27","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:40:19.605{"Messages":{"4":{"Utc":"2018-05-12T10:36:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:40:38.640{"Messages":{"5":{"Utc":"2018-05-12T10:36:52","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:40:43.311{"Messages":{"6":{"Utc":"2018-05-12T10:36:56","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:41:01.028{"Messages":{"7":{"Utc":"2018-05-12T10:37:14","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:41:02.835{"Messages":{"8":{"Utc":"2018-05-12T10:37:16","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:45:15.347{"Messages":{"9":{"Utc":"2018-05-12T10:41:28","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:45:25.391{"Messages":{"10":{"Utc":"2018-05-12T10:41:38","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:45:31.699{"Messages":{"11":{"Utc":"2018-05-12T10:41:45","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) SPUN AND CONTINUED AT TURN 13"}}}
+01:01:53.561{"Messages":{"12":{"Utc":"2018-05-12T10:58:07","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+01:01:55.822{"Messages":{"13":{"Utc":"2018-05-12T10:58:09","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":10,"Message":"DOUBLE YELLOW IN TRACK SECTOR 10"}}}
+01:02:04.207{"Messages":{"14":{"Utc":"2018-05-12T10:58:17","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:02:04.346{"Messages":{"15":{"Utc":"2018-05-12T10:58:17","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:02:23.391{"Messages":{"16":{"Utc":"2018-05-12T10:58:36","Category":"Other","Message":"MEDICAL CAR DEPLOYED"}}}

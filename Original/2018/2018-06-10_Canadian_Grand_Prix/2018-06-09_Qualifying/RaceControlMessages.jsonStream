@@ -1,0 +1,10 @@
+00:03:49.261{"Messages":[{"Utc":"2018-06-09T18:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:09:11.237{"Messages":{"1":{"Utc":"2018-06-09T18:05:22","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:19:47.067{"Messages":{"2":{"Utc":"2018-06-09T18:15:58","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) MISSED THE APEX OF TURN 14"}}}
+00:21:49.264{"Messages":{"3":{"Utc":"2018-06-09T18:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:28:49.305{"Messages":{"4":{"Utc":"2018-06-09T18:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:30:54.415{"Messages":{"5":{"Utc":"2018-06-09T18:27:05","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 12"}}}
+00:31:48.707{"Messages":{"6":{"Utc":"2018-06-09T18:28:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:43:49.257{"Messages":{"7":{"Utc":"2018-06-09T18:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:51:49.595{"Messages":{"8":{"Utc":"2018-06-09T18:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:03:49.111{"Messages":{"9":{"Utc":"2018-06-09T19:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

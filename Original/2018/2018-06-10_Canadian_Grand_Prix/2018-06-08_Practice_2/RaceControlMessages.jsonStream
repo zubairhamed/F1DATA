@@ -1,0 +1,31 @@
+00:03:53.281{"Messages":[{"Utc":"2018-06-08T18:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:18:11.729{"Messages":{"1":{"Utc":"2018-06-08T18:14:18","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 9"}}}
+00:29:15.355{"Messages":{"2":{"Utc":"2018-06-08T18:25:22","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:29:31.205{"Messages":{"3":{"Utc":"2018-06-08T18:25:38","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:29:35.607{"Messages":{"4":{"Utc":"2018-06-08T18:25:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:29:46.460{"Messages":{"5":{"Utc":"2018-06-08T18:25:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:30:01.199{"Messages":{"6":{"Utc":"2018-06-08T18:26:08","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:30:02.092{"Messages":{"7":{"Utc":"2018-06-08T18:26:09","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 7"}}}
+00:30:05.758{"Messages":{"8":{"Utc":"2018-06-08T18:26:13","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:30:05.825{"Messages":{"9":{"Utc":"2018-06-08T18:26:13","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:33:54.902{"Messages":{"10":{"Utc":"2018-06-08T18:30:02","Category":"Other","Message":"SESSION WILL RE-START AT 14:32"}}}
+00:34:53.397{"Messages":{"11":{"Utc":"2018-06-08T18:31:00","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:34:55.320{"Messages":{"12":{"Utc":"2018-06-08T18:31:02","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:35:53.235{"Messages":{"13":{"Utc":"2018-06-08T18:32:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:45:24.456{"Messages":{"14":{"Utc":"2018-06-08T18:41:31","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 9"}}}
+00:50:25.053{"Messages":{"15":{"Utc":"2018-06-08T18:46:32","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 14"}}}
+00:53:43.353{"Messages":{"16":{"Utc":"2018-06-08T18:49:50","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:56:27.616{"Messages":{"17":{"Utc":"2018-06-08T18:52:35","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (VAN) MISSED THE APEX OF TURN 9"}}}
+00:58:04.833{"Messages":{"18":{"Utc":"2018-06-08T18:54:12","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:58:24.096{"Messages":{"19":{"Utc":"2018-06-08T18:54:31","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (VAN) STOPPED AT TURN 10"}}}
+00:58:47.264{"Messages":{"20":{"Utc":"2018-06-08T18:54:54","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:05:06.707{"Messages":{"21":{"Utc":"2018-06-08T19:01:14","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:05:17.280{"Messages":{"22":{"Utc":"2018-06-08T19:01:24","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:05:17.367{"Messages":{"23":{"Utc":"2018-06-08T19:01:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+01:05:19.202{"Messages":{"24":{"Utc":"2018-06-08T19:01:26","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:16:15.817{"Messages":{"25":{"Utc":"2018-06-08T19:12:23","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (ERI) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:16:40.846{"Messages":{"26":{"Utc":"2018-06-08T19:12:48","Category":"CarEvent","RacingNumber":"28","Message":"CAR 28 (HAR) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:28:59.772{"Messages":{"27":{"Utc":"2018-06-08T19:25:07","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 14"}}}
+01:31:06.443{"Messages":{"28":{"Utc":"2018-06-08T19:27:13","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:33:53.157{"Messages":{"29":{"Utc":"2018-06-08T19:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:37:17.105{"Messages":{"30":{"Utc":"2018-06-08T19:33:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}

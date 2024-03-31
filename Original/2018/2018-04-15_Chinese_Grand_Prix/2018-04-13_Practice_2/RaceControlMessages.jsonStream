@@ -1,0 +1,21 @@
+00:03:50.103{"Messages":[{"Utc":"2018-04-13T06:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:37:51.220{"Messages":{"1":{"Utc":"2018-04-13T06:34:01","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) SPUN AND CONTINUED AT TURN 8"}}}
+00:40:09.828{"Messages":{"2":{"Utc":"2018-04-13T06:36:20","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:40:12.577{"Messages":{"3":{"Utc":"2018-04-13T06:36:23","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:41:17.760{"Messages":{"4":{"Utc":"2018-04-13T06:37:28","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) SPUN AND CONTINUED AT TURN 11"}}}
+01:20:24.360{"Messages":{"5":{"Utc":"2018-04-13T07:16:34","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+01:21:03.241{"Messages":{"6":{"Utc":"2018-04-13T07:17:13","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":5,"Message":"DOUBLE YELLOW IN TRACK SECTOR 5"}}}
+01:21:23.035{"Messages":{"7":{"Utc":"2018-04-13T07:17:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+01:21:25.415{"Messages":{"8":{"Utc":"2018-04-13T07:17:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:21:31.157{"Messages":{"9":{"Utc":"2018-04-13T07:17:41","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 9"}}}
+01:21:33.573{"Messages":{"10":{"Utc":"2018-04-13T07:17:43","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (VAN) STOPPED AT TURN 5"}}}
+01:21:37.547{"Messages":{"11":{"Utc":"2018-04-13T07:17:47","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:22:13.013{"Messages":{"12":{"Utc":"2018-04-13T07:18:22","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 2"}}}
+01:22:48.034{"Messages":{"13":{"Utc":"2018-04-13T07:18:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:25:23.179{"Messages":{"14":{"Utc":"2018-04-13T07:21:33","Category":"Other","Message":"WET TRACK"}}}
+01:27:17.446{"Messages":{"15":{"Utc":"2018-04-13T07:23:27","Category":"Other","Message":"INCIDENT INVOLVING CAR 2 (VAN) UNDER INVESTIGATION - UNSAFE RELEASE"}}}
+01:32:26.538{"Messages":{"16":{"Utc":"2018-04-13T07:28:37","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+01:32:27.723{"Messages":{"17":{"Utc":"2018-04-13T07:28:38","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:33:50.040{"Messages":{"18":{"Utc":"2018-04-13T07:30:00","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+01:33:50.224{"Messages":{"19":{"Utc":"2018-04-13T07:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:33:50.935{"Messages":{"20":{"Utc":"2018-04-13T07:30:01","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}

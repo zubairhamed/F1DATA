@@ -1,0 +1,3 @@
+00:00:02.002{"Utc":"2018-05-12T09:56:15.036Z","Remaining":"01:00:00","Extrapolating":false}
+00:03:47.996{"Utc":"2018-05-12T10:00:01.03Z","Remaining":"00:59:59","Extrapolating":true}
+01:03:47.010{"Utc":"2018-05-12T11:00:00.044Z","Remaining":"00:00:00","Extrapolating":false}

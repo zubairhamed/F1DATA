@@ -1,0 +1,75 @@
+00:01:09.341{"Messages":[{"Utc":"2018-06-24T14:07:09","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}]}
+00:07:26.503{"Messages":{"1":{"Utc":"2018-06-24T14:13:26","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:07:41.313{"Messages":{"2":{"Utc":"2018-06-24T14:13:41","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:07:46.455{"Messages":{"3":{"Utc":"2018-06-24T14:13:46","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:07:54.925{"Messages":{"4":{"Utc":"2018-06-24T14:13:55","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+00:07:58.892{"Messages":{"5":{"Utc":"2018-06-24T14:13:59","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+00:08:01.884{"Messages":{"6":{"Utc":"2018-06-24T14:14:02","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:08:13.636{"Messages":{"7":{"Utc":"2018-06-24T14:14:14","Lap":1,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+00:09:46.458{"Messages":{"8":{"Utc":"2018-06-24T14:15:46","Lap":2,"Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) STOPPED AT TURN 4"}}}
+00:10:04.282{"Messages":{"9":{"Utc":"2018-06-24T14:16:04","Lap":2,"Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) STOPPED AT TURN 5"}}}
+00:12:08.197{"Messages":{"10":{"Utc":"2018-06-24T14:18:08","Lap":2,"Category":"Other","Message":"INCIDENT INVOLVING CARS 5 (VET) AND 77 (BOT) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+00:12:19.567{"Messages":{"11":{"Utc":"2018-06-24T14:18:19","Lap":3,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:13:09.173{"Messages":{"12":{"Utc":"2018-06-24T14:19:09","Lap":3,"Category":"Other","Message":"INCIDENT INVOLVING CARS 10 (GAS) AND 31 (OCO) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+00:13:48.857{"Messages":{"13":{"Utc":"2018-06-24T14:19:49","Lap":3,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:17:14.266{"Messages":{"14":{"Utc":"2018-06-24T14:23:14","Lap":5,"Category":"Other","Message":"INCIDENT INVOLVING CARS 10 (GAS) AND 31 (OCO) WILL BE INVESTIGATED AFTER THE RACE"}}}
+00:18:00.378{"Messages":{"15":{"Utc":"2018-06-24T14:24:00","Lap":5,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+00:19:28.523{"Messages":{"16":{"Utc":"2018-06-24T14:25:28","Lap":5,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:20:07.565{"Messages":{"17":{"Utc":"2018-06-24T14:26:08","Lap":6,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+00:20:08.776{"Messages":{"18":{"Utc":"2018-06-24T14:26:09","Lap":6,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+00:20:09.986{"Messages":{"19":{"Utc":"2018-06-24T14:26:10","Lap":6,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+00:20:12.707{"Messages":{"20":{"Utc":"2018-06-24T14:26:13","Lap":6,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:20:14.805{"Messages":{"21":{"Utc":"2018-06-24T14:26:15","Lap":6,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:20:25.295{"Messages":{"22":{"Utc":"2018-06-24T14:26:25","Lap":6,"Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) SPUN AND CONTINUED AT TURN 4"}}}
+00:23:07.961{"Messages":{"23":{"Utc":"2018-06-24T14:29:08","Lap":8,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:25:55.237{"Messages":{"24":{"Utc":"2018-06-24T14:31:55","Lap":9,"Category":"Other","Message":"5 SECOND TIME PENALTY FOR CAR 5 (VET) - CAUSING A COLLISION"}}}
+00:30:19.916{"Messages":{"25":{"Utc":"2018-06-24T14:36:20","Lap":12,"Category":"Other","Message":"LAP 1 TURN 4 INCIDENT INVOLVING CAR 8 (GRO) UNDER INVESTIGATION - LEAVING THE TRACK AND GAINING AN ADVANTAGE"}}}
+00:36:09.878{"Messages":{"26":{"Utc":"2018-06-24T14:42:10","Lap":16,"Category":"Other","Message":"INCIDENT INVOLVING CAR 35 (SIR) UNDER INVESTIGATION - DRIVING UNNECESSARILY SLOWLY BEHIND THE SAFETY CAR"}}}
+00:53:49.217{"Messages":{"27":{"Utc":"2018-06-24T14:59:49","Lap":27,"Category":"Other","Message":"5 SECOND TIME PENALTY FOR CAR 35 (SIR) - DRIVING UNNECESSARILY SLOWLY BEHIND THE SAFETY CAR"}}}
+00:54:47.419{"Messages":{"28":{"Utc":"2018-06-24T15:00:47","Lap":27,"Category":"Other","Message":"LAP 1 TURN 4 INCIDENT INVOLVING CAR 8 (GRO) - NO FURTHER ACTION"}}}
+01:00:23.909{"Messages":{"29":{"Utc":"2018-06-24T15:06:24","Lap":31,"Category":"Other","Message":"LAP 1 TURN 1 INCIDENT INVOLVING CAR 8 (GRO) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+01:01:42.862{"Messages":{"30":{"Utc":"2018-06-24T15:07:43","Lap":32,"Category":"Other","Message":"5 SECOND TIME PENALTY FOR CAR 8 (GRO) - CAUSING A COLLISION"}}}
+01:04:14.834{"Messages":{"31":{"Utc":"2018-06-24T15:10:15","Lap":33,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"35","Message":"WAVED BLUE FLAG FOR CAR 35 (SIR) TIMED AT 17:10:14"}}}
+01:09:57.874{"Messages":{"32":{"Utc":"2018-06-24T15:15:58","Lap":36,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"9","Message":"WAVED BLUE FLAG FOR CAR 9 (ERI) TIMED AT 17:15:57"}}}
+01:12:35.209{"Messages":{"33":{"Utc":"2018-06-24T15:18:35","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"9","Message":"WAVED BLUE FLAG FOR CAR 9 (ERI) TIMED AT 17:18:35"}}}
+01:16:16.011{"Messages":{"34":{"Utc":"2018-06-24T15:22:16","Lap":40,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"35","Message":"WAVED BLUE FLAG FOR CAR 35 (SIR) TIMED AT 17:22:15"}}}
+01:17:07.322{"Messages":{"35":{"Utc":"2018-06-24T15:23:07","Lap":41,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 17:23:07"}}}
+01:17:56.053{"Messages":{"36":{"Utc":"2018-06-24T15:23:56","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"35","Message":"WAVED BLUE FLAG FOR CAR 35 (SIR) TIMED AT 17:23:55"}}}
+01:18:37.309{"Messages":{"37":{"Utc":"2018-06-24T15:24:37","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 17:24:37"}}}
+01:18:54.558{"Messages":{"38":{"Utc":"2018-06-24T15:24:54","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (VAN) TIMED AT 17:24:54"}}}
+01:19:41.949{"Messages":{"39":{"Utc":"2018-06-24T15:25:42","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"28","Message":"WAVED BLUE FLAG FOR CAR 28 (HAR) TIMED AT 17:25:41"}}}
+01:19:50.798{"Messages":{"40":{"Utc":"2018-06-24T15:25:51","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"14","Message":"WAVED BLUE FLAG FOR CAR 14 (ALO) TIMED AT 17:25:50"}}}
+01:21:21.655{"Messages":{"41":{"Utc":"2018-06-24T15:27:22","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"28","Message":"WAVED BLUE FLAG FOR CAR 28 (HAR) TIMED AT 17:27:21"}}}
+01:21:36.833{"Messages":{"42":{"Utc":"2018-06-24T15:27:37","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"14","Message":"WAVED BLUE FLAG FOR CAR 14 (ALO) TIMED AT 17:27:36"}}}
+01:22:23.739{"Messages":{"43":{"Utc":"2018-06-24T15:28:24","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"9","Message":"WAVED BLUE FLAG FOR CAR 9 (ERI) TIMED AT 17:28:23"}}}
+01:22:47.377{"Messages":{"44":{"Utc":"2018-06-24T15:28:47","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"9","Message":"WAVED BLUE FLAG FOR CAR 9 (ERI) TIMED AT 17:28:47"}}}
+01:22:51.090{"Messages":{"45":{"Utc":"2018-06-24T15:28:51","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"35","Message":"WAVED BLUE FLAG FOR CAR 35 (SIR) TIMED AT 17:28:51"}}}
+01:23:41.756{"Messages":{"46":{"Utc":"2018-06-24T15:29:42","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 17:29:41"}}}
+01:24:34.761{"Messages":{"47":{"Utc":"2018-06-24T15:30:35","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 17:30:34"}}}
+01:25:47.269{"Messages":{"48":{"Utc":"2018-06-24T15:31:47","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 17:31:47"}}}
+01:26:18.716{"Messages":{"49":{"Utc":"2018-06-24T15:32:19","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 17:32:18"}}}
+01:27:30.036{"Messages":{"50":{"Utc":"2018-06-24T15:33:30","Lap":48,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"14","Message":"WAVED BLUE FLAG FOR CAR 14 (ALO) TIMED AT 17:33:29"}}}
+01:29:01.550{"Messages":{"51":{"Utc":"2018-06-24T15:35:01","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 17:35:01"}}}
+01:32:10.451{"Messages":{"52":{"Utc":"2018-06-24T15:38:10","Lap":51,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"14","Message":"WAVED BLUE FLAG FOR CAR 14 (ALO) TIMED AT 17:38:10"}}}
+01:32:16.673{"Messages":{"53":{"Utc":"2018-06-24T15:38:17","Lap":51,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (VAN) TIMED AT 17:38:16"}}}
+01:32:22.463{"Messages":{"54":{"Utc":"2018-06-24T15:38:22","Lap":51,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+01:32:50.538{"Messages":{"55":{"Utc":"2018-06-24T15:38:50","Lap":51,"Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) STOPPED AT TURN 10"}}}
+01:33:02.476{"Messages":{"56":{"Utc":"2018-06-24T15:39:02","Lap":51,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+01:33:22.833{"Messages":{"57":{"Utc":"2018-06-24T15:39:23","Lap":51,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:33:24.135{"Messages":{"58":{"Utc":"2018-06-24T15:39:24","Lap":51,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+01:33:28.404{"Messages":{"59":{"Utc":"2018-06-24T15:39:28","Lap":51,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+01:33:33.739{"Messages":{"60":{"Utc":"2018-06-24T15:39:34","Lap":51,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+01:33:48.000{"Messages":{"61":{"Utc":"2018-06-24T15:39:48","Lap":52,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:36:11.768{"Messages":{"62":{"Utc":"2018-06-24T15:42:12","Lap":53,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:36:24.413{"Messages":{"63":{"Utc":"2018-06-24T15:42:24","Lap":53,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:36:24.494{"Messages":{"64":{"Utc":"2018-06-24T15:42:24","Lap":53,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+01:36:24.559{"Messages":{"65":{"Utc":"2018-06-24T15:42:24","Lap":53,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:36:24.560{"Messages":{"66":{"Utc":"2018-06-24T15:42:24","Lap":53,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:36:25.976{"Messages":{"67":{"Utc":"2018-06-24T15:42:26","Lap":53,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:36:26.664{"Messages":{"68":{"Utc":"2018-06-24T15:42:27","Lap":53,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+01:36:28.609{"Messages":{"69":{"Utc":"2018-06-24T15:42:28","Lap":53,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+01:36:30.352{"Messages":{"70":{"Utc":"2018-06-24T15:42:30","Lap":53,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+01:37:35.206{"Messages":{"71":{"Utc":"2018-06-24T15:43:35","Lap":53,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:38:34.145{"Messages":{"72":{"Utc":"2018-06-24T15:44:34","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"35","Message":"WAVED BLUE FLAG FOR CAR 35 (SIR) TIMED AT 17:44:34"}}}
+01:41:54.870{"Messages":{"73":{"Utc":"2018-06-24T15:47:55","Lap":53,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+01:41:56.769{"Messages":{"74":{"Utc":"2018-06-24T15:47:57","Lap":53,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}

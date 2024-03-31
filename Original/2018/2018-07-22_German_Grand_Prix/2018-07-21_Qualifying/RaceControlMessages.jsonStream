@@ -1,0 +1,16 @@
+00:03:55.250{"Messages":[{"Utc":"2018-07-21T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:21:55.269{"Messages":{"1":{"Utc":"2018-07-21T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:22:55.244{"Messages":{"2":{"Utc":"2018-07-21T13:19:00","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:23:11.387{"Messages":{"3":{"Utc":"2018-07-21T13:19:16","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) STOPPED AT TURN 10"}}}
+00:24:41.521{"Messages":{"4":{"Utc":"2018-07-21T13:20:46","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:28:55.183{"Messages":{"5":{"Utc":"2018-07-21T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:35:03.996{"Messages":{"6":{"Utc":"2018-07-21T13:31:09","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (ERI) OFF TRACK AND CONTINUED AT TURN 13"}}}
+00:36:59.937{"Messages":{"7":{"Utc":"2018-07-21T13:33:05","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:43:33.440{"Messages":{"8":{"Utc":"2018-07-21T13:39:38","Category":"Other","Message":"SESSION WILL RE-START AT 15:42"}}}
+00:44:55.608{"Messages":{"9":{"Utc":"2018-07-21T13:41:01","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:44:57.207{"Messages":{"10":{"Utc":"2018-07-21T13:41:02","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:45:55.228{"Messages":{"11":{"Utc":"2018-07-21T13:42:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:52:52.206{"Messages":{"12":{"Utc":"2018-07-21T13:48:57","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:25.321{"Messages":{"13":{"Utc":"2018-07-21T13:51:30","Category":"Other","Message":"Q3 WILL START AT 15:57"}}}
+01:00:55.196{"Messages":{"14":{"Utc":"2018-07-21T13:57:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:12:55.133{"Messages":{"15":{"Utc":"2018-07-21T14:09:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

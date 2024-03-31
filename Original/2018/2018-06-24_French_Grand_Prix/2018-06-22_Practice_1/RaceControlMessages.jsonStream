@@ -1,0 +1,36 @@
+00:04:00.297{"Messages":[{"Utc":"2018-06-22T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:16:03.089{"Messages":{"1":{"Utc":"2018-06-22T10:12:03","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:16:15.369{"Messages":{"2":{"Utc":"2018-06-22T10:12:15","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:16:23.389{"Messages":{"3":{"Utc":"2018-06-22T10:12:23","Category":"CarEvent","RacingNumber":"28","Message":"CAR 28 (HAR) SPUN AND CONTINUED AT TURN 6"}}}
+00:27:51.333{"Messages":{"4":{"Utc":"2018-06-22T10:23:51","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:28:17.591{"Messages":{"5":{"Utc":"2018-06-22T10:24:18","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:28:18.510{"Messages":{"6":{"Utc":"2018-06-22T10:24:18","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (VAN) SPUN AND CONTINUED AT TURN 6"}}}
+00:33:57.984{"Messages":{"7":{"Utc":"2018-06-22T10:29:58","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:34:02.256{"Messages":{"8":{"Utc":"2018-06-22T10:30:02","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:34:04.611{"Messages":{"9":{"Utc":"2018-06-22T10:30:05","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:34:28.669{"Messages":{"10":{"Utc":"2018-06-22T10:30:29","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 8"}}}
+00:35:15.212{"Messages":{"11":{"Utc":"2018-06-22T10:31:15","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:35:23.875{"Messages":{"12":{"Utc":"2018-06-22T10:31:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+00:35:30.796{"Messages":{"13":{"Utc":"2018-06-22T10:31:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:35:33.487{"Messages":{"14":{"Utc":"2018-06-22T10:31:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:35:40.807{"Messages":{"15":{"Utc":"2018-06-22T10:31:41","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) SPUN AND CONTINUED AT TURN 6"}}}
+00:35:58.998{"Messages":{"16":{"Utc":"2018-06-22T10:31:59","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (ERI) OFF TRACK AND CONTINUED AT TURN 14"}}}
+00:36:26.077{"Messages":{"17":{"Utc":"2018-06-22T10:32:26","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:36:27.056{"Messages":{"18":{"Utc":"2018-06-22T10:32:27","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+00:36:33.779{"Messages":{"19":{"Utc":"2018-06-22T10:32:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:36:48.167{"Messages":{"20":{"Utc":"2018-06-22T10:32:48","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:02:52.775{"Messages":{"21":{"Utc":"2018-06-22T10:58:53","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+01:03:24.073{"Messages":{"22":{"Utc":"2018-06-22T10:59:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:03:28.154{"Messages":{"23":{"Utc":"2018-06-22T10:59:28","Category":"CarEvent","RacingNumber":"31","Message":"CAR 31 (OCO) SPUN AND CONTINUED AT TURN 6"}}}
+01:09:28.166{"Messages":{"24":{"Utc":"2018-06-22T11:05:28","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:09:36.680{"Messages":{"25":{"Utc":"2018-06-22T11:05:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:09:54.275{"Messages":{"26":{"Utc":"2018-06-22T11:05:54","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 8"}}}
+01:30:43.839{"Messages":{"27":{"Utc":"2018-06-22T11:26:44","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:30:45.961{"Messages":{"28":{"Utc":"2018-06-22T11:26:46","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+01:30:46.760{"Messages":{"29":{"Utc":"2018-06-22T11:26:47","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:30:47.314{"Messages":{"30":{"Utc":"2018-06-22T11:26:47","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:30:56.037{"Messages":{"31":{"Utc":"2018-06-22T11:26:56","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+01:31:08.908{"Messages":{"32":{"Utc":"2018-06-22T11:27:09","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:31:08.967{"Messages":{"33":{"Utc":"2018-06-22T11:27:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:31:08.968{"Messages":{"34":{"Utc":"2018-06-22T11:27:09","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:31:40.850{"Messages":{"35":{"Utc":"2018-06-22T11:27:41","Category":"Other","Message":"MEDICAL CAR DEPLOYED"}}}

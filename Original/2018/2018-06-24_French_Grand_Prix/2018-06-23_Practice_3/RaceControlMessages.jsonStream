@@ -1,0 +1,50 @@
+00:03:51.207{"Messages":[{"Utc":"2018-06-23T11:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:06:24.950{"Messages":{"1":{"Utc":"2018-06-23T11:02:34","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 12"}}}
+00:06:25.965{"Messages":{"2":{"Utc":"2018-06-23T11:02:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:06:40.473{"Messages":{"3":{"Utc":"2018-06-23T11:02:49","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+00:06:56.793{"Messages":{"4":{"Utc":"2018-06-23T11:03:06","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:09:45.989{"Messages":{"5":{"Utc":"2018-06-23T11:05:55","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 7"}}}
+00:10:08.100{"Messages":{"6":{"Utc":"2018-06-23T11:06:17","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 4"}}}
+00:11:05.939{"Messages":{"7":{"Utc":"2018-06-23T11:07:15","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 5"}}}
+00:11:09.258{"Messages":{"8":{"Utc":"2018-06-23T11:07:18","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:12:06.091{"Messages":{"9":{"Utc":"2018-06-23T11:08:15","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 2"}}}
+00:12:25.490{"Messages":{"10":{"Utc":"2018-06-23T11:08:34","Category":"Other","Message":"WET TRACK"}}}
+00:13:02.615{"Messages":{"11":{"Utc":"2018-06-23T11:09:12","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:13:23.046{"Messages":{"12":{"Utc":"2018-06-23T11:09:32","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 3"}}}
+00:13:41.562{"Messages":{"13":{"Utc":"2018-06-23T11:09:51","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+00:14:06.982{"Messages":{"14":{"Utc":"2018-06-23T11:10:16","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+00:14:27.945{"Messages":{"15":{"Utc":"2018-06-23T11:10:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:14:43.050{"Messages":{"16":{"Utc":"2018-06-23T11:10:52","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 9"}}}
+00:15:40.657{"Messages":{"17":{"Utc":"2018-06-23T11:11:50","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 12"}}}
+00:16:30.847{"Messages":{"18":{"Utc":"2018-06-23T11:12:40","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 18"}}}
+00:16:34.597{"Messages":{"19":{"Utc":"2018-06-23T11:12:44","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+00:16:35.653{"Messages":{"20":{"Utc":"2018-06-23T11:12:45","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 13"}}}
+00:16:45.481{"Messages":{"21":{"Utc":"2018-06-23T11:12:55","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+00:16:52.821{"Messages":{"22":{"Utc":"2018-06-23T11:13:02","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 15"}}}
+00:17:08.800{"Messages":{"23":{"Utc":"2018-06-23T11:13:18","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 19"}}}
+00:17:09.238{"Messages":{"24":{"Utc":"2018-06-23T11:13:18","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 14"}}}
+00:17:28.761{"Messages":{"25":{"Utc":"2018-06-23T11:13:38","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:17:29.585{"Messages":{"26":{"Utc":"2018-06-23T11:13:39","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:17:30.645{"Messages":{"27":{"Utc":"2018-06-23T11:13:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:17:30.838{"Messages":{"28":{"Utc":"2018-06-23T11:13:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:17:30.902{"Messages":{"29":{"Utc":"2018-06-23T11:13:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:17:31.052{"Messages":{"30":{"Utc":"2018-06-23T11:13:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:17:31.468{"Messages":{"31":{"Utc":"2018-06-23T11:13:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:17:32.683{"Messages":{"32":{"Utc":"2018-06-23T11:13:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:17:33.209{"Messages":{"33":{"Utc":"2018-06-23T11:13:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":5,"Message":"CLEAR IN TRACK SECTOR 5"}}}
+00:17:35.053{"Messages":{"34":{"Utc":"2018-06-23T11:13:44","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:17:43.395{"Messages":{"35":{"Utc":"2018-06-23T11:13:52","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+00:17:46.244{"Messages":{"36":{"Utc":"2018-06-23T11:13:55","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:17:47.570{"Messages":{"37":{"Utc":"2018-06-23T11:13:56","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:17:50.935{"Messages":{"38":{"Utc":"2018-06-23T11:14:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:17:56.243{"Messages":{"39":{"Utc":"2018-06-23T11:14:05","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 16"}}}
+00:18:03.183{"Messages":{"40":{"Utc":"2018-06-23T11:14:12","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:18:19.488{"Messages":{"41":{"Utc":"2018-06-23T11:14:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:18:21.935{"Messages":{"42":{"Utc":"2018-06-23T11:14:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:18:23.186{"Messages":{"43":{"Utc":"2018-06-23T11:14:32","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 1"}}}
+00:18:26.870{"Messages":{"44":{"Utc":"2018-06-23T11:14:36","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:18:29.973{"Messages":{"45":{"Utc":"2018-06-23T11:14:39","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:57:55.448{"Messages":{"46":{"Utc":"2018-06-23T11:54:04","Category":"CarEvent","RacingNumber":"35","Message":"CAR 35 (SIR) OFF TRACK AND CONTINUED AT TURN 8"}}}
+00:58:04.667{"Messages":{"47":{"Utc":"2018-06-23T11:54:14","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:03:51.142{"Messages":{"48":{"Utc":"2018-06-23T12:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:04:53.790{"Messages":{"49":{"Utc":"2018-06-23T12:01:03","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 8"}}}

@@ -1,0 +1,11 @@
+00:03:50.396{"Messages":[{"Utc":"2018-06-09T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:16:51.600{"Messages":{"1":{"Utc":"2018-06-09T15:13:01","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:17:44.838{"Messages":{"2":{"Utc":"2018-06-09T15:13:55","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:17:48.560{"Messages":{"3":{"Utc":"2018-06-09T15:13:58","Category":"CarEvent","RacingNumber":"2","Message":"CAR 2 (VAN) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:23:43.440{"Messages":{"4":{"Utc":"2018-06-09T15:19:53","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) MISSED THE APEX OF TURN 14"}}}
+00:25:59.228{"Messages":{"5":{"Utc":"2018-06-09T15:22:09","Category":"CarEvent","RacingNumber":"28","Message":"CAR 28 (HAR) MISSED THE APEX OF TURN 14"}}}
+00:27:05.752{"Messages":{"6":{"Utc":"2018-06-09T15:23:16","Category":"CarEvent","RacingNumber":"28","Message":"CAR 28 (HAR) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:31:05.530{"Messages":{"7":{"Utc":"2018-06-09T15:27:15","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) MISSED THE APEX OF TURN 14"}}}
+00:34:55.518{"Messages":{"8":{"Utc":"2018-06-09T15:31:05","Category":"CarEvent","RacingNumber":"35","Message":"CAR 35 (SIR) MISSED THE APEX OF TURN 14"}}}
+00:51:57.177{"Messages":{"9":{"Utc":"2018-06-09T15:48:07","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 9"}}}
+01:03:50.250{"Messages":{"10":{"Utc":"2018-06-09T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

@@ -1,0 +1,10 @@
+00:03:53.228{"Messages":[{"Utc":"2018-04-14T06:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:15:24.604{"Messages":{"1":{"Utc":"2018-04-14T06:11:32","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":19,"Message":"DOUBLE YELLOW IN TRACK SECTOR 19"}}}
+00:15:25.692{"Messages":{"2":{"Utc":"2018-04-14T06:11:33","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:15:38.751{"Messages":{"3":{"Utc":"2018-04-14T06:11:46","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:15:38.771{"Messages":{"4":{"Utc":"2018-04-14T06:11:46","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+00:21:53.231{"Messages":{"5":{"Utc":"2018-04-14T06:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:29:33.867{"Messages":{"6":{"Utc":"2018-04-14T06:25:41","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:43:53.108{"Messages":{"7":{"Utc":"2018-04-14T06:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:51:53.284{"Messages":{"8":{"Utc":"2018-04-14T06:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:03:53.251{"Messages":{"9":{"Utc":"2018-04-14T07:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

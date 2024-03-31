@@ -1,0 +1,69 @@
+00:01:02.108{"Messages":[{"Utc":"2018-04-08T15:07:02","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}]}
+00:07:37.080{"Messages":{"1":{"Utc":"2018-04-08T15:13:37","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:08:08.654{"Messages":{"2":{"Utc":"2018-04-08T15:14:08","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:08:14.707{"Messages":{"3":{"Utc":"2018-04-08T15:14:15","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:08:26.033{"Messages":{"4":{"Utc":"2018-04-08T15:14:26","Lap":1,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+00:08:51.089{"Messages":{"5":{"Utc":"2018-04-08T15:14:51","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:09:57.710{"Messages":{"6":{"Utc":"2018-04-08T15:15:58","Lap":2,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+00:10:24.926{"Messages":{"7":{"Utc":"2018-04-08T15:16:25","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:10:32.294{"Messages":{"8":{"Utc":"2018-04-08T15:16:32","Lap":2,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+00:10:32.992{"Messages":{"9":{"Utc":"2018-04-08T15:16:33","Lap":2,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:10:37.002{"Messages":{"10":{"Utc":"2018-04-08T15:16:37","Lap":2,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:10:41.380{"Messages":{"11":{"Utc":"2018-04-08T15:16:41","Lap":2,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:11:36.541{"Messages":{"12":{"Utc":"2018-04-08T15:17:36","Lap":3,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:14:14.157{"Messages":{"13":{"Utc":"2018-04-08T15:20:14","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:14:18.039{"Messages":{"14":{"Utc":"2018-04-08T15:20:18","Lap":4,"Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+00:14:28.633{"Messages":{"15":{"Utc":"2018-04-08T15:20:29","Lap":4,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:14:39.016{"Messages":{"16":{"Utc":"2018-04-08T15:20:39","Lap":4,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:16:12.120{"Messages":{"17":{"Utc":"2018-04-08T15:22:12","Lap":5,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+00:16:52.718{"Messages":{"18":{"Utc":"2018-04-08T15:22:52","Lap":6,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:16:54.309{"Messages":{"19":{"Utc":"2018-04-08T15:22:54","Lap":6,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+00:17:03.298{"Messages":{"20":{"Utc":"2018-04-08T15:23:03","Lap":6,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:18:36.172{"Messages":{"21":{"Utc":"2018-04-08T15:24:36","Lap":7,"Category":"Other","Message":"TURN 4 INCIDENT INVOLVING CARS 11 (PER) AND 28 (HAR) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+00:21:03.751{"Messages":{"22":{"Utc":"2018-04-08T15:27:04","Lap":8,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 33 (VER) AND 44 (HAM) NOTED - NO FURTHER ACTION"}}}
+00:21:48.515{"Messages":{"23":{"Utc":"2018-04-08T15:27:48","Lap":9,"Category":"Other","Message":"INCIDENT INVOLVING CARS 27 (HUL) AND 20 (MAG) NOTED - NO FURTHER ACTION"}}}
+00:22:12.165{"Messages":{"24":{"Utc":"2018-04-08T15:28:12","Lap":9,"Category":"Other","Message":"10 SECOND TIME PENALTY FOR CAR 28 (HAR) - CAUSING A COLLISION"}}}
+00:24:49.552{"Messages":{"25":{"Utc":"2018-04-08T15:30:49","Lap":11,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:24:55.472{"Messages":{"26":{"Utc":"2018-04-08T15:30:55","Lap":11,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:25:02.209{"Messages":{"27":{"Utc":"2018-04-08T15:31:02","Lap":11,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:25:07.211{"Messages":{"28":{"Utc":"2018-04-08T15:31:07","Lap":11,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:30:32.776{"Messages":{"29":{"Utc":"2018-04-08T15:36:33","Lap":12,"Category":"Other","Message":"INCIDENT INVOLVING CARS 11 (PER) AND 28 (HAR) UNDER INVESTIGATION - FAILURE TO MAINTAIN ORDER ON THE FORMATION LAP"}}}
+00:32:18.869{"Messages":{"30":{"Utc":"2018-04-08T15:38:19","Lap":12,"Category":"Other","Message":"INCIDENT INVOLVING CARS 11 (PER) AND 28 (HAR) WILL BE INVESTIGATED AFTER THE RACE"}}}
+00:51:26.341{"Messages":{"31":{"Utc":"2018-04-08T15:57:26","Lap":27,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+00:51:28.662{"Messages":{"32":{"Utc":"2018-04-08T15:57:28","Lap":27,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+00:51:36.489{"Messages":{"33":{"Utc":"2018-04-08T15:57:35","Lap":27,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:51:37.243{"Messages":{"34":{"Utc":"2018-04-08T15:57:37","Lap":27,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:56:07.467{"Messages":{"35":{"Utc":"2018-04-08T16:02:07","Lap":30,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"35","Message":"WAVED BLUE FLAG FOR CAR 35 (SIR) TIMED AT 19:02:07"}}}
+00:57:20.655{"Messages":{"36":{"Utc":"2018-04-08T16:03:21","Lap":31,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 19:03:20"}}}
+00:58:26.390{"Messages":{"37":{"Utc":"2018-04-08T16:04:25","Lap":32,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"35","Message":"WAVED BLUE FLAG FOR CAR 35 (SIR) TIMED AT 19:04:25"}}}
+01:02:37.315{"Messages":{"38":{"Utc":"2018-04-08T16:08:37","Lap":34,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"55","Message":"WAVED BLUE FLAG FOR CAR 55 (SAI) TIMED AT 19:08:37"}}}
+01:03:00.819{"Messages":{"39":{"Utc":"2018-04-08T16:09:00","Lap":34,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"16","Message":"WAVED BLUE FLAG FOR CAR 16 (LEC) TIMED AT 19:09:00"}}}
+01:03:13.658{"Messages":{"40":{"Utc":"2018-04-08T16:09:13","Lap":35,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"55","Message":"WAVED BLUE FLAG FOR CAR 55 (SAI) TIMED AT 19:09:13"}}}
+01:04:17.152{"Messages":{"41":{"Utc":"2018-04-08T16:10:17","Lap":35,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"16","Message":"WAVED BLUE FLAG FOR CAR 16 (LEC) TIMED AT 19:10:16"}}}
+01:05:24.827{"Messages":{"42":{"Utc":"2018-04-08T16:11:25","Lap":36,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 19:11:24"}}}
+01:07:44.516{"Messages":{"43":{"Utc":"2018-04-08T16:13:44","Lap":37,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"35","Message":"WAVED BLUE FLAG FOR CAR 35 (SIR) TIMED AT 19:13:44"}}}
+01:10:11.904{"Messages":{"44":{"Utc":"2018-04-08T16:16:12","Lap":39,"Category":"Other","Message":"INCIDENT INVOLVING CAR 7 (RAI) WILL BE INVESTIGATED AFTER THE RACE - UNSAFE RELEASE"}}}
+01:11:12.122{"Messages":{"45":{"Utc":"2018-04-08T16:17:12","Lap":40,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"55","Message":"WAVED BLUE FLAG FOR CAR 55 (SAI) TIMED AT 19:17:11"}}}
+01:11:56.351{"Messages":{"46":{"Utc":"2018-04-08T16:17:56","Lap":40,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (VAN) TIMED AT 19:17:56"}}}
+01:12:30.299{"Messages":{"47":{"Utc":"2018-04-08T16:18:30","Lap":40,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":9,"Message":"DOUBLE YELLOW IN TRACK SECTOR 9"}}}
+01:12:31.367{"Messages":{"48":{"Utc":"2018-04-08T16:18:31","Lap":40,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":10,"Message":"DOUBLE YELLOW IN TRACK SECTOR 10"}}}
+01:12:32.689{"Messages":{"49":{"Utc":"2018-04-08T16:18:32","Lap":40,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:12:34.251{"Messages":{"50":{"Utc":"2018-04-08T16:18:34","Lap":40,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":8,"Message":"YELLOW IN TRACK SECTOR 8"}}}
+01:12:41.110{"Messages":{"51":{"Utc":"2018-04-08T16:18:41","Lap":41,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:12:42.006{"Messages":{"52":{"Utc":"2018-04-08T16:18:42","Lap":41,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"28","Message":"WAVED BLUE FLAG FOR CAR 28 (HAR) TIMED AT 19:18:41"}}}
+01:12:42.716{"Messages":{"53":{"Utc":"2018-04-08T16:18:42","Lap":41,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:12:43.188{"Messages":{"54":{"Utc":"2018-04-08T16:18:43","Lap":41,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:12:43.344{"Messages":{"55":{"Utc":"2018-04-08T16:18:43","Lap":41,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:16:01.201{"Messages":{"56":{"Utc":"2018-04-08T16:22:01","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 19:22:00"}}}
+01:16:39.718{"Messages":{"57":{"Utc":"2018-04-08T16:22:40","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"28","Message":"WAVED BLUE FLAG FOR CAR 28 (HAR) TIMED AT 19:22:39"}}}
+01:19:39.352{"Messages":{"58":{"Utc":"2018-04-08T16:25:39","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"9","Message":"WAVED BLUE FLAG FOR CAR 9 (ERI) TIMED AT 19:25:38"}}}
+01:20:45.291{"Messages":{"59":{"Utc":"2018-04-08T16:26:45","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"11","Message":"WAVED BLUE FLAG FOR CAR 11 (PER) TIMED AT 19:26:44"}}}
+01:21:47.885{"Messages":{"60":{"Utc":"2018-04-08T16:27:48","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 19:27:47"}}}
+01:23:36.926{"Messages":{"61":{"Utc":"2018-04-08T16:29:37","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (VAN) TIMED AT 19:29:36"}}}
+01:25:26.873{"Messages":{"62":{"Utc":"2018-04-08T16:31:27","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"9","Message":"WAVED BLUE FLAG FOR CAR 9 (ERI) TIMED AT 19:31:26"}}}
+01:25:28.180{"Messages":{"63":{"Utc":"2018-04-08T16:31:28","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"31","Message":"WAVED BLUE FLAG FOR CAR 31 (OCO) TIMED AT 19:31:27"}}}
+01:27:12.249{"Messages":{"64":{"Utc":"2018-04-08T16:33:12","Lap":50,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"55","Message":"WAVED BLUE FLAG FOR CAR 55 (SAI) TIMED AT 19:33:12"}}}
+01:33:14.503{"Messages":{"65":{"Utc":"2018-04-08T16:39:14","Lap":54,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"9","Message":"WAVED BLUE FLAG FOR CAR 9 (ERI) TIMED AT 19:39:14"}}}
+01:35:08.911{"Messages":{"66":{"Utc":"2018-04-08T16:41:09","Lap":55,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"2","Message":"WAVED BLUE FLAG FOR CAR 2 (VAN) TIMED AT 19:41:08"}}}
+01:39:24.074{"Messages":{"67":{"Utc":"2018-04-08T16:45:24","Lap":57,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"14","Message":"WAVED BLUE FLAG FOR CAR 14 (ALO) TIMED AT 19:45:23"}}}
+01:39:37.141{"Messages":{"68":{"Utc":"2018-04-08T16:45:37","Lap":57,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

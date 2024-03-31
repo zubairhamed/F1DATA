@@ -1,0 +1,19 @@
+00:03:53.265{"Messages":[{"Utc":"2018-05-12T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:11:53.839{"Messages":{"1":{"Utc":"2018-05-12T13:08:01","Category":"CarEvent","RacingNumber":"9","Message":"CAR 9 (ERI) OFF TRACK AND CONTINUED AT TURN 1"}}}
+00:16:37.504{"Messages":{"2":{"Utc":"2018-05-12T13:12:44","Category":"Other","Message":"TURN 2 INCIDENT INVOLVING CAR 9 (ERI) WILL BE INVESTIGATED AFTER THE SESSION - FAILING TO STAY TO THE LEFT OF THE BOLLARD WHEN REJOINING THE TRACK"}}}
+00:21:53.382{"Messages":{"3":{"Utc":"2018-05-12T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:22:35.467{"Messages":{"4":{"Utc":"2018-05-12T13:18:42","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+00:22:41.573{"Messages":{"5":{"Utc":"2018-05-12T13:18:49","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:22:51.300{"Messages":{"6":{"Utc":"2018-05-12T13:18:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:23:00.829{"Messages":{"7":{"Utc":"2018-05-12T13:19:08","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+00:23:08.003{"Messages":{"8":{"Utc":"2018-05-12T13:19:15","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) STOPPED AT TURN 13"}}}
+00:23:12.360{"Messages":{"9":{"Utc":"2018-05-12T13:19:19","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":15,"Message":"DOUBLE YELLOW IN TRACK SECTOR 15"}}}
+00:27:41.423{"Messages":{"10":{"Utc":"2018-05-12T13:23:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+00:28:07.980{"Messages":{"11":{"Utc":"2018-05-12T13:24:15","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:28:53.248{"Messages":{"12":{"Utc":"2018-05-12T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:43:15.518{"Messages":{"13":{"Utc":"2018-05-12T13:39:23","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:43:23.251{"Messages":{"14":{"Utc":"2018-05-12T13:39:30","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:43:39.547{"Messages":{"15":{"Utc":"2018-05-12T13:39:47","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 7"}}}
+00:43:53.095{"Messages":{"16":{"Utc":"2018-05-12T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:51:53.189{"Messages":{"17":{"Utc":"2018-05-12T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:03:53.095{"Messages":{"18":{"Utc":"2018-05-12T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

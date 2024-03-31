@@ -1,0 +1,23 @@
+00:03:53.749{"Messages":[{"Utc":"2018-07-07T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:07:14.366{"Messages":{"1":{"Utc":"2018-07-07T13:03:21","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:07:16.108{"Messages":{"2":{"Utc":"2018-07-07T13:03:23","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:07:30.058{"Messages":{"3":{"Utc":"2018-07-07T13:03:37","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:07:30.183{"Messages":{"4":{"Utc":"2018-07-07T13:03:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:11:16.080{"Messages":{"5":{"Utc":"2018-07-07T13:07:23","Category":"Other","Message":"SESSION WILL RE-START AT 14:09"}}}
+00:11:54.115{"Messages":{"6":{"Utc":"2018-07-07T13:08:01","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:11:55.575{"Messages":{"7":{"Utc":"2018-07-07T13:08:02","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:12:53.715{"Messages":{"8":{"Utc":"2018-07-07T13:09:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:16:24.546{"Messages":{"9":{"Utc":"2018-07-07T13:12:31","Category":"Other","Message":"INCIDENT INVOLVING CAR 35 (SIR) UNDER INVESTIGATION - FAILING TO ENTER THE PIT LANE WHEN RED FLAG DISPLAYED"}}}
+00:16:47.000{"Messages":{"10":{"Utc":"2018-07-07T13:12:54","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:17:08.104{"Messages":{"11":{"Utc":"2018-07-07T13:13:14","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:17:21.385{"Messages":{"12":{"Utc":"2018-07-07T13:13:28","Category":"CarEvent","RacingNumber":"35","Message":"CAR 35 (SIR) OFF TRACK AND CONTINUED AT TURN 15"}}}
+00:24:07.258{"Messages":{"13":{"Utc":"2018-07-07T13:20:14","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:24:26.087{"Messages":{"14":{"Utc":"2018-07-07T13:20:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:27:18.696{"Messages":{"15":{"Utc":"2018-07-07T13:23:25","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:30:08.461{"Messages":{"16":{"Utc":"2018-07-07T13:26:15","Category":"Other","Message":"Q1 WILL START AT 14:31"}}}
+00:30:23.402{"Messages":{"17":{"Utc":"2018-07-07T13:26:30","Category":"Other","Message":"Q2 WILL START AT 14:31"}}}
+00:34:53.610{"Messages":{"18":{"Utc":"2018-07-07T13:31:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:49:53.699{"Messages":{"19":{"Utc":"2018-07-07T13:46:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:53:19.858{"Messages":{"20":{"Utc":"2018-07-07T13:49:26","Category":"Other","Message":"Q3 WILL START AT 14:54"}}}
+00:57:53.671{"Messages":{"21":{"Utc":"2018-07-07T13:54:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:09:53.537{"Messages":{"22":{"Utc":"2018-07-07T14:06:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

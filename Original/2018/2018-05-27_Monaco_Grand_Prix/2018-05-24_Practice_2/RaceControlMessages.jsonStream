@@ -1,0 +1,12 @@
+00:03:50.968{"Messages":[{"Utc":"2018-05-24T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:14:59.350{"Messages":{"1":{"Utc":"2018-05-24T13:11:08","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) MISSED THE APEX OF TURN 10"}}}
+00:28:46.458{"Messages":{"2":{"Utc":"2018-05-24T13:24:56","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:29:34.781{"Messages":{"3":{"Utc":"2018-05-24T13:25:44","Category":"Other","Message":"TRACK REPAIR REQUIRED BETWEEN TURNS 4 AND 5"}}}
+00:42:36.184{"Messages":{"4":{"Utc":"2018-05-24T13:38:45","Category":"Other","Message":"SESSION WILL RE-START AT 15:40"}}}
+00:42:53.572{"Messages":{"5":{"Utc":"2018-05-24T13:39:03","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:42:55.156{"Messages":{"6":{"Utc":"2018-05-24T13:39:04","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:43:50.968{"Messages":{"7":{"Utc":"2018-05-24T13:40:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:57:39.865{"Messages":{"8":{"Utc":"2018-05-24T13:53:49","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+00:57:41.555{"Messages":{"9":{"Utc":"2018-05-24T13:53:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:18:27.917{"Messages":{"10":{"Utc":"2018-05-24T14:14:37","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 10"}}}
+01:33:50.796{"Messages":{"11":{"Utc":"2018-05-24T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

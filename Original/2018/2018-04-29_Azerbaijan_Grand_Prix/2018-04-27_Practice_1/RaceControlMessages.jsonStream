@@ -1,0 +1,63 @@
+00:04:00.079{"Messages":[{"Utc":"2018-04-27T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:10:56.982{"Messages":{"1":{"Utc":"2018-04-27T09:06:57","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 2"}}}
+00:12:01.674{"Messages":{"2":{"Utc":"2018-04-27T09:08:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:14:21.424{"Messages":{"3":{"Utc":"2018-04-27T09:10:21","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":2,"Message":"DOUBLE YELLOW IN TRACK SECTOR 2"}}}
+00:14:22.577{"Messages":{"4":{"Utc":"2018-04-27T09:10:23","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:14:23.680{"Messages":{"5":{"Utc":"2018-04-27T09:10:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+00:14:30.227{"Messages":{"6":{"Utc":"2018-04-27T09:10:30","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:14:33.791{"Messages":{"7":{"Utc":"2018-04-27T09:10:34","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:14:33.856{"Messages":{"8":{"Utc":"2018-04-27T09:10:34","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:19:05.980{"Messages":{"9":{"Utc":"2018-04-27T09:15:06","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:19:17.783{"Messages":{"10":{"Utc":"2018-04-27T09:15:18","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:19:40.468{"Messages":{"11":{"Utc":"2018-04-27T09:15:41","Category":"CarEvent","RacingNumber":"28","Message":"CAR 28 (HAR) OFF TRACK AND CONTINUED AT TURN 8"}}}
+00:23:31.235{"Messages":{"12":{"Utc":"2018-04-27T09:19:31","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:24:04.467{"Messages":{"13":{"Utc":"2018-04-27T09:20:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:36:43.405{"Messages":{"14":{"Utc":"2018-04-27T09:32:43","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:37:27.740{"Messages":{"15":{"Utc":"2018-04-27T09:33:28","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:37:38.244{"Messages":{"16":{"Utc":"2018-04-27T09:33:38","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) STOPPED AT TURN 6"}}}
+00:39:48.754{"Messages":{"17":{"Utc":"2018-04-27T09:35:49","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+00:43:50.089{"Messages":{"18":{"Utc":"2018-04-27T09:39:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:43:52.588{"Messages":{"19":{"Utc":"2018-04-27T09:39:53","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+00:44:03.755{"Messages":{"20":{"Utc":"2018-04-27T09:40:04","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:44:06.108{"Messages":{"21":{"Utc":"2018-04-27T09:40:06","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:57:53.085{"Messages":{"22":{"Utc":"2018-04-27T09:53:52","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+00:57:53.887{"Messages":{"23":{"Utc":"2018-04-27T09:53:54","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:57:55.813{"Messages":{"24":{"Utc":"2018-04-27T09:53:56","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:58:07.058{"Messages":{"25":{"Utc":"2018-04-27T09:54:07","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+00:58:10.569{"Messages":{"26":{"Utc":"2018-04-27T09:54:11","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+00:58:16.147{"Messages":{"27":{"Utc":"2018-04-27T09:54:16","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+00:58:16.202{"Messages":{"28":{"Utc":"2018-04-27T09:54:16","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:58:16.203{"Messages":{"29":{"Utc":"2018-04-27T09:54:16","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:58:30.019{"Messages":{"30":{"Utc":"2018-04-27T09:54:30","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 3"}}}
+00:58:36.544{"Messages":{"31":{"Utc":"2018-04-27T09:54:36","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 2"}}}
+00:58:44.826{"Messages":{"32":{"Utc":"2018-04-27T09:54:44","Category":"CarEvent","RacingNumber":"28","Message":"CAR 28 (HAR) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:12:50.658{"Messages":{"33":{"Utc":"2018-04-27T10:08:51","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:12:53.674{"Messages":{"34":{"Utc":"2018-04-27T10:08:54","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":17,"Message":"DOUBLE YELLOW IN TRACK SECTOR 17"}}}
+01:12:58.926{"Messages":{"35":{"Utc":"2018-04-27T10:08:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:13:00.356{"Messages":{"36":{"Utc":"2018-04-27T10:09:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:19:09.316{"Messages":{"37":{"Utc":"2018-04-27T10:15:09","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:19:10.240{"Messages":{"38":{"Utc":"2018-04-27T10:15:10","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:19:19.015{"Messages":{"39":{"Utc":"2018-04-27T10:15:19","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:19:19.080{"Messages":{"40":{"Utc":"2018-04-27T10:15:19","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:19:23.004{"Messages":{"41":{"Utc":"2018-04-27T10:15:23","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 2"}}}
+01:22:04.587{"Messages":{"42":{"Utc":"2018-04-27T10:18:05","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 1"}}}
+01:22:33.428{"Messages":{"43":{"Utc":"2018-04-27T10:18:33","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+01:24:37.948{"Messages":{"44":{"Utc":"2018-04-27T10:20:38","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:24:39.027{"Messages":{"45":{"Utc":"2018-04-27T10:20:39","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:25:07.755{"Messages":{"46":{"Utc":"2018-04-27T10:21:08","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:25:07.755{"Messages":{"47":{"Utc":"2018-04-27T10:21:08","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:25:10.827{"Messages":{"48":{"Utc":"2018-04-27T10:21:11","Category":"CarEvent","RacingNumber":"35","Message":"CAR 35 (SIR) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:27:27.093{"Messages":{"49":{"Utc":"2018-04-27T10:23:27","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+01:27:28.182{"Messages":{"50":{"Utc":"2018-04-27T10:23:28","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:27:32.462{"Messages":{"51":{"Utc":"2018-04-27T10:23:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+01:27:32.526{"Messages":{"52":{"Utc":"2018-04-27T10:23:32","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:27:41.641{"Messages":{"53":{"Utc":"2018-04-27T10:23:42","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:28:30.839{"Messages":{"54":{"Utc":"2018-04-27T10:24:31","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+01:28:41.589{"Messages":{"55":{"Utc":"2018-04-27T10:24:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:28:45.683{"Messages":{"56":{"Utc":"2018-04-27T10:24:46","Category":"CarEvent","RacingNumber":"28","Message":"CAR 28 (HAR) OFF TRACK AND CONTINUED AT TURN 8"}}}
+01:29:47.598{"Messages":{"57":{"Utc":"2018-04-27T10:25:47","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":1,"Message":"YELLOW IN TRACK SECTOR 1"}}}
+01:29:48.813{"Messages":{"58":{"Utc":"2018-04-27T10:25:49","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:29:54.352{"Messages":{"59":{"Utc":"2018-04-27T10:25:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":1,"Message":"CLEAR IN TRACK SECTOR 1"}}}
+01:29:54.410{"Messages":{"60":{"Utc":"2018-04-27T10:25:54","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:30:00.299{"Messages":{"61":{"Utc":"2018-04-27T10:26:00","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:34:00.064{"Messages":{"62":{"Utc":"2018-04-27T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

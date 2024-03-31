@@ -1,0 +1,13 @@
+00:04:00.230{"Messages":[{"Utc":"2018-07-20T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:54:50.358{"Messages":{"1":{"Utc":"2018-07-20T09:50:50","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 2"}}}
+01:08:20.785{"Messages":{"2":{"Utc":"2018-07-20T10:04:21","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+01:08:24.170{"Messages":{"3":{"Utc":"2018-07-20T10:04:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:08:25.807{"Messages":{"4":{"Utc":"2018-07-20T10:04:26","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+01:08:31.822{"Messages":{"5":{"Utc":"2018-07-20T10:04:32","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+01:08:37.741{"Messages":{"6":{"Utc":"2018-07-20T10:04:38","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 12"}}}
+01:34:00.165{"Messages":{"7":{"Utc":"2018-07-20T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:35:14.656{"Messages":{"8":{"Utc":"2018-07-20T10:31:14","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:36:30.677{"Messages":{"9":{"Utc":"2018-07-20T10:32:31","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:36:41.914{"Messages":{"10":{"Utc":"2018-07-20T10:32:42","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:36:52.848{"Messages":{"11":{"Utc":"2018-07-20T10:32:53","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:38:56.690{"Messages":{"12":{"Utc":"2018-07-20T10:34:57","Category":"Other","Message":"SESSION WILL RE-START AT 12:37"}}}

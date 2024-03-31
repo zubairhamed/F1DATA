@@ -1,0 +1,12 @@
+00:04:00.224{"Messages":[{"Utc":"2018-04-13T02:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:13:08.733{"Messages":{"1":{"Utc":"2018-04-13T02:09:08","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:06:35.917{"Messages":{"2":{"Utc":"2018-04-13T03:02:36","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":19,"Message":"YELLOW IN TRACK SECTOR 19"}}}
+01:06:36.993{"Messages":{"3":{"Utc":"2018-04-13T03:02:37","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:06:48.137{"Messages":{"4":{"Utc":"2018-04-13T03:02:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":19,"Message":"CLEAR IN TRACK SECTOR 19"}}}
+01:06:48.178{"Messages":{"5":{"Utc":"2018-04-13T03:02:48","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:07:10.990{"Messages":{"6":{"Utc":"2018-04-13T03:03:11","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 16"}}}
+01:11:02.399{"Messages":{"7":{"Utc":"2018-04-13T03:07:02","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) SPUN AND CONTINUED AT TURN 11"}}}
+01:17:22.840{"Messages":{"8":{"Utc":"2018-04-13T03:13:23","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+01:17:33.784{"Messages":{"9":{"Utc":"2018-04-13T03:13:34","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+01:17:41.969{"Messages":{"10":{"Utc":"2018-04-13T03:13:42","Category":"CarEvent","RacingNumber":"14","Message":"CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 10"}}}
+01:34:00.228{"Messages":{"11":{"Utc":"2018-04-13T03:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
