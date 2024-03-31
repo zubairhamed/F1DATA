@@ -1,0 +1,30 @@
+00:00:07.629{"Messages":[{"Utc":"2019-08-02T08:45:07","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE IS 90%"}]}
+00:15:00.304{"Messages":{"1":{"Utc":"2019-08-02T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:15:29.991{"Messages":{"2":{"Utc":"2019-08-02T09:00:30","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 3"}}}
+00:16:22.111{"Messages":{"3":{"Utc":"2019-08-02T09:01:22","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:18:50.950{"Messages":{"4":{"Utc":"2019-08-02T09:03:51","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 3"}}}
+00:18:52.104{"Messages":{"5":{"Utc":"2019-08-02T09:03:52","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:20:48.246{"Messages":{"6":{"Utc":"2019-08-02T09:05:48","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 12"}}}
+00:20:51.584{"Messages":{"7":{"Utc":"2019-08-02T09:05:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:22:51.095{"Messages":{"8":{"Utc":"2019-08-02T09:07:51","Category":"Other","Message":"INCIDENT INVOLVING CAR 77 (BOT) NOTED - WRONG SIDE OF THE BOLLARD AT PIT ENTRY"}}}
+00:32:42.880{"Messages":{"9":{"Utc":"2019-08-02T09:17:43","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 8"}}}
+00:32:45.719{"Messages":{"10":{"Utc":"2019-08-02T09:17:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:38:38.887{"Messages":{"11":{"Utc":"2019-08-02T09:23:39","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+00:38:39.760{"Messages":{"12":{"Utc":"2019-08-02T09:23:40","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:38:43.223{"Messages":{"13":{"Utc":"2019-08-02T09:23:43","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+00:38:44.893{"Messages":{"14":{"Utc":"2019-08-02T09:23:45","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:38:55.610{"Messages":{"15":{"Utc":"2019-08-02T09:23:55","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) SPUN AND CONTINUED AT TURN 7"}}}
+00:41:14.199{"Messages":{"16":{"Utc":"2019-08-02T09:26:14","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 8"}}}
+00:41:15.572{"Messages":{"17":{"Utc":"2019-08-02T09:26:15","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:45:00.134{"Messages":{"18":{"Utc":"2019-08-02T09:30:00","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:45:07.825{"Messages":{"19":{"Utc":"2019-08-02T09:30:08","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:45:15.110{"Messages":{"20":{"Utc":"2019-08-02T09:30:15","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) SPUN AND CONTINUED AT TURN 14"}}}
+00:47:09.067{"Messages":{"21":{"Utc":"2019-08-02T09:32:09","Category":"Other","Message":"WET TRACK"}}}
+00:47:12.219{"Messages":{"22":{"Utc":"2019-08-02T09:32:12","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+01:07:03.228{"Messages":{"23":{"Utc":"2019-08-02T09:52:03","Category":"Other","Message":"NORMAL GRIP CONDITIONS"}}}
+01:11:19.067{"Messages":{"24":{"Utc":"2019-08-02T09:56:19","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:11:21.423{"Messages":{"25":{"Utc":"2019-08-02T09:56:21","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:39:46.092{"Messages":{"26":{"Utc":"2019-08-02T10:24:46","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) SPUN AND CONTINUED AT TURN 12"}}}
+01:45:00.416{"Messages":{"27":{"Utc":"2019-08-02T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+02:00:33.995{"Messages":{"28":{"Utc":"2019-08-02T10:45:34","Category":"Other","Message":"RISK OF RAIN FOR F2 PRACTICE SESSION IS 40%"}}}
+02:03:48.651{"Messages":{"29":{"Utc":"2019-08-02T10:45:34","Category":"Other","Message":"RISK OF RAIN FOR F2 PRACTICE SESSION IS 40%"}}}

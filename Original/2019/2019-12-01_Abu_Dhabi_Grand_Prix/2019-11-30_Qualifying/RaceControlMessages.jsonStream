@@ -1,0 +1,10 @@
+00:15:00.294{"Messages":[{"Utc":"2019-11-30T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:22:42.986{"Messages":{"1":{"Utc":"2019-11-30T13:07:43","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":20,"Message":"YELLOW IN TRACK SECTOR 20"}}}
+00:22:48.308{"Messages":{"2":{"Utc":"2019-11-30T13:07:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":20,"Message":"CLEAR IN TRACK SECTOR 20"}}}
+00:23:08.014{"Messages":{"3":{"Utc":"2019-11-30T13:08:08","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) SPUN AND CONTINUED AT TURN 21"}}}
+00:31:24.231{"Messages":{"4":{"Utc":"2019-11-30T13:16:24","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CAR 26 (KVY) INTO THE PATH OF CAR 8 (GRO) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:33:00.294{"Messages":{"5":{"Utc":"2019-11-30T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:40:00.303{"Messages":{"6":{"Utc":"2019-11-30T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:55:00.373{"Messages":{"7":{"Utc":"2019-11-30T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:03:00.305{"Messages":{"8":{"Utc":"2019-11-30T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.342{"Messages":{"9":{"Utc":"2019-11-30T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

@@ -1,0 +1,6 @@
+00:00:01.829{"Messages":[{"Utc":"2019-10-26T14:45:03","Category":"Other","Message":"WET TRACK"}]}
+00:14:59.029{"Messages":{"1":{"Utc":"2019-10-26T15:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:17:20.335{"Messages":{"2":{"Utc":"2019-10-26T15:02:21","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 11"}}}
+00:17:45.068{"Messages":{"3":{"Utc":"2019-10-26T15:02:46","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+01:14:59.338{"Messages":{"4":{"Utc":"2019-10-26T16:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:19.969{"Messages":{"5":{"Utc":"2019-10-26T16:00:21","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - 33"}}}

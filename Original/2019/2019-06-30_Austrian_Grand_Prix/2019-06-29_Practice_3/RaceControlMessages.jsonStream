@@ -1,0 +1,7 @@
+00:00:01.840{"Messages":[{"Utc":"2019-06-29T09:45:03","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}]}
+00:14:59.208{"Messages":{"1":{"Utc":"2019-06-29T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:43:24.914{"Messages":{"2":{"Utc":"2019-06-29T10:28:26","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 3"}}}
+01:05:35.121{"Messages":{"3":{"Utc":"2019-06-29T10:50:36","Category":"CarEvent","RacingNumber":"88","Message":"CAR 88 (KUB) OFF TRACK AND CONTINUED AT TURN 10"}}}
+01:11:21.582{"Messages":{"4":{"Utc":"2019-06-29T10:56:22","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 9"}}}
+01:14:59.202{"Messages":{"5":{"Utc":"2019-06-29T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:39:59.359{"Messages":{"6":{"Utc":"2019-06-29T11:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}

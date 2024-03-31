@@ -1,0 +1,26 @@
+00:00:15.020{"Messages":[{"Utc":"2019-11-15T17:45:15","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 30%"}]}
+00:15:00.296{"Messages":{"1":{"Utc":"2019-11-15T18:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:20:31.636{"Messages":{"2":{"Utc":"2019-11-15T18:05:32","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+00:20:34.910{"Messages":{"3":{"Utc":"2019-11-15T18:05:35","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:20:35.074{"Messages":{"4":{"Utc":"2019-11-15T18:05:35","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:20:35.150{"Messages":{"5":{"Utc":"2019-11-15T18:05:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:25:31.702{"Messages":{"6":{"Utc":"2019-11-15T18:10:32","Category":"Other","Message":"SESSION WILL RE-START AT 15:12"}}}
+00:26:29.060{"Messages":{"7":{"Utc":"2019-11-15T18:11:29","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:26:30.930{"Messages":{"8":{"Utc":"2019-11-15T18:11:31","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:27:00.140{"Messages":{"9":{"Utc":"2019-11-15T18:12:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:59:36.923{"Messages":{"10":{"Utc":"2019-11-15T18:44:37","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:59:43.559{"Messages":{"11":{"Utc":"2019-11-15T18:44:44","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:59:54.399{"Messages":{"12":{"Utc":"2019-11-15T18:44:54","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) SPUN AND CONTINUED AT TURN 1"}}}
+01:22:58.208{"Messages":{"13":{"Utc":"2019-11-15T19:07:58","Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 16 (LEC) AND 77 (BOT) NOTED - NO INVESTIGATION NECESSARY"}}}
+01:24:21.561{"Messages":{"14":{"Utc":"2019-11-15T19:09:22","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:24:35.231{"Messages":{"15":{"Utc":"2019-11-15T19:09:35","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:26:21.282{"Messages":{"16":{"Utc":"2019-11-15T19:11:21","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:26:25.619{"Messages":{"17":{"Utc":"2019-11-15T19:11:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:26:31.515{"Messages":{"18":{"Utc":"2019-11-15T19:11:31","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:26:32.857{"Messages":{"19":{"Utc":"2019-11-15T19:11:33","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:33:53.933{"Messages":{"20":{"Utc":"2019-11-15T19:18:54","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:39:18.588{"Messages":{"21":{"Utc":"2019-11-15T19:24:18","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:39:35.846{"Messages":{"22":{"Utc":"2019-11-15T19:24:36","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:39:36.132{"Messages":{"23":{"Utc":"2019-11-15T19:24:36","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:41:33.140{"Messages":{"24":{"Utc":"2019-11-15T19:26:33","Category":"Other","Message":"SESSION WILL NOT BE RESTARTED"}}}
+01:47:50.722{"Messages":{"25":{"Utc":"2019-11-15T19:32:50","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}

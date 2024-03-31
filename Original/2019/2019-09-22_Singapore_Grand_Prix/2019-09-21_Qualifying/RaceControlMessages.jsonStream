@@ -1,0 +1,17 @@
+00:00:02.449{"Messages":[{"Utc":"2019-09-21T12:45:03","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:01:10.933{"Messages":{"1":{"Utc":"2019-09-21T12:46:12","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:14:59.393{"Messages":{"2":{"Utc":"2019-09-21T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:32:59.760{"Messages":{"3":{"Utc":"2019-09-21T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:39:59.287{"Messages":{"4":{"Utc":"2019-09-21T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:54:59.631{"Messages":{"5":{"Utc":"2019-09-21T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:59:05.064{"Messages":{"6":{"Utc":"2019-09-21T13:44:06","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+00:59:08.901{"Messages":{"7":{"Utc":"2019-09-21T13:44:10","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+00:59:34.610{"Messages":{"8":{"Utc":"2019-09-21T13:44:35","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":17,"Message":"DOUBLE YELLOW IN TRACK SECTOR 17"}}}
+00:59:37.433{"Messages":{"9":{"Utc":"2019-09-21T13:44:38","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+00:59:47.464{"Messages":{"10":{"Utc":"2019-09-21T13:44:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+01:00:28.975{"Messages":{"11":{"Utc":"2019-09-21T13:45:30","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:00:38.101{"Messages":{"12":{"Utc":"2019-09-21T13:45:39","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:00:50.207{"Messages":{"13":{"Utc":"2019-09-21T13:45:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:02:59.295{"Messages":{"14":{"Utc":"2019-09-21T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:59.384{"Messages":{"15":{"Utc":"2019-09-21T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:21:02.985{"Messages":{"16":{"Utc":"2019-09-21T14:06:04","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}

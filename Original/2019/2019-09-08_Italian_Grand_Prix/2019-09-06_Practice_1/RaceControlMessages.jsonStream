@@ -1,0 +1,63 @@
+00:00:33.607{"Messages":[{"Utc":"2019-09-06T08:45:33","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 60%"}]}
+00:01:25.477{"Messages":{"1":{"Utc":"2019-09-06T08:46:25","Category":"Other","Message":"WET TRACK"}}}
+00:15:00.288{"Messages":{"2":{"Utc":"2019-09-06T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:18:27.984{"Messages":{"3":{"Utc":"2019-09-06T09:03:28","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 2"}}}
+00:20:59.100{"Messages":{"4":{"Utc":"2019-09-06T09:05:59","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:22:58.158{"Messages":{"5":{"Utc":"2019-09-06T09:07:58","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:33:01.029{"Messages":{"6":{"Utc":"2019-09-06T09:18:01","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 2"}}}
+00:38:30.498{"Messages":{"7":{"Utc":"2019-09-06T09:23:30","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) MISSED THE APEX OF TURN 5"}}}
+00:40:40.336{"Messages":{"8":{"Utc":"2019-09-06T09:25:40","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+00:40:57.948{"Messages":{"9":{"Utc":"2019-09-06T09:25:58","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:40:58.057{"Messages":{"10":{"Utc":"2019-09-06T09:25:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+00:41:34.031{"Messages":{"11":{"Utc":"2019-09-06T09:26:34","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) STOPPED AT TURN 11"}}}
+00:46:14.640{"Messages":{"12":{"Utc":"2019-09-06T09:31:14","Category":"Other","Message":"SESSION WILL RE-START AT 11:33"}}}
+00:47:10.020{"Messages":{"13":{"Utc":"2019-09-06T09:32:10","Category":"Other","Message":"P140 TYRES MAY BE USED UNTIL 11:47"}}}
+00:47:16.494{"Messages":{"14":{"Utc":"2019-09-06T09:32:16","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:48:00.360{"Messages":{"15":{"Utc":"2019-09-06T09:33:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:49:24.537{"Messages":{"16":{"Utc":"2019-09-06T09:34:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:49:29.217{"Messages":{"17":{"Utc":"2019-09-06T09:34:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:49:48.842{"Messages":{"18":{"Utc":"2019-09-06T09:34:49","Category":"CarEvent","RacingNumber":"27","Message":"CAR 27 (HUL) MISSED THE APEX OF TURN 2"}}}
+00:50:38.215{"Messages":{"19":{"Utc":"2019-09-06T09:35:38","Category":"Other","Message":"CORRECTION - CAR 33 (VER) MISSED THE APEX OF TURN 2"}}}
+00:50:57.341{"Messages":{"20":{"Utc":"2019-09-06T09:35:57","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:51:15.078{"Messages":{"21":{"Utc":"2019-09-06T09:36:15","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) STOPPED AT TURN 10"}}}
+00:55:50.852{"Messages":{"22":{"Utc":"2019-09-06T09:40:51","Category":"Other","Message":"SESSION WILL RE-START AT 11:43"}}}
+00:56:46.746{"Messages":{"23":{"Utc":"2019-09-06T09:41:47","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:58:00.346{"Messages":{"24":{"Utc":"2019-09-06T09:43:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:59:07.550{"Messages":{"25":{"Utc":"2019-09-06T09:44:07","Category":"Other","Message":"P140 TYRES MAY BE USED UNTIL 11:54"}}}
+01:01:42.909{"Messages":{"26":{"Utc":"2019-09-06T09:46:43","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) MISSED THE APEX OF TURN 5"}}}
+01:02:29.631{"Messages":{"27":{"Utc":"2019-09-06T09:47:29","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 5"}}}
+01:04:07.504{"Messages":{"28":{"Utc":"2019-09-06T09:49:07","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:04:08.736{"Messages":{"29":{"Utc":"2019-09-06T09:49:09","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:04:27.612{"Messages":{"30":{"Utc":"2019-09-06T09:49:27","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:04:27.784{"Messages":{"31":{"Utc":"2019-09-06T09:49:28","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:04:59.888{"Messages":{"32":{"Utc":"2019-09-06T09:49:59","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) SPUN AND CONTINUED AT TURN 1"}}}
+01:06:50.928{"Messages":{"33":{"Utc":"2019-09-06T09:51:51","Category":"Other","Message":"SESSION WILL RE-START AT 11:53"}}}
+01:07:07.433{"Messages":{"34":{"Utc":"2019-09-06T09:52:07","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:08:00.628{"Messages":{"35":{"Utc":"2019-09-06T09:53:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:10:54.364{"Messages":{"36":{"Utc":"2019-09-06T09:55:54","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:10:57.140{"Messages":{"37":{"Utc":"2019-09-06T09:55:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:11:26.686{"Messages":{"38":{"Utc":"2019-09-06T09:56:26","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) MISSED THE APEX OF TURN 2"}}}
+01:11:33.972{"Messages":{"39":{"Utc":"2019-09-06T09:56:34","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 2"}}}
+01:11:53.144{"Messages":{"40":{"Utc":"2019-09-06T09:56:53","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 2"}}}
+01:13:20.877{"Messages":{"41":{"Utc":"2019-09-06T09:58:21","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 2"}}}
+01:14:44.602{"Messages":{"42":{"Utc":"2019-09-06T09:59:44","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 2"}}}
+01:17:33.813{"Messages":{"43":{"Utc":"2019-09-06T10:02:34","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:17:35.529{"Messages":{"44":{"Utc":"2019-09-06T10:02:35","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":3,"Message":"DOUBLE YELLOW IN TRACK SECTOR 3"}}}
+01:17:54.265{"Messages":{"45":{"Utc":"2019-09-06T10:02:54","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:17:59.070{"Messages":{"46":{"Utc":"2019-09-06T10:02:59","Category":"CarEvent","RacingNumber":"99","Message":"CAR 99 (GIO) SPUN AND CONTINUED AT TURN 1"}}}
+01:19:00.299{"Messages":{"47":{"Utc":"2019-09-06T10:04:00","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 2"}}}
+01:20:32.853{"Messages":{"48":{"Utc":"2019-09-06T10:05:32","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:20:35.193{"Messages":{"49":{"Utc":"2019-09-06T10:05:35","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:20:48.079{"Messages":{"50":{"Utc":"2019-09-06T10:05:48","Category":"CarEvent","RacingNumber":"55","Message":"CAR 55 (SAI) MISSED THE APEX OF TURN 2"}}}
+01:24:22.186{"Messages":{"51":{"Utc":"2019-09-06T10:09:22","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:24:25.977{"Messages":{"52":{"Utc":"2019-09-06T10:09:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:24:46.178{"Messages":{"53":{"Utc":"2019-09-06T10:09:46","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 2"}}}
+01:26:54.347{"Messages":{"54":{"Utc":"2019-09-06T10:11:54","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 2"}}}
+01:28:50.222{"Messages":{"55":{"Utc":"2019-09-06T10:13:50","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 2"}}}
+01:38:34.983{"Messages":{"56":{"Utc":"2019-09-06T10:23:35","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:40:23.979{"Messages":{"57":{"Utc":"2019-09-06T10:25:24","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 2"}}}
+01:41:01.622{"Messages":{"58":{"Utc":"2019-09-06T10:26:01","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 5"}}}
+01:45:00.346{"Messages":{"59":{"Utc":"2019-09-06T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:45:38.098{"Messages":{"60":{"Utc":"2019-09-06T10:30:38","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) SPUN AND CONTINUED AT TURN 2"}}}
+01:50:28.754{"Messages":{"61":{"Utc":"2019-09-06T10:35:29","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+02:00:29.847{"Messages":{"62":{"Utc":"2019-09-06T10:45:30","Category":"Other","Message":"RISK OF RAIN FOR F2 PRACTICE SESSION IS 40%"}}}

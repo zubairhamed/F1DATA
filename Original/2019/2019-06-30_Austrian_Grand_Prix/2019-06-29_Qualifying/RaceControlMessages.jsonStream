@@ -1,0 +1,15 @@
+00:00:01.519{"Messages":[{"Utc":"2019-06-29T12:45:04","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}]}
+00:14:57.869{"Messages":{"1":{"Utc":"2019-06-29T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:32:43.319{"Messages":{"2":{"Utc":"2019-06-29T13:17:46","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) OFF TRACK AND CONTINUED AT TURN 9"}}}
+00:32:57.959{"Messages":{"3":{"Utc":"2019-06-29T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:34:19.226{"Messages":{"4":{"Utc":"2019-06-29T13:19:21","Category":"Other","Message":"TURN 9 INCIDENT INVOLVING CAR 63 (RUS) IMPEDING CAR 26 (KVY) NOTED"}}}
+00:36:57.995{"Messages":{"5":{"Utc":"2019-06-29T13:22:00","Category":"Other","Message":"TURN 9 INCIDENT INVOLVING CARS 26 (KVY) AND 63 (RUS) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:39:57.898{"Messages":{"6":{"Utc":"2019-06-29T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:40:12.881{"Messages":{"7":{"Utc":"2019-06-29T13:25:15","Category":"Other","Message":"TURN 3 INCIDENT INVOLVING CAR 44 (HAM) IMPEDING CAR 7 (RAI) NOTED"}}}
+00:42:56.958{"Messages":{"8":{"Utc":"2019-06-29T13:27:59","Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CAR 26 (KVY) IMPEDING CAR 7 (RAI) NOTED"}}}
+00:44:11.643{"Messages":{"9":{"Utc":"2019-06-29T13:29:14","Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 26 (KVY) AND 7 (RAI) - NO INVESTIGATION NECESSARY"}}}
+00:44:54.409{"Messages":{"10":{"Utc":"2019-06-29T13:29:57","Category":"Other","Message":"TURN 3 INCIDENT INVOLVING CARS 44 (HAM) AND 7 (RAI) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:54:45.230{"Messages":{"11":{"Utc":"2019-06-29T13:39:47","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 4"}}}
+00:54:57.896{"Messages":{"12":{"Utc":"2019-06-29T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:02:57.951{"Messages":{"13":{"Utc":"2019-06-29T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:57.880{"Messages":{"14":{"Utc":"2019-06-29T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

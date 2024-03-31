@@ -1,0 +1,25 @@
+00:15:00.142{"Messages":[{"Utc":"2019-09-27T12:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:34:11.535{"Messages":{"1":{"Utc":"2019-09-27T12:19:11","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:34:48.913{"Messages":{"2":{"Utc":"2019-09-27T12:19:49","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+00:35:00.145{"Messages":{"3":{"Utc":"2019-09-27T12:20:00","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:35:01.049{"Messages":{"4":{"Utc":"2019-09-27T12:20:01","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:37:46.502{"Messages":{"5":{"Utc":"2019-09-27T12:22:46","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:37:53.584{"Messages":{"6":{"Utc":"2019-09-27T12:22:53","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:40:25.011{"Messages":{"7":{"Utc":"2019-09-27T12:25:25","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:40:30.612{"Messages":{"8":{"Utc":"2019-09-27T12:25:31","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:58:30.636{"Messages":{"9":{"Utc":"2019-09-27T12:43:31","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:58:36.096{"Messages":{"10":{"Utc":"2019-09-27T12:43:36","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:38:04.637{"Messages":{"11":{"Utc":"2019-09-27T13:23:05","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+01:38:06.602{"Messages":{"12":{"Utc":"2019-09-27T13:23:07","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+01:45:00.123{"Messages":{"13":{"Utc":"2019-09-27T13:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:45:04.319{"Messages":{"14":{"Utc":"2019-09-27T13:30:04","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - 4"}}}
+01:49:18.035{"Messages":{"15":{"Utc":"2019-09-27T13:34:18","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:49:27.379{"Messages":{"16":{"Utc":"2019-09-27T13:34:27","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":18,"Message":"DOUBLE YELLOW IN TRACK SECTOR 18"}}}
+01:49:29.626{"Messages":{"17":{"Utc":"2019-09-27T13:34:30","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":5,"Message":"YELLOW IN TRACK SECTOR 5"}}}
+01:49:32.309{"Messages":{"18":{"Utc":"2019-09-27T13:34:32","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+01:49:37.691{"Messages":{"19":{"Utc":"2019-09-27T13:34:38","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":4,"Message":"YELLOW IN TRACK SECTOR 4"}}}
+01:49:39.828{"Messages":{"20":{"Utc":"2019-09-27T13:34:40","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":17,"Message":"DOUBLE YELLOW IN TRACK SECTOR 17"}}}
+01:49:41.950{"Messages":{"21":{"Utc":"2019-09-27T13:34:42","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+01:49:44.087{"Messages":{"22":{"Utc":"2019-09-27T13:34:44","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+01:49:49.250{"Messages":{"23":{"Utc":"2019-09-27T13:34:49","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":19,"Message":"DOUBLE YELLOW IN TRACK SECTOR 19"}}}
+01:59:40.344{"Messages":{"24":{"Utc":"2019-09-27T13:44:40","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 60%"}}}

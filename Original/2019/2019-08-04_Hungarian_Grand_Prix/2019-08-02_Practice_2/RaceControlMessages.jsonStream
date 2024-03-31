@@ -1,0 +1,34 @@
+00:14:58.759{"Messages":[{"Utc":"2019-08-02T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:18:40.301{"Messages":{"1":{"Utc":"2019-08-02T13:03:42","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+00:18:51.565{"Messages":{"2":{"Utc":"2019-08-02T13:03:53","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:18:51.687{"Messages":{"3":{"Utc":"2019-08-02T13:03:53","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:20:04.364{"Messages":{"4":{"Utc":"2019-08-02T13:05:06","Category":"Other","Message":"MEDICAL CAR DEPLOYED"}}}
+00:22:31.127{"Messages":{"5":{"Utc":"2019-08-02T13:07:32","Category":"Other","Message":"SESSION WILL RE-START AT 15:09"}}}
+00:22:59.088{"Messages":{"6":{"Utc":"2019-08-02T13:08:00","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:23:01.999{"Messages":{"7":{"Utc":"2019-08-02T13:08:03","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:23:05.835{"Messages":{"8":{"Utc":"2019-08-02T13:08:07","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 18"}}}
+00:23:09.525{"Messages":{"9":{"Utc":"2019-08-02T13:08:11","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+00:23:58.731{"Messages":{"10":{"Utc":"2019-08-02T13:09:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:33:19.949{"Messages":{"11":{"Utc":"2019-08-02T13:18:21","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":10,"Message":"YELLOW IN TRACK SECTOR 10"}}}
+00:33:21.216{"Messages":{"12":{"Utc":"2019-08-02T13:18:23","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:33:54.490{"Messages":{"13":{"Utc":"2019-08-02T13:18:56","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 7"}}}
+00:36:59.994{"Messages":{"14":{"Utc":"2019-08-02T13:22:01","Category":"Other","Message":"WET TRACK"}}}
+00:37:03.334{"Messages":{"15":{"Utc":"2019-08-02T13:22:05","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:44:35.417{"Messages":{"16":{"Utc":"2019-08-02T13:29:37","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 8"}}}
+00:44:36.325{"Messages":{"17":{"Utc":"2019-08-02T13:29:38","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+00:44:36.862{"Messages":{"18":{"Utc":"2019-08-02T13:29:38","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:44:39.264{"Messages":{"19":{"Utc":"2019-08-02T13:29:41","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:44:39.453{"Messages":{"20":{"Utc":"2019-08-02T13:29:41","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 8"}}}
+00:44:40.363{"Messages":{"21":{"Utc":"2019-08-02T13:29:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+00:44:42.090{"Messages":{"22":{"Utc":"2019-08-02T13:29:43","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 10"}}}
+00:44:44.855{"Messages":{"23":{"Utc":"2019-08-02T13:29:46","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":10,"Message":"CLEAR IN TRACK SECTOR 10"}}}
+00:52:39.495{"Messages":{"24":{"Utc":"2019-08-02T13:37:41","Category":"Other","Message":"NORMAL GRIP CONDITIONS"}}}
+01:10:24.239{"Messages":{"25":{"Utc":"2019-08-02T13:55:26","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+01:13:13.092{"Messages":{"26":{"Utc":"2019-08-02T13:58:14","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 18"}}}
+01:13:49.331{"Messages":{"27":{"Utc":"2019-08-02T13:58:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:24:34.880{"Messages":{"28":{"Utc":"2019-08-02T14:09:36","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+01:44:58.721{"Messages":{"29":{"Utc":"2019-08-02T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:52:47.869{"Messages":{"30":{"Utc":"2019-08-02T14:37:49","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 100%"}}}
+01:55:08.041{"Messages":{"31":{"Utc":"2019-08-02T14:37:49","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 100%"}}}
+01:58:05.795{"Messages":{"32":{"Utc":"2019-08-02T14:43:07","Category":"Other","Message":"WET TRACK"}}}
+01:58:26.141{"Messages":{"33":{"Utc":"2019-08-02T14:43:27","Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}

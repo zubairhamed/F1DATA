@@ -1,0 +1,14 @@
+00:03:21.187{"Messages":[{"Utc":"2019-06-28T08:48:21","Category":"Other","Message":"AIR TEMPERATURE 1 HOUR BEFORE P1 = 25 DEGREES"}]}
+00:03:29.518{"Messages":{"1":{"Utc":"2019-06-28T08:48:29","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 0%"}}}
+00:15:00.158{"Messages":{"2":{"Utc":"2019-06-28T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:47:57.078{"Messages":{"3":{"Utc":"2019-06-28T09:32:57","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 9"}}}
+01:24:28.029{"Messages":{"4":{"Utc":"2019-06-28T10:09:28","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:29:08.188{"Messages":{"5":{"Utc":"2019-06-28T10:14:08","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 10"}}}
+01:34:14.712{"Messages":{"6":{"Utc":"2019-06-28T10:19:15","Category":"CarEvent","RacingNumber":"33","Message":"CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 1"}}}
+01:41:29.841{"Messages":{"7":{"Utc":"2019-06-28T10:26:30","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 14"}}}
+01:41:35.613{"Messages":{"8":{"Utc":"2019-06-28T10:26:36","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:41:35.691{"Messages":{"9":{"Utc":"2019-06-28T10:26:36","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:44:40.348{"Messages":{"10":{"Utc":"2019-06-28T10:29:40","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:44:41.611{"Messages":{"11":{"Utc":"2019-06-28T10:29:42","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:45:42.045{"Messages":{"12":{"Utc":"2019-06-28T10:30:42","Category":"Other","Message":"SESSION WILL RE-START AT 12:31 FOR PRACTICE STARTS ONLY"}}}
+02:02:50.768{"Messages":{"13":{"Utc":"2019-06-28T10:47:51","Category":"Other","Message":"TEST 1"}}}

@@ -1,0 +1,12 @@
+00:00:34.412{"Messages":[{"Utc":"2019-08-03T09:45:35","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 60%"}]}
+00:10:08.210{"Messages":{"1":{"Utc":"2019-08-03T09:55:09","Category":"Other","Message":"START OF PRACTRICE 3 IS DELAYED BY 10 MINUTES DUE TO TRACK WORK AT TURN 4"}}}
+00:14:40.663{"Messages":{"2":{"Utc":"2019-08-03T09:59:41","Category":"Other","Message":"PRACTICE SESSION 3 WILL BE SHORTENED IN DURATION"}}}
+00:20:24.657{"Messages":{"3":{"Utc":"2019-08-03T10:05:25","Category":"Other","Message":"PIT EXIT WILL OPEN AT 12:10"}}}
+00:21:18.477{"Messages":{"4":{"Utc":"2019-08-03T10:06:19","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 7"}}}
+00:21:20.255{"Messages":{"5":{"Utc":"2019-08-03T10:06:21","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 8"}}}
+00:23:24.103{"Messages":{"6":{"Utc":"2019-08-03T10:08:25","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 9"}}}
+00:24:59.731{"Messages":{"7":{"Utc":"2019-08-03T10:10:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:30:58.218{"Messages":{"8":{"Utc":"2019-08-03T10:15:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:36:16.878{"Messages":{"9":{"Utc":"2019-08-03T10:21:17","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+01:14:59.493{"Messages":{"10":{"Utc":"2019-08-03T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:18:22.621{"Messages":{"11":{"Utc":"2019-08-03T11:03:23","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}

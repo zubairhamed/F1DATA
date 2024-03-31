@@ -1,0 +1,43 @@
+00:01:05.069{"Messages":[{"Utc":"2019-09-06T12:46:05","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 80%"}]}
+00:15:00.066{"Messages":{"1":{"Utc":"2019-09-06T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:20:51.110{"Messages":{"2":{"Utc":"2019-09-06T13:05:51","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) MISSED THE APEX OF TURN 2"}}}
+00:22:22.572{"Messages":{"3":{"Utc":"2019-09-06T13:07:23","Category":"CarEvent","RacingNumber":"7","Message":"CAR 7 (RAI) MISSED THE APEX OF TURN 2"}}}
+00:24:11.349{"Messages":{"4":{"Utc":"2019-09-06T13:09:11","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 2"}}}
+00:24:19.196{"Messages":{"5":{"Utc":"2019-09-06T13:09:19","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 2"}}}
+00:29:51.224{"Messages":{"6":{"Utc":"2019-09-06T13:14:51","Category":"CarEvent","RacingNumber":"11","Message":"CAR 11 (PER) MISSED THE APEX OF TURN 2"}}}
+00:36:17.616{"Messages":{"7":{"Utc":"2019-09-06T13:21:18","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 5"}}}
+00:40:54.249{"Messages":{"8":{"Utc":"2019-09-06T13:25:54","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 7"}}}
+00:41:00.941{"Messages":{"9":{"Utc":"2019-09-06T13:26:01","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+00:41:07.119{"Messages":{"10":{"Utc":"2019-09-06T13:26:07","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:41:17.649{"Messages":{"11":{"Utc":"2019-09-06T13:26:18","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:42:43.136{"Messages":{"12":{"Utc":"2019-09-06T13:27:43","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 2"}}}
+00:42:48.268{"Messages":{"13":{"Utc":"2019-09-06T13:27:48","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:42:49.969{"Messages":{"14":{"Utc":"2019-09-06T13:27:50","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 2"}}}
+00:42:52.200{"Messages":{"15":{"Utc":"2019-09-06T13:27:52","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:43:26.254{"Messages":{"16":{"Utc":"2019-09-06T13:28:26","Category":"Other","Message":"WET TRACK"}}}
+00:49:45.549{"Messages":{"17":{"Utc":"2019-09-06T13:34:46","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 12"}}}
+00:49:52.803{"Messages":{"18":{"Utc":"2019-09-06T13:34:53","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:51:15.295{"Messages":{"19":{"Utc":"2019-09-06T13:36:15","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:51:57.898{"Messages":{"20":{"Utc":"2019-09-06T13:36:58","Category":"Other","Message":"TRACK CLEANING IN PROGRESS AT TURNS 4 AND 5"}}}
+00:58:02.981{"Messages":{"21":{"Utc":"2019-09-06T13:43:03","Category":"Other","Message":"SESSION WILL RE-START AT 15:45"}}}
+00:59:01.917{"Messages":{"22":{"Utc":"2019-09-06T13:44:02","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:59:05.271{"Messages":{"23":{"Utc":"2019-09-06T13:44:05","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:00:00.042{"Messages":{"24":{"Utc":"2019-09-06T13:45:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:00:38.044{"Messages":{"25":{"Utc":"2019-09-06T13:45:38","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 2"}}}
+01:00:39.588{"Messages":{"26":{"Utc":"2019-09-06T13:45:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:01:34.156{"Messages":{"27":{"Utc":"2019-09-06T13:46:34","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":4,"Message":"DOUBLE YELLOW IN TRACK SECTOR 4"}}}
+01:01:36.762{"Messages":{"28":{"Utc":"2019-09-06T13:46:37","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":4,"Message":"CLEAR IN TRACK SECTOR 4"}}}
+01:08:36.335{"Messages":{"29":{"Utc":"2019-09-06T13:53:36","Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) MISSED THE APEX OF TURN 2"}}}
+01:09:34.679{"Messages":{"30":{"Utc":"2019-09-06T13:54:35","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+01:09:41.933{"Messages":{"31":{"Utc":"2019-09-06T13:54:42","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:09:48.500{"Messages":{"32":{"Utc":"2019-09-06T13:54:49","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+01:09:50.809{"Messages":{"33":{"Utc":"2019-09-06T13:54:51","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+01:26:56.109{"Messages":{"34":{"Utc":"2019-09-06T14:11:56","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 2"}}}
+01:30:54.537{"Messages":{"35":{"Utc":"2019-09-06T14:15:55","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) MISSED THE APEX OF TURN 2"}}}
+01:36:30.465{"Messages":{"36":{"Utc":"2019-09-06T14:21:31","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 2"}}}
+01:39:18.709{"Messages":{"37":{"Utc":"2019-09-06T14:24:19","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) MISSED THE APEX OF TURN 2"}}}
+01:40:58.891{"Messages":{"38":{"Utc":"2019-09-06T14:25:59","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) MISSED THE APEX OF TURN 2"}}}
+01:42:26.640{"Messages":{"39":{"Utc":"2019-09-06T14:27:27","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 2"}}}
+01:45:00.049{"Messages":{"40":{"Utc":"2019-09-06T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:55:01.611{"Messages":{"41":{"Utc":"2019-09-06T14:40:02","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 100%"}}}
+01:55:23.638{"Messages":{"42":{"Utc":"2019-09-06T14:40:02","Category":"Other","Message":"RISK OF RAIN FOR F2 QUALIFYING SESSION IS 100%"}}}

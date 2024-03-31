@@ -1,0 +1,16 @@
+00:14:59.082{"Messages":[{"Utc":"2019-08-31T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:46:17.772{"Messages":{"1":{"Utc":"2019-08-31T10:31:19","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+00:46:24.200{"Messages":{"2":{"Utc":"2019-08-31T10:31:25","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":13,"Message":"DOUBLE YELLOW IN TRACK SECTOR 13"}}}
+00:46:38.068{"Messages":{"3":{"Utc":"2019-08-31T10:31:39","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:46:38.115{"Messages":{"4":{"Utc":"2019-08-31T10:31:39","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:47:09.299{"Messages":{"5":{"Utc":"2019-08-31T10:32:10","Category":"Other","Message":"MEDICAL CAR DEPLOYED"}}}
+00:54:21.337{"Messages":{"6":{"Utc":"2019-08-31T10:39:22","Category":"Other","Message":"BARRIER INSPECTION IN PROGRESS"}}}
+00:59:15.674{"Messages":{"7":{"Utc":"2019-08-31T10:44:17","Category":"Other","Message":"SESSION WILL RE-START AT 12:47"}}}
+01:00:59.491{"Messages":{"8":{"Utc":"2019-08-31T10:46:00","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:01:01.738{"Messages":{"9":{"Utc":"2019-08-31T10:46:03","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:01:59.114{"Messages":{"10":{"Utc":"2019-08-31T10:47:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:59.091{"Messages":{"11":{"Utc":"2019-08-31T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:19:36.612{"Messages":{"12":{"Utc":"2019-08-31T11:04:38","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+01:19:39.296{"Messages":{"13":{"Utc":"2019-08-31T11:04:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:26:33.222{"Messages":{"14":{"Utc":"2019-08-31T11:11:34","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+01:26:38.042{"Messages":{"15":{"Utc":"2019-08-31T11:11:39","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}

@@ -1,0 +1,48 @@
+00:00:14.074{"Messages":[{"Utc":"2019-11-01T19:45:14","Category":"Other","Message":"RISK OF RAIN FOR F1 SECOND PRACTICE SESSION IS 0%"}]}
+00:15:00.164{"Messages":{"1":{"Utc":"2019-11-01T20:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:24:45.141{"Messages":{"2":{"Utc":"2019-11-01T20:09:45","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:24:50.256{"Messages":{"3":{"Utc":"2019-11-01T20:09:50","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:25:19.361{"Messages":{"4":{"Utc":"2019-11-01T20:10:19","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:25:40.135{"Messages":{"5":{"Utc":"2019-11-01T20:10:40","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:25:40.247{"Messages":{"6":{"Utc":"2019-11-01T20:10:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:26:17.110{"Messages":{"7":{"Utc":"2019-11-01T20:11:17","Category":"Other","Message":"MEDICAL CAR DEPLOYED"}}}
+00:26:50.536{"Messages":{"8":{"Utc":"2019-11-01T20:11:50","Category":"CarEvent","RacingNumber":"8","Message":"CAR 8 (GRO) STOPPED AT TURN 6"}}}
+00:32:04.947{"Messages":{"9":{"Utc":"2019-11-01T20:17:05","Category":"Other","Message":"SESSION WILL RE-START AT 15:18"}}}
+00:32:08.452{"Messages":{"10":{"Utc":"2019-11-01T20:17:08","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:32:10.666{"Messages":{"11":{"Utc":"2019-11-01T20:17:11","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:33:00.220{"Messages":{"12":{"Utc":"2019-11-01T20:18:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:39:29.242{"Messages":{"13":{"Utc":"2019-11-01T20:24:29","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 19"}}}
+00:40:07.780{"Messages":{"14":{"Utc":"2019-11-01T20:25:07","Category":"Other","Message":"CAR 20 (MAG) TIME 1:37.844 DELETED - TRACK LIMITS AT TURN 19"}}}
+00:42:05.441{"Messages":{"15":{"Utc":"2019-11-01T20:27:05","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) OFF TRACK AND CONTINUED AT TURN 19"}}}
+00:42:11.752{"Messages":{"16":{"Utc":"2019-11-01T20:27:12","Category":"Other","Message":"CAR 26 (KVY) TIME 1:38.437 DELETED - TRACK LIMITS AT TURN 19"}}}
+00:42:46.887{"Messages":{"17":{"Utc":"2019-11-01T20:27:46","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:42:49.363{"Messages":{"18":{"Utc":"2019-11-01T20:27:49","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":7,"Message":"DOUBLE YELLOW IN TRACK SECTOR 7"}}}
+00:42:51.898{"Messages":{"19":{"Utc":"2019-11-01T20:27:52","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+00:42:55.101{"Messages":{"20":{"Utc":"2019-11-01T20:27:55","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:42:58.229{"Messages":{"21":{"Utc":"2019-11-01T20:27:58","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:42:59.954{"Messages":{"22":{"Utc":"2019-11-01T20:28:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+00:43:05.757{"Messages":{"23":{"Utc":"2019-11-01T20:28:06","Category":"CarEvent","RacingNumber":"99","Message":"CAR 99 (GIO) SPUN AND CONTINUED AT TURN 6"}}}
+01:07:19.399{"Messages":{"24":{"Utc":"2019-11-01T20:52:19","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 19"}}}
+01:07:28.775{"Messages":{"25":{"Utc":"2019-11-01T20:52:29","Category":"Other","Message":"CAR 23 (ALB) TIME 1:34.234 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:11:28.778{"Messages":{"26":{"Utc":"2019-11-01T20:56:29","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 19"}}}
+01:11:34.039{"Messages":{"27":{"Utc":"2019-11-01T20:56:34","Category":"Other","Message":"CAR 4 (NOR) TIME 1:34.882 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:23:51.309{"Messages":{"28":{"Utc":"2019-11-01T21:08:51","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 19"}}}
+01:24:07.923{"Messages":{"29":{"Utc":"2019-11-01T21:09:08","Category":"Other","Message":"CAR 5 (VET) TIME 1:39.342 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:24:31.284{"Messages":{"30":{"Utc":"2019-11-01T21:09:31","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 19"}}}
+01:24:34.785{"Messages":{"31":{"Utc":"2019-11-01T21:09:35","Category":"Other","Message":"CAR 44 (HAM) TIME 1:39.756 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:26:19.617{"Messages":{"32":{"Utc":"2019-11-01T21:11:20","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 19"}}}
+01:26:26.204{"Messages":{"33":{"Utc":"2019-11-01T21:11:26","Category":"Other","Message":"CAR 44 (HAM) TIME 1:39.497 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:32:01.660{"Messages":{"34":{"Utc":"2019-11-01T21:17:02","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+01:32:10.187{"Messages":{"35":{"Utc":"2019-11-01T21:17:10","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:32:13.609{"Messages":{"36":{"Utc":"2019-11-01T21:17:14","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+01:32:18.316{"Messages":{"37":{"Utc":"2019-11-01T21:17:18","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+01:32:20.498{"Messages":{"38":{"Utc":"2019-11-01T21:17:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:32:21.388{"Messages":{"39":{"Utc":"2019-11-01T21:17:21","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:32:25.257{"Messages":{"40":{"Utc":"2019-11-01T21:17:25","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) SPUN AND CONTINUED AT TURN 15"}}}
+01:32:49.984{"Messages":{"41":{"Utc":"2019-11-01T21:17:50","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+01:32:57.265{"Messages":{"42":{"Utc":"2019-11-01T21:17:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":18,"Message":"CLEAR IN TRACK SECTOR 18"}}}
+01:33:18.762{"Messages":{"43":{"Utc":"2019-11-01T21:18:19","Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) SPUN AND CONTINUED AT TURN 17"}}}
+01:40:08.795{"Messages":{"44":{"Utc":"2019-11-01T21:25:09","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 19"}}}
+01:40:16.221{"Messages":{"45":{"Utc":"2019-11-01T21:25:16","Category":"Other","Message":"CAR 63 (RUS) TIME 1:42.278 DELETED - TRACK LIMITS AT TURN 19"}}}
+01:45:00.289{"Messages":{"46":{"Utc":"2019-11-01T21:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:45:08.814{"Messages":{"47":{"Utc":"2019-11-01T21:30:08","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - 88"}}}

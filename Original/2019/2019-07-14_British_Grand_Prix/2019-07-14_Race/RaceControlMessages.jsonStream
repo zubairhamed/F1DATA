@@ -1,0 +1,46 @@
+00:15:09.486{"Messages":[{"Utc":"2019-07-14T12:55:10","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 20%"}]}
+00:27:03.527{"Messages":{"1":{"Utc":"2019-07-14T13:07:04","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:33:08.707{"Messages":{"2":{"Utc":"2019-07-14T13:13:09","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:36:12.396{"Messages":{"3":{"Utc":"2019-07-14T13:16:12","Lap":2,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:36:57.106{"Messages":{"4":{"Utc":"2019-07-14T13:16:57","Lap":3,"Category":"Other","Message":"TURN 5 INCIDENT INVOLVING CARS 8 (GRO) AND 20 (MAG) NOTED - NO INVESTIGATION NECESSARY"}}}
+00:37:00.694{"Messages":{"5":{"Utc":"2019-07-14T13:17:01","Lap":3,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:17:00"}}}
+00:37:08.915{"Messages":{"6":{"Utc":"2019-07-14T13:17:09","Lap":3,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:17:08"}}}
+00:37:12.597{"Messages":{"7":{"Utc":"2019-07-14T13:17:13","Lap":3,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:17:12"}}}
+00:37:25.139{"Messages":{"8":{"Utc":"2019-07-14T13:17:25","Lap":3,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:17:24"}}}
+00:37:51.144{"Messages":{"9":{"Utc":"2019-07-14T13:17:51","Lap":4,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:17:51"}}}
+00:38:12.547{"Messages":{"10":{"Utc":"2019-07-14T13:18:13","Lap":4,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:18:12"}}}
+00:38:29.676{"Messages":{"11":{"Utc":"2019-07-14T13:18:30","Lap":4,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:18:29"}}}
+00:38:38.537{"Messages":{"12":{"Utc":"2019-07-14T13:18:39","Lap":4,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:18:38"}}}
+00:38:55.790{"Messages":{"13":{"Utc":"2019-07-14T13:18:56","Lap":4,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:18:55"}}}
+00:39:05.837{"Messages":{"14":{"Utc":"2019-07-14T13:19:05","Lap":4,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 14:19:05"}}}
+00:46:43.492{"Messages":{"15":{"Utc":"2019-07-14T13:26:44","Lap":9,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:26:43"}}}
+00:47:26.845{"Messages":{"16":{"Utc":"2019-07-14T13:27:27","Lap":10,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 14:27:26"}}}
+00:58:49.077{"Messages":{"17":{"Utc":"2019-07-14T13:38:49","Lap":17,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 4 (NOR) AND 23 (ALB) UNDER INVESTIGATION"}}}
+01:00:36.670{"Messages":{"18":{"Utc":"2019-07-14T13:40:36","Lap":19,"Category":"Other","Message":"PIT LANE INCIDENT INVOLVING CARS 4 (NOR) AND 23 (ALB) - NO FURTHER ACTION "}}}
+01:02:45.401{"Messages":{"19":{"Utc":"2019-07-14T13:42:45","Lap":20,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+01:03:15.353{"Messages":{"20":{"Utc":"2019-07-14T13:43:15","Lap":20,"Category":"SafetyCar","Status":"DEPLOYED","Mode":"SAFETY CAR","Message":"SAFETY CAR DEPLOYED"}}}
+01:03:57.082{"Messages":{"21":{"Utc":"2019-07-14T13:43:57","Lap":21,"Category":"CarEvent","RacingNumber":"99","Message":"CAR 99 (GIO) STOPPED AT TURN 16"}}}
+01:08:24.793{"Messages":{"22":{"Utc":"2019-07-14T13:48:25","Lap":22,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:09:24.588{"Messages":{"23":{"Utc":"2019-07-14T13:49:25","Lap":23,"Category":"SafetyCar","Status":"IN THIS LAP","Mode":"SAFETY CAR","Message":"SAFETY CAR IN THIS LAP"}}}
+01:11:05.800{"Messages":{"24":{"Utc":"2019-07-14T13:51:06","Lap":23,"Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:12:02.303{"Messages":{"25":{"Utc":"2019-07-14T13:52:02","Lap":24,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 6"}}}
+01:14:10.098{"Messages":{"26":{"Utc":"2019-07-14T13:54:10","Lap":25,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:14:12.688{"Messages":{"27":{"Utc":"2019-07-14T13:54:13","Lap":26,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:15:42.684{"Messages":{"28":{"Utc":"2019-07-14T13:55:43","Lap":27,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+01:15:55.351{"Messages":{"29":{"Utc":"2019-07-14T13:55:55","Lap":27,"Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+01:16:07.893{"Messages":{"30":{"Utc":"2019-07-14T13:56:08","Lap":27,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:17:09.014{"Messages":{"31":{"Utc":"2019-07-14T13:57:09","Lap":27,"Category":"Other","Message":"TURN 6 INCIDENT INVOLVING CARS 11 (PER) AND 27 (HUL) NOTED - NO INVESTIGATION NECESSARY"}}}
+01:32:10.021{"Messages":{"32":{"Utc":"2019-07-14T14:12:10","Lap":38,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+01:32:25.293{"Messages":{"33":{"Utc":"2019-07-14T14:12:25","Lap":38,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:32:36.509{"Messages":{"34":{"Utc":"2019-07-14T14:12:37","Lap":38,"Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 15"}}}
+01:33:28.036{"Messages":{"35":{"Utc":"2019-07-14T14:13:28","Lap":38,"Category":"Other","Message":"TURN 16 INCIDENT INVOLVING CARS 5 (VET) AND 33 (VER) UNDER INVESTIGATION - CAUSING A COLLISION"}}}
+01:34:54.663{"Messages":{"36":{"Utc":"2019-07-14T14:14:55","Lap":39,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:35:37.594{"Messages":{"37":{"Utc":"2019-07-14T14:15:38","Lap":40,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 15:15:37"}}}
+01:36:00.089{"Messages":{"38":{"Utc":"2019-07-14T14:16:00","Lap":40,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"5","Message":"WAVED BLUE FLAG FOR CAR 5 (VET) TIMED AT 15:16:00"}}}
+01:39:51.124{"Messages":{"39":{"Utc":"2019-07-14T14:19:51","Lap":43,"Category":"Other","Message":"10 SECOND TIME PENALTY FOR CAR 5 (VET) - CAUSING A COLLISION"}}}
+01:40:21.513{"Messages":{"40":{"Utc":"2019-07-14T14:20:22","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"11","Message":"WAVED BLUE FLAG FOR CAR 11 (PER) TIMED AT 15:20:21"}}}
+01:41:35.457{"Messages":{"41":{"Utc":"2019-07-14T14:21:35","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"11","Message":"WAVED BLUE FLAG FOR CAR 11 (PER) TIMED AT 15:21:35"}}}
+01:44:07.229{"Messages":{"42":{"Utc":"2019-07-14T14:24:07","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 15:24:07"}}}
+01:46:51.247{"Messages":{"43":{"Utc":"2019-07-14T14:26:51","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 15:26:51"}}}
+01:53:31.588{"Messages":{"44":{"Utc":"2019-07-14T14:33:32","Lap":52,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 15:33:31"}}}
+01:54:16.516{"Messages":{"45":{"Utc":"2019-07-14T14:34:17","Lap":52,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

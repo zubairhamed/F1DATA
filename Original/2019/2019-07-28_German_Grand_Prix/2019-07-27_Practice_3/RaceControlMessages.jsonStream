@@ -1,0 +1,13 @@
+00:00:18.980{"Messages":[{"Utc":"2019-07-27T09:45:19","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 60%"}]}
+00:15:00.083{"Messages":{"1":{"Utc":"2019-07-27T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:38:23.009{"Messages":{"2":{"Utc":"2019-07-27T10:23:23","Category":"Other","Message":"CAR 5 (VET) TIME 1:13.369 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:49:32.856{"Messages":{"3":{"Utc":"2019-07-27T10:34:33","Category":"Other","Message":"CAR 7 (RAI) TIME 1:13.890 DELETED - TRACK LIMITS AT TURN 17"}}}
+00:52:24.724{"Messages":{"4":{"Utc":"2019-07-27T10:37:25","Category":"Other","Message":"CAR 26 (KVY) TIME 1:14.279 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:54:38.219{"Messages":{"5":{"Utc":"2019-07-27T10:39:38","Category":"Other","Message":"CAR 23 (ALB) TIME 1:14.194 DELETED - TRACK LIMITS AT TURN 17"}}}
+00:58:45.422{"Messages":{"6":{"Utc":"2019-07-27T10:43:45","Category":"Other","Message":"CAR 26 (KVY) TIME 1:14.162 DELETED - TRACK LIMITS AT TURN 1"}}}
+01:03:15.640{"Messages":{"7":{"Utc":"2019-07-27T10:48:16","Category":"Other","Message":"CAR 5 (VET) TIME 1:12.703 DELETED - TRACK LIMITS AT TURN 17"}}}
+01:05:30.754{"Messages":{"8":{"Utc":"2019-07-27T10:50:31","Category":"Other","Message":"CAR 44 (HAM) TIME 1:12.793 DELETED - TRACK LIMITS AT TURN 17"}}}
+01:11:42.175{"Messages":{"9":{"Utc":"2019-07-27T10:56:42","Category":"Other","Message":"CAR 7 (RAI) TIME 1:13.680 DELETED - TRACK LIMITS AT TURN 17"}}}
+01:13:24.665{"Messages":{"10":{"Utc":"2019-07-27T10:58:25","Category":"Other","Message":"CAR 55 (SAI) TIME 1:13.833 DELETED - TRACK LIMITS AT TURN 17"}}}
+01:14:59.450{"Messages":{"11":{"Utc":"2019-07-27T10:59:59","Category":"Other","Message":"CAR 7 (RAI) TIME 1:13.668 DELETED - TRACK LIMITS AT TURN 17"}}}
+01:15:00.086{"Messages":{"12":{"Utc":"2019-07-27T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

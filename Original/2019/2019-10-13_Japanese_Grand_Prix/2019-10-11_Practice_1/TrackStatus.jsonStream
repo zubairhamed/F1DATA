@@ -1,0 +1,4 @@
+00:00:00.000{"Status":"1","Message":"AllClear"}
+00:15:50.894{"Status":"6","Message":"VSCDeployed"}
+00:21:01.041{"Status":"7","Message":"VSCEnding"}
+00:21:13.826{"Status":"1","Message":"AllClear"}

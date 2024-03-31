@@ -1,0 +1,17 @@
+00:00:08.446{"Messages":[{"Utc":"2019-09-21T09:45:09","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}]}
+00:01:12.312{"Messages":{"1":{"Utc":"2019-09-21T09:46:13","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:14:59.954{"Messages":{"2":{"Utc":"2019-09-21T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:43:05.396{"Messages":{"3":{"Utc":"2019-09-21T10:28:06","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+00:43:52.073{"Messages":{"4":{"Utc":"2019-09-21T10:28:52","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+00:44:27.492{"Messages":{"5":{"Utc":"2019-09-21T10:29:28","Category":"Other","Message":"DEBRIS AT EXIT OF TURN 21"}}}
+00:46:24.009{"Messages":{"6":{"Utc":"2019-09-21T10:31:24","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:46:24.107{"Messages":{"7":{"Utc":"2019-09-21T10:31:24","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:51:01.413{"Messages":{"8":{"Utc":"2019-09-21T10:36:02","Category":"Other","Message":"SESSION WILL RE-START AT 18:38"}}}
+00:51:59.812{"Messages":{"9":{"Utc":"2019-09-21T10:37:00","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:52:01.811{"Messages":{"10":{"Utc":"2019-09-21T10:37:02","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:52:59.991{"Messages":{"11":{"Utc":"2019-09-21T10:38:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:02:42.185{"Messages":{"12":{"Utc":"2019-09-21T10:47:42","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) SPUN AND CONTINUED AT TURN 3"}}}
+01:13:33.041{"Messages":{"13":{"Utc":"2019-09-21T10:58:33","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":8,"Message":"DOUBLE YELLOW IN TRACK SECTOR 8"}}}
+01:13:40.146{"Messages":{"14":{"Utc":"2019-09-21T10:58:40","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":8,"Message":"CLEAR IN TRACK SECTOR 8"}}}
+01:13:49.716{"Messages":{"15":{"Utc":"2019-09-21T10:58:50","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 9"}}}
+01:15:00.434{"Messages":{"16":{"Utc":"2019-09-21T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

@@ -1,0 +1,27 @@
+00:10:55.771{"Messages":[{"Utc":"2019-08-31T12:55:56","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:15:00.111{"Messages":{"1":{"Utc":"2019-08-31T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:20:01.547{"Messages":{"2":{"Utc":"2019-08-31T13:05:02","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:21:10.030{"Messages":{"3":{"Utc":"2019-08-31T13:06:10","Category":"CarEvent","RacingNumber":"88","Message":"CAR 88 (KUB) STOPPED AT TURN 18"}}}
+00:27:01.495{"Messages":{"4":{"Utc":"2019-08-31T13:12:01","Category":"Other","Message":"SESSION WILL RE-START AT 15:15"}}}
+00:28:59.789{"Messages":{"5":{"Utc":"2019-08-31T13:14:00","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:29:02.362{"Messages":{"6":{"Utc":"2019-08-31T13:14:02","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:30:00.129{"Messages":{"7":{"Utc":"2019-08-31T13:15:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:42:09.686{"Messages":{"8":{"Utc":"2019-08-31T13:27:10","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+00:42:18.984{"Messages":{"9":{"Utc":"2019-08-31T13:27:19","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:42:19.062{"Messages":{"10":{"Utc":"2019-08-31T13:27:19","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+00:42:44.240{"Messages":{"11":{"Utc":"2019-08-31T13:27:44","Category":"Other","Message":"SESSION WILL NOT BE RESTARTED"}}}
+00:48:04.676{"Messages":{"12":{"Utc":"2019-08-31T13:33:05","Category":"Other","Message":"START OF Q2 WILL BE DELAYED"}}}
+00:49:42.394{"Messages":{"13":{"Utc":"2019-08-31T13:34:42","Category":"Other","Message":"Q2 WILL START AT 15:37"}}}
+00:50:59.441{"Messages":{"14":{"Utc":"2019-08-31T13:35:59","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:51:01.189{"Messages":{"15":{"Utc":"2019-08-31T13:36:01","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:52:00.140{"Messages":{"16":{"Utc":"2019-08-31T13:37:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:07:00.110{"Messages":{"17":{"Utc":"2019-08-31T13:52:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:08:37.906{"Messages":{"18":{"Utc":"2019-08-31T13:53:38","Category":"Other","Message":"Q3 WILL START AT 16:00"}}}
+01:15:00.148{"Messages":{"19":{"Utc":"2019-08-31T14:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:27:00.096{"Messages":{"20":{"Utc":"2019-08-31T14:12:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:29:28.092{"Messages":{"21":{"Utc":"2019-08-31T14:14:28","Category":"Other","Message":"START OF F2 RACE DELAYED BY 15 MINUTES"}}}
+01:30:42.082{"Messages":{"22":{"Utc":"2019-08-31T14:15:42","Category":"Other","Message":"F2: PIT LANE OPEN - 16:45, PIT LANE CLOSED - 16:50, FORMATION LAP - 17:00"}}}
+01:31:49.598{"Messages":{"23":{"Utc":"2019-08-31T14:16:50","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+01:37:14.839{"Messages":{"24":{"Utc":"2019-08-31T14:14:28","Category":"Other","Message":"START OF F2 RACE DELAYED BY 15 MINUTES"}}}
+01:37:14.839{"Messages":{"25":{"Utc":"2019-08-31T14:15:42","Category":"Other","Message":"F2: PIT LANE OPEN - 16:45, PIT LANE CLOSED - 16:50, FORMATION LAP - 17:00"}}}
+01:44:52.850{"Messages":{"26":{"Utc":"2019-08-31T14:29:53","Category":"Other","Message":"RISK OF RAIN FOR F2 FIRST RACE IS 0%"}}}

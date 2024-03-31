@@ -1,0 +1,13 @@
+00:11:13.925{"Status":"1","Message":"AllClear"}
+00:34:11.520{"Status":"6","Message":"VSCDeployed"}
+00:34:48.897{"Status":"7","Message":"VSCEnding"}
+00:35:00.254{"Status":"1","Message":"AllClear"}
+00:37:46.502{"Status":"2","Message":"Yellow"}
+00:37:53.553{"Status":"1","Message":"AllClear"}
+00:40:24.933{"Status":"2","Message":"Yellow"}
+00:40:30.596{"Status":"1","Message":"AllClear"}
+00:58:30.605{"Status":"2","Message":"Yellow"}
+00:58:36.096{"Status":"1","Message":"AllClear"}
+01:38:04.621{"Status":"2","Message":"Yellow"}
+01:38:06.587{"Status":"1","Message":"AllClear"}
+01:49:17.848{"Status":"2","Message":"Yellow"}

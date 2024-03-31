@@ -1,0 +1,7 @@
+00:15:00.297{"Messages":[{"Utc":"2019-07-13T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:24:52.674{"Messages":{"1":{"Utc":"2019-07-13T10:09:52","Category":"Other","Message":"WET TRACK"}}}
+00:25:03.875{"Messages":{"2":{"Utc":"2019-07-13T10:10:04","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 13"}}}
+00:25:20.271{"Messages":{"3":{"Utc":"2019-07-13T10:10:20","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+00:26:10.097{"Messages":{"4":{"Utc":"2019-07-13T10:11:10","Category":"Other","Message":"LOW GRIP CONDITIONS"}}}
+00:46:26.409{"Messages":{"5":{"Utc":"2019-07-13T10:31:26","Category":"Other","Message":"NORMAL GRIP CONDITIONS"}}}
+01:15:00.376{"Messages":{"6":{"Utc":"2019-07-13T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

@@ -1,0 +1,26 @@
+00:04:59.522{"Messages":[{"Utc":"2019-07-26T08:50:01","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:14:58.592{"Messages":{"1":{"Utc":"2019-07-26T09:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:33:12.897{"Messages":{"2":{"Utc":"2019-07-26T09:18:14","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+00:33:24.628{"Messages":{"3":{"Utc":"2019-07-26T09:18:26","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+00:33:24.784{"Messages":{"4":{"Utc":"2019-07-26T09:18:26","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+00:35:09.709{"Messages":{"5":{"Utc":"2019-07-26T09:20:11","Category":"CarEvent","RacingNumber":"20","Message":"CAR 20 (MAG) STOPPED AT TURN 13"}}}
+00:38:28.843{"Messages":{"6":{"Utc":"2019-07-26T09:23:30","Category":"Other","Message":"SESSION WILL RE-START AT 11:26"}}}
+00:39:02.305{"Messages":{"7":{"Utc":"2019-07-26T09:24:04","Category":"Other","Message":"P140 TYRES MAY BE USED UNTIL 11:48"}}}
+00:39:58.777{"Messages":{"8":{"Utc":"2019-07-26T09:25:00","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+00:40:01.491{"Messages":{"9":{"Utc":"2019-07-26T09:25:03","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:40:58.618{"Messages":{"10":{"Utc":"2019-07-26T09:26:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:43:17.225{"Messages":{"11":{"Utc":"2019-07-26T10:28:19","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+01:43:17.849{"Messages":{"12":{"Utc":"2019-07-26T10:28:19","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":12,"Message":"YELLOW IN TRACK SECTOR 12"}}}
+01:43:32.388{"Messages":{"13":{"Utc":"2019-07-26T10:28:34","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+01:43:37.630{"Messages":{"14":{"Utc":"2019-07-26T10:28:39","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}
+01:43:37.833{"Messages":{"15":{"Utc":"2019-07-26T10:28:39","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+01:43:47.536{"Messages":{"16":{"Utc":"2019-07-26T10:28:49","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":13,"Message":"YELLOW IN TRACK SECTOR 13"}}}
+01:43:50.157{"Messages":{"17":{"Utc":"2019-07-26T10:28:52","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":12,"Message":"CLEAR IN TRACK SECTOR 12"}}}
+01:43:54.525{"Messages":{"18":{"Utc":"2019-07-26T10:28:56","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 13"}}}
+01:44:00.437{"Messages":{"19":{"Utc":"2019-07-26T10:29:02","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":13,"Message":"CLEAR IN TRACK SECTOR 13"}}}
+01:44:12.012{"Messages":{"20":{"Utc":"2019-07-26T10:29:13","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":3,"Message":"CLEAR IN TRACK SECTOR 3"}}}
+01:44:57.829{"Messages":{"21":{"Utc":"2019-07-26T10:29:59","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) SPUN AND CONTINUED AT TURN 1"}}}
+01:44:58.625{"Messages":{"22":{"Utc":"2019-07-26T10:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:51:31.026{"Messages":{"23":{"Utc":"2019-07-26T10:36:32","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:51:34.864{"Messages":{"24":{"Utc":"2019-07-26T10:36:36","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:51:37.344{"Messages":{"25":{"Utc":"2019-07-26T10:36:39","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}

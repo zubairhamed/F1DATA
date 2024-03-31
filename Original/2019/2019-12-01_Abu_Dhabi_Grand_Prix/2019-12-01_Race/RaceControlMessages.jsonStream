@@ -1,0 +1,82 @@
+00:13:28.094{"Messages":[{"Utc":"2019-12-01T12:53:28","Lap":1,"Category":"Other","Message":"RISK OF RAIN FOR F1 RACE IS 0%"}]}
+00:27:44.653{"Messages":{"1":{"Utc":"2019-12-01T13:07:45","Lap":1,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:33:31.426{"Messages":{"2":{"Utc":"2019-12-01T13:13:31","Lap":1,"Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:33:44.927{"Messages":{"3":{"Utc":"2019-12-01T13:13:45","Lap":1,"Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":2,"Message":"YELLOW IN TRACK SECTOR 2"}}}
+00:34:51.079{"Messages":{"4":{"Utc":"2019-12-01T13:14:51","Lap":1,"Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":2,"Message":"CLEAR IN TRACK SECTOR 2"}}}
+00:35:53.680{"Messages":{"5":{"Utc":"2019-12-01T13:15:54","Lap":2,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 10 (GAS), 11 (PER) AND 18 (STR) NOTED"}}}
+00:36:56.463{"Messages":{"6":{"Utc":"2019-12-01T13:16:57","Lap":2,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+00:37:24.699{"Messages":{"7":{"Utc":"2019-12-01T13:17:25","Lap":3,"Category":"Other","Message":"TURN 1 INCIDENT INVOLVING CARS 10 (GAS), 11 (PER) AND 18 (STR) - NO INVESTIGATION NECESSARY"}}}
+00:38:08.108{"Messages":{"8":{"Utc":"2019-12-01T13:18:08","Lap":3,"Category":"Drs","Status":"DISABLED","Message":"DRS DISABLED"}}}
+00:38:43.237{"Messages":{"9":{"Utc":"2019-12-01T13:18:43","Lap":4,"Category":"Other","Message":"DRS CURRENTLY DISABLED DUE TO A TECHNICAL ISSUE"}}}
+00:41:07.700{"Messages":{"10":{"Utc":"2019-12-01T13:21:08","Lap":5,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 17:21:07"}}}
+00:42:23.553{"Messages":{"11":{"Utc":"2019-12-01T13:22:24","Lap":6,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 17:22:23"}}}
+00:43:22.753{"Messages":{"12":{"Utc":"2019-12-01T13:23:23","Lap":6,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 17:23:22"}}}
+00:43:32.690{"Messages":{"13":{"Utc":"2019-12-01T13:23:33","Lap":6,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 17:23:32"}}}
+00:44:53.091{"Messages":{"14":{"Utc":"2019-12-01T13:24:53","Lap":7,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 17:24:53"}}}
+00:56:08.085{"Messages":{"15":{"Utc":"2019-12-01T13:36:08","Lap":14,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 17:36:08"}}}
+00:59:12.403{"Messages":{"16":{"Utc":"2019-12-01T13:39:12","Lap":15,"Category":"Other","Message":"TURN 6 INCIDENT INVOLVING CARS 3 (RIC) AND 55 (SAI) NOTED - NO INVESTIGATION NECESSARY"}}}
+01:03:26.098{"Messages":{"17":{"Utc":"2019-12-01T13:43:26","Lap":18,"Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:09:05.571{"Messages":{"18":{"Utc":"2019-12-01T13:49:06","Lap":21,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 17:49:05"}}}
+01:11:38.072{"Messages":{"19":{"Utc":"2019-12-01T13:51:38","Lap":23,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 17:51:38"}}}
+01:12:04.884{"Messages":{"20":{"Utc":"2019-12-01T13:52:05","Lap":23,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 17:52:04"}}}
+01:12:20.812{"Messages":{"21":{"Utc":"2019-12-01T13:52:21","Lap":23,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 17:52:20"}}}
+01:12:49.881{"Messages":{"22":{"Utc":"2019-12-01T13:52:50","Lap":23,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 17:52:49"}}}
+01:13:06.048{"Messages":{"23":{"Utc":"2019-12-01T13:53:06","Lap":24,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 17:53:05"}}}
+01:13:46.875{"Messages":{"24":{"Utc":"2019-12-01T13:53:47","Lap":24,"Category":"Other","Message":"TURN 11 INCIDENT INVOLVING CARS 88 (KUB) AND 99 (GIO) NOTED"}}}
+01:14:03.092{"Messages":{"25":{"Utc":"2019-12-01T13:54:03","Lap":24,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 17:54:02"}}}
+01:15:06.173{"Messages":{"26":{"Utc":"2019-12-01T13:55:06","Lap":25,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 17:55:06"}}}
+01:15:22.553{"Messages":{"27":{"Utc":"2019-12-01T13:55:23","Lap":25,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 17:55:22"}}}
+01:16:27.191{"Messages":{"28":{"Utc":"2019-12-01T13:56:27","Lap":26,"Category":"Other","Message":"SMALL DEBRIS AT TURNS 11, 12 AND 14"}}}
+01:17:37.263{"Messages":{"29":{"Utc":"2019-12-01T13:57:37","Lap":26,"Category":"Other","Message":"TURN 11 INCIDENT INVOLVING CARS 88 (KUB) AND 99 (GIO) UNDER INVESTIGATION"}}}
+01:18:36.703{"Messages":{"30":{"Utc":"2019-12-01T13:58:37","Lap":27,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 17:58:36"}}}
+01:19:39.085{"Messages":{"31":{"Utc":"2019-12-01T13:59:39","Lap":27,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 17:59:38"}}}
+01:20:00.652{"Messages":{"32":{"Utc":"2019-12-01T14:00:01","Lap":27,"Category":"Other","Message":"TURN 11 INCIDENT INVOLVING CARS 88 (KUB) AND 99 (GIO) - NO FURTHER ACTION"}}}
+01:20:36.323{"Messages":{"33":{"Utc":"2019-12-01T14:00:36","Lap":28,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 18:00:36"}}}
+01:21:50.058{"Messages":{"34":{"Utc":"2019-12-01T14:01:50","Lap":28,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 18:01:50"}}}
+01:24:24.878{"Messages":{"35":{"Utc":"2019-12-01T14:04:25","Lap":30,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 18:04:24"}}}
+01:26:34.648{"Messages":{"36":{"Utc":"2019-12-01T14:06:35","Lap":31,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 18:06:34"}}}
+01:27:27.786{"Messages":{"37":{"Utc":"2019-12-01T14:07:28","Lap":32,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 18:07:27"}}}
+01:30:35.052{"Messages":{"38":{"Utc":"2019-12-01T14:10:35","Lap":34,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 18:10:34"}}}
+01:31:15.602{"Messages":{"39":{"Utc":"2019-12-01T14:11:16","Lap":34,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 18:11:15"}}}
+01:31:24.758{"Messages":{"40":{"Utc":"2019-12-01T14:11:25","Lap":34,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 18:11:24"}}}
+01:32:41.627{"Messages":{"41":{"Utc":"2019-12-01T14:12:42","Lap":35,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 18:12:41"}}}
+01:35:31.122{"Messages":{"42":{"Utc":"2019-12-01T14:15:31","Lap":37,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 18:15:31"}}}
+01:37:21.305{"Messages":{"43":{"Utc":"2019-12-01T14:17:21","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 18:17:21"}}}
+01:37:59.372{"Messages":{"44":{"Utc":"2019-12-01T14:17:59","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 18:17:59"}}}
+01:38:18.152{"Messages":{"45":{"Utc":"2019-12-01T14:18:18","Lap":38,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 18:18:18"}}}
+01:40:11.414{"Messages":{"46":{"Utc":"2019-12-01T14:20:11","Lap":39,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 18:20:11"}}}
+01:41:59.078{"Messages":{"47":{"Utc":"2019-12-01T14:21:59","Lap":40,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 18:21:58"}}}
+01:42:22.756{"Messages":{"48":{"Utc":"2019-12-01T14:22:23","Lap":41,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 18:22:22"}}}
+01:43:31.828{"Messages":{"49":{"Utc":"2019-12-01T14:23:32","Lap":41,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 18:23:31"}}}
+01:43:52.810{"Messages":{"50":{"Utc":"2019-12-01T14:23:53","Lap":41,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"3","Message":"WAVED BLUE FLAG FOR CAR 3 (RIC) TIMED AT 18:23:52"}}}
+01:44:38.091{"Messages":{"51":{"Utc":"2019-12-01T14:24:38","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 18:24:38"}}}
+01:44:44.357{"Messages":{"52":{"Utc":"2019-12-01T14:24:44","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 18:24:44"}}}
+01:45:35.102{"Messages":{"53":{"Utc":"2019-12-01T14:25:35","Lap":42,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"11","Message":"WAVED BLUE FLAG FOR CAR 11 (PER) TIMED AT 18:25:35"}}}
+01:45:45.368{"Messages":{"54":{"Utc":"2019-12-01T14:25:45","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 18:25:45"}}}
+01:45:56.092{"Messages":{"55":{"Utc":"2019-12-01T14:25:56","Lap":43,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"63","Message":"WAVED BLUE FLAG FOR CAR 63 (RUS) TIMED AT 18:25:56"}}}
+01:47:44.091{"Messages":{"56":{"Utc":"2019-12-01T14:27:44","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"27","Message":"WAVED BLUE FLAG FOR CAR 27 (HUL) TIMED AT 18:27:43"}}}
+01:47:53.581{"Messages":{"57":{"Utc":"2019-12-01T14:27:54","Lap":44,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 18:27:53"}}}
+01:49:09.838{"Messages":{"58":{"Utc":"2019-12-01T14:29:10","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"4","Message":"WAVED BLUE FLAG FOR CAR 4 (NOR) TIMED AT 18:29:09"}}}
+01:49:53.603{"Messages":{"59":{"Utc":"2019-12-01T14:29:54","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 18:29:53"}}}
+01:50:07.215{"Messages":{"60":{"Utc":"2019-12-01T14:30:07","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"7","Message":"WAVED BLUE FLAG FOR CAR 7 (RAI) TIMED AT 18:30:07"}}}
+01:50:31.356{"Messages":{"61":{"Utc":"2019-12-01T14:30:31","Lap":45,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"18","Message":"WAVED BLUE FLAG FOR CAR 18 (STR) TIMED AT 18:30:31"}}}
+01:51:47.133{"Messages":{"62":{"Utc":"2019-12-01T14:31:47","Lap":46,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 18:31:47"}}}
+01:53:04.095{"Messages":{"63":{"Utc":"2019-12-01T14:33:04","Lap":47,"Category":"CarEvent","RacingNumber":"18","Message":"CAR 18 (STR) MISSED THE APEX OF TURN 9"}}}
+01:53:45.206{"Messages":{"64":{"Utc":"2019-12-01T14:33:45","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 18:33:45"}}}
+01:54:01.890{"Messages":{"65":{"Utc":"2019-12-01T14:34:02","Lap":47,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 18:34:01"}}}
+01:56:03.214{"Messages":{"66":{"Utc":"2019-12-01T14:36:03","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 18:36:03"}}}
+01:56:24.091{"Messages":{"67":{"Utc":"2019-12-01T14:36:24","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"99","Message":"WAVED BLUE FLAG FOR CAR 99 (GIO) TIMED AT 18:36:24"}}}
+01:56:32.288{"Messages":{"68":{"Utc":"2019-12-01T14:36:32","Lap":49,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"27","Message":"WAVED BLUE FLAG FOR CAR 27 (HUL) TIMED AT 18:36:32"}}}
+01:57:40.283{"Messages":{"69":{"Utc":"2019-12-01T14:37:40","Lap":50,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"10","Message":"WAVED BLUE FLAG FOR CAR 10 (GAS) TIMED AT 18:37:40"}}}
+01:57:47.374{"Messages":{"70":{"Utc":"2019-12-01T14:37:47","Lap":50,"Category":"CarEvent","RacingNumber":"26","Message":"CAR 26 (KVY) MISSED THE APEX OF TURN 18"}}}
+01:57:57.543{"Messages":{"71":{"Utc":"2019-12-01T14:37:58","Lap":50,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"26","Message":"WAVED BLUE FLAG FOR CAR 26 (KVY) TIMED AT 18:37:57"}}}
+01:59:20.854{"Messages":{"72":{"Utc":"2019-12-01T14:39:21","Lap":51,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 18:39:20"}}}
+02:01:21.580{"Messages":{"73":{"Utc":"2019-12-01T14:41:22","Lap":52,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"20","Message":"WAVED BLUE FLAG FOR CAR 20 (MAG) TIMED AT 18:41:21"}}}
+02:02:20.768{"Messages":{"74":{"Utc":"2019-12-01T14:42:21","Lap":52,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"11","Message":"WAVED BLUE FLAG FOR CAR 11 (PER) TIMED AT 18:42:20"}}}
+02:02:51.454{"Messages":{"75":{"Utc":"2019-12-01T14:42:51","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"8","Message":"WAVED BLUE FLAG FOR CAR 8 (GRO) TIMED AT 18:42:51"}}}
+02:03:28.996{"Messages":{"76":{"Utc":"2019-12-01T14:43:29","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"11","Message":"WAVED BLUE FLAG FOR CAR 11 (PER) TIMED AT 18:43:29"}}}
+02:03:32.148{"Messages":{"77":{"Utc":"2019-12-01T14:43:32","Lap":53,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"4","Message":"WAVED BLUE FLAG FOR CAR 4 (NOR) TIMED AT 18:43:32"}}}
+02:04:48.472{"Messages":{"78":{"Utc":"2019-12-01T14:44:49","Lap":54,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 18:44:48"}}}
+02:07:16.464{"Messages":{"79":{"Utc":"2019-12-01T14:47:17","Lap":55,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 18:47:16"}}}
+02:07:37.248{"Messages":{"80":{"Utc":"2019-12-01T14:47:37","Lap":55,"Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+02:07:54.604{"Messages":{"81":{"Utc":"2019-12-01T14:47:55","Lap":55,"Category":"Flag","Flag":"BLUE","Scope":"Driver","RacingNumber":"88","Message":"WAVED BLUE FLAG FOR CAR 88 (KUB) TIMED AT 18:47:54"}}}

@@ -1,0 +1,14 @@
+00:00:03.154{"Messages":[{"Utc":"2019-11-02T20:45:04","Category":"Other","Message":"RISK OF RAIN FOR F1 QUALIFYING SESSION IS 0%"}]}
+00:14:59.371{"Messages":{"1":{"Utc":"2019-11-02T21:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:32:59.347{"Messages":{"2":{"Utc":"2019-11-02T21:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:33:03.782{"Messages":{"3":{"Utc":"2019-11-02T21:18:05","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - 27"}}}
+00:39:59.262{"Messages":{"4":{"Utc":"2019-11-02T21:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:54:59.389{"Messages":{"5":{"Utc":"2019-11-02T21:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:55:04.119{"Messages":{"6":{"Utc":"2019-11-02T21:40:05","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - 20"}}}
+00:56:10.565{"Messages":{"7":{"Utc":"2019-11-02T21:41:11","Category":"Other","Message":"CAR 26 (KVY) TIME 1:33.785 DELETED - TRACK LIMITS AT TURN 19"}}}
+00:58:49.826{"Messages":{"8":{"Utc":"2019-11-02T21:43:51","Category":"Other","Message":"TURN 19 INCIDENT INVOLVING CARS 26 (KVY), 33 (VER) AND 44 (HAM) NOTED"}}}
+01:00:37.745{"Messages":{"9":{"Utc":"2019-11-02T21:45:39","Category":"Other","Message":"TURN 19 INCIDENT INVOLVING CARS 26 (KVY), 33 (VER) AND 44 (HAM) - NO INVESTIGATION NECESSARY"}}}
+01:02:59.303{"Messages":{"10":{"Utc":"2019-11-02T21:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:14:59.317{"Messages":{"11":{"Utc":"2019-11-02T22:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:15:11.893{"Messages":{"12":{"Utc":"2019-11-02T22:00:13","Category":"Other","Message":"FIRST CAR TO TAKE THE FLAG - 4"}}}
+01:15:51.015{"Messages":{"13":{"Utc":"2019-11-02T22:00:51","Category":"Other","Message":"CAR 23 (ALB) TIME 1:32.782 DELETED - TRACK LIMITS AT TURN 19"}}}

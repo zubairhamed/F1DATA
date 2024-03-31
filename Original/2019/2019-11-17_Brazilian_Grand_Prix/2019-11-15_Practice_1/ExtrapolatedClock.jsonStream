@@ -1,0 +1,6 @@
+00:00:04.068{"Utc":"2019-11-15T13:42:45.35Z","Remaining":"01:30:00","Extrapolating":false}
+00:17:20.017{"Utc":"2019-11-15T14:00:01.299Z","Remaining":"01:29:59","Extrapolating":true}
+00:37:10.943{"Utc":"2019-11-15T14:19:52.225Z","Remaining":"01:10:09","Extrapolating":false}
+00:37:10.971{"Utc":"2019-11-15T14:19:52.253Z","Remaining":"01:10:08"}
+00:37:11.857{"Utc":"2019-11-15T14:19:53.139Z","Remaining":"01:10:07","Extrapolating":true}
+01:47:19.097{"Utc":"2019-11-15T15:30:00.379Z","Remaining":"00:00:00","Extrapolating":false}

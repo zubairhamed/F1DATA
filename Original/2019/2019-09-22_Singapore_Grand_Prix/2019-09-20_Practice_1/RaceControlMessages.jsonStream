@@ -1,0 +1,24 @@
+00:00:14.269{"Messages":[{"Utc":"2019-09-20T08:15:14","Category":"Other","Message":"RISK OF RAIN FOR F1 FIRST PRACTICE SESSION IS 20%"}]}
+00:05:58.901{"Messages":{"1":{"Utc":"2019-09-20T08:20:59","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}}}
+00:15:00.419{"Messages":{"2":{"Utc":"2019-09-20T08:30:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:18:20.261{"Messages":{"3":{"Utc":"2019-09-20T09:33:20","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":16,"Message":"DOUBLE YELLOW IN TRACK SECTOR 16"}}}
+01:18:22.523{"Messages":{"4":{"Utc":"2019-09-20T09:33:22","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":16,"Message":"YELLOW IN TRACK SECTOR 16"}}}
+01:18:29.652{"Messages":{"5":{"Utc":"2019-09-20T09:33:29","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:18:29.699{"Messages":{"6":{"Utc":"2019-09-20T09:33:29","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":16,"Message":"CLEAR IN TRACK SECTOR 16"}}}
+01:20:59.083{"Messages":{"7":{"Utc":"2019-09-20T09:35:59","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) STOPPED AT TURN 19"}}}
+01:26:33.731{"Messages":{"8":{"Utc":"2019-09-20T09:41:34","Category":"Other","Message":"SESSION WILL RE-START AT 17:43"}}}
+01:27:00.750{"Messages":{"9":{"Utc":"2019-09-20T09:42:01","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:27:02.497{"Messages":{"10":{"Utc":"2019-09-20T09:42:02","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:28:00.295{"Messages":{"11":{"Utc":"2019-09-20T09:43:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:31:38.303{"Messages":{"12":{"Utc":"2019-09-20T09:46:38","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+01:31:56.757{"Messages":{"13":{"Utc":"2019-09-20T09:46:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":6,"Message":"CLEAR IN TRACK SECTOR 6"}}}
+01:32:04.495{"Messages":{"14":{"Utc":"2019-09-20T09:47:04","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 7"}}}
+01:45:00.384{"Messages":{"15":{"Utc":"2019-09-20T10:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:50:54.735{"Messages":{"16":{"Utc":"2019-09-20T10:05:54","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":6,"Message":"YELLOW IN TRACK SECTOR 6"}}}
+01:51:50.738{"Messages":{"17":{"Utc":"2019-09-20T10:06:51","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+01:52:00.644{"Messages":{"18":{"Utc":"2019-09-20T10:07:00","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":6,"Message":"DOUBLE YELLOW IN TRACK SECTOR 6"}}}
+01:52:22.359{"Messages":{"19":{"Utc":"2019-09-20T10:07:22","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+01:53:04.167{"Messages":{"20":{"Utc":"2019-09-20T10:08:04","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":12,"Message":"DOUBLE YELLOW IN TRACK SECTOR 12"}}}
+01:53:12.778{"Messages":{"21":{"Utc":"2019-09-20T10:08:13","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":11,"Message":"DOUBLE YELLOW IN TRACK SECTOR 11"}}}
+01:53:19.642{"Messages":{"22":{"Utc":"2019-09-20T10:08:19","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":18,"Message":"YELLOW IN TRACK SECTOR 18"}}}
+01:53:59.936{"Messages":{"23":{"Utc":"2019-09-20T10:09:00","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":3,"Message":"YELLOW IN TRACK SECTOR 3"}}}

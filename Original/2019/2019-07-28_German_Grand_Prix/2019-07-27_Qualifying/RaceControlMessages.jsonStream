@@ -1,0 +1,13 @@
+00:15:00.096{"Messages":[{"Utc":"2019-07-27T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}]}
+00:21:52.329{"Messages":{"1":{"Utc":"2019-07-27T13:06:52","Category":"Other","Message":"CAR 88 (KUB) TIME 1:15.478 DELETED - TRACK LIMITS AT TURN 17"}}}
+00:25:44.711{"Messages":{"2":{"Utc":"2019-07-27T13:10:45","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":9,"Message":"YELLOW IN TRACK SECTOR 9"}}}
+00:25:48.955{"Messages":{"3":{"Utc":"2019-07-27T13:10:49","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":9,"Message":"CLEAR IN TRACK SECTOR 9"}}}
+00:26:49.800{"Messages":{"4":{"Utc":"2019-07-27T13:11:50","Category":"Other","Message":"CAR 99 (GIO) TIME 1:15.835 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:33:00.242{"Messages":{"5":{"Utc":"2019-07-27T13:18:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+00:37:01.278{"Messages":{"6":{"Utc":"2019-07-27T13:22:01","Category":"Other","Message":"ALLEGED UNSAFE RELEASE INVOLVING CARS 26 (KVY) AND 8 (GRO) WILL BE INVESTIGATED AFTER THE SESSION"}}}
+00:40:00.104{"Messages":{"7":{"Utc":"2019-07-27T13:25:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:44:38.510{"Messages":{"8":{"Utc":"2019-07-27T13:29:38","Category":"Other","Message":"CAR 16 (LEC) TIME 1:25.553 DELETED - TRACK LIMITS AT TURN 1"}}}
+00:55:00.294{"Messages":{"9":{"Utc":"2019-07-27T13:40:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:03:00.143{"Messages":{"10":{"Utc":"2019-07-27T13:48:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:15:00.095{"Messages":{"11":{"Utc":"2019-07-27T14:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:16:15.214{"Messages":{"12":{"Utc":"2019-07-27T14:01:15","Category":"Other","Message":"CAR 10 (GAS) TIME 1:12.180 DELETED - TRACK LIMITS AT TURN 17"}}}

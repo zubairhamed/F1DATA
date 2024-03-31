@@ -1,0 +1,21 @@
+00:00:05.392{"Messages":[{"Utc":"2019-07-12T12:45:05","Category":"Other","Message":"RISK OF RAIN FOR THIS SESSION IS 20%"}]}
+00:15:00.299{"Messages":{"1":{"Utc":"2019-07-12T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:25:47.229{"Messages":{"2":{"Utc":"2019-07-12T13:10:47","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:26:00.598{"Messages":{"3":{"Utc":"2019-07-12T13:11:00","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+00:26:16.526{"Messages":{"4":{"Utc":"2019-07-12T13:11:16","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 6"}}}
+00:33:06.056{"Messages":{"5":{"Utc":"2019-07-12T13:18:06","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+00:33:14.448{"Messages":{"6":{"Utc":"2019-07-12T13:18:14","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+00:33:24.120{"Messages":{"7":{"Utc":"2019-07-12T13:18:24","Category":"CarEvent","RacingNumber":"88","Message":"CAR 88 (KUB) SPUN AND CONTINUED AT TURN 18"}}}
+00:50:36.806{"Messages":{"8":{"Utc":"2019-07-12T13:35:37","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 12"}}}
+00:59:51.977{"Messages":{"9":{"Utc":"2019-07-12T13:44:52","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+00:59:57.047{"Messages":{"10":{"Utc":"2019-07-12T13:44:57","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:28:23.742{"Messages":{"11":{"Utc":"2019-07-12T14:13:24","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":11,"Message":"YELLOW IN TRACK SECTOR 11"}}}
+01:29:09.809{"Messages":{"12":{"Utc":"2019-07-12T14:14:10","Category":"SafetyCar","Status":"DEPLOYED","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR DEPLOYED"}}}
+01:29:40.369{"Messages":{"13":{"Utc":"2019-07-12T14:14:40","Category":"CarEvent","RacingNumber":"3","Message":"CAR 3 (RIC) STOPPED AT TURN 14"}}}
+01:32:02.641{"Messages":{"14":{"Utc":"2019-07-12T14:17:02","Category":"SafetyCar","Status":"ENDING","Mode":"VIRTUAL SAFETY CAR","Message":"VIRTUAL SAFETY CAR ENDING"}}}
+01:32:13.264{"Messages":{"15":{"Utc":"2019-07-12T14:17:13","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:32:13.295{"Messages":{"16":{"Utc":"2019-07-12T14:17:13","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":11,"Message":"CLEAR IN TRACK SECTOR 11"}}}
+01:32:14.419{"Messages":{"17":{"Utc":"2019-07-12T14:17:14","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:42:04.612{"Messages":{"18":{"Utc":"2019-07-12T14:27:04","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":7,"Message":"YELLOW IN TRACK SECTOR 7"}}}
+01:42:11.163{"Messages":{"19":{"Utc":"2019-07-12T14:27:11","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":7,"Message":"CLEAR IN TRACK SECTOR 7"}}}
+01:45:00.361{"Messages":{"20":{"Utc":"2019-07-12T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}

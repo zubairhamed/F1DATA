@@ -1,0 +1,38 @@
+00:00:03.624{"Messages":[{"Utc":"2019-09-07T09:45:03","Category":"Other","Message":"RISK OF RAIN FOR F1 THIRD PRACTICE SESSION IS 0%"}]}
+00:10:31.580{"Messages":{"1":{"Utc":"2019-09-07T09:55:31","Category":"Other","Message":"SESSION WILL START AT 12:00 BUT PIT EXIT WILL REMAIN CLOSED"}}}
+00:15:00.288{"Messages":{"2":{"Utc":"2019-09-07T10:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:16:28.037{"Messages":{"3":{"Utc":"2019-09-07T10:01:28","Category":"Other","Message":"A 5 MINUTE WARNING WILL BE GIVEN BEFORE PIT EXIT IS OPENED"}}}
+00:19:14.768{"Messages":{"4":{"Utc":"2019-09-07T10:04:15","Category":"Other","Message":"ESTIMATED PIT EXIT OPEN TIME AT 12:10"}}}
+00:20:51.487{"Messages":{"5":{"Utc":"2019-09-07T10:05:51","Category":"Other","Message":"PIT EXIT WILL OPEN AT 12:10"}}}
+00:20:57.321{"Messages":{"6":{"Utc":"2019-09-07T10:05:57","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":17,"Message":"YELLOW IN TRACK SECTOR 17"}}}
+00:20:59.724{"Messages":{"7":{"Utc":"2019-09-07T10:05:59","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:21:01.299{"Messages":{"8":{"Utc":"2019-09-07T10:06:01","Category":"Flag","Flag":"DOUBLE YELLOW","Scope":"Sector","Sector":17,"Message":"DOUBLE YELLOW IN TRACK SECTOR 17"}}}
+00:21:04.029{"Messages":{"9":{"Utc":"2019-09-07T10:06:04","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:21:05.402{"Messages":{"10":{"Utc":"2019-09-07T10:06:05","Category":"Other","Message":"TRACK SURFACE SLIPPERY IN TRACK SECTOR 17"}}}
+00:21:08.709{"Messages":{"11":{"Utc":"2019-09-07T10:06:08","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":17,"Message":"CLEAR IN TRACK SECTOR 17"}}}
+00:25:07.075{"Messages":{"12":{"Utc":"2019-09-07T10:10:07","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+00:41:05.686{"Messages":{"13":{"Utc":"2019-09-07T10:26:05","Category":"Other","Message":"CAR 8 (GRO) TIME 1:22.479 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:41:23.922{"Messages":{"14":{"Utc":"2019-09-07T10:26:24","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 5"}}}
+00:42:02.984{"Messages":{"15":{"Utc":"2019-09-07T10:27:03","Category":"Other","Message":"CAR 8 (GRO) TIME 1:53.980 DELETED - TRACK LIMITS AT TURN 10"}}}
+00:43:09.798{"Messages":{"16":{"Utc":"2019-09-07T10:28:10","Category":"CarEvent","RacingNumber":"16","Message":"CAR 16 (LEC) MISSED THE APEX OF TURN 5"}}}
+00:44:13.727{"Messages":{"17":{"Utc":"2019-09-07T10:29:14","Category":"Other","Message":"CAR 20 (MAG) TIME 2:02.026 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:44:28.890{"Messages":{"18":{"Utc":"2019-09-07T10:29:29","Category":"Other","Message":"CAR 20 (MAG) TIME 1:22.676 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:46:46.308{"Messages":{"19":{"Utc":"2019-09-07T10:31:46","Category":"Other","Message":"CAR 23 (ALB) TIME 1:48.062 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:47:00.005{"Messages":{"20":{"Utc":"2019-09-07T10:32:00","Category":"CarEvent","RacingNumber":"5","Message":"CAR 5 (VET) MISSED THE APEX OF TURN 5"}}}
+00:47:34.824{"Messages":{"21":{"Utc":"2019-09-07T10:32:35","Category":"Other","Message":"CAR 23 (ALB) TIME 1:20.979 DELETED - TRACK LIMITS AT TURN 11"}}}
+00:50:36.297{"Messages":{"22":{"Utc":"2019-09-07T10:35:36","Category":"CarEvent","RacingNumber":"77","Message":"CAR 77 (BOT) MISSED THE APEX OF TURN 5"}}}
+00:52:56.150{"Messages":{"23":{"Utc":"2019-09-07T10:37:56","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 2"}}}
+01:04:32.122{"Messages":{"24":{"Utc":"2019-09-07T10:49:32","Category":"Other","Message":"CAR 16 (LEC) TIME 1:20.465 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:06:16.781{"Messages":{"25":{"Utc":"2019-09-07T10:51:16","Category":"Other","Message":"CAR 16 (LEC) TIME 2:11.989 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:06:54.439{"Messages":{"26":{"Utc":"2019-09-07T10:51:54","Category":"CarEvent","RacingNumber":"88","Message":"CAR 88 (KUB) MISSED THE APEX OF TURN 5"}}}
+01:07:16.606{"Messages":{"27":{"Utc":"2019-09-07T10:52:16","Category":"CarEvent","RacingNumber":"23","Message":"CAR 23 (ALB) MISSED THE APEX OF TURN 2"}}}
+01:08:13.733{"Messages":{"28":{"Utc":"2019-09-07T10:53:14","Category":"Other","Message":"CAR 18 (STR) TIME 1:21.554 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:09:45.367{"Messages":{"29":{"Utc":"2019-09-07T10:54:45","Category":"Other","Message":"CAR 18 (STR) TIME 1:54.678 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:09:56.255{"Messages":{"30":{"Utc":"2019-09-07T10:54:56","Category":"CarEvent","RacingNumber":"4","Message":"CAR 4 (NOR) MISSED THE APEX OF TURN 2"}}}
+01:11:20.979{"Messages":{"31":{"Utc":"2019-09-07T10:56:21","Category":"CarEvent","RacingNumber":"44","Message":"CAR 44 (HAM) MISSED THE APEX OF TURN 2"}}}
+01:11:55.126{"Messages":{"32":{"Utc":"2019-09-07T10:56:55","Category":"CarEvent","RacingNumber":"63","Message":"CAR 63 (RUS) MISSED THE APEX OF TURN 2"}}}
+01:12:04.159{"Messages":{"33":{"Utc":"2019-09-07T10:57:04","Category":"CarEvent","RacingNumber":"88","Message":"CAR 88 (KUB) MISSED THE APEX OF TURN 2"}}}
+01:13:15.699{"Messages":{"34":{"Utc":"2019-09-07T10:58:15","Category":"CarEvent","RacingNumber":"10","Message":"CAR 10 (GAS) MISSED THE APEX OF TURN 2"}}}
+01:14:30.516{"Messages":{"35":{"Utc":"2019-09-07T10:59:30","Category":"Other","Message":"CAR 26 (KVY) TIME 1:21.358 DELETED - TRACK LIMITS AT TURN 11"}}}
+01:15:00.312{"Messages":{"36":{"Utc":"2019-09-07T11:00:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+01:16:50.868{"Messages":{"37":{"Utc":"2019-09-07T11:01:51","Category":"CarEvent","RacingNumber":"88","Message":"CAR 88 (KUB) MISSED THE APEX OF TURN 5"}}}

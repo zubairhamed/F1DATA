@@ -1,0 +1,14 @@
+00:03:27.766{"Messages":[{"Utc":"2019-07-26T12:48:28","Category":"Other","Message":"BLUE HEAD PADDING MATERIAL MUST BE USED"}]}
+00:15:00.279{"Messages":{"1":{"Utc":"2019-07-26T13:00:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:28:06.892{"Messages":{"2":{"Utc":"2019-07-26T14:13:07","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":15,"Message":"YELLOW IN TRACK SECTOR 15"}}}
+01:28:08.733{"Messages":{"3":{"Utc":"2019-07-26T14:13:09","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
+01:28:12.430{"Messages":{"4":{"Utc":"2019-07-26T14:13:12","Category":"Flag","Flag":"RED","Scope":"Track","Message":"RED FLAG"}}}
+01:28:12.523{"Messages":{"5":{"Utc":"2019-07-26T14:13:12","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":14,"Message":"CLEAR IN TRACK SECTOR 14"}}}
+01:28:12.523{"Messages":{"6":{"Utc":"2019-07-26T14:13:12","Category":"Flag","Flag":"CLEAR","Scope":"Sector","Sector":15,"Message":"CLEAR IN TRACK SECTOR 15"}}}
+01:28:46.999{"Messages":{"7":{"Utc":"2019-07-26T14:13:47","Category":"Other","Message":"MEDICAL CAR DEPLOYED"}}}
+01:34:24.629{"Messages":{"8":{"Utc":"2019-07-26T14:19:24","Category":"Other","Message":"SESSION WILL RE-START AT 16:21"}}}
+01:35:01.087{"Messages":{"9":{"Utc":"2019-07-26T14:20:01","Category":"Flag","Flag":"CLEAR","Scope":"Track","Message":"TRACK CLEAR"}}}
+01:35:03.458{"Messages":{"10":{"Utc":"2019-07-26T14:20:03","Category":"Drs","Status":"ENABLED","Message":"DRS ENABLED"}}}
+01:36:00.273{"Messages":{"11":{"Utc":"2019-07-26T14:21:00","Category":"Flag","Flag":"GREEN","Scope":"Track","Message":"GREEN LIGHT - PIT EXIT OPEN"}}}
+01:45:00.281{"Messages":{"12":{"Utc":"2019-07-26T14:30:00","Category":"Flag","Flag":"CHEQUERED","Scope":"Track","Message":"CHEQUERED FLAG"}}}
+02:07:14.513{"Messages":{"13":{"Utc":"2019-07-26T14:52:14","Category":"Flag","Flag":"YELLOW","Scope":"Sector","Sector":14,"Message":"YELLOW IN TRACK SECTOR 14"}}}
